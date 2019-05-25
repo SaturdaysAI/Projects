@@ -1,5 +1,5 @@
-__Projects built during AI Saturdays Madrid__
-_Edición Enero a Mayo 2019_
+# Projects built during AI Saturdays Madrid
+__Edición Enero a Mayo 2019__
 
 ***Early Alzheimer Detection***
 
