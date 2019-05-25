@@ -1,7 +1,7 @@
 # Projects built during AI Saturdays Madrid
 __Edición Enero a Mayo 2019__
 
-***Early Alzheimer Detection***
+***Early Alzheimer Detection*** @apolmig
 
 Proyecto del ambito medico enfocado a la deteccion temprana del Alzheimer mediante analisis del habla usando redes neuronales. Los datos usados para la creacion del modelo fueron cedidos por el Dementia Bank y la precision del modelo quedo un punto percentual por debajo del estado del arte.
 
