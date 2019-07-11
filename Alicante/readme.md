@@ -21,6 +21,8 @@ https://github.com/jmbolarin/AI-Saturdays
 
 + ***Evolución de la compra-venta de vivienda***
 
+The prediction target is the Unit Sale given its features such as area, nacionality, year sale in and so on. The model is evaluated on the root mean square error between your predictions and the truth value.
+
 https://github.com/tmgrupoinmobiliario/sales-prediction-ml
 
 + ***Sentimientos twitter***
