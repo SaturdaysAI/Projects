@@ -27,13 +27,8 @@ https://github.com/tmgrupoinmobiliario/sales-prediction-ml
 
 + ***Sentimientos twitter***
 
-https://github.com/DanielOrtegaConesa/Tweetments/blob/master/TwitterAnalisisDeSentimientosNLP.ipynb
+https://github.com/DanielOrtegaConesa/Tweetments
 
-+ ***City Generator***
-
-La creacion de barrios en distintas ciudades, como toda tarea de diseño, supone un proceso largo, tedioso y en algunos casos de extremada complejidad. Para evitar este proceso, o la mayor parte de su carga, este proyecto presenta una GAN que genera distintos barrios en funcion de la funcionalidad que se busque, ya sea un barrio dormitorio, una zona comercial o un barrio en los suburbios.
-
-https://github.com/illpack/dcgan_cities
 
 + ***Redes Wifi Cyberattack Defense***
 
