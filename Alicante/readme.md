@@ -11,7 +11,7 @@ Presentation: https://drive.google.com/file/d/1PHlI4RZFnnj08TaW9eAaOIOIFCduBCT8/
 
 + ***Modelo predictivo de ingreso hospitalario a través de urgencias mediante técnicas de ML***
 
-Code: 
+Code: https://github.com/Dviejopomata/saturdays-hospital
 
 Presentation: https://drive.google.com/file/d/1R9r3j5EEmomsme9E78Tre4Fze2IeyjjV/view?usp=sharing
 
