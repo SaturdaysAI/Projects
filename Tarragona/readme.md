@@ -1,6 +1,6 @@
 # Projects built during AI Saturdays Tarragona July 2018
 
-1) ***"Sat4Survive"***: Saving lifes from space using deep learning.
+1) ***"Sat4Survive"***: Saving lives from space using deep learning.
 
 https://github.com/apolmig/sat4survive
 
