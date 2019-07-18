@@ -2,10 +2,27 @@
 Projects built during Saturdays sessions
 
 - [Barcelona](https://github.com/SaturdaysAI/Projects/tree/master/Barcelona)  
-- [Madrid](tree/master/Madrid/readme.md)
-- [Guayaquil](tree/master/Guayaquil/readme.md)
-- [Quito](tree/master/Quito/readme.md)
-- [Monterrey](tree/master/Monterrey/readme.md)
-- [Alicante](tree/master/Alicante/readme.md)
-- [Sevilla](tree/master/Sevilla/readme.md)
-- [Tarragona](tree/master/Tarragona/readme.md)
+- [Madrid](https://github.com/SaturdaysAI/Projects/tree/master/Madrid)
+- [Guayaquil](https://github.com/SaturdaysAI/Projects/tree/master/Guayaquil)
+- [Quito](https://github.com/SaturdaysAI/Projects/tree/master/Quito)
+- [Monterrey](https://github.com/SaturdaysAI/Projects/tree/master/Monterrey)
+- [Alicante](https://github.com/SaturdaysAI/Projects/tree/master/Alicante)
+- [Sevilla](https://github.com/SaturdaysAI/Projects/tree/master/Sevilla)
+- [Tarragona](https://github.com/SaturdaysAI/Projects/tree/master/Tarragona)
+
+### Coming soon
+
+- Valencia
+- Hermosillo
+- Guadalajara
+- Santiago de Chile
+- Costa Rica
+- Lima
+- Bogota
+- Medellin
+- Cali
+- La Paz
+- Palma de Mallorca
+- Malaga
+- Murcia
+- Zaragoza
