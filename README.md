@@ -1,7 +1,7 @@
 # Projects
 Projects built during Saturdays sessions
 
-- Barcelona
+- Barcelona<barcelona/readme.md>
 - Madrid
 - Guayaquil
 - Quito
