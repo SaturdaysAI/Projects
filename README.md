@@ -1,7 +1,7 @@
 # Projects
 Projects built during Saturdays sessions
 
-- [Barcelona](tree/master/Barcelona/readme.md)
+- [Barcelona](tree/master/Barcelona/) 
 - [Madrid](tree/master/Madrid/readme.md)
 - [Guayaquil](tree/master/Guayaquil/readme.md)
 - [Quito](tree/master/Quito/readme.md)
