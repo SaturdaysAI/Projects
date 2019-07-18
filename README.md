@@ -1,11 +1,11 @@
 # Projects
 Projects built during Saturdays sessions
 
-- [Barcelona](barcelona/readme.md)
-- [Madrid](madrid/readme.md)
-- [Guayaquil](guayaquil/readme.md)
-- [Quito](quito/readme.md)
-- [Monterrey](monterrey/readme.md)
-- [Alicante](alicante/readme.md)
-- [Sevilla](sevilla/readme.md)
-- [Tarragona](tarragona/readme.md)
+- [Barcelona](tree/master/Barcelona/readme.md)
+- [Madrid](tree/master/Madrid/readme.md)
+- [Guayaquil](tree/master/Guayaquil/readme.md)
+- [Quito](tree/master/Quito/readme.md)
+- [Monterrey](tree/master/Monterrey/readme.md)
+- [Alicante](tree/master/Alicante/readme.md)
+- [Sevilla](tree/master/Sevilla/readme.md)
+- [Tarragona](tree/master/Tarragona/readme.md)
