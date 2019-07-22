@@ -1,5 +1,5 @@
 # Projects
-Projects built during Saturdays sessions
+Projects built during Saturdays sessions (already graduated):
 
 - [Barcelona](https://github.com/SaturdaysAI/Projects/tree/master/Barcelona)  
 - [Madrid](https://github.com/SaturdaysAI/Projects/tree/master/Madrid)
