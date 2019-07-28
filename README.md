@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/SaturdaysAI/Projects/master)
+
 # Projects
 Projects built during Saturdays sessions (already graduated):
 
