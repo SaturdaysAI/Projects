@@ -8,7 +8,7 @@
 2) ***"Detecting Lung Nodules"***: Implementing a customized CNN to detect lung nodules for cancer early-diagnose.
 
 - [Code](https://github.com/razielar/CNN-for-detecting-Lung-Nodules)
-- [Presentation](https://docs.google.com/presentation/d/1PyZdkp5nBcxu0K9o9v24XIytZblV8eiiR4H2DZdpe-s/edit?usp=sharing)
+- [Presentation]()
 
 3) ***"Car Crash Detector"***: Detecting car crashes accidents by implementing a CNN (ResNet-34) trained using Youtube videos.
 
