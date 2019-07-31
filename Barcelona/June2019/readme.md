@@ -1,7 +1,7 @@
 ### Projects built during AI Saturdays Barcelona Class of June 2019
 ---
 
-1) Autonomous Swarm Indoor Drone Ecosystem:
+1) Autonomous Swarm Indoor Drone Ecosystem (ASIDE):
 - [Presentation](https://drive.google.com/file/d/1WPWUK3d1jTyrC2XQoaOu_WQG-r9oiiXi/view)
 2) ML 4 Astronomy:
 - [Presentation](https://docs.google.com/presentation/d/1sNPm62t975S9ZGqxsNBQHHn1leYuKv8EoEQVP21dX4A/edit#slide=id.p)
