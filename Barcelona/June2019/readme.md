@@ -14,5 +14,6 @@
 - [Presentation](https://drive.google.com/open?id=1KsFhk2wszUQtxLdeKnA1tvWc3YWwKvw2d9jJz4gBK4g)
 6) NLP, Comment Toxicity:
 - [Presentation](https://drive.google.com/open?id=1WRdjnz2YO4Y_aFhxz-xWBkSqe08zgqMXVegdwDuDSGY)
+- [Webapp Telegram bot](https://qrgo.page.link/jCdMh)
 7) Machine learning for dialysis prediction in critical (ICU) patients:
 - [Presentation](https://drive.google.com/open?id=15v_kqSae7l7QLa0K4ghYKBfhVaC7pizMtlE4aP2Ilek)
