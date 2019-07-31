@@ -2,4 +2,4 @@
 
 ### 1) Class of January 2019
 
-### 2) Class of July 2019
+### 2) Class of August 2019
