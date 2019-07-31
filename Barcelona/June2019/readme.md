@@ -1,5 +1,4 @@
-## Projects built during AI Saturdays Barcelona
-### Class of June 2019
+### Projects built during AI Saturdays Barcelona Class of June 2019
 ---
 
 - Drones:
