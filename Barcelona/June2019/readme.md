@@ -2,7 +2,7 @@
 ---
 
 1) Autonomous Swarm Indoor Drone Ecosystem:
-- (Presentation](https://drive.google.com/file/d/1WPWUK3d1jTyrC2XQoaOu_WQG-r9oiiXi/view)
+- [Presentation](https://drive.google.com/file/d/1WPWUK3d1jTyrC2XQoaOu_WQG-r9oiiXi/view)
 2) ML 4 Astronomy:
 - [Presentation](https://docs.google.com/presentation/d/1sNPm62t975S9ZGqxsNBQHHn1leYuKv8EoEQVP21dX4A/edit#slide=id.p)
 3) My Kaggle:
