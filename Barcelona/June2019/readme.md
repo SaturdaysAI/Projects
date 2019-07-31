@@ -7,6 +7,7 @@
 - [Presentation](https://docs.google.com/presentation/d/1sNPm62t975S9ZGqxsNBQHHn1leYuKv8EoEQVP21dX4A/edit#slide=id.p)
 3) My Kaggle:
 - [Presentation](https://docs.google.com/presentation/d/1SKMz6z8rMYPLgJxMiXxtwu4v7i7OxM83U8VOwI2F5_8/edit#slide=id.p)
+- [Article](https://medium.com/saturdays-ai/kaggle-careercon-2019-competition-report-121-of-1449-top-9-21a1b7901af7)
 4) Style transfer for real life Comics:
 - [Presentation](ttps://drive.google.com/open?id=1tJSJfHGSVuuWTwg2CGMuaaMhkYwahERrN2ucy8iGOj8)
 5) Asset Price Prediction, Stocks:
