@@ -1,7 +1,9 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/SaturdaysAI/Projects/master)
 
 # Projects
-Projects built during Saturdays sessions (already graduated):
+** Projects built during Saturdays sessions (already graduated*):
+
+* to graduate as an #aifellow in AI Saturdays, during the _build2learn_ phase you have to build an AI project from scratch with focus on social impact and open-source it.
 
 - [Barcelona](https://github.com/SaturdaysAI/Projects/tree/master/Barcelona)  
 - [Madrid](https://github.com/SaturdaysAI/Projects/tree/master/Madrid)
@@ -12,6 +14,7 @@ Projects built during Saturdays sessions (already graduated):
 - [Sevilla](https://github.com/SaturdaysAI/Projects/tree/master/Sevilla)
 - [Tarragona](https://github.com/SaturdaysAI/Projects/tree/master/Tarragona)
 
+---
 ### Coming soon
 
 - Valencia
@@ -28,3 +31,4 @@ Projects built during Saturdays sessions (already graduated):
 - Malaga
 - Murcia
 - Zaragoza
+- Cuenca, EC
