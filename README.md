@@ -1,7 +1,7 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/SaturdaysAI/Projects/master)
 
 # Projects
-** Projects built during Saturdays sessions (already graduated*):
+### Projects built during Saturdays sessions (already graduated):
 
 * to graduate as an #aifellow in AI Saturdays, during the _build2learn_ phase you have to build an AI project from scratch with focus on social impact and open-source it.
 
