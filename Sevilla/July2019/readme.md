@@ -5,6 +5,6 @@
 - [Presentation](https://github.com/SaturdaysAI/Projects/tree/master/Sevilla/July2019/Cancer.Bot.pdf)
 - [Repository](https://github.com/MrManlu/Cancer.Bot)
 
-2) DesenredandoConsumoElectrico:
+2) DesenredandoConsumoElectrico: EnergyDissagregation:
 - [Presentation](https://github.com/SaturdaysAI/Projects/tree/master/Sevilla/July2019/DesenredandoConsumoElectrico.pdf)
 - [Repository](https://github.com/joaqrus/EnergyDissagregation)
