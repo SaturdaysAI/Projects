@@ -24,9 +24,9 @@
 - [Presentation](https://github.com/SaturdaysAI/Projects/tree/master/Guadalajara/readme.md)
 - [Repository](https://github.com/ricnef2121/ceneval)
 
-6) CENEVAL approval prediction:
+6) Finding missing people using Facial recognition:
 - [Presentation](https://github.com/SaturdaysAI/Projects/tree/master/Guadalajara/readme.md)
-- [Repository](https://github.com/ricnef2121/ceneval)
+- [Repository](https://github.com/Neli-Torres/EQUIPO-6-SECURITY.git)
 
 7) WageForescasterMx:
 - [Presentation](https://github.com/SaturdaysAI/Projects/tree/master/Guadalajara/readme.md)
