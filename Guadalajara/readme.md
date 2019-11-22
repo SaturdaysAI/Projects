@@ -1,6 +1,6 @@
 # Projects built during AI Saturdays Guadalajara
 
-### [Class of Decembre 2019](https://github.com/SaturdaysAI/Projects/tree/master/Guadalajara/readme.md)
+### [Class of December 2019](https://github.com/SaturdaysAI/Projects/tree/master/Guadalajara/readme.md)
 
 ---
 
