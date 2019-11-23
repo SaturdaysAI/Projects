@@ -1,12 +1,12 @@
 # Projects built during AI Saturdays Guadalajara
 
-### [Class of December 2019](https://github.com/SaturdaysAI/Projects/tree/master/Guadalajara/readme.md)
+### [Class of November 2019](https://github.com/SaturdaysAI/Projects/tree/master/Guadalajara/readme.md)
 
 ---
 
 1) Routes optimization using road congestion forescasting:
 - [Presentation](https://github.com/SaturdaysAI/Projects/tree/master/Guadalajara/readme.md)
-- [Repository](https://github.com/SaturdaysAI/Projects/tree/master/Guadalajara/readme.md)
+- [Repository](https://bitbucket.org/PattPatt/saturdaysai_projectteam1/src/master/)
 
 2) Scholar dropout detection:
 - [Presentation](https://github.com/SaturdaysAI/Projects/tree/master/Guadalajara/readme.md)
@@ -22,7 +22,7 @@
 
 5) Melanoma Detector:
 - [Presentation](https://github.com/SaturdaysAI/Projects/tree/master/Guadalajara/readme.md)
-- [Repository](https://github.com/ricnef2121/ceneval)
+- [Repository](https://github.com/gustavosantoscoy/saturdays.ai)
 
 6) Finding missing people using Facial recognition:
 - [Presentation](https://github.com/SaturdaysAI/Projects/tree/master/Guadalajara/readme.md)
@@ -34,5 +34,5 @@
 
 8) Avocadroid:
 - [Presentation](https://github.com/SaturdaysAI/Projects/tree/master/Guadalajara/readme.md)
-- [Repository](https://github.com/E7SATAI/wageForcasterMx)
+- [Repository](https://github.com/ineszetter/AvocadoCNN)
 ....
