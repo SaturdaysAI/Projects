@@ -5,7 +5,7 @@
 ---
 
 1) Routes optimization using road congestion forescasting:
-- [Presentation](https://github.com/SaturdaysAI/Projects/tree/master/Guadalajara/readme.md)
+- [Presentation]()
 - [Repository](https://bitbucket.org/PattPatt/saturdaysai_projectteam1/src/master/)
 
 2) Scholar dropout detection:
