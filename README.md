@@ -14,6 +14,7 @@ _to graduate as an #aifellow in AI Saturdays, during the _build2learn_ phase you
 - [Sevilla](https://github.com/SaturdaysAI/Projects/tree/master/Sevilla/readme.md)
 - [Tarragona](https://github.com/SaturdaysAI/Projects/tree/master/Tarragona/readme.md)
 - [Costa Rica](https://github.com/SaturdaysAI/Projects/tree/master/CostaRica/readme.md)
+- [Santiago de Chile](https://github.com/SaturdaysAI/Projects/tree/master/readme.md)
 
 ---
 ### Coming soon
@@ -23,7 +24,6 @@ _to graduate as an #aifellow in AI Saturdays, during the _build2learn_ phase you
 - Tucson
 - Dubai
 - Washington DC
-- Santiago de Chile
 - Lima
 - La Paz
 - Asturias
