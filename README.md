@@ -15,12 +15,12 @@ _to graduate as an #aifellow in AI Saturdays, during the _build2learn_ phase you
 - [Tarragona](https://github.com/SaturdaysAI/Projects/tree/master/Tarragona/readme.md)
 - [Costa Rica](https://github.com/SaturdaysAI/Projects/tree/master/CostaRica/readme.md)
 - [Santiago de Chile](https://github.com/SaturdaysAI/Projects/tree/master/readme.md)
+- [Hermosillo](https://github.com/SaturdaysAI/Projects/tree/master/Hermosillo/readme.md)
 
 ---
 ### Coming soon
 
 - Valencia
-- Hermosillo
 - Tucson
 - Dubai
 - Washington DC
