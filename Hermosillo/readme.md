@@ -16,11 +16,11 @@
 
 ### 3) Predicción de Faltas Administrativas en Hermosillo, Sonora, México:
 - [Presentation](https://docs.google.com/presentation/d/1aV75KTzXdoiSaP1zWosEhdFrZx27V8R7I7qiyrqYPgE/edit?usp=sharing)
-- [Repository](https://github.com/SaturdaysAI/Projects/tree/master/Hermosillo/readme.md)
+- [Repository](https://github.com/SaturdaysAI-HMO/ProyectosHMO/tree/master/Faltas%20Administrativas%20Hermosillo)
 - Autores: S. Noriega, A. Galaviz, A. Zamora, D. Ramirez, J. Rodriguez, A. Gámez, et al.
 
 ### 4) Predicción de Siniestros del Departamento de Bomberos de Hermosillo, México
-- [Repository](https://github.com/SaturdaysAI-HMO/ProyectosHMO/blob/master/Servicio%20de%20Bomberos%20Hermosillo/HMO%20Servicios%20Bomberos%20Paper.ipynb)
+- [Repository](https://github.com/SaturdaysAI-HMO/ProyectosHMO/tree/master/Servicio%20de%20Bomberos%20Hermosillo)
 - Autores: A. Galaviz, A. Zamora, D. Ramirez, J. Rodriguez, et al.
 
 ### 5) Clasificador de Tipo de Mezcla de Trigo Para Harinas y Análisis de Comercialización
