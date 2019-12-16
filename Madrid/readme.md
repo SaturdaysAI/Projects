@@ -1,6 +1,7 @@
-# Projects built during AI Saturdays Madrid
+## Projects built during AI Saturdays Madrid 2ª Edición Septiembre a Diciembre 2019
+***COMING SOON***
 
-__Edición Enero a Mayo 2019__
+## Projects built during AI Saturdays Madrid 1ª Edición Enero a Mayo 2019
 
 + ***Early Alzheimer Detection***
 
