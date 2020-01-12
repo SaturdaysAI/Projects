@@ -1,5 +1,4 @@
 # Projects built during AI Saturdays Santiago de Chile
-***COMING SOON***
 
 ### [Class of August 2019](https://github.com/SaturdaysAI/Projects/tree/master/Santiago/readme.md)
 
