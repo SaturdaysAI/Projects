@@ -5,27 +5,20 @@
 
 ---
 
-### 1) lorem ipsum:
-- [Presentation]()
-- [Repository]()
-- Autor: lorem ipsum
+### 1) Reciclaje "Eco app"
+- [Presentation](https://www.youtube.com/watch?v=UrTck_e1VxI&list=PL65VgcstbKZ3-kUf3xj2a5K8Fzp0yAC7u&index=8&t=0s)
+- [Repository](https://github.com/mirelys/project-saturdays_AI)
+- Autor: Chicas AI
 
-### 2) lorem ipsum
-- [Presentation]()
-- [Repository]()
-- Autor: lorem ipsum
+### 2) SIID, Sistema Inteligente de Información para Desastres
+- [Presentation](https://www.youtube.com/watch?v=PiRSrYDfE1I&list=PL65VgcstbKZ3-kUf3xj2a5K8Fzp0yAC7u&index=3&t=0s)
+- [Repository](https://github.com/soriaster/SID)
+- Autor: Team 7
 
 ### 3) lorem ipsum
 - [Presentation]()
 - [Repository]()
 - Autores: lorem ipsum
 
-### 4) lorem ipsum
-- [Repository]()
-- Autores: lorem ipsum
 
-### 5) lorem ipsum
-- [Presentation]()
-- Autores: lorem ipsum
 
-### ETC
