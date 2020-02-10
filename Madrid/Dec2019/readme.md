@@ -3,6 +3,7 @@
 Proyectos 2ª edición Saturdays.AI Madrid
 
 Presentaciones de los proyectos https://www.youtube.com/watch?v=LhTe1A9PjtY&t=9319s
+
 Artículo Medium proyectos 2ª edición https://medium.com/saturdays-ai/be-prepared-for-the-future-code-in-ai-a4c391f1e9fe
 
 + ***#1 — ¿Cómo podemos enseñar arquitectura a una Inteligencia Artificial?***
