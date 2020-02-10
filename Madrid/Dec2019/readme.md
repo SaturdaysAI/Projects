@@ -2,6 +2,9 @@
 
 Proyectos 2ª edición Saturdays.AI Madrid
 
+Presentaciones de los proyectos https://www.youtube.com/watch?v=LhTe1A9PjtY&t=9319s
+Artículo Medium proyectos 2ª edición https://medium.com/saturdays-ai/be-prepared-for-the-future-code-in-ai-a4c391f1e9fe
+
 + ***#1 — ¿Cómo podemos enseñar arquitectura a una Inteligencia Artificial?***
 
 Un grupo de arquitectos y un ingeniero desde el primer día estuvieron obsesionados en cambiar las reglas de las arquitectura, porque pensaban que la creatividad quedaba a un lado a la hora de diseñar nuevas estructuras y edificios. Se preguntaron: ¿puede servir la Inteligencia Artificial de ayuda para salvar ese vacío? A traves del uso de GANs, se pretende generar nuevos espacios a partir de aquellos ejemplos diseñados por LeCorbusier.
