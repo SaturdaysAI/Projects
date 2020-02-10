@@ -1,13 +1,18 @@
 ## Projects built during AI Saturdays Madrid 2ª Edición Septiembre a Diciembre 2019
 
 Proyectos 2ª edición Saturdays.AI Madrid
-#1 — ¿Cómo podemos enseñar arquitectura a una Inteligencia Artificial?
-Un grupo de arquitectos y un ingeniero desde el primer día estuvieron obsesionados en cambiar las reglas de las arquitectura, porque pensaban que la creatividad quedaba a un lado a la hora de diseñar nuevas estructuras y edificios. Se preguntaron: ¿puede servir la Inteligencia Artificial de ayuda para salvar ese vacío?
+
++ ***#1 — ¿Cómo podemos enseñar arquitectura a una Inteligencia Artificial?***
+
+Un grupo de arquitectos y un ingeniero desde el primer día estuvieron obsesionados en cambiar las reglas de las arquitectura, porque pensaban que la creatividad quedaba a un lado a la hora de diseñar nuevas estructuras y edificios. Se preguntaron: ¿puede servir la Inteligencia Artificial de ayuda para salvar ese vacío? A traves del uso de GANs, se pretende generar nuevos espacios a partir de aquellos ejemplos diseñados por LeCorbusier.
 momento de la presentación de ArchIlucinations.
 
-#2 — ¿Alguna vez has estado enfermo y sin tiempo para acudir al médico?
++ ***#2 — ¿Alguna vez has estado enfermo y sin tiempo para acudir al médico?***
+
 Otros crearon Dr. Cervantes, a través del uso de técnicas de NLP, pretendían hacer una comprensión de la descripción de una enfermedad como sistema de ayuda y consejo de diagnóstico basado en las historias de los pacientes.
 momento de la presentación.
+
+https://github.com/poziryna84/Dr_Cervantes_AI_Saturday_Madrid
 
 #3 — 🤖 that 🔍 undervalued 🏠 in Madrid.
 Un grupo pensó, hay pisos por debajo de mercado en los portales inmobiliarios españoles. Podemos encontrarlos con un algoritmo de machine learning que ayude a encontrar esos casos.
