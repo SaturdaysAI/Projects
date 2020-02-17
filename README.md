@@ -6,9 +6,11 @@ _to graduate as an #aifellow in AI Saturdays, during the _build2learn_ phase you
 
 - [Barcelona](https://github.com/SaturdaysAI/Projects/tree/master/Barcelona/readme.md)  
 - [Madrid](https://github.com/SaturdaysAI/Projects/tree/master/Madrid/readme.md)
+- [Valencia](https://github.com/SaturdaysAI/Projects/tree/master/Valencia/readme.md)
 - [Guadalajara](https://github.com/SaturdaysAI/Projects/tree/master/Guadalajara/readme.md)  
 - [Guayaquil](https://github.com/SaturdaysAI/Projects/tree/master/Guayaquil/readme.md)
 - [Quito](https://github.com/SaturdaysAI/Projects/tree/master/Quito/readme.md)
+- [La Paz](https://github.com/SaturdaysAI/Projects/tree/master/Lapaz/readme.md)
 - [Monterrey](https://github.com/SaturdaysAI/Projects/tree/master/Monterrey/readme.md)
 - [Alicante](https://github.com/SaturdaysAI/Projects/tree/master/Alicante/readme.md)
 - [Sevilla](https://github.com/SaturdaysAI/Projects/tree/master/Sevilla/readme.md)
@@ -20,7 +22,6 @@ _to graduate as an #aifellow in AI Saturdays, during the _build2learn_ phase you
 ---
 ### Coming soon
 
-- Valencia
 - Tucson
 - Dubai
 - Washington DC
