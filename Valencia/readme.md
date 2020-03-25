@@ -10,7 +10,7 @@ Navigate the different folders, projects are:
 
 +*Equipo4 - MANI*
 
-+*Equipo4 - Diagnosis Lesiones en la piel*
++*Equipo5 - Diagnosis Lesiones en la piel*
 
 +*Equipo6 - ¿Predecir una fuga de agua en tu casa? Preguntale a tu contador*
 
