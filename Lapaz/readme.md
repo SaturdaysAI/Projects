@@ -12,4 +12,4 @@
 
 + - Proyecto 5 Monitoreo Calidad del Aire (pendiente).
 
-+ - Proyecto 6 Maltrato y abandono animal (Perros y gatos).
++ - Proyecto 6 Maltrato y abandono animal (pendiente).
