@@ -1,5 +1,7 @@
 ## AI Projects built during AI Saturdays La Paz January 2020 Class
 
+**Navigate the folder to the projects.**
+
 + - Proyecto 1 Feminicidio.
 
 + - Proyecto 2 Calculadora Inmobiliaria.
