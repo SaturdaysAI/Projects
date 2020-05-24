@@ -24,11 +24,13 @@ _to graduate as an #aifellow in AI Saturdays, during the _build2learn_ phase you
 
 - Tucson
 - Dubai
-- Washington DC
 - Lima
 - La Paz
+- Cochabamba
 - Asturias
 - Mallorca
+- Bilbao
+- Donostia
 - Murcia
 - Asuncion
 - Encarnación
