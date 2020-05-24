@@ -10,7 +10,7 @@ _to graduate as an #aifellow in AI Saturdays, during the _build2learn_ phase you
 - [Guadalajara](https://github.com/SaturdaysAI/Projects/tree/master/Guadalajara/readme.md)  
 - [Guayaquil](https://github.com/SaturdaysAI/Projects/tree/master/Guayaquil/readme.md)
 - [Quito](https://github.com/SaturdaysAI/Projects/tree/master/Quito/readme.md)
-- [La Paz](https://github.com/SaturdaysAI/Projects/tree/master/Lapaz/readme.md)
+- [La Paz](https://github.com/SaturdaysAI/Projects/tree/master/Lapaz)
 - [Monterrey](https://github.com/SaturdaysAI/Projects/tree/master/Monterrey/readme.md)
 - [Alicante](https://github.com/SaturdaysAI/Projects/tree/master/Alicante/readme.md)
 - [Sevilla](https://github.com/SaturdaysAI/Projects/tree/master/Sevilla/readme.md)
