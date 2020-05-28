@@ -15,4 +15,28 @@ https://github.com/iamonterrey/DemandForecasting
 ### 3) Class of January 2020
 
 Final NLP Project Saturdays-AI Monterrey 4th Edition, cycle 1 2020.
+ 
+Arturo Arellano, Ricardo Pérez and Alejandra Garza - Predicción de suministro de agua en MTY
+
+https://github.com/alejandragza/SaturdaysAI_agua/
+
+Berenice Hernández - Predicción de feminicidios en Guanajuato
+
+https://github.com/berenicehdr/SaturdaysAI_Fem
+
+Basilio Stavros Karamanos - Clasificación de Fake News
+
 https://github.com/StavroK/MtySaturdayAI2020
+
+Rodolfo Betanzos - Predicción de tráfico en carreteras
+
+https://github.com/rodolfobetanzos/SaturdaysAI
+
+Arnoldo Oliva - Predicción de goles en torneos de Futbol
+
+https://github.com/ArnoldoOliva/Proyecto_SaturdaysAI
+
+Jesús Saucedo - Detección de personajes de videojuegos
+
+https://github.com/jesuss83/saturdaysAI20
+
