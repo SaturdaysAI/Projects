@@ -28,6 +28,11 @@ Jesús Saucedo - Detección de personajes de videojuegos
 
 https://github.com/jesuss83/saturdaysAI20
 
+Dirceo Bravo, Liz Ordóñez - Predicción de CPR en campañas de marketing digital (Begginer's project)
+
+https://github.com/DirceoQA/00SaturdayAI_2020_AB
+
+
 ### Class of January 2019 TBD
 
 ### Class of August 2019 TBD
