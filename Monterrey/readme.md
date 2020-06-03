@@ -13,6 +13,7 @@ Berenice Hernández - Predicción de feminicidios en Guanajuato
 https://github.com/berenicehdr/SaturdaysAI_Fem
 
 Basilio Stavros Karamanos - Clasificación de Fake News
+https://youtu.be/IhaUIGWbw6I --> Videoexplicacion
 
 https://github.com/StavroK/MtySaturdayAI2020
 
