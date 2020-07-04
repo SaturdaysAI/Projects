@@ -11,7 +11,7 @@
 - [Repository, Presentation and Report](https://github.com/saturdaysai-gdl2-plata/datasets)
 
 3) AI.rbike  — Equipo Turquesa:
-- [Repository, Presentation and Report](https://github.com/JacoboDB/AI.rbikehttps://github.com/JacoboDB/AI.rbike)
+- [Repository, Presentation and Report](https://github.com/JacoboDB/AI.rbike)
 
 4) Cardiosight - Cardiovascular Risk Calculator - Equipo Naranja:
 - [Repository, Presentation and Report](https://github.com/RebeNura/Saturdays.ai-Equipo-Naranja)
