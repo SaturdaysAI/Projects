@@ -1,5 +1,12 @@
 # Projects built during AI Saturdays Quito
 
+### Class of June 2020
+
+- [Proyecto](https://github.com/SaturdaysAI/Projects/blob/master/Quito/Junio2020/), [video](https://youtu.be/IPhFYPx00y0)
+
+...
+
+
 ### Class of July 2019
 
 - [Detección humedades](https://github.com/SaturdaysAI/Projects/blob/master/Quito/Julio2019/DeteccionHumedad_PITCH.pdf), [video](https://youtu.be/IPhFYPx00y0)
