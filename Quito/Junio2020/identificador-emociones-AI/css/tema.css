@@ -1,0 +1,620 @@
+@CHARSET "ISO-8859-1";
+
+/* <<< ESTILOS PARA TEMPLATE >>> */
+/*___BARRA SUPERIOR & CONTENEDOR DEL MENU 1ER NIVEL___*/
+.navbar-default {
+	background-color: rgba(0, 60, 96, 0.95) !important;
+	border-color: rgba(0, 60, 96, 1) !important;
+}
+/*___TAMAÑO ICONOS BARRA SUPERIOR___*/
+.fa-fw2{
+	width: 1.28571429em;
+	text-align: center;
+	font-size: 1.8em !important;
+}
+/*___COLOR ICONOS: HOVER FOCUS___*/
+nav a:hover, nav a:focus {color: #0b4466 !important;}
+/*___TAMAÑO ICONOS EN BOTON__*/
+.ui-button-icon-only {
+    width: 2.1em !important;
+}
+/*___OCULTA LEXTO AL CAMBIAR EL TAMAÑO DE VENTANA___*/
+@media screen and (max-width: 768px) {.label-oculto {display: none;}}
+@media screen and (max-width: 913px) {.marca-oculto {display: none;}}
+@media screen and (min-width: 912px) {.marca-head {display: none;}}
+/*___???___*/
+.ui-panelmenu .ui-menuitem {
+	margin: 1px 0;
+	padding: 0;
+	font-size: .9em;
+}
+/*___MARGENES PARA LISTA MENU___*/
+.ui-panelmenu .ui-menu-parent .ui-menu-list {margin: 0px 3px 0px 3px !important;}
+/*___MENU 2DO NIVEL___*/
+.ui-panelmenu .ui-menuitem-link {
+	background:#236aa9; /* #005FA6 */
+	color: #fff;
+	font-size: 0.8em;
+	border-radius: 0;
+	width: 90%;
+	margin: 0 auto !important;
+}
+/*___MENU 2DO NIVEL : HOVER___*/
+a.ui-menuitem-link.ui-corner-all.item-menu.ui-state-hover {
+    background-color: rgba(0, 95, 166, 0.03) !important;
+	font-weight: normal !important;
+    color: #000000 !important;
+    text-decoration: underline;
+}
+/*___MENU 2DO NIVEL : ACTIVE___*/
+.ui-state-active, .ui-widget-content .ui-state-active, .ui-widget-header .ui-state-active{
+background:rgba(19, 140, 247, 0.88)!important;/* #002948!important; */
+text-shadow:none !important;
+color: #fff !important;
+}
+/*___MENU 3ER NIVEL___*/
+.ui-panelmenu .item-menu {
+	background-color: #ccd8df !important;/* #c0c0c0*/
+	color:#000 !important;
+}
+/* <<< ESTILOS DE ELEMENTOS VARIOS>>> */
+/*___SCROLL UP___*/
+#scrollUpCustom {
+	background-image: url("../resources/img/top.png");
+	bottom: 65px;
+	right: 18px;
+	width: 38px; /* width of the custom image */
+	height: 38px; /* height of the custom image */
+	outline: none;
+	-webkit-transition: all 5000ms easeOutBounce;
+	transition: all 5000ms easeOutBounce;
+}
+/*___AJUSTE GROWL PARA MENSAJES ALERTA (TODOS)___*/
+.ui-growl {top: 10% !important;}
+/*___COLORES PARA FILAS DE TABLAS: HOVER CHILD___*/
+.dataTab td{white-space: normal !important;}
+.ui-datatable thead th{background-color: #507388 !important; color: white !important;}
+th {background-color: #ffffff;color: white;}
+.dataTab tr:nth-child(even) {background-color: #deeaef;color: #484848;}
+.dataTab tr:hover {background-color: #729ecb;color: #FFFFFF;}
+.ui-datatable-resizable thead th {background-clip: padding-box !important;}
+/*___UBICACION DE TRIGGER DE SELECCION DE LISTAS___*/
+.ui-selectonemenu .ui-selectonemenu-trigger{width: 18px!important; padding: 0px 0px !important;}
+.ui-selectonemenu{padding-right: 1.3em !important;}
+/*___MUESTRA BOTON DE CALENDARIO POR CONFLICTO CON BOOTSFACES___*/
+.ui-datepicker-trigger {display: inherit !important;}
+/*___COLOR FLECHA PANEL COLLAPSIBLE (TODOS)___*/
+.panel-heading a:after {color: #5B77A8 !important;}
+/*___COLOR CABECERA TABLA COLUM RESIZABLE (TODOS)___*/
+.ui-datatable-resizable th.ui-resizable-column {background-color: #93afce;}
+/*___ESPACIO PARA ITEMS DE SELECToNErADIO (TODOS)___*/
+.ui-selectoneradio label{ padding-right: 12px !important; }
+/*___FIELDSET (TODOS)___*/
+fieldset {border: 1px solid #0b4466 !important;padding: 0.35em 0.625em 0.75em !important;border-radius: 2px !important;}
+/*___LEGEND (TODOS)___*/
+legend {width: initial !important; border:0 !important;margin-bottom: 10px !important; font-weight: bold;color: #0b4466 !important;cursor: default;}
+
+
+/* CUSTOMS LABELS */
+.label-transparente {
+	background-color: transparent;
+	color: #000000;
+}
+
+
+
+/*PARA EL MENU LINK */
+.ui-panelmenu .ui-panelmenu-header a {
+	color: #ffffff !important;
+	text-decoration: none;
+	background-color: #003E5F !important;
+	outline: none;
+	font-size: .9em !important;
+	text-shadow: none;
+	display: block;
+	padding: .5em .5em .5em 2.2em;
+	margin-top: 0;
+	margin-bottom: 0;
+}
+
+
+
+
+.ui-panelmenu .ui-menuitem-link {
+	font-size: .9em !important;
+}
+
+/*REVISAR .ui-widget .ui-widget {
+	font-size: .9em !important;
+} */
+
+
+
+
+.navbar-default .navbar-brand {
+	color: rgba(255, 255, 255, 1);
+}
+
+.navbar-default .navbar-toggle .icon-bar {
+	background-color: #F3F0F0 !important;
+}
+
+.navbar-collapse .collapse {
+	width: 100% !important;
+}
+
+.nav>li {
+	position: relative !important;
+	display: inline-block !important;
+}
+
+#imgbrand {
+	vertical-align: middle;
+	height: 50px;
+}
+
+#brandtag {
+	color: #ffffff !important;
+	font-size: 25em !important;
+	background-color: transparent !important;
+}
+
+.navbar-top-links .dropdown-user {
+	min-width: 90px !important;
+}
+
+.navbar-top-links .dropdown-user a {
+	color: #157AB5 !important;
+}
+
+.sidebar ul li {
+	width: 100% !important;
+}
+
+@media ( min-width : 768px) {
+	.sidebar {
+		width: 250px !important;
+	}
+}
+
+.panel-menu {
+	border-color: #FFFfff;
+	box-shadow: 0 1px 1px rgba(43, 41, 74, 0.94);
+	background-color: #EEEEEE;
+}
+
+
+
+.panel-title {
+	font-size: 15px;
+	font-weight: bold;
+	font-stretch: expanded;
+}
+
+.panel-menu a {
+	color: #157AB5 !important;
+}
+
+a.dropdown-toggle {
+	color: #FFFFFF;
+	text-decoration: none;
+}
+
+.dropdown-menu {
+	/* padding-left: 5px !important; */
+	background-color: #EEE !important;
+}
+
+.panel-group {
+	padding-top: 15px !important;
+}
+
+.panel-info>.panel-heading {
+	color: #000000 !important;
+	background-color: #D4EAFF !important;
+	border-color: #FFFFFF !important;
+}
+
+/* Contenido Principal */
+@media screen and (max-width: 767px) {
+	#contenido-principal {
+		padding-left: 4px !important;
+		padding-top: 103px !important;
+		/* min-height: 500px !important; */
+		
+	}
+}
+
+#contenido-principal {
+	padding-left: 255px;
+	padding-top: 52px;
+	min-height: 735px;
+	background-color: #F1F2F5;
+	padding-bottom: 30px;
+}
+
+body {
+	background: #F1F2F5!important;
+}
+
+.panel-info>.panel-heading {
+	color: #132E3C;
+	background-color: rgba(177, 198, 208, 0.85);
+	border-color: rgba(141, 152, 154, 0.77);
+}
+
+.contenido {
+	padding: 0 180px;
+	width: 100%;
+	background-color: rgba(6, 43, 109, 0.01);
+}
+
+@media only screen and (max-width: 767px) , only screen and
+	(max-device-width: 767px) {
+	.textotab {
+		display: none;
+	}
+}
+
+/* footer */
+#footer #bandera {
+	height: 1px;
+	border-bottom: #004C99 1px solid;
+}
+
+#footer #texto {
+	padding-right: 20px;
+	color: #004C99;
+	font-size: 0.9em;
+	text-align: left;
+	vertical-align: middle;
+	margin-top: 10px;
+}
+
+#texto-user {
+	font-size: 0.9em;
+	color: #004C99;
+}
+
+/* Cabecera */
+#cabecera {
+	
+}
+
+#cabecera #superior {
+	background: rgba(0, 60, 96, 0.75);
+}
+
+#cabecera #superior #logoc {
+	padding: 1em 0 0;
+	text-align: center;
+}
+
+#cabecera #superior #texto {
+	color: #fff;
+	font-size: 1.6em;
+	padding: 1em;
+	text-align: right;
+	font-weight: bold;
+}
+
+#cabecera #linea {
+	background: rgba(0, 60, 96, 0.75);
+	margin-top: 0.4em;
+	height: 0.5em;
+	margin-bottom: 5em;
+}
+/* Pie de Página */
+#pie {
+	position: absolute;
+	bottom: 0;
+	width: 100%;
+	z-index: -1;
+}
+
+#pie #linea {
+	background: rgba(255, 255, 255, 0.9);
+	margin-bottom: 0.4em;
+	height: 0.5em;
+	margin-right: 0 !important;
+	margin-left: 0 !important;
+}
+
+#pie #texto {
+	text-align: center;
+	background: rgba(255, 255, 255, 0.9);
+	padding: 1em 0px;
+	color: rgba(0, 60, 96, 1);
+}
+
+
+.ui-panelmenu .ui-menu-parent .ui-menuitem-link-hasicon {
+	background: #005ea9;
+	border-radius: 0;
+	color: #fff;
+	margin: 0 auto;
+	padding-left: 2.8em;
+	text-align: center;
+	width: 95%;
+}
+
+
+
+.sidebar ul li {
+	border: none;
+}
+
+.ui-panelmenu .ui-menuitem {
+	margin: none;
+}
+
+
+
+/*CALENDAR*/
+/* .calyear .ui-datepicker-month {
+	display: none;
+}
+
+.calyear .ui-datepicker-calendar {
+	display: none;
+}
+
+.calyear .ui-datepicker-prev .glyphicon-chevron-left {
+	display: none;
+}
+
+.calyear .ui-datepicker-next .glyphicon-chevron-right {
+	display: none;
+}
+
+.calyear .ui-datepicker .ui-datepicker-prev, .ui-datepicker .ui-datepicker-next
+	{
+	display: none !important;
+}
+
+.calyear .ui-datepicker .ui-datepicker-title {
+	color: rgba(0, 0, 0, 0.56);
+} */
+
+
+
+
+
+
+/**class para los panels del bootsfaces con el look primary**/
+.panel-primary>.panel-heading {
+	background-color: #164263;
+}
+
+/**class para dividir el menu del contenido**/
+.interna {
+	border-color: #003e5f !important;
+	border-radius: 0 !important;
+	border-width: 0 0 0 5px !important;
+	margin: 4px 0;
+	padding: 8px;
+	width: 100%;
+}
+
+
+
+/* .calenprime .ui-fluid .ui-calendar, .ui-fluid .ui-calendar input {
+	display: -moz-grid-group !important;
+} */
+
+.ui-fluid .ui-button {
+	width: 2em !important;
+	display: -moz-grid-group !important;
+}
+
+/* .ui-fluid .ui-calendar, .ui-fluid .ui-calendar input {
+	width: auto !important;
+} */
+
+
+
+.navbar-top-links a {
+	color: #FFFFFF !important;
+	text-decoration: none !important;
+}
+
+a:hover, a:focus {
+	color: #344C66 !important;
+	/* font-weight: bolder !important; */
+}
+
+.nav>li>a:hover, .nav>li>a:focus {
+	text-decoration: none;
+	background-color: #FFFFFF !important;
+}
+
+.footertema .container-fluid>.navbar-collapse, .container-fluid>.navbar-header,
+	.container>.navbar-collapse, .container>.navbar-header {
+	margin-right: -2% !important;
+	margin-left: -2% !important;
+}
+
+.footertema .navbar-default {
+	background-color: #FFFFFF !important;
+	border-color: #FFFFFF !important;
+}
+
+/* PANELES PERSONALIZADOS */
+/* TABLAS  */
+.panel-tabla .panel-body {
+	padding: 0px !important;
+}
+
+.panel-tabla .panel-heading {
+	color: #ffffff;
+	background-color: #4a77a9;
+	border-color: #4a77a9;
+	text-align: center;
+	padding: 5px;
+}
+
+.panel-tabla .panel-title {
+	margin-top: 0;
+	margin-bottom: 0;
+	font-size: medium;
+	color: inherit;
+	font-weight: bold;
+}
+
+/* BUSCAR  */
+.panel-buscar {
+	border: 1px solid #446E9B !important;
+}
+
+.panel-buscar .panel-heading {
+	color: #ffffff;
+	background-color: #4a77a9;
+	border-color: #4a77a9;
+	text-align: left;
+	padding: 5px;
+}
+
+.panel-buscar .panel-title {
+	margin-top: 0;
+	margin-bottom: 0;
+	font-size: medium;
+	color: inherit;
+	font-weight: bold;
+}
+
+/* FIELDSET */
+.modulo-titulo > legend {
+	width: inherit !important;
+	color: #ffffff !important;
+	padding: 2px 12px !important;
+	font-size: initial;
+	background: rgb(66, 107, 152) !important;
+	font-weight: inherit !important;
+	cursor: default;
+}
+
+/*PARA COLORES DEL CSS MENU*/
+.ui-state-active a, .ui-state-active a:link, .ui-state-active a:visited
+	{
+	text-shadow: none !important;
+}
+
+.ui-state-default a, .ui-state-default a:link, .ui-state-default a:visited
+	{
+	text-shadow: none !important;
+}
+
+.navbar-brand {
+	color: #fff !important;
+	cursor: default;
+}
+
+.navbar-brand:hover {
+	color: #fff !important;
+}
+
+.navbar-default .navbar-brand {
+	color: #fff !important;
+}
+
+.navbar-default .navbar-brand:hover, .navbar-default .navbar-brand:focus
+	{
+	color: #fff !important;
+}
+
+
+
+/**en el caso de que bpanels salgan con titulo en negro*/
+.bpaneles > .ui-widget-content a {
+	color: #fff;
+}
+
+
+/**iconos blancos------------------------------------------------------------------**/
+
+.ui-panelmenu .ui-menu-parent .ui-panelmenu-icon.ui-icon {
+     background-image: url("#{facesContext.externalContext.requestContextPath}/javax.faces.resource/images/ui-icons_ffffff_256x240.png.jsf?ln=primefaces-aristo") !important;
+}
+
+.ui-panelmenu .ui-panelmenu-header .ui-icon {
+     background-image: url("#{facesContext.externalContext.requestContextPath}/javax.faces.resource/images/ui-icons_ffffff_256x240.png.jsf?ln=primefaces-aristo") !important;
+}
+
+/* Cambia Tamaño máximo del div del menu izquierdo para que se presente el scroll vertical .navbar-fixed-top */
+.navbar-collapse {
+    max-height: 640px;
+}
+
+/* Personalizacion apariencia scroll (Chrome)-------------------------------------------------*/
+::-webkit-scrollbar {width: 6px;}::-webkit-scrollbar-track {border-radius: 4px;-webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);}
+::-webkit-scrollbar-thumb {border-radius: 10px;-webkit-box-shadow: inset 0 0 40px rgb(11, 68, 102);}
+
+
+/* Sticky footer styles
+-------------------------------------------------- */
+.footer {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  /* Set the fixed height of the footer here */
+  height: 30px;
+  background-color: #d8ebed;
+}
+.container1 .text-muted {
+  margin: 5px 0;
+  text-align: center;
+  color: #0b4466;
+}
+.footer > .container1 {
+  padding-right: 15px;
+  padding-left: 15px;
+}
+
+.espaciorow{
+	padding-top: 5px ;
+}
+
+.ui-state-default, .ui-widget-content .ui-state-default, .ui-widget-header .ui-state-default{
+	background: #fff !important;
+    border: 1px solid #a8a8a8 !important;
+    color: #4f4f4f !important;
+    font-weight: bold !important;
+    text-shadow: none !important;
+}
+
+.ui-state-hover, .ui-widget-content .ui-state-hover, .ui-widget-header .ui-state-hover, .ui-state-focus, .ui-widget-content .ui-state-focus, .ui-widget-header .ui-state-focus {
+    background: #fff !important;
+    border: 1px solid #a8a8a8 !important;
+    color: #4f4f4f !important;
+    font-weight: bold !important;
+    text-shadow: none !important;
+    }
+.ui-inputfield, .ui-widget-content .ui-inputfield, .ui-widget-header .ui-inputfield{
+	backgrounf:#fff !important;
+}
+.ui-radiobutton-icon {
+    margin-left: 0px !important;
+    margin-top: -1px !important;
+}
+
+.panel-group{
+    padding: 0px !important;
+    padding-bottom: 0px !important;
+    margin-bottom: 0px !important;
+}
+.dropdown-alerts{
+	padding-top: 0px !important;
+	padding-bottom: 0px !important;
+}
+.ui-datepicker-calendar th {
+	color:black !important;
+}
+.ui-state-default .ui-state-highlight{
+	color:blue !important;
+}
+.opcionBase{
+	white-space: nowrap !important;text-transform:uppercase;width:75px;text-align:center;
+}
+.opcionRevision{
+	white-space: nowrap !important;text-transform:uppercase;width:114px;text-align:center;
+}

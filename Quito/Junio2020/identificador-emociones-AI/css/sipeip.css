@@ -1,0 +1,142 @@
+/* Body */
+body {
+	font-size: 12px;
+}
+/* Cabecera */
+#cabecera {
+	background-color: #203A5D;
+}
+
+#cabecera #superior {
+	background: rgba(0, 60, 96, 0.75);
+}
+
+#cabecera #superior #logoc {
+	padding: 1em 0 0;
+	text-align: center;
+}
+
+#cabecera #superior #texto {
+	color: #fff;
+	font-size: 1.6em;
+	padding: 1em;
+	text-align: right;
+	font-weight: bold;
+}
+
+#cabecera #linea {
+	background: rgba(0, 60, 96, 0.75);
+	margin-top: 0.4em;
+	height: 0.5em;
+	margin-bottom: 5em;
+}
+/* Pie */
+#pie {
+	/*position: absolute;*/
+	bottom: 0;
+	width: 100%;
+	z-index: -1;
+}
+
+#linea {
+	background: rgba(255, 255, 255, 0.9);
+	margin-bottom: 0.4em;
+	height: 0.5em;
+	margin-top: -0.9em;
+}
+
+#pie #texto {
+	text-align: center;
+	background: rgba(255, 255, 255, 0.9);
+	padding: 0.7em 0px;
+	color: rgba(0, 60, 96, 1)
+}
+
+/* Estilo para campos solo lectura*/
+input[readonly] {
+	background-color: gray !important;
+	color: white !important;
+}
+
+/* Estilo para text Area solo lectura*/
+inputTextarea[readonly] {
+	background-color: gray !important;
+	color: white !important;
+}
+
+/*Estilo para combo box de Metas visor */
+.comboMetas .ui-selectonemenu {
+	width: 1000px !important;
+}
+
+.comboMetas .ui-selectonemenu .ui-selectonemenu-label {
+	width: 980px !important;
+}
+/*Estilo para combo box de Ejes PND */
+.comboEje .ui-selectonemenu {
+	width: 400px !important;
+}
+
+.comboEje .ui-selectonemenu .ui-selectonemenu-label {
+	width: 380px !important;
+}
+
+/*Estilo para combo box de entidadesk */
+.comboEnt .ui-selectonemenu {
+	width: 700px !important;
+}
+
+.comboEnt .ui-selectonemenu .ui-selectonemenu-label {
+	width: 680px !important;
+}
+
+/*Estilo para combo box */
+.comboMotivo .ui-selectonemenu {
+	width: 170px !important;
+}
+
+.comboMotivo .ui-selectonemenu .ui-selectonemenu-label {
+	width: 150px !important;
+}
+
+/*Estilo para combos*/
+.ui-selectonemenu {
+	width: 200px !important;
+}
+
+.ui-selectonemenu-list {
+	background: #CEE3F6;
+}
+
+/*Estilo formulario*/
+#frmGen {
+	font-size: 12px !important;
+}
+
+#frmGen input[type="text"] {
+	border: 1px solid #FFFFFF;
+	padding: 5px;
+	width: 200px;
+}
+
+/*EStilo para spinner */
+.campoSpinner input {
+	width: 100px !important;
+}
+
+.botonLogin {
+	transition-duration: 0.4s;
+	background-color: #85B053 !important;
+}
+
+.botonLogin:hover {
+	background-color: #203A5D !important;
+}
+
+.divLogDatIng {
+	background-color: #203A5D;
+	height: 462px !important;
+	margin-top: 20px !important;
+	margin-right: 20px !important;
+	padding-top: 120px !important;
+}
