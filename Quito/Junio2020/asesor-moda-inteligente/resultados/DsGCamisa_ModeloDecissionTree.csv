@@ -1,0 +1,361 @@
+﻿ID_TIPO_CUERPO,ID_MODELO,MODELO,PRENDA_APTA
+6,1,Llano Classic fit Brillante 1,0
+6,2,Llano Classic fit Oscuro 2,0
+6,3,Llano Classic fit Neutro 3,0
+6,4,Llano Regular fit Brillante 4,1
+6,5,Llano Regular fit Oscuro 5,1
+6,6,Llano Regular fit Neutro 6,1
+6,7,Llano Tailored fit Brillante 7,1
+6,8,Llano Tailored fit Oscuro 8,1
+6,9,Llano Tailored fit Neutro 9,1
+6,10,Llano Costum fit Brillante 10,1
+6,11,Llano Costum fit Oscuro 11,1
+6,12,Llano Costum fit Neutro 12,1
+6,13,Llano Slim fit Brillante 13,1
+6,14,Llano Slim fit Oscuro 14,1
+6,15,Llano Slim fit Neutro 15,1
+6,16,Llano Super slim fit Brillante 16,0
+6,17,Llano Super slim fit Oscuro 17,0
+6,18,Llano Super slim fit Neutro 18,0
+6,19,Linea vertical Classic fit Brillante 19,0
+6,20,Linea vertical Classic fit Oscuro 20,0
+6,21,Linea vertical Classic fit Neutro 21,0
+6,22,Linea vertical Regular fit Brillante 22,1
+6,23,Linea vertical Regular fit Oscuro 23,1
+6,24,Linea vertical Regular fit Neutro 24,1
+6,25,Linea vertical Tailored fit Brillante 25,1
+6,26,Linea vertical Tailored fit Oscuro 26,1
+6,27,Linea vertical Tailored fit Neutro 27,1
+6,28,Linea vertical Costum fit Brillante 28,1
+6,29,Linea vertical Costum fit Oscuro 29,1
+6,30,Linea vertical Costum fit Neutro 30,1
+6,31,Linea vertical Slim fit Brillante 31,1
+6,32,Linea vertical Slim fit Oscuro 32,1
+6,33,Linea vertical Slim fit Neutro 33,1
+6,34,Linea vertical Super slim fit Brillante 34,0
+6,35,Linea vertical Super slim fit Oscuro 35,0
+6,36,Linea vertical Super slim fit Neutro 36,0
+6,37,Linea horizontal Classic fit Brillante 37,0
+6,38,Linea horizontal Classic fit Oscuro 38,0
+6,39,Linea horizontal Classic fit Neutro 39,0
+6,40,Linea horizontal Regular fit Brillante 40,1
+6,41,Linea horizontal Regular fit Oscuro 41,1
+6,42,Linea horizontal Regular fit Neutro 42,1
+6,43,Linea horizontal Tailored fit Brillante 43,1
+6,44,Linea horizontal Tailored fit Oscuro 44,1
+6,45,Linea horizontal Tailored fit Neutro 45,1
+6,46,Linea horizontal Costum fit Brillante 46,1
+6,47,Linea horizontal Costum fit Oscuro 47,1
+6,48,Linea horizontal Costum fit Neutro 48,1
+6,49,Linea horizontal Slim fit Brillante 49,1
+6,50,Linea horizontal Slim fit Oscuro 50,1
+6,51,Linea horizontal Slim fit Neutro 51,1
+6,52,Linea horizontal Super slim fit Brillante 52,0
+6,53,Linea horizontal Super slim fit Oscuro 53,0
+6,54,Linea horizontal Super slim fit Neutro 54,0
+6,55,Cuadrado Classic fit Brillante 55,0
+6,56,Cuadrado Classic fit Oscuro 56,0
+6,57,Cuadrado Classic fit Neutro 57,0
+6,58,Cuadrado Regular fit Brillante 58,1
+6,59,Cuadrado Regular fit Oscuro 59,1
+6,60,Cuadrado Regular fit Neutro 60,1
+6,61,Cuadrado Tailored fit Brillante 61,1
+6,62,Cuadrado Tailored fit Oscuro 62,1
+6,63,Cuadrado Tailored fit Neutro 63,1
+6,64,Cuadrado Costum fit Brillante 64,1
+6,65,Cuadrado Costum fit Oscuro 65,1
+6,66,Cuadrado Costum fit Neutro 66,1
+6,67,Cuadrado Slim fit Brillante 67,1
+6,68,Cuadrado Slim fit Oscuro 68,1
+6,69,Cuadrado Slim fit Neutro 69,1
+6,70,Cuadrado Super slim fit Brillante 70,0
+6,71,Cuadrado Super slim fit Oscuro 71,0
+6,72,Cuadrado Super slim fit Neutro 72,0
+6,73,Estampado Classic fit Brillante 73,0
+6,74,Estampado Classic fit Oscuro 74,0
+6,75,Estampado Classic fit Neutro 75,0
+6,76,Estampado Regular fit Brillante 76,1
+6,77,Estampado Regular fit Oscuro 77,1
+6,78,Estampado Regular fit Neutro 78,1
+6,79,Estampado Tailored fit Brillante 79,1
+6,80,Estampado Tailored fit Oscuro 80,1
+6,81,Estampado Tailored fit Neutro 81,1
+6,82,Estampado Costum fit Brillante 82,1
+6,83,Estampado Costum fit Oscuro 83,1
+6,84,Estampado Costum fit Neutro 84,1
+6,85,Estampado Slim fit Brillante 85,1
+6,86,Estampado Slim fit Oscuro 86,1
+6,87,Estampado Slim fit Neutro 87,1
+6,88,Estampado Super slim fit Brillante 88,0
+6,89,Estampado Super slim fit Oscuro 89,0
+6,90,Estampado Super slim fit Neutro 90,0
+7,1,Llano Classic fit Brillante 1,0
+7,2,Llano Classic fit Oscuro 2,1
+7,3,Llano Classic fit Neutro 3,1
+7,4,Llano Regular fit Brillante 4,0
+7,5,Llano Regular fit Oscuro 5,1
+7,6,Llano Regular fit Neutro 6,1
+7,7,Llano Tailored fit Brillante 7,0
+7,8,Llano Tailored fit Oscuro 8,1
+7,9,Llano Tailored fit Neutro 9,1
+7,10,Llano Costum fit Brillante 10,0
+7,11,Llano Costum fit Oscuro 11,0
+7,12,Llano Costum fit Neutro 12,0
+7,13,Llano Slim fit Brillante 13,0
+7,14,Llano Slim fit Oscuro 14,0
+7,15,Llano Slim fit Neutro 15,0
+7,16,Llano Super slim fit Brillante 16,0
+7,17,Llano Super slim fit Oscuro 17,0
+7,18,Llano Super slim fit Neutro 18,0
+7,19,Linea vertical Classic fit Brillante 19,0
+7,20,Linea vertical Classic fit Oscuro 20,1
+7,21,Linea vertical Classic fit Neutro 21,1
+7,22,Linea vertical Regular fit Brillante 22,0
+7,23,Linea vertical Regular fit Oscuro 23,1
+7,24,Linea vertical Regular fit Neutro 24,1
+7,25,Linea vertical Tailored fit Brillante 25,0
+7,26,Linea vertical Tailored fit Oscuro 26,1
+7,27,Linea vertical Tailored fit Neutro 27,0
+7,28,Linea vertical Costum fit Brillante 28,0
+7,29,Linea vertical Costum fit Oscuro 29,0
+7,30,Linea vertical Costum fit Neutro 30,0
+7,31,Linea vertical Slim fit Brillante 31,0
+7,32,Linea vertical Slim fit Oscuro 32,0
+7,33,Linea vertical Slim fit Neutro 33,0
+7,34,Linea vertical Super slim fit Brillante 34,0
+7,35,Linea vertical Super slim fit Oscuro 35,0
+7,36,Linea vertical Super slim fit Neutro 36,0
+7,37,Linea horizontal Classic fit Brillante 37,0
+7,38,Linea horizontal Classic fit Oscuro 38,0
+7,39,Linea horizontal Classic fit Neutro 39,0
+7,40,Linea horizontal Regular fit Brillante 40,0
+7,41,Linea horizontal Regular fit Oscuro 41,0
+7,42,Linea horizontal Regular fit Neutro 42,0
+7,43,Linea horizontal Tailored fit Brillante 43,0
+7,44,Linea horizontal Tailored fit Oscuro 44,0
+7,45,Linea horizontal Tailored fit Neutro 45,0
+7,46,Linea horizontal Costum fit Brillante 46,0
+7,47,Linea horizontal Costum fit Oscuro 47,0
+7,48,Linea horizontal Costum fit Neutro 48,0
+7,49,Linea horizontal Slim fit Brillante 49,0
+7,50,Linea horizontal Slim fit Oscuro 50,0
+7,51,Linea horizontal Slim fit Neutro 51,0
+7,52,Linea horizontal Super slim fit Brillante 52,0
+7,53,Linea horizontal Super slim fit Oscuro 53,0
+7,54,Linea horizontal Super slim fit Neutro 54,0
+7,55,Cuadrado Classic fit Brillante 55,0
+7,56,Cuadrado Classic fit Oscuro 56,1
+7,57,Cuadrado Classic fit Neutro 57,1
+7,58,Cuadrado Regular fit Brillante 58,0
+7,59,Cuadrado Regular fit Oscuro 59,1
+7,60,Cuadrado Regular fit Neutro 60,1
+7,61,Cuadrado Tailored fit Brillante 61,0
+7,62,Cuadrado Tailored fit Oscuro 62,1
+7,63,Cuadrado Tailored fit Neutro 63,1
+7,64,Cuadrado Costum fit Brillante 64,0
+7,65,Cuadrado Costum fit Oscuro 65,0
+7,66,Cuadrado Costum fit Neutro 66,0
+7,67,Cuadrado Slim fit Brillante 67,0
+7,68,Cuadrado Slim fit Oscuro 68,0
+7,69,Cuadrado Slim fit Neutro 69,0
+7,70,Cuadrado Super slim fit Brillante 70,0
+7,71,Cuadrado Super slim fit Oscuro 71,0
+7,72,Cuadrado Super slim fit Neutro 72,0
+7,73,Estampado Classic fit Brillante 73,0
+7,74,Estampado Classic fit Oscuro 74,0
+7,75,Estampado Classic fit Neutro 75,0
+7,76,Estampado Regular fit Brillante 76,0
+7,77,Estampado Regular fit Oscuro 77,0
+7,78,Estampado Regular fit Neutro 78,0
+7,79,Estampado Tailored fit Brillante 79,0
+7,80,Estampado Tailored fit Oscuro 80,0
+7,81,Estampado Tailored fit Neutro 81,0
+7,82,Estampado Costum fit Brillante 82,0
+7,83,Estampado Costum fit Oscuro 83,0
+7,84,Estampado Costum fit Neutro 84,0
+7,85,Estampado Slim fit Brillante 85,0
+7,86,Estampado Slim fit Oscuro 86,0
+7,87,Estampado Slim fit Neutro 87,0
+7,88,Estampado Super slim fit Brillante 88,0
+7,89,Estampado Super slim fit Oscuro 89,0
+7,90,Estampado Super slim fit Neutro 90,0
+8,1,Llano Classic fit Brillante 1,0
+8,2,Llano Classic fit Oscuro 2,0
+8,3,Llano Classic fit Neutro 3,0
+8,4,Llano Regular fit Brillante 4,1
+8,5,Llano Regular fit Oscuro 5,0
+8,6,Llano Regular fit Neutro 6,1
+8,7,Llano Tailored fit Brillante 7,1
+8,8,Llano Tailored fit Oscuro 8,0
+8,9,Llano Tailored fit Neutro 9,1
+8,10,Llano Costum fit Brillante 10,1
+8,11,Llano Costum fit Oscuro 11,0
+8,12,Llano Costum fit Neutro 12,1
+8,13,Llano Slim fit Brillante 13,0
+8,14,Llano Slim fit Oscuro 14,0
+8,15,Llano Slim fit Neutro 15,0
+8,16,Llano Super slim fit Brillante 16,1
+8,17,Llano Super slim fit Oscuro 17,0
+8,18,Llano Super slim fit Neutro 18,0
+8,19,Linea vertical Classic fit Brillante 19,0
+8,20,Linea vertical Classic fit Oscuro 20,0
+8,21,Linea vertical Classic fit Neutro 21,0
+8,22,Linea vertical Regular fit Brillante 22,0
+8,23,Linea vertical Regular fit Oscuro 23,0
+8,24,Linea vertical Regular fit Neutro 24,0
+8,25,Linea vertical Tailored fit Brillante 25,0
+8,26,Linea vertical Tailored fit Oscuro 26,0
+8,27,Linea vertical Tailored fit Neutro 27,0
+8,28,Linea vertical Costum fit Brillante 28,0
+8,29,Linea vertical Costum fit Oscuro 29,0
+8,30,Linea vertical Costum fit Neutro 30,0
+8,31,Linea vertical Slim fit Brillante 31,0
+8,32,Linea vertical Slim fit Oscuro 32,0
+8,33,Linea vertical Slim fit Neutro 33,0
+8,34,Linea vertical Super slim fit Brillante 34,0
+8,35,Linea vertical Super slim fit Oscuro 35,0
+8,36,Linea vertical Super slim fit Neutro 36,0
+8,37,Linea horizontal Classic fit Brillante 37,0
+8,38,Linea horizontal Classic fit Oscuro 38,0
+8,39,Linea horizontal Classic fit Neutro 39,0
+8,40,Linea horizontal Regular fit Brillante 40,1
+8,41,Linea horizontal Regular fit Oscuro 41,1
+8,42,Linea horizontal Regular fit Neutro 42,1
+8,43,Linea horizontal Tailored fit Brillante 43,0
+8,44,Linea horizontal Tailored fit Oscuro 44,0
+8,45,Linea horizontal Tailored fit Neutro 45,1
+8,46,Linea horizontal Costum fit Brillante 46,1
+8,47,Linea horizontal Costum fit Oscuro 47,0
+8,48,Linea horizontal Costum fit Neutro 48,1
+8,49,Linea horizontal Slim fit Brillante 49,0
+8,50,Linea horizontal Slim fit Oscuro 50,0
+8,51,Linea horizontal Slim fit Neutro 51,0
+8,52,Linea horizontal Super slim fit Brillante 52,1
+8,53,Linea horizontal Super slim fit Oscuro 53,1
+8,54,Linea horizontal Super slim fit Neutro 54,1
+8,55,Cuadrado Classic fit Brillante 55,0
+8,56,Cuadrado Classic fit Oscuro 56,0
+8,57,Cuadrado Classic fit Neutro 57,0
+8,58,Cuadrado Regular fit Brillante 58,1
+8,59,Cuadrado Regular fit Oscuro 59,0
+8,60,Cuadrado Regular fit Neutro 60,1
+8,61,Cuadrado Tailored fit Brillante 61,1
+8,62,Cuadrado Tailored fit Oscuro 62,0
+8,63,Cuadrado Tailored fit Neutro 63,1
+8,64,Cuadrado Costum fit Brillante 64,1
+8,65,Cuadrado Costum fit Oscuro 65,0
+8,66,Cuadrado Costum fit Neutro 66,1
+8,67,Cuadrado Slim fit Brillante 67,0
+8,68,Cuadrado Slim fit Oscuro 68,0
+8,69,Cuadrado Slim fit Neutro 69,0
+8,70,Cuadrado Super slim fit Brillante 70,1
+8,71,Cuadrado Super slim fit Oscuro 71,0
+8,72,Cuadrado Super slim fit Neutro 72,1
+8,73,Estampado Classic fit Brillante 73,0
+8,74,Estampado Classic fit Oscuro 74,0
+8,75,Estampado Classic fit Neutro 75,0
+8,76,Estampado Regular fit Brillante 76,1
+8,77,Estampado Regular fit Oscuro 77,0
+8,78,Estampado Regular fit Neutro 78,1
+8,79,Estampado Tailored fit Brillante 79,1
+8,80,Estampado Tailored fit Oscuro 80,0
+8,81,Estampado Tailored fit Neutro 81,1
+8,82,Estampado Costum fit Brillante 82,1
+8,83,Estampado Costum fit Oscuro 83,0
+8,84,Estampado Costum fit Neutro 84,1
+8,85,Estampado Slim fit Brillante 85,0
+8,86,Estampado Slim fit Oscuro 86,0
+8,87,Estampado Slim fit Neutro 87,0
+8,88,Estampado Super slim fit Brillante 88,0
+8,89,Estampado Super slim fit Oscuro 89,0
+8,90,Estampado Super slim fit Neutro 90,1
+9,1,Llano Classic fit Brillante 1,0
+9,2,Llano Classic fit Oscuro 2,1
+9,3,Llano Classic fit Neutro 3,1
+9,4,Llano Regular fit Brillante 4,0
+9,5,Llano Regular fit Oscuro 5,1
+9,6,Llano Regular fit Neutro 6,1
+9,7,Llano Tailored fit Brillante 7,0
+9,8,Llano Tailored fit Oscuro 8,0
+9,9,Llano Tailored fit Neutro 9,0
+9,10,Llano Costum fit Brillante 10,0
+9,11,Llano Costum fit Oscuro 11,0
+9,12,Llano Costum fit Neutro 12,0
+9,13,Llano Slim fit Brillante 13,0
+9,14,Llano Slim fit Oscuro 14,0
+9,15,Llano Slim fit Neutro 15,0
+9,16,Llano Super slim fit Brillante 16,0
+9,17,Llano Super slim fit Oscuro 17,0
+9,18,Llano Super slim fit Neutro 18,0
+9,19,Linea vertical Classic fit Brillante 19,0
+9,20,Linea vertical Classic fit Oscuro 20,1
+9,21,Linea vertical Classic fit Neutro 21,1
+9,22,Linea vertical Regular fit Brillante 22,0
+9,23,Linea vertical Regular fit Oscuro 23,1
+9,24,Linea vertical Regular fit Neutro 24,1
+9,25,Linea vertical Tailored fit Brillante 25,0
+9,26,Linea vertical Tailored fit Oscuro 26,0
+9,27,Linea vertical Tailored fit Neutro 27,0
+9,28,Linea vertical Costum fit Brillante 28,0
+9,29,Linea vertical Costum fit Oscuro 29,0
+9,30,Linea vertical Costum fit Neutro 30,0
+9,31,Linea vertical Slim fit Brillante 31,0
+9,32,Linea vertical Slim fit Oscuro 32,0
+9,33,Linea vertical Slim fit Neutro 33,0
+9,34,Linea vertical Super slim fit Brillante 34,0
+9,35,Linea vertical Super slim fit Oscuro 35,0
+9,36,Linea vertical Super slim fit Neutro 36,0
+9,37,Linea horizontal Classic fit Brillante 37,0
+9,38,Linea horizontal Classic fit Oscuro 38,0
+9,39,Linea horizontal Classic fit Neutro 39,0
+9,40,Linea horizontal Regular fit Brillante 40,0
+9,41,Linea horizontal Regular fit Oscuro 41,0
+9,42,Linea horizontal Regular fit Neutro 42,0
+9,43,Linea horizontal Tailored fit Brillante 43,0
+9,44,Linea horizontal Tailored fit Oscuro 44,0
+9,45,Linea horizontal Tailored fit Neutro 45,0
+9,46,Linea horizontal Costum fit Brillante 46,0
+9,47,Linea horizontal Costum fit Oscuro 47,0
+9,48,Linea horizontal Costum fit Neutro 48,0
+9,49,Linea horizontal Slim fit Brillante 49,0
+9,50,Linea horizontal Slim fit Oscuro 50,0
+9,51,Linea horizontal Slim fit Neutro 51,0
+9,52,Linea horizontal Super slim fit Brillante 52,0
+9,53,Linea horizontal Super slim fit Oscuro 53,0
+9,54,Linea horizontal Super slim fit Neutro 54,0
+9,55,Cuadrado Classic fit Brillante 55,0
+9,56,Cuadrado Classic fit Oscuro 56,0
+9,57,Cuadrado Classic fit Neutro 57,0
+9,58,Cuadrado Regular fit Brillante 58,0
+9,59,Cuadrado Regular fit Oscuro 59,0
+9,60,Cuadrado Regular fit Neutro 60,0
+9,61,Cuadrado Tailored fit Brillante 61,0
+9,62,Cuadrado Tailored fit Oscuro 62,0
+9,63,Cuadrado Tailored fit Neutro 63,0
+9,64,Cuadrado Costum fit Brillante 64,0
+9,65,Cuadrado Costum fit Oscuro 65,0
+9,66,Cuadrado Costum fit Neutro 66,0
+9,67,Cuadrado Slim fit Brillante 67,0
+9,68,Cuadrado Slim fit Oscuro 68,0
+9,69,Cuadrado Slim fit Neutro 69,0
+9,70,Cuadrado Super slim fit Brillante 70,0
+9,71,Cuadrado Super slim fit Oscuro 71,0
+9,72,Cuadrado Super slim fit Neutro 72,0
+9,73,Estampado Classic fit Brillante 73,0
+9,74,Estampado Classic fit Oscuro 74,1
+9,75,Estampado Classic fit Neutro 75,1
+9,76,Estampado Regular fit Brillante 76,0
+9,77,Estampado Regular fit Oscuro 77,1
+9,78,Estampado Regular fit Neutro 78,1
+9,79,Estampado Tailored fit Brillante 79,0
+9,80,Estampado Tailored fit Oscuro 80,0
+9,81,Estampado Tailored fit Neutro 81,0
+9,82,Estampado Costum fit Brillante 82,0
+9,83,Estampado Costum fit Oscuro 83,0
+9,84,Estampado Costum fit Neutro 84,0
+9,85,Estampado Slim fit Brillante 85,0
+9,86,Estampado Slim fit Oscuro 86,0
+9,87,Estampado Slim fit Neutro 87,0
+9,88,Estampado Super slim fit Brillante 88,0
+9,89,Estampado Super slim fit Oscuro 89,0
+9,90,Estampado Super slim fit Neutro 90,0

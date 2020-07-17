@@ -1,0 +1,361 @@
+SEXO,ID_SEXO,TIPO_CUERPO,ID_TIPO_CUERPO,TIPO,ID_TIPO,MODELO,ID_MODELO,PATRON,ID_PATRON,CORTE,ID_CORTE,TONO/COLOR,ID_TONO,PRENDA_APTA
+HOMBRE,0,TIPO V,6,CAMISA,6,Llano Classic fit Brillante 1,1,Llano,1,Classic fit,1,Brillante,1,0
+HOMBRE,0,TIPO V,6,CAMISA,6,Llano Classic fit Oscuro 2,2,Llano,1,Classic fit,1,Oscuro,2,0
+HOMBRE,0,TIPO V,6,CAMISA,6,Llano Classic fit Neutro 3,3,Llano,1,Classic fit,1,Neutro,3,0
+HOMBRE,0,TIPO V,6,CAMISA,6,Llano Regular fit Brillante 4,4,Llano,1,Regular fit,2,Brillante,1,1
+HOMBRE,0,TIPO V,6,CAMISA,6,Llano Regular fit Oscuro 5,5,Llano,1,Regular fit,2,Oscuro,2,1
+HOMBRE,0,TIPO V,6,CAMISA,6,Llano Regular fit Neutro 6,6,Llano,1,Regular fit,2,Neutro,3,1
+HOMBRE,0,TIPO V,6,CAMISA,6,Llano Tailored fit Brillante 7,7,Llano,1,Tailored fit,3,Brillante,1,1
+HOMBRE,0,TIPO V,6,CAMISA,6,Llano Tailored fit Oscuro 8,8,Llano,1,Tailored fit,3,Oscuro,2,1
+HOMBRE,0,TIPO V,6,CAMISA,6,Llano Tailored fit Neutro 9,9,Llano,1,Tailored fit,3,Neutro,3,1
+HOMBRE,0,TIPO V,6,CAMISA,6,Llano Costum fit Brillante 10,10,Llano,1,Costum fit,4,Brillante,1,1
+HOMBRE,0,TIPO V,6,CAMISA,6,Llano Costum fit Oscuro 11,11,Llano,1,Costum fit,4,Oscuro,2,1
+HOMBRE,0,TIPO V,6,CAMISA,6,Llano Costum fit Neutro 12,12,Llano,1,Costum fit,4,Neutro,3,1
+HOMBRE,0,TIPO V,6,CAMISA,6,Llano Slim fit Brillante 13,13,Llano,1,Slim fit,5,Brillante,1,1
+HOMBRE,0,TIPO V,6,CAMISA,6,Llano Slim fit Oscuro 14,14,Llano,1,Slim fit,5,Oscuro,2,1
+HOMBRE,0,TIPO V,6,CAMISA,6,Llano Slim fit Neutro 15,15,Llano,1,Slim fit,5,Neutro,3,1
+HOMBRE,0,TIPO V,6,CAMISA,6,Llano Super slim fit Brillante 16,16,Llano,1,Super slim fit,6,Brillante,1,0
+HOMBRE,0,TIPO V,6,CAMISA,6,Llano Super slim fit Oscuro 17,17,Llano,1,Super slim fit,6,Oscuro,2,0
+HOMBRE,0,TIPO V,6,CAMISA,6,Llano Super slim fit Neutro 18,18,Llano,1,Super slim fit,6,Neutro,3,0
+HOMBRE,0,TIPO V,6,CAMISA,6,Linea vertical Classic fit Brillante 19,19,Linea vertical,2,Classic fit,1,Brillante,1,0
+HOMBRE,0,TIPO V,6,CAMISA,6,Linea vertical Classic fit Oscuro 20,20,Linea vertical,2,Classic fit,1,Oscuro,2,0
+HOMBRE,0,TIPO V,6,CAMISA,6,Linea vertical Classic fit Neutro 21,21,Linea vertical,2,Classic fit,1,Neutro,3,0
+HOMBRE,0,TIPO V,6,CAMISA,6,Linea vertical Regular fit Brillante 22,22,Linea vertical,2,Regular fit,2,Brillante,1,1
+HOMBRE,0,TIPO V,6,CAMISA,6,Linea vertical Regular fit Oscuro 23,23,Linea vertical,2,Regular fit,2,Oscuro,2,1
+HOMBRE,0,TIPO V,6,CAMISA,6,Linea vertical Regular fit Neutro 24,24,Linea vertical,2,Regular fit,2,Neutro,3,1
+HOMBRE,0,TIPO V,6,CAMISA,6,Linea vertical Tailored fit Brillante 25,25,Linea vertical,2,Tailored fit,3,Brillante,1,1
+HOMBRE,0,TIPO V,6,CAMISA,6,Linea vertical Tailored fit Oscuro 26,26,Linea vertical,2,Tailored fit,3,Oscuro,2,1
+HOMBRE,0,TIPO V,6,CAMISA,6,Linea vertical Tailored fit Neutro 27,27,Linea vertical,2,Tailored fit,3,Neutro,3,1
+HOMBRE,0,TIPO V,6,CAMISA,6,Linea vertical Costum fit Brillante 28,28,Linea vertical,2,Costum fit,4,Brillante,1,1
+HOMBRE,0,TIPO V,6,CAMISA,6,Linea vertical Costum fit Oscuro 29,29,Linea vertical,2,Costum fit,4,Oscuro,2,1
+HOMBRE,0,TIPO V,6,CAMISA,6,Linea vertical Costum fit Neutro 30,30,Linea vertical,2,Costum fit,4,Neutro,3,1
+HOMBRE,0,TIPO V,6,CAMISA,6,Linea vertical Slim fit Brillante 31,31,Linea vertical,2,Slim fit,5,Brillante,1,1
+HOMBRE,0,TIPO V,6,CAMISA,6,Linea vertical Slim fit Oscuro 32,32,Linea vertical,2,Slim fit,5,Oscuro,2,1
+HOMBRE,0,TIPO V,6,CAMISA,6,Linea vertical Slim fit Neutro 33,33,Linea vertical,2,Slim fit,5,Neutro,3,1
+HOMBRE,0,TIPO V,6,CAMISA,6,Linea vertical Super slim fit Brillante 34,34,Linea vertical,2,Super slim fit,6,Brillante,1,0
+HOMBRE,0,TIPO V,6,CAMISA,6,Linea vertical Super slim fit Oscuro 35,35,Linea vertical,2,Super slim fit,6,Oscuro,2,0
+HOMBRE,0,TIPO V,6,CAMISA,6,Linea vertical Super slim fit Neutro 36,36,Linea vertical,2,Super slim fit,6,Neutro,3,0
+HOMBRE,0,TIPO V,6,CAMISA,6,Linea horizontal Classic fit Brillante 37,37,Linea horizontal,3,Classic fit,1,Brillante,1,0
+HOMBRE,0,TIPO V,6,CAMISA,6,Linea horizontal Classic fit Oscuro 38,38,Linea horizontal,3,Classic fit,1,Oscuro,2,0
+HOMBRE,0,TIPO V,6,CAMISA,6,Linea horizontal Classic fit Neutro 39,39,Linea horizontal,3,Classic fit,1,Neutro,3,0
+HOMBRE,0,TIPO V,6,CAMISA,6,Linea horizontal Regular fit Brillante 40,40,Linea horizontal,3,Regular fit,2,Brillante,1,1
+HOMBRE,0,TIPO V,6,CAMISA,6,Linea horizontal Regular fit Oscuro 41,41,Linea horizontal,3,Regular fit,2,Oscuro,2,1
+HOMBRE,0,TIPO V,6,CAMISA,6,Linea horizontal Regular fit Neutro 42,42,Linea horizontal,3,Regular fit,2,Neutro,3,1
+HOMBRE,0,TIPO V,6,CAMISA,6,Linea horizontal Tailored fit Brillante 43,43,Linea horizontal,3,Tailored fit,3,Brillante,1,1
+HOMBRE,0,TIPO V,6,CAMISA,6,Linea horizontal Tailored fit Oscuro 44,44,Linea horizontal,3,Tailored fit,3,Oscuro,2,1
+HOMBRE,0,TIPO V,6,CAMISA,6,Linea horizontal Tailored fit Neutro 45,45,Linea horizontal,3,Tailored fit,3,Neutro,3,1
+HOMBRE,0,TIPO V,6,CAMISA,6,Linea horizontal Costum fit Brillante 46,46,Linea horizontal,3,Costum fit,4,Brillante,1,1
+HOMBRE,0,TIPO V,6,CAMISA,6,Linea horizontal Costum fit Oscuro 47,47,Linea horizontal,3,Costum fit,4,Oscuro,2,1
+HOMBRE,0,TIPO V,6,CAMISA,6,Linea horizontal Costum fit Neutro 48,48,Linea horizontal,3,Costum fit,4,Neutro,3,1
+HOMBRE,0,TIPO V,6,CAMISA,6,Linea horizontal Slim fit Brillante 49,49,Linea horizontal,3,Slim fit,5,Brillante,1,1
+HOMBRE,0,TIPO V,6,CAMISA,6,Linea horizontal Slim fit Oscuro 50,50,Linea horizontal,3,Slim fit,5,Oscuro,2,1
+HOMBRE,0,TIPO V,6,CAMISA,6,Linea horizontal Slim fit Neutro 51,51,Linea horizontal,3,Slim fit,5,Neutro,3,1
+HOMBRE,0,TIPO V,6,CAMISA,6,Linea horizontal Super slim fit Brillante 52,52,Linea horizontal,3,Super slim fit,6,Brillante,1,0
+HOMBRE,0,TIPO V,6,CAMISA,6,Linea horizontal Super slim fit Oscuro 53,53,Linea horizontal,3,Super slim fit,6,Oscuro,2,0
+HOMBRE,0,TIPO V,6,CAMISA,6,Linea horizontal Super slim fit Neutro 54,54,Linea horizontal,3,Super slim fit,6,Neutro,3,0
+HOMBRE,0,TIPO V,6,CAMISA,6,Cuadrado Classic fit Brillante 55,55,Cuadrado,4,Classic fit,1,Brillante,1,0
+HOMBRE,0,TIPO V,6,CAMISA,6,Cuadrado Classic fit Oscuro 56,56,Cuadrado,4,Classic fit,1,Oscuro,2,0
+HOMBRE,0,TIPO V,6,CAMISA,6,Cuadrado Classic fit Neutro 57,57,Cuadrado,4,Classic fit,1,Neutro,3,0
+HOMBRE,0,TIPO V,6,CAMISA,6,Cuadrado Regular fit Brillante 58,58,Cuadrado,4,Regular fit,2,Brillante,1,1
+HOMBRE,0,TIPO V,6,CAMISA,6,Cuadrado Regular fit Oscuro 59,59,Cuadrado,4,Regular fit,2,Oscuro,2,1
+HOMBRE,0,TIPO V,6,CAMISA,6,Cuadrado Regular fit Neutro 60,60,Cuadrado,4,Regular fit,2,Neutro,3,1
+HOMBRE,0,TIPO V,6,CAMISA,6,Cuadrado Tailored fit Brillante 61,61,Cuadrado,4,Tailored fit,3,Brillante,1,1
+HOMBRE,0,TIPO V,6,CAMISA,6,Cuadrado Tailored fit Oscuro 62,62,Cuadrado,4,Tailored fit,3,Oscuro,2,1
+HOMBRE,0,TIPO V,6,CAMISA,6,Cuadrado Tailored fit Neutro 63,63,Cuadrado,4,Tailored fit,3,Neutro,3,1
+HOMBRE,0,TIPO V,6,CAMISA,6,Cuadrado Costum fit Brillante 64,64,Cuadrado,4,Costum fit,4,Brillante,1,1
+HOMBRE,0,TIPO V,6,CAMISA,6,Cuadrado Costum fit Oscuro 65,65,Cuadrado,4,Costum fit,4,Oscuro,2,1
+HOMBRE,0,TIPO V,6,CAMISA,6,Cuadrado Costum fit Neutro 66,66,Cuadrado,4,Costum fit,4,Neutro,3,1
+HOMBRE,0,TIPO V,6,CAMISA,6,Cuadrado Slim fit Brillante 67,67,Cuadrado,4,Slim fit,5,Brillante,1,1
+HOMBRE,0,TIPO V,6,CAMISA,6,Cuadrado Slim fit Oscuro 68,68,Cuadrado,4,Slim fit,5,Oscuro,2,1
+HOMBRE,0,TIPO V,6,CAMISA,6,Cuadrado Slim fit Neutro 69,69,Cuadrado,4,Slim fit,5,Neutro,3,1
+HOMBRE,0,TIPO V,6,CAMISA,6,Cuadrado Super slim fit Brillante 70,70,Cuadrado,4,Super slim fit,6,Brillante,1,0
+HOMBRE,0,TIPO V,6,CAMISA,6,Cuadrado Super slim fit Oscuro 71,71,Cuadrado,4,Super slim fit,6,Oscuro,2,0
+HOMBRE,0,TIPO V,6,CAMISA,6,Cuadrado Super slim fit Neutro 72,72,Cuadrado,4,Super slim fit,6,Neutro,3,0
+HOMBRE,0,TIPO V,6,CAMISA,6,Estampado Classic fit Brillante 73,73,Estampado,5,Classic fit,1,Brillante,1,0
+HOMBRE,0,TIPO V,6,CAMISA,6,Estampado Classic fit Oscuro 74,74,Estampado,5,Classic fit,1,Oscuro,2,0
+HOMBRE,0,TIPO V,6,CAMISA,6,Estampado Classic fit Neutro 75,75,Estampado,5,Classic fit,1,Neutro,3,0
+HOMBRE,0,TIPO V,6,CAMISA,6,Estampado Regular fit Brillante 76,76,Estampado,5,Regular fit,2,Brillante,1,1
+HOMBRE,0,TIPO V,6,CAMISA,6,Estampado Regular fit Oscuro 77,77,Estampado,5,Regular fit,2,Oscuro,2,1
+HOMBRE,0,TIPO V,6,CAMISA,6,Estampado Regular fit Neutro 78,78,Estampado,5,Regular fit,2,Neutro,3,1
+HOMBRE,0,TIPO V,6,CAMISA,6,Estampado Tailored fit Brillante 79,79,Estampado,5,Tailored fit,3,Brillante,1,1
+HOMBRE,0,TIPO V,6,CAMISA,6,Estampado Tailored fit Oscuro 80,80,Estampado,5,Tailored fit,3,Oscuro,2,1
+HOMBRE,0,TIPO V,6,CAMISA,6,Estampado Tailored fit Neutro 81,81,Estampado,5,Tailored fit,3,Neutro,3,1
+HOMBRE,0,TIPO V,6,CAMISA,6,Estampado Costum fit Brillante 82,82,Estampado,5,Costum fit,4,Brillante,1,1
+HOMBRE,0,TIPO V,6,CAMISA,6,Estampado Costum fit Oscuro 83,83,Estampado,5,Costum fit,4,Oscuro,2,1
+HOMBRE,0,TIPO V,6,CAMISA,6,Estampado Costum fit Neutro 84,84,Estampado,5,Costum fit,4,Neutro,3,1
+HOMBRE,0,TIPO V,6,CAMISA,6,Estampado Slim fit Brillante 85,85,Estampado,5,Slim fit,5,Brillante,1,1
+HOMBRE,0,TIPO V,6,CAMISA,6,Estampado Slim fit Oscuro 86,86,Estampado,5,Slim fit,5,Oscuro,2,1
+HOMBRE,0,TIPO V,6,CAMISA,6,Estampado Slim fit Neutro 87,87,Estampado,5,Slim fit,5,Neutro,3,1
+HOMBRE,0,TIPO V,6,CAMISA,6,Estampado Super slim fit Brillante 88,88,Estampado,5,Super slim fit,6,Brillante,1,0
+HOMBRE,0,TIPO V,6,CAMISA,6,Estampado Super slim fit Oscuro 89,89,Estampado,5,Super slim fit,6,Oscuro,2,0
+HOMBRE,0,TIPO V,6,CAMISA,6,Estampado Super slim fit Neutro 90,90,Estampado,5,Super slim fit,6,Neutro,3,0
+HOMBRE,0,TIPO O,7,CAMISA,6,Llano Classic fit Brillante 1,1,Llano,1,Classic fit,1,Brillante,1,0
+HOMBRE,0,TIPO O,7,CAMISA,6,Llano Classic fit Oscuro 2,2,Llano,1,Classic fit,1,Oscuro,2,1
+HOMBRE,0,TIPO O,7,CAMISA,6,Llano Classic fit Neutro 3,3,Llano,1,Classic fit,1,Neutro,3,1
+HOMBRE,0,TIPO O,7,CAMISA,6,Llano Regular fit Brillante 4,4,Llano,1,Regular fit,2,Brillante,1,0
+HOMBRE,0,TIPO O,7,CAMISA,6,Llano Regular fit Oscuro 5,5,Llano,1,Regular fit,2,Oscuro,2,1
+HOMBRE,0,TIPO O,7,CAMISA,6,Llano Regular fit Neutro 6,6,Llano,1,Regular fit,2,Neutro,3,1
+HOMBRE,0,TIPO O,7,CAMISA,6,Llano Tailored fit Brillante 7,7,Llano,1,Tailored fit,3,Brillante,1,0
+HOMBRE,0,TIPO O,7,CAMISA,6,Llano Tailored fit Oscuro 8,8,Llano,1,Tailored fit,3,Oscuro,2,1
+HOMBRE,0,TIPO O,7,CAMISA,6,Llano Tailored fit Neutro 9,9,Llano,1,Tailored fit,3,Neutro,3,1
+HOMBRE,0,TIPO O,7,CAMISA,6,Llano Costum fit Brillante 10,10,Llano,1,Costum fit,4,Brillante,1,0
+HOMBRE,0,TIPO O,7,CAMISA,6,Llano Costum fit Oscuro 11,11,Llano,1,Costum fit,4,Oscuro,2,0
+HOMBRE,0,TIPO O,7,CAMISA,6,Llano Costum fit Neutro 12,12,Llano,1,Costum fit,4,Neutro,3,0
+HOMBRE,0,TIPO O,7,CAMISA,6,Llano Slim fit Brillante 13,13,Llano,1,Slim fit,5,Brillante,1,0
+HOMBRE,0,TIPO O,7,CAMISA,6,Llano Slim fit Oscuro 14,14,Llano,1,Slim fit,5,Oscuro,2,0
+HOMBRE,0,TIPO O,7,CAMISA,6,Llano Slim fit Neutro 15,15,Llano,1,Slim fit,5,Neutro,3,0
+HOMBRE,0,TIPO O,7,CAMISA,6,Llano Super slim fit Brillante 16,16,Llano,1,Super slim fit,6,Brillante,1,0
+HOMBRE,0,TIPO O,7,CAMISA,6,Llano Super slim fit Oscuro 17,17,Llano,1,Super slim fit,6,Oscuro,2,0
+HOMBRE,0,TIPO O,7,CAMISA,6,Llano Super slim fit Neutro 18,18,Llano,1,Super slim fit,6,Neutro,3,0
+HOMBRE,0,TIPO O,7,CAMISA,6,Linea vertical Classic fit Brillante 19,19,Linea vertical,2,Classic fit,1,Brillante,1,0
+HOMBRE,0,TIPO O,7,CAMISA,6,Linea vertical Classic fit Oscuro 20,20,Linea vertical,2,Classic fit,1,Oscuro,2,1
+HOMBRE,0,TIPO O,7,CAMISA,6,Linea vertical Classic fit Neutro 21,21,Linea vertical,2,Classic fit,1,Neutro,3,1
+HOMBRE,0,TIPO O,7,CAMISA,6,Linea vertical Regular fit Brillante 22,22,Linea vertical,2,Regular fit,2,Brillante,1,0
+HOMBRE,0,TIPO O,7,CAMISA,6,Linea vertical Regular fit Oscuro 23,23,Linea vertical,2,Regular fit,2,Oscuro,2,1
+HOMBRE,0,TIPO O,7,CAMISA,6,Linea vertical Regular fit Neutro 24,24,Linea vertical,2,Regular fit,2,Neutro,3,1
+HOMBRE,0,TIPO O,7,CAMISA,6,Linea vertical Tailored fit Brillante 25,25,Linea vertical,2,Tailored fit,3,Brillante,1,0
+HOMBRE,0,TIPO O,7,CAMISA,6,Linea vertical Tailored fit Oscuro 26,26,Linea vertical,2,Tailored fit,3,Oscuro,2,1
+HOMBRE,0,TIPO O,7,CAMISA,6,Linea vertical Tailored fit Neutro 27,27,Linea vertical,2,Tailored fit,3,Neutro,3,1
+HOMBRE,0,TIPO O,7,CAMISA,6,Linea vertical Costum fit Brillante 28,28,Linea vertical,2,Costum fit,4,Brillante,1,0
+HOMBRE,0,TIPO O,7,CAMISA,6,Linea vertical Costum fit Oscuro 29,29,Linea vertical,2,Costum fit,4,Oscuro,2,0
+HOMBRE,0,TIPO O,7,CAMISA,6,Linea vertical Costum fit Neutro 30,30,Linea vertical,2,Costum fit,4,Neutro,3,0
+HOMBRE,0,TIPO O,7,CAMISA,6,Linea vertical Slim fit Brillante 31,31,Linea vertical,2,Slim fit,5,Brillante,1,0
+HOMBRE,0,TIPO O,7,CAMISA,6,Linea vertical Slim fit Oscuro 32,32,Linea vertical,2,Slim fit,5,Oscuro,2,0
+HOMBRE,0,TIPO O,7,CAMISA,6,Linea vertical Slim fit Neutro 33,33,Linea vertical,2,Slim fit,5,Neutro,3,0
+HOMBRE,0,TIPO O,7,CAMISA,6,Linea vertical Super slim fit Brillante 34,34,Linea vertical,2,Super slim fit,6,Brillante,1,0
+HOMBRE,0,TIPO O,7,CAMISA,6,Linea vertical Super slim fit Oscuro 35,35,Linea vertical,2,Super slim fit,6,Oscuro,2,0
+HOMBRE,0,TIPO O,7,CAMISA,6,Linea vertical Super slim fit Neutro 36,36,Linea vertical,2,Super slim fit,6,Neutro,3,0
+HOMBRE,0,TIPO O,7,CAMISA,6,Linea horizontal Classic fit Brillante 37,37,Linea horizontal,3,Classic fit,1,Brillante,1,0
+HOMBRE,0,TIPO O,7,CAMISA,6,Linea horizontal Classic fit Oscuro 38,38,Linea horizontal,3,Classic fit,1,Oscuro,2,0
+HOMBRE,0,TIPO O,7,CAMISA,6,Linea horizontal Classic fit Neutro 39,39,Linea horizontal,3,Classic fit,1,Neutro,3,0
+HOMBRE,0,TIPO O,7,CAMISA,6,Linea horizontal Regular fit Brillante 40,40,Linea horizontal,3,Regular fit,2,Brillante,1,0
+HOMBRE,0,TIPO O,7,CAMISA,6,Linea horizontal Regular fit Oscuro 41,41,Linea horizontal,3,Regular fit,2,Oscuro,2,0
+HOMBRE,0,TIPO O,7,CAMISA,6,Linea horizontal Regular fit Neutro 42,42,Linea horizontal,3,Regular fit,2,Neutro,3,0
+HOMBRE,0,TIPO O,7,CAMISA,6,Linea horizontal Tailored fit Brillante 43,43,Linea horizontal,3,Tailored fit,3,Brillante,1,0
+HOMBRE,0,TIPO O,7,CAMISA,6,Linea horizontal Tailored fit Oscuro 44,44,Linea horizontal,3,Tailored fit,3,Oscuro,2,0
+HOMBRE,0,TIPO O,7,CAMISA,6,Linea horizontal Tailored fit Neutro 45,45,Linea horizontal,3,Tailored fit,3,Neutro,3,0
+HOMBRE,0,TIPO O,7,CAMISA,6,Linea horizontal Costum fit Brillante 46,46,Linea horizontal,3,Costum fit,4,Brillante,1,0
+HOMBRE,0,TIPO O,7,CAMISA,6,Linea horizontal Costum fit Oscuro 47,47,Linea horizontal,3,Costum fit,4,Oscuro,2,0
+HOMBRE,0,TIPO O,7,CAMISA,6,Linea horizontal Costum fit Neutro 48,48,Linea horizontal,3,Costum fit,4,Neutro,3,0
+HOMBRE,0,TIPO O,7,CAMISA,6,Linea horizontal Slim fit Brillante 49,49,Linea horizontal,3,Slim fit,5,Brillante,1,0
+HOMBRE,0,TIPO O,7,CAMISA,6,Linea horizontal Slim fit Oscuro 50,50,Linea horizontal,3,Slim fit,5,Oscuro,2,0
+HOMBRE,0,TIPO O,7,CAMISA,6,Linea horizontal Slim fit Neutro 51,51,Linea horizontal,3,Slim fit,5,Neutro,3,0
+HOMBRE,0,TIPO O,7,CAMISA,6,Linea horizontal Super slim fit Brillante 52,52,Linea horizontal,3,Super slim fit,6,Brillante,1,0
+HOMBRE,0,TIPO O,7,CAMISA,6,Linea horizontal Super slim fit Oscuro 53,53,Linea horizontal,3,Super slim fit,6,Oscuro,2,0
+HOMBRE,0,TIPO O,7,CAMISA,6,Linea horizontal Super slim fit Neutro 54,54,Linea horizontal,3,Super slim fit,6,Neutro,3,0
+HOMBRE,0,TIPO O,7,CAMISA,6,Cuadrado Classic fit Brillante 55,55,Cuadrado,4,Classic fit,1,Brillante,1,0
+HOMBRE,0,TIPO O,7,CAMISA,6,Cuadrado Classic fit Oscuro 56,56,Cuadrado,4,Classic fit,1,Oscuro,2,1
+HOMBRE,0,TIPO O,7,CAMISA,6,Cuadrado Classic fit Neutro 57,57,Cuadrado,4,Classic fit,1,Neutro,3,1
+HOMBRE,0,TIPO O,7,CAMISA,6,Cuadrado Regular fit Brillante 58,58,Cuadrado,4,Regular fit,2,Brillante,1,0
+HOMBRE,0,TIPO O,7,CAMISA,6,Cuadrado Regular fit Oscuro 59,59,Cuadrado,4,Regular fit,2,Oscuro,2,1
+HOMBRE,0,TIPO O,7,CAMISA,6,Cuadrado Regular fit Neutro 60,60,Cuadrado,4,Regular fit,2,Neutro,3,1
+HOMBRE,0,TIPO O,7,CAMISA,6,Cuadrado Tailored fit Brillante 61,61,Cuadrado,4,Tailored fit,3,Brillante,1,0
+HOMBRE,0,TIPO O,7,CAMISA,6,Cuadrado Tailored fit Oscuro 62,62,Cuadrado,4,Tailored fit,3,Oscuro,2,1
+HOMBRE,0,TIPO O,7,CAMISA,6,Cuadrado Tailored fit Neutro 63,63,Cuadrado,4,Tailored fit,3,Neutro,3,1
+HOMBRE,0,TIPO O,7,CAMISA,6,Cuadrado Costum fit Brillante 64,64,Cuadrado,4,Costum fit,4,Brillante,1,0
+HOMBRE,0,TIPO O,7,CAMISA,6,Cuadrado Costum fit Oscuro 65,65,Cuadrado,4,Costum fit,4,Oscuro,2,0
+HOMBRE,0,TIPO O,7,CAMISA,6,Cuadrado Costum fit Neutro 66,66,Cuadrado,4,Costum fit,4,Neutro,3,0
+HOMBRE,0,TIPO O,7,CAMISA,6,Cuadrado Slim fit Brillante 67,67,Cuadrado,4,Slim fit,5,Brillante,1,0
+HOMBRE,0,TIPO O,7,CAMISA,6,Cuadrado Slim fit Oscuro 68,68,Cuadrado,4,Slim fit,5,Oscuro,2,0
+HOMBRE,0,TIPO O,7,CAMISA,6,Cuadrado Slim fit Neutro 69,69,Cuadrado,4,Slim fit,5,Neutro,3,0
+HOMBRE,0,TIPO O,7,CAMISA,6,Cuadrado Super slim fit Brillante 70,70,Cuadrado,4,Super slim fit,6,Brillante,1,0
+HOMBRE,0,TIPO O,7,CAMISA,6,Cuadrado Super slim fit Oscuro 71,71,Cuadrado,4,Super slim fit,6,Oscuro,2,0
+HOMBRE,0,TIPO O,7,CAMISA,6,Cuadrado Super slim fit Neutro 72,72,Cuadrado,4,Super slim fit,6,Neutro,3,0
+HOMBRE,0,TIPO O,7,CAMISA,6,Estampado Classic fit Brillante 73,73,Estampado,5,Classic fit,1,Brillante,1,0
+HOMBRE,0,TIPO O,7,CAMISA,6,Estampado Classic fit Oscuro 74,74,Estampado,5,Classic fit,1,Oscuro,2,0
+HOMBRE,0,TIPO O,7,CAMISA,6,Estampado Classic fit Neutro 75,75,Estampado,5,Classic fit,1,Neutro,3,0
+HOMBRE,0,TIPO O,7,CAMISA,6,Estampado Regular fit Brillante 76,76,Estampado,5,Regular fit,2,Brillante,1,0
+HOMBRE,0,TIPO O,7,CAMISA,6,Estampado Regular fit Oscuro 77,77,Estampado,5,Regular fit,2,Oscuro,2,0
+HOMBRE,0,TIPO O,7,CAMISA,6,Estampado Regular fit Neutro 78,78,Estampado,5,Regular fit,2,Neutro,3,0
+HOMBRE,0,TIPO O,7,CAMISA,6,Estampado Tailored fit Brillante 79,79,Estampado,5,Tailored fit,3,Brillante,1,0
+HOMBRE,0,TIPO O,7,CAMISA,6,Estampado Tailored fit Oscuro 80,80,Estampado,5,Tailored fit,3,Oscuro,2,0
+HOMBRE,0,TIPO O,7,CAMISA,6,Estampado Tailored fit Neutro 81,81,Estampado,5,Tailored fit,3,Neutro,3,0
+HOMBRE,0,TIPO O,7,CAMISA,6,Estampado Costum fit Brillante 82,82,Estampado,5,Costum fit,4,Brillante,1,0
+HOMBRE,0,TIPO O,7,CAMISA,6,Estampado Costum fit Oscuro 83,83,Estampado,5,Costum fit,4,Oscuro,2,0
+HOMBRE,0,TIPO O,7,CAMISA,6,Estampado Costum fit Neutro 84,84,Estampado,5,Costum fit,4,Neutro,3,0
+HOMBRE,0,TIPO O,7,CAMISA,6,Estampado Slim fit Brillante 85,85,Estampado,5,Slim fit,5,Brillante,1,0
+HOMBRE,0,TIPO O,7,CAMISA,6,Estampado Slim fit Oscuro 86,86,Estampado,5,Slim fit,5,Oscuro,2,0
+HOMBRE,0,TIPO O,7,CAMISA,6,Estampado Slim fit Neutro 87,87,Estampado,5,Slim fit,5,Neutro,3,0
+HOMBRE,0,TIPO O,7,CAMISA,6,Estampado Super slim fit Brillante 88,88,Estampado,5,Super slim fit,6,Brillante,1,0
+HOMBRE,0,TIPO O,7,CAMISA,6,Estampado Super slim fit Oscuro 89,89,Estampado,5,Super slim fit,6,Oscuro,2,0
+HOMBRE,0,TIPO O,7,CAMISA,6,Estampado Super slim fit Neutro 90,90,Estampado,5,Super slim fit,6,Neutro,3,0
+HOMBRE,0,TIPO H,8,CAMISA,6,Llano Classic fit Brillante 1,1,Llano,1,Classic fit,1,Brillante,1,0
+HOMBRE,0,TIPO H,8,CAMISA,6,Llano Classic fit Oscuro 2,2,Llano,1,Classic fit,1,Oscuro,2,0
+HOMBRE,0,TIPO H,8,CAMISA,6,Llano Classic fit Neutro 3,3,Llano,1,Classic fit,1,Neutro,3,0
+HOMBRE,0,TIPO H,8,CAMISA,6,Llano Regular fit Brillante 4,4,Llano,1,Regular fit,2,Brillante,1,1
+HOMBRE,0,TIPO H,8,CAMISA,6,Llano Regular fit Oscuro 5,5,Llano,1,Regular fit,2,Oscuro,2,0
+HOMBRE,0,TIPO H,8,CAMISA,6,Llano Regular fit Neutro 6,6,Llano,1,Regular fit,2,Neutro,3,1
+HOMBRE,0,TIPO H,8,CAMISA,6,Llano Tailored fit Brillante 7,7,Llano,1,Tailored fit,3,Brillante,1,1
+HOMBRE,0,TIPO H,8,CAMISA,6,Llano Tailored fit Oscuro 8,8,Llano,1,Tailored fit,3,Oscuro,2,0
+HOMBRE,0,TIPO H,8,CAMISA,6,Llano Tailored fit Neutro 9,9,Llano,1,Tailored fit,3,Neutro,3,1
+HOMBRE,0,TIPO H,8,CAMISA,6,Llano Costum fit Brillante 10,10,Llano,1,Costum fit,4,Brillante,1,1
+HOMBRE,0,TIPO H,8,CAMISA,6,Llano Costum fit Oscuro 11,11,Llano,1,Costum fit,4,Oscuro,2,0
+HOMBRE,0,TIPO H,8,CAMISA,6,Llano Costum fit Neutro 12,12,Llano,1,Costum fit,4,Neutro,3,1
+HOMBRE,0,TIPO H,8,CAMISA,6,Llano Slim fit Brillante 13,13,Llano,1,Slim fit,5,Brillante,1,0
+HOMBRE,0,TIPO H,8,CAMISA,6,Llano Slim fit Oscuro 14,14,Llano,1,Slim fit,5,Oscuro,2,0
+HOMBRE,0,TIPO H,8,CAMISA,6,Llano Slim fit Neutro 15,15,Llano,1,Slim fit,5,Neutro,3,0
+HOMBRE,0,TIPO H,8,CAMISA,6,Llano Super slim fit Brillante 16,16,Llano,1,Super slim fit,6,Brillante,1,1
+HOMBRE,0,TIPO H,8,CAMISA,6,Llano Super slim fit Oscuro 17,17,Llano,1,Super slim fit,6,Oscuro,2,0
+HOMBRE,0,TIPO H,8,CAMISA,6,Llano Super slim fit Neutro 18,18,Llano,1,Super slim fit,6,Neutro,3,1
+HOMBRE,0,TIPO H,8,CAMISA,6,Linea vertical Classic fit Brillante 19,19,Linea vertical,2,Classic fit,1,Brillante,1,0
+HOMBRE,0,TIPO H,8,CAMISA,6,Linea vertical Classic fit Oscuro 20,20,Linea vertical,2,Classic fit,1,Oscuro,2,0
+HOMBRE,0,TIPO H,8,CAMISA,6,Linea vertical Classic fit Neutro 21,21,Linea vertical,2,Classic fit,1,Neutro,3,0
+HOMBRE,0,TIPO H,8,CAMISA,6,Linea vertical Regular fit Brillante 22,22,Linea vertical,2,Regular fit,2,Brillante,1,0
+HOMBRE,0,TIPO H,8,CAMISA,6,Linea vertical Regular fit Oscuro 23,23,Linea vertical,2,Regular fit,2,Oscuro,2,0
+HOMBRE,0,TIPO H,8,CAMISA,6,Linea vertical Regular fit Neutro 24,24,Linea vertical,2,Regular fit,2,Neutro,3,0
+HOMBRE,0,TIPO H,8,CAMISA,6,Linea vertical Tailored fit Brillante 25,25,Linea vertical,2,Tailored fit,3,Brillante,1,0
+HOMBRE,0,TIPO H,8,CAMISA,6,Linea vertical Tailored fit Oscuro 26,26,Linea vertical,2,Tailored fit,3,Oscuro,2,0
+HOMBRE,0,TIPO H,8,CAMISA,6,Linea vertical Tailored fit Neutro 27,27,Linea vertical,2,Tailored fit,3,Neutro,3,0
+HOMBRE,0,TIPO H,8,CAMISA,6,Linea vertical Costum fit Brillante 28,28,Linea vertical,2,Costum fit,4,Brillante,1,0
+HOMBRE,0,TIPO H,8,CAMISA,6,Linea vertical Costum fit Oscuro 29,29,Linea vertical,2,Costum fit,4,Oscuro,2,0
+HOMBRE,0,TIPO H,8,CAMISA,6,Linea vertical Costum fit Neutro 30,30,Linea vertical,2,Costum fit,4,Neutro,3,0
+HOMBRE,0,TIPO H,8,CAMISA,6,Linea vertical Slim fit Brillante 31,31,Linea vertical,2,Slim fit,5,Brillante,1,0
+HOMBRE,0,TIPO H,8,CAMISA,6,Linea vertical Slim fit Oscuro 32,32,Linea vertical,2,Slim fit,5,Oscuro,2,0
+HOMBRE,0,TIPO H,8,CAMISA,6,Linea vertical Slim fit Neutro 33,33,Linea vertical,2,Slim fit,5,Neutro,3,0
+HOMBRE,0,TIPO H,8,CAMISA,6,Linea vertical Super slim fit Brillante 34,34,Linea vertical,2,Super slim fit,6,Brillante,1,0
+HOMBRE,0,TIPO H,8,CAMISA,6,Linea vertical Super slim fit Oscuro 35,35,Linea vertical,2,Super slim fit,6,Oscuro,2,0
+HOMBRE,0,TIPO H,8,CAMISA,6,Linea vertical Super slim fit Neutro 36,36,Linea vertical,2,Super slim fit,6,Neutro,3,0
+HOMBRE,0,TIPO H,8,CAMISA,6,Linea horizontal Classic fit Brillante 37,37,Linea horizontal,3,Classic fit,1,Brillante,1,0
+HOMBRE,0,TIPO H,8,CAMISA,6,Linea horizontal Classic fit Oscuro 38,38,Linea horizontal,3,Classic fit,1,Oscuro,2,0
+HOMBRE,0,TIPO H,8,CAMISA,6,Linea horizontal Classic fit Neutro 39,39,Linea horizontal,3,Classic fit,1,Neutro,3,0
+HOMBRE,0,TIPO H,8,CAMISA,6,Linea horizontal Regular fit Brillante 40,40,Linea horizontal,3,Regular fit,2,Brillante,1,1
+HOMBRE,0,TIPO H,8,CAMISA,6,Linea horizontal Regular fit Oscuro 41,41,Linea horizontal,3,Regular fit,2,Oscuro,2,0
+HOMBRE,0,TIPO H,8,CAMISA,6,Linea horizontal Regular fit Neutro 42,42,Linea horizontal,3,Regular fit,2,Neutro,3,1
+HOMBRE,0,TIPO H,8,CAMISA,6,Linea horizontal Tailored fit Brillante 43,43,Linea horizontal,3,Tailored fit,3,Brillante,1,1
+HOMBRE,0,TIPO H,8,CAMISA,6,Linea horizontal Tailored fit Oscuro 44,44,Linea horizontal,3,Tailored fit,3,Oscuro,2,0
+HOMBRE,0,TIPO H,8,CAMISA,6,Linea horizontal Tailored fit Neutro 45,45,Linea horizontal,3,Tailored fit,3,Neutro,3,1
+HOMBRE,0,TIPO H,8,CAMISA,6,Linea horizontal Costum fit Brillante 46,46,Linea horizontal,3,Costum fit,4,Brillante,1,1
+HOMBRE,0,TIPO H,8,CAMISA,6,Linea horizontal Costum fit Oscuro 47,47,Linea horizontal,3,Costum fit,4,Oscuro,2,0
+HOMBRE,0,TIPO H,8,CAMISA,6,Linea horizontal Costum fit Neutro 48,48,Linea horizontal,3,Costum fit,4,Neutro,3,1
+HOMBRE,0,TIPO H,8,CAMISA,6,Linea horizontal Slim fit Brillante 49,49,Linea horizontal,3,Slim fit,5,Brillante,1,0
+HOMBRE,0,TIPO H,8,CAMISA,6,Linea horizontal Slim fit Oscuro 50,50,Linea horizontal,3,Slim fit,5,Oscuro,2,0
+HOMBRE,0,TIPO H,8,CAMISA,6,Linea horizontal Slim fit Neutro 51,51,Linea horizontal,3,Slim fit,5,Neutro,3,0
+HOMBRE,0,TIPO H,8,CAMISA,6,Linea horizontal Super slim fit Brillante 52,52,Linea horizontal,3,Super slim fit,6,Brillante,1,1
+HOMBRE,0,TIPO H,8,CAMISA,6,Linea horizontal Super slim fit Oscuro 53,53,Linea horizontal,3,Super slim fit,6,Oscuro,2,0
+HOMBRE,0,TIPO H,8,CAMISA,6,Linea horizontal Super slim fit Neutro 54,54,Linea horizontal,3,Super slim fit,6,Neutro,3,1
+HOMBRE,0,TIPO H,8,CAMISA,6,Cuadrado Classic fit Brillante 55,55,Cuadrado,4,Classic fit,1,Brillante,1,0
+HOMBRE,0,TIPO H,8,CAMISA,6,Cuadrado Classic fit Oscuro 56,56,Cuadrado,4,Classic fit,1,Oscuro,2,0
+HOMBRE,0,TIPO H,8,CAMISA,6,Cuadrado Classic fit Neutro 57,57,Cuadrado,4,Classic fit,1,Neutro,3,0
+HOMBRE,0,TIPO H,8,CAMISA,6,Cuadrado Regular fit Brillante 58,58,Cuadrado,4,Regular fit,2,Brillante,1,1
+HOMBRE,0,TIPO H,8,CAMISA,6,Cuadrado Regular fit Oscuro 59,59,Cuadrado,4,Regular fit,2,Oscuro,2,0
+HOMBRE,0,TIPO H,8,CAMISA,6,Cuadrado Regular fit Neutro 60,60,Cuadrado,4,Regular fit,2,Neutro,3,1
+HOMBRE,0,TIPO H,8,CAMISA,6,Cuadrado Tailored fit Brillante 61,61,Cuadrado,4,Tailored fit,3,Brillante,1,1
+HOMBRE,0,TIPO H,8,CAMISA,6,Cuadrado Tailored fit Oscuro 62,62,Cuadrado,4,Tailored fit,3,Oscuro,2,0
+HOMBRE,0,TIPO H,8,CAMISA,6,Cuadrado Tailored fit Neutro 63,63,Cuadrado,4,Tailored fit,3,Neutro,3,1
+HOMBRE,0,TIPO H,8,CAMISA,6,Cuadrado Costum fit Brillante 64,64,Cuadrado,4,Costum fit,4,Brillante,1,1
+HOMBRE,0,TIPO H,8,CAMISA,6,Cuadrado Costum fit Oscuro 65,65,Cuadrado,4,Costum fit,4,Oscuro,2,0
+HOMBRE,0,TIPO H,8,CAMISA,6,Cuadrado Costum fit Neutro 66,66,Cuadrado,4,Costum fit,4,Neutro,3,1
+HOMBRE,0,TIPO H,8,CAMISA,6,Cuadrado Slim fit Brillante 67,67,Cuadrado,4,Slim fit,5,Brillante,1,0
+HOMBRE,0,TIPO H,8,CAMISA,6,Cuadrado Slim fit Oscuro 68,68,Cuadrado,4,Slim fit,5,Oscuro,2,0
+HOMBRE,0,TIPO H,8,CAMISA,6,Cuadrado Slim fit Neutro 69,69,Cuadrado,4,Slim fit,5,Neutro,3,0
+HOMBRE,0,TIPO H,8,CAMISA,6,Cuadrado Super slim fit Brillante 70,70,Cuadrado,4,Super slim fit,6,Brillante,1,1
+HOMBRE,0,TIPO H,8,CAMISA,6,Cuadrado Super slim fit Oscuro 71,71,Cuadrado,4,Super slim fit,6,Oscuro,2,0
+HOMBRE,0,TIPO H,8,CAMISA,6,Cuadrado Super slim fit Neutro 72,72,Cuadrado,4,Super slim fit,6,Neutro,3,1
+HOMBRE,0,TIPO H,8,CAMISA,6,Estampado Classic fit Brillante 73,73,Estampado,5,Classic fit,1,Brillante,1,0
+HOMBRE,0,TIPO H,8,CAMISA,6,Estampado Classic fit Oscuro 74,74,Estampado,5,Classic fit,1,Oscuro,2,0
+HOMBRE,0,TIPO H,8,CAMISA,6,Estampado Classic fit Neutro 75,75,Estampado,5,Classic fit,1,Neutro,3,0
+HOMBRE,0,TIPO H,8,CAMISA,6,Estampado Regular fit Brillante 76,76,Estampado,5,Regular fit,2,Brillante,1,1
+HOMBRE,0,TIPO H,8,CAMISA,6,Estampado Regular fit Oscuro 77,77,Estampado,5,Regular fit,2,Oscuro,2,0
+HOMBRE,0,TIPO H,8,CAMISA,6,Estampado Regular fit Neutro 78,78,Estampado,5,Regular fit,2,Neutro,3,1
+HOMBRE,0,TIPO H,8,CAMISA,6,Estampado Tailored fit Brillante 79,79,Estampado,5,Tailored fit,3,Brillante,1,1
+HOMBRE,0,TIPO H,8,CAMISA,6,Estampado Tailored fit Oscuro 80,80,Estampado,5,Tailored fit,3,Oscuro,2,0
+HOMBRE,0,TIPO H,8,CAMISA,6,Estampado Tailored fit Neutro 81,81,Estampado,5,Tailored fit,3,Neutro,3,1
+HOMBRE,0,TIPO H,8,CAMISA,6,Estampado Costum fit Brillante 82,82,Estampado,5,Costum fit,4,Brillante,1,1
+HOMBRE,0,TIPO H,8,CAMISA,6,Estampado Costum fit Oscuro 83,83,Estampado,5,Costum fit,4,Oscuro,2,0
+HOMBRE,0,TIPO H,8,CAMISA,6,Estampado Costum fit Neutro 84,84,Estampado,5,Costum fit,4,Neutro,3,1
+HOMBRE,0,TIPO H,8,CAMISA,6,Estampado Slim fit Brillante 85,85,Estampado,5,Slim fit,5,Brillante,1,0
+HOMBRE,0,TIPO H,8,CAMISA,6,Estampado Slim fit Oscuro 86,86,Estampado,5,Slim fit,5,Oscuro,2,0
+HOMBRE,0,TIPO H,8,CAMISA,6,Estampado Slim fit Neutro 87,87,Estampado,5,Slim fit,5,Neutro,3,0
+HOMBRE,0,TIPO H,8,CAMISA,6,Estampado Super slim fit Brillante 88,88,Estampado,5,Super slim fit,6,Brillante,1,1
+HOMBRE,0,TIPO H,8,CAMISA,6,Estampado Super slim fit Oscuro 89,89,Estampado,5,Super slim fit,6,Oscuro,2,0
+HOMBRE,0,TIPO H,8,CAMISA,6,Estampado Super slim fit Neutro 90,90,Estampado,5,Super slim fit,6,Neutro,3,1
+HOMBRE,0,TIPO A,9,CAMISA,6,Llano Classic fit Brillante 1,1,Llano,1,Classic fit,1,Brillante,1,0
+HOMBRE,0,TIPO A,9,CAMISA,6,Llano Classic fit Oscuro 2,2,Llano,1,Classic fit,1,Oscuro,2,1
+HOMBRE,0,TIPO A,9,CAMISA,6,Llano Classic fit Neutro 3,3,Llano,1,Classic fit,1,Neutro,3,1
+HOMBRE,0,TIPO A,9,CAMISA,6,Llano Regular fit Brillante 4,4,Llano,1,Regular fit,2,Brillante,1,0
+HOMBRE,0,TIPO A,9,CAMISA,6,Llano Regular fit Oscuro 5,5,Llano,1,Regular fit,2,Oscuro,2,1
+HOMBRE,0,TIPO A,9,CAMISA,6,Llano Regular fit Neutro 6,6,Llano,1,Regular fit,2,Neutro,3,1
+HOMBRE,0,TIPO A,9,CAMISA,6,Llano Tailored fit Brillante 7,7,Llano,1,Tailored fit,3,Brillante,1,0
+HOMBRE,0,TIPO A,9,CAMISA,6,Llano Tailored fit Oscuro 8,8,Llano,1,Tailored fit,3,Oscuro,2,0
+HOMBRE,0,TIPO A,9,CAMISA,6,Llano Tailored fit Neutro 9,9,Llano,1,Tailored fit,3,Neutro,3,0
+HOMBRE,0,TIPO A,9,CAMISA,6,Llano Costum fit Brillante 10,10,Llano,1,Costum fit,4,Brillante,1,0
+HOMBRE,0,TIPO A,9,CAMISA,6,Llano Costum fit Oscuro 11,11,Llano,1,Costum fit,4,Oscuro,2,0
+HOMBRE,0,TIPO A,9,CAMISA,6,Llano Costum fit Neutro 12,12,Llano,1,Costum fit,4,Neutro,3,0
+HOMBRE,0,TIPO A,9,CAMISA,6,Llano Slim fit Brillante 13,13,Llano,1,Slim fit,5,Brillante,1,0
+HOMBRE,0,TIPO A,9,CAMISA,6,Llano Slim fit Oscuro 14,14,Llano,1,Slim fit,5,Oscuro,2,0
+HOMBRE,0,TIPO A,9,CAMISA,6,Llano Slim fit Neutro 15,15,Llano,1,Slim fit,5,Neutro,3,0
+HOMBRE,0,TIPO A,9,CAMISA,6,Llano Super slim fit Brillante 16,16,Llano,1,Super slim fit,6,Brillante,1,0
+HOMBRE,0,TIPO A,9,CAMISA,6,Llano Super slim fit Oscuro 17,17,Llano,1,Super slim fit,6,Oscuro,2,0
+HOMBRE,0,TIPO A,9,CAMISA,6,Llano Super slim fit Neutro 18,18,Llano,1,Super slim fit,6,Neutro,3,0
+HOMBRE,0,TIPO A,9,CAMISA,6,Linea vertical Classic fit Brillante 19,19,Linea vertical,2,Classic fit,1,Brillante,1,0
+HOMBRE,0,TIPO A,9,CAMISA,6,Linea vertical Classic fit Oscuro 20,20,Linea vertical,2,Classic fit,1,Oscuro,2,1
+HOMBRE,0,TIPO A,9,CAMISA,6,Linea vertical Classic fit Neutro 21,21,Linea vertical,2,Classic fit,1,Neutro,3,1
+HOMBRE,0,TIPO A,9,CAMISA,6,Linea vertical Regular fit Brillante 22,22,Linea vertical,2,Regular fit,2,Brillante,1,0
+HOMBRE,0,TIPO A,9,CAMISA,6,Linea vertical Regular fit Oscuro 23,23,Linea vertical,2,Regular fit,2,Oscuro,2,1
+HOMBRE,0,TIPO A,9,CAMISA,6,Linea vertical Regular fit Neutro 24,24,Linea vertical,2,Regular fit,2,Neutro,3,1
+HOMBRE,0,TIPO A,9,CAMISA,6,Linea vertical Tailored fit Brillante 25,25,Linea vertical,2,Tailored fit,3,Brillante,1,0
+HOMBRE,0,TIPO A,9,CAMISA,6,Linea vertical Tailored fit Oscuro 26,26,Linea vertical,2,Tailored fit,3,Oscuro,2,0
+HOMBRE,0,TIPO A,9,CAMISA,6,Linea vertical Tailored fit Neutro 27,27,Linea vertical,2,Tailored fit,3,Neutro,3,0
+HOMBRE,0,TIPO A,9,CAMISA,6,Linea vertical Costum fit Brillante 28,28,Linea vertical,2,Costum fit,4,Brillante,1,0
+HOMBRE,0,TIPO A,9,CAMISA,6,Linea vertical Costum fit Oscuro 29,29,Linea vertical,2,Costum fit,4,Oscuro,2,0
+HOMBRE,0,TIPO A,9,CAMISA,6,Linea vertical Costum fit Neutro 30,30,Linea vertical,2,Costum fit,4,Neutro,3,0
+HOMBRE,0,TIPO A,9,CAMISA,6,Linea vertical Slim fit Brillante 31,31,Linea vertical,2,Slim fit,5,Brillante,1,0
+HOMBRE,0,TIPO A,9,CAMISA,6,Linea vertical Slim fit Oscuro 32,32,Linea vertical,2,Slim fit,5,Oscuro,2,0
+HOMBRE,0,TIPO A,9,CAMISA,6,Linea vertical Slim fit Neutro 33,33,Linea vertical,2,Slim fit,5,Neutro,3,0
+HOMBRE,0,TIPO A,9,CAMISA,6,Linea vertical Super slim fit Brillante 34,34,Linea vertical,2,Super slim fit,6,Brillante,1,0
+HOMBRE,0,TIPO A,9,CAMISA,6,Linea vertical Super slim fit Oscuro 35,35,Linea vertical,2,Super slim fit,6,Oscuro,2,0
+HOMBRE,0,TIPO A,9,CAMISA,6,Linea vertical Super slim fit Neutro 36,36,Linea vertical,2,Super slim fit,6,Neutro,3,0
+HOMBRE,0,TIPO A,9,CAMISA,6,Linea horizontal Classic fit Brillante 37,37,Linea horizontal,3,Classic fit,1,Brillante,1,0
+HOMBRE,0,TIPO A,9,CAMISA,6,Linea horizontal Classic fit Oscuro 38,38,Linea horizontal,3,Classic fit,1,Oscuro,2,0
+HOMBRE,0,TIPO A,9,CAMISA,6,Linea horizontal Classic fit Neutro 39,39,Linea horizontal,3,Classic fit,1,Neutro,3,0
+HOMBRE,0,TIPO A,9,CAMISA,6,Linea horizontal Regular fit Brillante 40,40,Linea horizontal,3,Regular fit,2,Brillante,1,0
+HOMBRE,0,TIPO A,9,CAMISA,6,Linea horizontal Regular fit Oscuro 41,41,Linea horizontal,3,Regular fit,2,Oscuro,2,0
+HOMBRE,0,TIPO A,9,CAMISA,6,Linea horizontal Regular fit Neutro 42,42,Linea horizontal,3,Regular fit,2,Neutro,3,0
+HOMBRE,0,TIPO A,9,CAMISA,6,Linea horizontal Tailored fit Brillante 43,43,Linea horizontal,3,Tailored fit,3,Brillante,1,0
+HOMBRE,0,TIPO A,9,CAMISA,6,Linea horizontal Tailored fit Oscuro 44,44,Linea horizontal,3,Tailored fit,3,Oscuro,2,0
+HOMBRE,0,TIPO A,9,CAMISA,6,Linea horizontal Tailored fit Neutro 45,45,Linea horizontal,3,Tailored fit,3,Neutro,3,0
+HOMBRE,0,TIPO A,9,CAMISA,6,Linea horizontal Costum fit Brillante 46,46,Linea horizontal,3,Costum fit,4,Brillante,1,0
+HOMBRE,0,TIPO A,9,CAMISA,6,Linea horizontal Costum fit Oscuro 47,47,Linea horizontal,3,Costum fit,4,Oscuro,2,0
+HOMBRE,0,TIPO A,9,CAMISA,6,Linea horizontal Costum fit Neutro 48,48,Linea horizontal,3,Costum fit,4,Neutro,3,0
+HOMBRE,0,TIPO A,9,CAMISA,6,Linea horizontal Slim fit Brillante 49,49,Linea horizontal,3,Slim fit,5,Brillante,1,0
+HOMBRE,0,TIPO A,9,CAMISA,6,Linea horizontal Slim fit Oscuro 50,50,Linea horizontal,3,Slim fit,5,Oscuro,2,0
+HOMBRE,0,TIPO A,9,CAMISA,6,Linea horizontal Slim fit Neutro 51,51,Linea horizontal,3,Slim fit,5,Neutro,3,0
+HOMBRE,0,TIPO A,9,CAMISA,6,Linea horizontal Super slim fit Brillante 52,52,Linea horizontal,3,Super slim fit,6,Brillante,1,0
+HOMBRE,0,TIPO A,9,CAMISA,6,Linea horizontal Super slim fit Oscuro 53,53,Linea horizontal,3,Super slim fit,6,Oscuro,2,0
+HOMBRE,0,TIPO A,9,CAMISA,6,Linea horizontal Super slim fit Neutro 54,54,Linea horizontal,3,Super slim fit,6,Neutro,3,0
+HOMBRE,0,TIPO A,9,CAMISA,6,Cuadrado Classic fit Brillante 55,55,Cuadrado,4,Classic fit,1,Brillante,1,0
+HOMBRE,0,TIPO A,9,CAMISA,6,Cuadrado Classic fit Oscuro 56,56,Cuadrado,4,Classic fit,1,Oscuro,2,0
+HOMBRE,0,TIPO A,9,CAMISA,6,Cuadrado Classic fit Neutro 57,57,Cuadrado,4,Classic fit,1,Neutro,3,0
+HOMBRE,0,TIPO A,9,CAMISA,6,Cuadrado Regular fit Brillante 58,58,Cuadrado,4,Regular fit,2,Brillante,1,0
+HOMBRE,0,TIPO A,9,CAMISA,6,Cuadrado Regular fit Oscuro 59,59,Cuadrado,4,Regular fit,2,Oscuro,2,0
+HOMBRE,0,TIPO A,9,CAMISA,6,Cuadrado Regular fit Neutro 60,60,Cuadrado,4,Regular fit,2,Neutro,3,0
+HOMBRE,0,TIPO A,9,CAMISA,6,Cuadrado Tailored fit Brillante 61,61,Cuadrado,4,Tailored fit,3,Brillante,1,0
+HOMBRE,0,TIPO A,9,CAMISA,6,Cuadrado Tailored fit Oscuro 62,62,Cuadrado,4,Tailored fit,3,Oscuro,2,0
+HOMBRE,0,TIPO A,9,CAMISA,6,Cuadrado Tailored fit Neutro 63,63,Cuadrado,4,Tailored fit,3,Neutro,3,0
+HOMBRE,0,TIPO A,9,CAMISA,6,Cuadrado Costum fit Brillante 64,64,Cuadrado,4,Costum fit,4,Brillante,1,0
+HOMBRE,0,TIPO A,9,CAMISA,6,Cuadrado Costum fit Oscuro 65,65,Cuadrado,4,Costum fit,4,Oscuro,2,0
+HOMBRE,0,TIPO A,9,CAMISA,6,Cuadrado Costum fit Neutro 66,66,Cuadrado,4,Costum fit,4,Neutro,3,0
+HOMBRE,0,TIPO A,9,CAMISA,6,Cuadrado Slim fit Brillante 67,67,Cuadrado,4,Slim fit,5,Brillante,1,0
+HOMBRE,0,TIPO A,9,CAMISA,6,Cuadrado Slim fit Oscuro 68,68,Cuadrado,4,Slim fit,5,Oscuro,2,0
+HOMBRE,0,TIPO A,9,CAMISA,6,Cuadrado Slim fit Neutro 69,69,Cuadrado,4,Slim fit,5,Neutro,3,0
+HOMBRE,0,TIPO A,9,CAMISA,6,Cuadrado Super slim fit Brillante 70,70,Cuadrado,4,Super slim fit,6,Brillante,1,0
+HOMBRE,0,TIPO A,9,CAMISA,6,Cuadrado Super slim fit Oscuro 71,71,Cuadrado,4,Super slim fit,6,Oscuro,2,0
+HOMBRE,0,TIPO A,9,CAMISA,6,Cuadrado Super slim fit Neutro 72,72,Cuadrado,4,Super slim fit,6,Neutro,3,0
+HOMBRE,0,TIPO A,9,CAMISA,6,Estampado Classic fit Brillante 73,73,Estampado,5,Classic fit,1,Brillante,1,0
+HOMBRE,0,TIPO A,9,CAMISA,6,Estampado Classic fit Oscuro 74,74,Estampado,5,Classic fit,1,Oscuro,2,1
+HOMBRE,0,TIPO A,9,CAMISA,6,Estampado Classic fit Neutro 75,75,Estampado,5,Classic fit,1,Neutro,3,1
+HOMBRE,0,TIPO A,9,CAMISA,6,Estampado Regular fit Brillante 76,76,Estampado,5,Regular fit,2,Brillante,1,0
+HOMBRE,0,TIPO A,9,CAMISA,6,Estampado Regular fit Oscuro 77,77,Estampado,5,Regular fit,2,Oscuro,2,1
+HOMBRE,0,TIPO A,9,CAMISA,6,Estampado Regular fit Neutro 78,78,Estampado,5,Regular fit,2,Neutro,3,1
+HOMBRE,0,TIPO A,9,CAMISA,6,Estampado Tailored fit Brillante 79,79,Estampado,5,Tailored fit,3,Brillante,1,0
+HOMBRE,0,TIPO A,9,CAMISA,6,Estampado Tailored fit Oscuro 80,80,Estampado,5,Tailored fit,3,Oscuro,2,0
+HOMBRE,0,TIPO A,9,CAMISA,6,Estampado Tailored fit Neutro 81,81,Estampado,5,Tailored fit,3,Neutro,3,0
+HOMBRE,0,TIPO A,9,CAMISA,6,Estampado Costum fit Brillante 82,82,Estampado,5,Costum fit,4,Brillante,1,0
+HOMBRE,0,TIPO A,9,CAMISA,6,Estampado Costum fit Oscuro 83,83,Estampado,5,Costum fit,4,Oscuro,2,0
+HOMBRE,0,TIPO A,9,CAMISA,6,Estampado Costum fit Neutro 84,84,Estampado,5,Costum fit,4,Neutro,3,0
+HOMBRE,0,TIPO A,9,CAMISA,6,Estampado Slim fit Brillante 85,85,Estampado,5,Slim fit,5,Brillante,1,0
+HOMBRE,0,TIPO A,9,CAMISA,6,Estampado Slim fit Oscuro 86,86,Estampado,5,Slim fit,5,Oscuro,2,0
+HOMBRE,0,TIPO A,9,CAMISA,6,Estampado Slim fit Neutro 87,87,Estampado,5,Slim fit,5,Neutro,3,0
+HOMBRE,0,TIPO A,9,CAMISA,6,Estampado Super slim fit Brillante 88,88,Estampado,5,Super slim fit,6,Brillante,1,0
+HOMBRE,0,TIPO A,9,CAMISA,6,Estampado Super slim fit Oscuro 89,89,Estampado,5,Super slim fit,6,Oscuro,2,0
+HOMBRE,0,TIPO A,9,CAMISA,6,Estampado Super slim fit Neutro 90,90,Estampado,5,Super slim fit,6,Neutro,3,0
