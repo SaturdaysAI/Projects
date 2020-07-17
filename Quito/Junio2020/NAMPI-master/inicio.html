@@ -1,0 +1,442 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <!-- Tell the browser to be responsive to screen width -->
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <!-- Favicon icon -->
+    <link rel="icon" type="image/png" sizes="16x16" href="assets/images/favicon.png">
+    <title>Nampi | Optimizador de rutas de entrega</title>
+    <link href="assets/libs/c3/c3.min.css" rel="stylesheet">
+    <!-- Vector CSS -->
+    <link href="assets/libs/jvectormap/jquery-jvectormap.css" rel="stylesheet" />
+    <!-- Custom CSS -->
+    <link href="dist/css/style.min.css" rel="stylesheet">
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+    <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+<style type="text/css">
+    iframe {
+        overflow: hidden;
+        overflow-x: hidden;
+        overflow-y: hidden;
+        top: 0px;
+        left: 0px;
+        right: 0px;
+        bottom: 0px; width: 100%; height: 800px;
+    }
+</style>
+</head>
+
+<body>
+    <!-- ============================================================== -->
+    <!-- Preloader - style you can find in spinners.css -->
+    <!-- ============================================================== -->
+    <div class="preloader">
+        <div class="lds-ripple">
+            <div class="lds-pos"></div>
+            <div class="lds-pos"></div>
+        </div>
+    </div>
+    <!-- ============================================================== -->
+    <!-- Main wrapper - style you can find in pages.scss -->
+    <!-- ============================================================== -->
+    <div id="main-wrapper">
+        <!-- ============================================================== -->
+        <!-- Topbar header - style you can find in pages.scss -->
+        <!-- ============================================================== -->
+        <header class="topbar">
+            <nav class="navbar top-navbar navbar-expand-md navbar-dark">
+                <div class="navbar-header">
+                    <!-- This is for the sidebar toggle which is visible on mobile only -->
+                    <a class="nav-toggler waves-effect waves-light d-block d-md-none" href="javascript:void(0)"><i
+                            class="ti-menu ti-close"></i></a>
+                    <!-- ============================================================== -->
+                    <!-- Logo -->
+                    <!-- ============================================================== -->
+                    <a class="navbar-brand" href="inicio.html">
+                        <!-- Logo text -->
+                        <span class="logo-text">
+                            <!-- Light Logo text -->
+                            <img src="assets/images/logo.png" class="light-logo" alt="homepage" />
+                        </span>
+                    </a>
+                    <!-- ============================================================== -->
+                    <!-- End Logo -->
+                    <!-- ============================================================== -->
+                    <!-- ============================================================== -->
+                    <!-- Toggle which is visible on mobile only -->
+                    <!-- ============================================================== -->
+                    <a class="topbartoggler d-block d-md-none waves-effect waves-light" href="javascript:void(0)"
+                        data-toggle="collapse" data-target="#navbarSupportedContent"
+                        aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"><i
+                            class="ti-more"></i></a>
+                </div>
+                <!-- ============================================================== -->
+                <!-- End Logo -->
+                <!-- ============================================================== -->
+                <div class="navbar-collapse collapse" id="navbarSupportedContent">
+                    <!-- ============================================================== -->
+                    <!-- toggle and nav items -->
+                    <!-- ============================================================== -->
+                    <ul class="navbar-nav mr-auto float-left">
+                        <!-- This is  -->
+                        <li class="nav-item"> <a
+                                class="nav-link sidebartoggler d-none d-md-block waves-effect waves-dark"
+                                href="javascript:void(0)"><i class="ti-menu"></i></a> </li>
+                        <!-- ============================================================== -->
+                        <!-- Search -->
+                        <!-- ============================================================== -->
+                        <li class="nav-item d-none d-md-block search-box"> <a
+                                class="nav-link d-none d-md-block waves-effect waves-dark" href="javascript:void(0)"><i
+                                    class="ti-search"></i></a>
+                            <form class="app-search">
+                                <input type="text" class="form-control" placeholder="Search & enter">
+                                <a class="srh-btn"><i class="ti-close"></i></a>
+                            </form>
+                        </li>
+                    </ul>
+                    <!-- ============================================================== -->
+                    <!-- Right side toggle and nav items -->
+                    <!-- ============================================================== -->
+                    <ul class="navbar-nav float-right">
+                        <!-- ============================================================== -->
+                        <!-- Comment -->
+                        <!-- ============================================================== -->
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle waves-effect waves-dark" href="" data-toggle="dropdown"
+                                aria-haspopup="true" aria-expanded="false"> <i class="mdi mdi-message"></i>
+                                <div class="notify"> <span class="heartbit"></span> <span class="point"></span> </div>
+                            </a>
+                            <div class="dropdown-menu dropdown-menu-right mailbox scale-up">
+                                <ul class="list-style-none">
+                                    <li>
+                                        <div class="border-bottom rounded-top py-3 px-4">
+                                            <h5 class="mb-0 font-weight-medium">Notificaciones</h5>
+                                        </div>
+                                    </li>
+                                    <li>
+                                        <div class="message-center notifications position-relative"
+                                            style="height:250px;">
+                                            <!-- Message -->
+                                            <a href="javascript:void(0)"
+                                                class="message-item d-flex align-items-center border-bottom px-3 py-2">
+                                                <span class="btn btn-danger rounded-circle btn-circle"><i
+                                                        class="fa fa-link"></i></span>
+                                                <div class="w-75 d-inline-block v-middle pl-2">
+                                                    <h5 class="message-title mb-0 mt-1">Nueva Ruta óptima encontrada
+                                                    </h5> <span
+                                                        class="font-12 text-nowrap d-block text-muted text-truncate">Sur
+                                                        de Quito - Latacunga</span> <span
+                                                        class="font-12 text-nowrap d-block text-muted">9:30 AM</span>
+                                                </div>
+                                            </a>
+                                            <!-- Message -->
+                                            <a href="javascript:void(0)"
+                                                class="message-item d-flex align-items-center border-bottom px-3 py-2">
+                                                <span class="btn btn-success rounded-circle btn-circle"><i
+                                                        class="ti-calendar"></i></span>
+                                                <div class="w-75 d-inline-block v-middle pl-2">
+                                                    <h5 class="message-title mb-0 mt-1">Cargar datos de clientes</h5>
+                                                    <span
+                                                        class="font-12 text-nowrap d-block text-muted text-truncate">Datos
+                                                        de los clientes de mayo</span> <span
+                                                        class="font-12 text-nowrap d-block text-muted">9:10 AM</span>
+                                                </div>
+                                            </a>
+                                        </div>
+                                    </li>
+                                    <li>
+                                        <a class="nav-link border-top text-center text-dark pt-3"
+                                            href="javascript:void(0);"> <strong>Ver todas</strong> <i
+                                                class="fa fa-angle-right"></i> </a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </li>
+                        <!-- ============================================================== -->
+                        <!-- End Comment -->
+                        <!-- ============================================================== -->
+                        <!-- ============================================================== -->
+
+                        <!-- ============================================================== -->
+                        <!-- Profile -->
+                        <!-- ============================================================== -->
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle waves-effect waves-dark" href="" data-toggle="dropdown"
+                                aria-haspopup="true" aria-expanded="false">
+                                <img src="assets/images/users/1.jpg" alt="user" width="30"
+                                    class="profile-pic rounded-circle" />
+                            </a>
+                            <div class="dropdown-menu mailbox dropdown-menu-right scale-up">
+                                <ul class="dropdown-user list-style-none">
+                                    <li>
+                                        <div class="dw-user-box p-3 d-flex">
+                                            <div class="u-img"><img src="assets/images/users/1.jpg" alt="user"
+                                                    class="rounded" width="80"></div>
+                                            <div class="u-text ml-2">
+                                                <h4 class="mb-0">Andrea Escobar</h4>
+                                                <p class="text-muted mb-1 font-14">andrea.e@gmail.com</p>
+                                            </div>
+                                        </div>
+                                    </li>
+                                </ul>
+                            </div>
+                        </li>
+                        <!-- ============================================================== -->
+                        <!-- Language -->
+                        <!-- ============================================================== -->
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle text-muted waves-effect waves-dark" href=""
+                                data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> <i
+                                    class="flag-icon flag-icon-ec"></i></a>
+                            <div class="dropdown-menu dropdown-menu-right scale-up"> <a class="dropdown-item"
+                                    href="#"><i class="flag-icon flag-icon-us"></i> USA</a> <a class="dropdown-item"
+                                    href="#"><i class="flag-icon flag-icon-pe"></i> Perú</a>
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+            </nav>
+        </header>
+        <!-- ============================================================== -->
+        <!-- End Topbar header -->
+        <!-- ============================================================== -->
+        <!-- ============================================================== -->
+        <!-- Left Sidebar - style you can find in sidebar.scss  -->
+        <!-- ============================================================== -->
+        <aside class="left-sidebar">
+            <!-- Sidebar scroll-->
+            <div class="scroll-sidebar">
+                <!-- User profile -->
+                <div class="user-profile position-relative"
+                    style="background: url(assets/images/background/user-info.jpg) no-repeat;">
+                    <!-- User profile image -->
+                    <div class="profile-img"> <img src="assets/images/users/profile.png" alt="user" class="w-100" />
+                    </div>
+                    <!-- User profile text-->
+                    <div class="profile-text pt-1">
+                        <a href="#" class="dropdown-toggle u-dropdown w-100 text-white d-block position-relative"
+                            data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="true">Andrea
+                            Escobar</a>
+                        <div class="dropdown-menu animated flipInY">
+                            <a href="#" class="dropdown-item"><i class="ti-user"></i>
+                                Mi perfil</a>
+                        </div>
+                    </div>
+                </div>
+                <!-- End User profile text-->
+                <!-- Sidebar navigation-->
+                <nav class="sidebar-nav">
+                    <ul id="sidebarnav">
+                        <li class="sidebar-item"> <a class="sidebar-link waves-effect waves-dark sidebar-link"
+                                href="inicio.html" aria-expanded="false"><i class="mdi mdi-gauge"></i><span
+                                    class="hide-menu">Optimizar Ruta</span></a></li>
+                        <li class="sidebar-item"> <a class="sidebar-link waves-effect waves-dark sidebar-link"
+                                href="app-calendar.html" aria-expanded="false"><i class="mdi mdi-calendar"></i><span
+                                    class="hide-menu">Calendario</span></a></li>
+                        <li class="sidebar-item"> <a class="sidebar-link waves-effect waves-dark sidebar-link"
+                                href="app-chats.html" aria-expanded="false"><i
+                                    class="mdi mdi-comment-processing-outline"></i><span class="hide-menu">Chat
+                                    App</span></a></li>
+                    </ul>
+                </nav>
+                <!-- End Sidebar navigation -->
+            </div>
+            <!-- End Sidebar scroll-->
+            <!-- Bottom points-->
+            <div class="sidebar-footer">
+                <!-- item-->
+                <a href="#" class="link" data-toggle="tooltip" title="Configurar"><i class="ti-settings"></i></a>
+                <!-- item-->
+                <a href="#" class="link" data-toggle="tooltip" title="Email"><i class="mdi mdi-gmail"></i></a>
+                <!-- item-->
+                <a href="index.html" class="link" data-toggle="tooltip" title="Salir"><i
+                        class="mdi mdi-power"></i></a>
+            </div>
+            <!-- End Bottom points-->
+        </aside>
+        <!-- ============================================================== -->
+        <!-- End Left Sidebar - style you can find in sidebar.scss  -->
+        <!-- ============================================================== -->
+        <!-- ============================================================== -->
+        <!-- Page wrapper  -->
+        <!-- ============================================================== -->
+        <div class="page-wrapper">
+            <div class="row page-titles">
+                <div class="col-md-5 col-12 align-self-center">
+                    <h3 class="text-themecolor mb-0">Generar Ruta Óptima</h3>
+                    <ol class="breadcrumb mb-0 p-0 bg-transparent">
+                        <li class="breadcrumb-item"><a href="javascript:void(0)">Inicio</a></li>
+                        <li class="breadcrumb-item active">Rutas</li>
+                    </ol>
+                </div>
+                <div class="col-md-7 col-12 align-self-center d-none d-md-block">
+                    <div class="d-flex mt-2 justify-content-end">
+                        <div class="d-flex mr-3 ml-2">
+                            <div class="chart-text mr-2">
+                                <h6 class="mb-0"><small>OPTIMIZADO</small></h6>
+                                <h4 class="mt-0 text-info">58,356</h4>
+                            </div>
+                            <div class="spark-chart">
+                                <div id="monthchart"></div>
+                            </div>
+                        </div>
+                        <div class="d-flex ml-2">
+                            <div class="chart-text mr-2">
+                                <h6 class="mb-0"><small>SU AHORRO</small></h6>
+                                <h4 class="mt-0 text-primary">$8,412</h4>
+                            </div>
+                            <div class="spark-chart">
+                                <div id="lastmonthchart"></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- ============================================================== -->
+            <!-- Container fluid  -->
+            <!-- ============================================================== -->
+            <div class="container-fluid">
+                <div class="row">
+                    <!-- Column -->
+                    <div class="col-lg-3 col-md-6">
+                        <div class="card">
+                            <div class="card-body">
+                                <div class="d-flex flex-row">
+                                    <div
+                                        class="round round-lg text-white d-inline-block text-center rounded-circle bg-info">
+                                        <i class="ti-wallet"></i>
+                                    </div>
+                                    <div class="ml-2 align-self-center">
+                                        <h3 class="mb-0 font-weight-light">7</h3>
+                                        <h5 class="text-muted mb-0">Entregas totales de ruta</h5>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- Column -->
+                    <!-- Column -->
+                    <div class="col-lg-3 col-md-6">
+                        <div class="card">
+                            <div class="card-body">
+                                <div class="d-flex flex-row">
+                                    <div
+                                        class="round round-lg text-white d-inline-block text-center rounded-circle bg-warning">
+                                        <i class="mdi mdi-cellphone-link"></i></div>
+                                    <div class="ml-2 align-self-center">
+                                        <h3 class="mb-0 font-weight-light">24.2</h3>
+                                        <h5 class="text-muted mb-0">Kilómetros totales</h5>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- Column -->
+                    <!-- Column -->
+                    <div class="col-lg-3 col-md-6">
+                        <div class="card">
+                            <div class="card-body">
+                                <div class="d-flex flex-row">
+                                    <div
+                                        class="round round-lg text-white d-inline-block text-center rounded-circle bg-primary">
+                                        <i class="mdi mdi-cart-outline"></i></div>
+                                    <div class="ml-2 align-self-center">
+                                        <h3 class="mb-0 font-weight-light">$12.40</h3>
+                                        <h5 class="text-muted mb-0">Pago Total</h5>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- Column -->
+                    <!-- Column -->
+                    <div class="col-lg-3 col-md-6">
+                        <div class="card">
+                            <div class="card-body">
+                                <div class="d-flex flex-row">
+                                    <div
+                                        class="round round-lg text-white d-inline-block text-center rounded-circle bg-danger">
+                                        <i class="mdi mdi-bullseye"></i></div>
+                                    <div class="ml-2 align-self-center">
+                                        <h3 class="mb-0 font-weight-light">1h 32min</h3>
+                                        <h5 class="text-muted mb-0">Tiempo estimado</h5>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- Column -->
+                </div>
+                <!-- Row -->
+                <div class="row">
+                    <div class="col-lg-12">
+                        <div class="alert alert-success" role="alert">
+                            Para realizar la optimización de su ruta, usando Inteligencia Artificial y basadose en las preferencias de sus clientes
+                            <a class="btn btn-success" href="plantilla/routes.xlsx">DESCARGAR PLANTILLA</a><br>
+                            <b> Cargue la plantilla con sus direcciones en Formato EXCEL. </b> 
+                        </div>
+
+                        <!--CARGA DE IFRAME-->
+                       <iframe src="resources/index.html" frameborder="0"></iframe>
+
+                    </div>
+                </div>
+                <!-- Row -->
+            </div>
+
+            <!-- ============================================================== -->
+            <!-- End Container fluid  -->
+            <!-- ============================================================== -->
+            <!-- ============================================================== -->
+            <!-- footer -->
+            <!-- ============================================================== -->
+            <footer class="footer">
+                © 2020 Saturday AI
+            </footer>
+            <!-- ============================================================== -->
+            <!-- End footer -->
+            <!-- ============================================================== -->
+        </div>
+        <!-- ============================================================== -->
+        <!-- End Page wrapper  -->
+        <!-- ============================================================== -->
+    </div>
+    <!-- ============================================================== -->
+    <!-- End Wrapper -->
+    <!-- ============================================================== -->
+    <!-- ============================================================== -->
+
+    <div class="chat-windows"></div>
+    <!-- ============================================================== -->
+    <!-- All Jquery -->
+    <!-- ============================================================== -->
+    <script src="assets/libs/jquery/dist/jquery.min.js"></script>
+    <!-- Bootstrap tether Core JavaScript -->
+    <script src="assets/libs/popper.js/dist/umd/popper.min.js"></script>
+    <script src="assets/libs/bootstrap/dist/js/bootstrap.min.js"></script>
+    <!-- apps -->
+    <script src="dist/js/app.min.js"></script>
+    <script src="dist/js/app.init.js"></script>
+    <!-- slimscrollbar scrollbar JavaScript -->
+    <script src="assets/libs/perfect-scrollbar/dist/perfect-scrollbar.jquery.min.js"></script>
+    <script src="assets/extra-libs/sparkline/sparkline.js"></script>
+    <!--Wave Effects -->
+    <script src="dist/js/waves.js"></script>
+    <!--Menu sidebar -->
+    <script src="dist/js/sidebarmenu.js"></script>
+    <!--Custom JavaScript -->
+    <script src="dist/js/custom.min.js"></script>
+    
+  
+</body>
+
+</html>

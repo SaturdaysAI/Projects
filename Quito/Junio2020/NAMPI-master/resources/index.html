@@ -1,0 +1,90 @@
+<link rel="stylesheet" href="style.css">
+<script src="main.js"></script>
+
+<div id="floating-panel-left">
+  <div id="drop-area">
+    <label for="upload" class="custom-file-upload">
+      <i class="fas fa-cloud-upload-alt"></i> Subir Archivo (Excel)
+    </label>
+    <input type="file" id="upload" name="files[]">
+  </div>
+</div>
+
+<div id="user-clusters">
+  <h3>Cluster de Usuarios</h3>
+  
+  <button type="button" class="collapsible">
+    Cluster 1
+  </button>
+  <div class="content">
+    <p>Caracteristicas respecto al encargo</p>
+    <ol>
+      <li>En un solo intento</li>
+      <li>En su lugar de trabajo</li>
+      <li>Envía documentos</li>
+      <li>Envía documentos</li>
+      <li>Lo recibe por la mañana</li>
+      <li>Los primeros días de la semana</li>
+    </ol>
+    <p>Aqui se encuentra los ususarios A, B , C</p>
+  </div>
+  
+  <button type="button" class="collapsible">
+    Cluster 2
+  </button>
+  <div class="content">
+    <p>Caracteristicas respecto al encargo</p>
+    <ol>
+      <li>En hasta 4 intentos.</li>
+      <li>En su domicilio</li>
+      <li>Lo recibe por la media tardes</li>
+      <li>Envía documentos</li>
+      <li>Los primeros días de la semana</li>
+    </ol>
+    <p>Aqui se encuentra los ususarios D, G</p> 
+  </div>
+  
+  <button type="button" class="collapsible">
+    Cluster 3
+  </button>
+  <div class="content">
+    <p>Caracteristicas respecto al encargo</p>
+    <ol>
+      <li>En hasta 3 intentos.</li>
+      <li>En su domicilio</li>
+      <li>Envía paquetes medianos</li>
+      <li>Lo recibe por la tarde</li>
+      <li>Los últimos días de la semana</li>
+    </ol>
+    <p>Aqui se encuentra los ususario F</p> 
+  </div>
+  
+  <button type="button" class="collapsible">
+    Cluster 4
+  </button>
+  <div class="content">
+    <p>Caracteristicas respecto al encargo</p>
+    <ol>
+      <li>En hasta 3 intentos.</li>
+      <li>En su domicilio</li>
+      <li>Envía paquetes medianos</li>
+      <li>Lo recibe por la tarde</li>
+      <li>Los últimos días de la semana</li>
+    </ol>
+    <p>Aqui se encuentra los ususario E</p> 
+  </div>
+  
+</div>
+
+<div id="map"></div>
+<!-- Replace the value of the key parameter with your own API key. -->
+
+<script src="https://kit.fontawesome.com/5518dc7f58.js" crossorigin="anonymous"></script>
+
+<script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCy_BV6gyyWWAT5ls0PI8ki_z2oBS9wevQ&callback=initMap">
+</script>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.8.0/jszip.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.8.0/xlsx.js"></script>
+
