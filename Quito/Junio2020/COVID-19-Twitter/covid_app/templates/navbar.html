@@ -1,0 +1,16 @@
+<nav class="navbar navbar-expand navbar-dark flex-column flex-md-row bd-navbar bg-dark">
+  <img src="{{ url_for('static', filename='img/machine-banner.png') }}" width="50" height="50" alt="logo">
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarText" aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+  <div class="navbar-nav-scroll ml-md-auto" id="navbarText">
+    <ul class="navbar-nav bd-navbar-nav flex-row">
+      <li class="nav-item active">
+        <a class="nav-link" href="{{ url_for('index') }}">Inicio<i class="fa fa-home" aria-hidden="true"></i></a>
+      </li>
+      <li class="nav-item active">
+        <a class="nav-link" href="{{ url_for('credits') }}">Créditos<i class="fa fa-users" aria-hidden="true"></i></a>
+      </li>
+    </ul>
+  </div>
+</nav>

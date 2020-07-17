@@ -1,0 +1,13 @@
+version: '3'
+services:
+    web:
+      image: flask
+      build: ..
+      container_name: covid_web
+      environment:
+        - APP_SETTINGS=config.DevelopmentConfig
+      command: python app.py run
+      volumes:
+        - .:/mnt/code
+      ports:
+        - 8000:8000

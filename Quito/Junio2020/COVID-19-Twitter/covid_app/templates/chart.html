@@ -1,0 +1,62 @@
+{% extends "base.html" %}
+
+{% block css %}
+{{ super() }}
+<link href="{{ url_for('static', filename='css/Chart.min.css') }}" rel="stylesheet" type="text/css" />
+{% endblock %}
+
+{% block content %}
+<div>
+    <div>
+        <br >
+    </div>
+    <div class="container">
+        <div>
+            <h3>Saludos {{ name }}, estos son los porcentajes de depresión por ciudad.</h3>
+        </div>
+        <div>
+            <canvas id="myChart"></canvas>
+        </div>
+    </div>
+</div>
+{% endblock %}
+
+{% block scripts %}
+<script src="{{ url_for('static', filename='js/Chart.min.js') }}" type="text/javascript"></script>
+<script type="text/javascript">
+var ctx = document.getElementById('myChart');
+var myDoughnutChart = new Chart(ctx, {
+    type: 'doughnut',
+    data: {
+        datasets: [{
+            data: {{data|tojson}},
+            backgroundColor: [
+                'rgb(75, 192, 192)',
+                'rgb(54, 162, 235)',
+                'rgb(255, 159, 64)',
+            ],
+        }],
+        labels: [
+            'Quito',
+            'Guayaquil',
+            'Cuenca',
+        ]
+    },
+
+    options: {
+        responsive: true,
+        legend: {
+            position: 'top',
+        },
+        title: {
+            display: true,
+            text: 'Twitter COVID-19'
+        },
+        animation: {
+            animateScale: true,
+            animateRotate: true
+        }
+    }
+});
+</script>
+{% endblock %}

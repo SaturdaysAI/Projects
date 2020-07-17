@@ -1,0 +1,26 @@
+<!doctype html>
+<html>
+    <head>
+      {% if title %}
+      <title>{{ title }} - Twitter COVID19</title>
+      {% else %}
+      <title>Twitter COVID19</title>
+      {% endif %}
+      {% block css %}
+      <link rel="stylesheet" href="{{ url_for('static', filename='css/bootstrap.min.css') }}">
+      {% endblock %}
+    </head>
+    <body class="text-center">
+      <div class="container">
+      {% include "navbar.html" %}
+      <div>
+      {% block content %}{% endblock %}
+      </div>
+      <div>
+        <p class="mt-5 mb-3 text-muted">&copy; {{ year }}</p>
+      </div>
+      </div>
+
+      {% block scripts %}{% endblock %}
+    </body>
+</html>
