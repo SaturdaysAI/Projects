@@ -1,0 +1,43 @@
+﻿id_restaurante;tipo;nombre;latitud;longitud;raiting;direccion;status;price_level;id_persona;nombre;genero;ambiente;vegetariana;carne;pollo;pez;lacteos;mariscos;menu;comida_rapida;menestra;jugo;gaseosa;bebida;cafe;te;gustar
+86;cafe;Anaconda;-0.2070612;-78.4916731;4.4;Jeronimo Carrion E9-41, Quito;OPERATIONAL;2;123;alex;1;abierto;0;1;1;1;1;1;0;1;1;0;1;2;0;1;0
+379;meal_takeaway;Beerman;-0.1836498;-78.4785474;4.5;Quito;OPERATIONAL;3;123;alex;1;abierto;0;1;1;1;1;1;0;1;1;0;1;2;0;1;0
+11;bakery;Cyrano;-0.1964339;-78.4784753;4.6;Avenida GonzÃ¡lez SuÃ¡rez, GonzÃ¡lez SuÃ¡rez N31-126, Quito;OPERATIONAL;3;123;alex;1;abierto;0;1;1;1;1;1;0;1;1;0;1;2;0;1;0
+19;bakery;Dulssini;-0.2088658;-78.4921186;3.9;La Mariscal, Edificio Mariana de JesÃºs, Avenue 12 de Octubre N21-155, Quito;OPERATIONAL;1;123;alex;1;abierto;0;1;1;1;1;1;0;1;1;0;1;2;0;1;1
+387;meal_takeaway;El Hornero;-0.2021563;-78.4944193;4.5;La Mariscal, Calle, Avenida General Ignacio de Veintimilla E4-66, Quito;OPERATIONAL;2;123;alex;1;abierto;0;1;1;1;1;1;0;1;1;0;1;2;0;1;0
+424;restaurant;Freshii 12 de Octubre;-0.203256;-78.481846;4.4;Avenue 12 de Octubre N26-48, Quito;OPERATIONAL;2;123;alex;1;abierto;0;1;1;1;1;1;0;1;1;0;1;2;0;1;1
+23;bakery;Hansel & Gretel;-0.1983047;-78.4794245;4.4;Avenida Gonzalez Suarez, Quito;OPERATIONAL;2;123;alex;1;abierto;0;1;1;1;1;1;0;1;1;0;1;2;0;1;1
+280;food;KFC - Baca Ortiz;-0.201809;-78.4865856;4.1;Avenida CristÃ³bal ColÃ³n, Quito;OPERATIONAL;2;123;alex;1;abierto;0;1;1;1;1;1;0;1;1;0;1;2;0;1;0
+436;restaurant;La Casa de Bottero;-0.2041873;-78.4818854;4.5;Avenida Isabel la CatÃ³lica, Quito;OPERATIONAL;3;123;alex;1;abierto;0;1;1;1;1;1;0;1;1;0;1;2;0;1;0
+393;meal_takeaway;Los Antojitos De La Floresta;-0.2106217;-78.4823753;4.6;Avenida La CoruÃ±a, Quito;OPERATIONAL;1;123;alex;1;abierto;0;1;1;1;1;1;0;1;1;0;1;2;0;1;0
+144;cafe;Manulipe - Coffee & Bar;-0.2047811;-78.4883385;4.2;E9-68,, Lizardo GarcÃ­a, Quito;OPERATIONAL;1;123;alex;1;abierto;0;1;1;1;1;1;0;1;1;0;1;2;0;1;1
+481;restaurant;Sandry;-0.2067579;-78.4886727;4.1;La Mariscal, Avenue 12 De Octubre, Quito;OPERATIONAL;1;123;alex;1;abierto;0;1;1;1;1;1;0;1;1;0;1;2;0;1;1
+172;cafe;Sweet & Coffee;-0.1949992;-78.4776044;4.6;Edificio PatiÃ±o, Av Federico Gonzalez Suarez y, Jacinto Bejarano, Quito;OPERATIONAL;3;123;alex;1;abierto;0;1;1;1;1;1;0;1;1;0;1;2;0;1;1
+313;food;Texas Chicken;-0.2018039;-78.4866811;4.1;Avenida CristÃ³bal ColÃ³n E9-68, Quito;OPERATIONAL;1;123;alex;1;abierto;0;1;1;1;1;1;0;1;1;0;1;2;0;1;1
+86;cafe;Anaconda;-0.2070612;-78.4916731;4.4;Jeronimo Carrion E9-41, Quito;OPERATIONAL;2;111;elian;1;cerrado;0;1;1;0;1;0;0;1;1;1;0;1;1;0;1
+379;meal_takeaway;Beerman;-0.1836498;-78.4785474;4.5;Quito;OPERATIONAL;3;111;elian;1;cerrado;0;1;1;0;1;0;0;1;1;1;0;1;1;0;0
+11;bakery;Cyrano;-0.1964339;-78.4784753;4.6;Avenida GonzÃ¡lez SuÃ¡rez, GonzÃ¡lez SuÃ¡rez N31-126, Quito;OPERATIONAL;3;111;elian;1;cerrado;0;1;1;0;1;0;0;1;1;1;0;1;1;0;0
+19;bakery;Dulssini;-0.2088658;-78.4921186;3.9;La Mariscal, Edificio Mariana de JesÃºs, Avenue 12 de Octubre N21-155, Quito;OPERATIONAL;1;111;elian;1;cerrado;0;1;1;0;1;0;0;1;1;1;0;1;1;0;0
+387;meal_takeaway;El Hornero;-0.2021563;-78.4944193;4.5;La Mariscal, Calle, Avenida General Ignacio de Veintimilla E4-66, Quito;OPERATIONAL;2;111;elian;1;cerrado;0;1;1;0;1;0;0;1;1;1;0;1;1;0;0
+424;restaurant;Freshii 12 de Octubre;-0.203256;-78.481846;4.4;Avenue 12 de Octubre N26-48, Quito;OPERATIONAL;2;111;elian;1;cerrado;0;1;1;0;1;0;0;1;1;1;0;1;1;0;0
+23;bakery;Hansel & Gretel;-0.1983047;-78.4794245;4.4;Avenida Gonzalez Suarez, Quito;OPERATIONAL;2;111;elian;1;cerrado;0;1;1;0;1;0;0;1;1;1;0;1;1;0;0
+280;food;KFC - Baca Ortiz;-0.201809;-78.4865856;4.1;Avenida CristÃ³bal ColÃ³n, Quito;OPERATIONAL;2;111;elian;1;cerrado;0;1;1;0;1;0;0;1;1;1;0;1;1;0;0
+436;restaurant;La Casa de Bottero;-0.2041873;-78.4818854;4.5;Avenida Isabel la CatÃ³lica, Quito;OPERATIONAL;3;111;elian;1;cerrado;0;1;1;0;1;0;0;1;1;1;0;1;1;0;1
+393;meal_takeaway;Los Antojitos De La Floresta;-0.2106217;-78.4823753;4.6;Avenida La CoruÃ±a, Quito;OPERATIONAL;1;111;elian;1;cerrado;0;1;1;0;1;0;0;1;1;1;0;1;1;0;0
+144;cafe;Manulipe - Coffee & Bar;-0.2047811;-78.4883385;4.2;E9-68,, Lizardo GarcÃ­a, Quito;OPERATIONAL;1;111;elian;1;cerrado;0;1;1;0;1;0;0;1;1;1;0;1;1;0;1
+481;restaurant;Sandry;-0.2067579;-78.4886727;4.1;La Mariscal, Avenue 12 De Octubre, Quito;OPERATIONAL;1;111;elian;1;cerrado;0;1;1;0;1;0;0;1;1;1;0;1;1;0;1
+172;cafe;Sweet & Coffee;-0.1949992;-78.4776044;4.6;Edificio PatiÃ±o, Av Federico Gonzalez Suarez y, Jacinto Bejarano, Quito;OPERATIONAL;3;111;elian;1;cerrado;0;1;1;0;1;0;0;1;1;1;0;1;1;0;0
+313;food;Texas Chicken;-0.2018039;-78.4866811;4.1;Avenida CristÃ³bal ColÃ³n E9-68, Quito;OPERATIONAL;1;111;elian;1;cerrado;0;1;1;0;1;0;0;1;1;1;0;1;1;0;1
+86;cafe;Anaconda;-0.2070612;-78.4916731;4.4;Jeronimo Carrion E9-41, Quito;OPERATIONAL;2;112;mabe;0;abierto;1;0;0;0;0;0;1;0;0;1;0;1;0;1;1
+379;meal_takeaway;Beerman;-0.1836498;-78.4785474;4.5;Quito;OPERATIONAL;3;112;mabe;0;abierto;1;0;0;0;0;0;1;0;0;1;0;1;0;1;1
+11;bakery;Cyrano;-0.1964339;-78.4784753;4.6;Avenida GonzÃ¡lez SuÃ¡rez, GonzÃ¡lez SuÃ¡rez N31-126, Quito;OPERATIONAL;3;112;mabe;0;abierto;1;0;0;0;0;0;1;0;0;1;0;1;0;1;1
+19;bakery;Dulssini;-0.2088658;-78.4921186;3.9;La Mariscal, Edificio Mariana de JesÃºs, Avenue 12 de Octubre N21-155, Quito;OPERATIONAL;1;112;mabe;0;abierto;1;0;0;0;0;0;1;0;0;1;0;1;0;1;1
+387;meal_takeaway;El Hornero;-0.2021563;-78.4944193;4.5;La Mariscal, Calle, Avenida General Ignacio de Veintimilla E4-66, Quito;OPERATIONAL;2;112;mabe;0;abierto;1;0;0;0;0;0;1;0;0;1;0;1;0;1;1
+424;restaurant;Freshii 12 de Octubre;-0.203256;-78.481846;4.4;Avenue 12 de Octubre N26-48, Quito;OPERATIONAL;2;112;mabe;0;abierto;1;0;0;0;0;0;1;0;0;1;0;1;0;1;1
+23;bakery;Hansel & Gretel;-0.1983047;-78.4794245;4.4;Avenida Gonzalez Suarez, Quito;OPERATIONAL;2;112;mabe;0;abierto;1;0;0;0;0;0;1;0;0;1;0;1;0;1;1
+280;food;KFC - Baca Ortiz;-0.201809;-78.4865856;4.1;Avenida CristÃ³bal ColÃ³n, Quito;OPERATIONAL;2;112;mabe;0;abierto;1;0;0;0;0;0;1;0;0;1;0;1;0;1;1
+436;restaurant;La Casa de Bottero;-0.2041873;-78.4818854;4.5;Avenida Isabel la CatÃ³lica, Quito;OPERATIONAL;3;112;mabe;0;abierto;1;0;0;0;0;0;1;0;0;1;0;1;0;1;1
+393;meal_takeaway;Los Antojitos De La Floresta;-0.2106217;-78.4823753;4.6;Avenida La CoruÃ±a, Quito;OPERATIONAL;1;112;mabe;0;abierto;1;0;0;0;0;0;1;0;0;1;0;1;0;1;1
+144;cafe;Manulipe - Coffee & Bar;-0.2047811;-78.4883385;4.2;E9-68,, Lizardo GarcÃ­a, Quito;OPERATIONAL;1;112;mabe;0;abierto;1;0;0;0;0;0;1;0;0;1;0;1;0;1;1
+481;restaurant;Sandry;-0.2067579;-78.4886727;4.1;La Mariscal, Avenue 12 De Octubre, Quito;OPERATIONAL;1;112;mabe;0;abierto;1;0;0;0;0;0;1;0;0;1;0;1;0;1;1
+172;cafe;Sweet & Coffee;-0.1949992;-78.4776044;4.6;Edificio PatiÃ±o, Av Federico Gonzalez Suarez y, Jacinto Bejarano, Quito;OPERATIONAL;3;112;mabe;0;abierto;1;0;0;0;0;0;1;0;0;1;0;1;0;1;1
+313;food;Texas Chicken;-0.2018039;-78.4866811;4.1;Avenida CristÃ³bal ColÃ³n E9-68, Quito;OPERATIONAL;1;112;mabe;0;abierto;1;0;0;0;0;0;1;0;0;1;0;1;0;1;1
