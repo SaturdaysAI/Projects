@@ -1,0 +1,132 @@
+id;tipo;nombre;latitud;longitud;raiting;direccion;status;price_level
+19;bakery;Dulssini;-0.2088658;-78.4921186;3.9;La Mariscal, Edificio Mariana de Jesús, Avenue 12 de Octubre N21-155, Quito;OPERATIONAL;1
+21;bakery;En-Dulce;-0.2194294;-78.5098107;4.7;Calle Guayaquil y José Joaquín Olmedo, N6-56, Quito;OPERATIONAL;1
+35;bakery;LaRa pastelería boutique;-0.1669908;-78.4931032;4.4;403, Darwin, con, Del las Alcabalas, Quito;OPERATIONAL;1
+48;bakery;PAN COLOMBIA;-0.2051996;-78.4911457;4.8;Avenida 6 de Diciembre 23-72, Quito;OPERATIONAL;1
+60;bakery;Panadería y Galletería Arenas;-0.1997081;-78.4825063;4.1;Avenida La Coruña 2208, Quito;OPERATIONAL;1
+72;bakery;PUNTO CARAMELO;-0.2233275;-78.5076992;4.7;CASA DEL MUCHACHO TRABAJADOR, Avenida Pichincha N 4-272 Y Pedro Fermin Cevallos JUNTO A LA, Quito;OPERATIONAL;1
+1;bakery;Azúcar & Sal;-0.1757161;-78.495089;4.5;Calle:, Vasco de Contreras N36-76, Quito;OPERATIONAL;2
+8;bakery;CASSAVE Shyris;-0.1858054;-78.4824699;4.1;Avenida de los Shyris N33-164 y, Quito;OPERATIONAL;2
+23;bakery;Hansel & Gretel;-0.1983047;-78.4794245;4.4;Avenida Gonzalez Suarez, Quito;OPERATIONAL;2
+24;bakery;Hansel & Gretel (Quicentro Shopping, Nivel 3);-0.176116;-78.479403;4.4;El Comercio, Quito;OPERATIONAL;2
+25;bakery;Hay Pan!;-0.1969082;-78.4810542;4.6;Whymper N30-96, Quito;OPERATIONAL;2
+27;bakery;Jurgen;-0.1963535;-78.4813563;4.5;Avenida La Coruña N31-70, Quito;OPERATIONAL;2
+34;bakery;LaBakery Quito;-0.196378;-78.481417;4.5;Avenida La Coruña N30-123 y, Quito;OPERATIONAL;2
+39;bakery;Maracuya Sugar Free;-0.1718991;-78.4919386;4.6;Álvarez Del Corro N38-31 Y, Avenida Juan José de Villalengua, Quito;OPERATIONAL;2
+40;bakery;María La Panadería;-0.1923747;-78.5003844;4.7;Fray Gaspar de Carvajal 27-80 y, Quito;OPERATIONAL;2
+53;bakery;Panaderia y Pasteleria La Unión Tomas de Berlanga;-0.1644624;-78.4832003;4.4;Avenida Tomás de Berlanga E527, Quito;OPERATIONAL;2
+61;bakery;Panificadora Ambato;-0.1943568;-78.4832305;3.7;Avenida, Diego de Almagro, Quito;OPERATIONAL;2
+62;bakery;Panificadora Ambato;-0.1943577;-78.4845624;4.2;Av. República, Diego de Almagro E7-175 y, Quito;OPERATIONAL;2
+63;bakery;Panificadora Ambato;-0.1965096;-78.4833193;3.9;Avenida 6 de Diciembre N30-29 y, Quito;OPERATIONAL;2
+64;bakery;Panificadora Ambato;-0.197216;-78.49351;4.1;Av. 9 De Octubre, Javier Ascazubi N26 -143 y, Quito;OPERATIONAL;2
+65;bakery;Panificadora Ambato;-0.2006449;-78.4896973;4.1;Avenida Cristóbal Colón, Quito;OPERATIONAL;2
+66;bakery;Panificadora Ambato;-0.2018499;-78.4831048;3.9;Avenida La Coruña N26-13 y, Quito;OPERATIONAL;2
+67;bakery;Panificadora Ambato;-0.2043013;-78.4899342;4;Avenida 6 de Diciembre N24-117 y, Quito;OPERATIONAL;2
+68;bakery;Panificadora Ambato;-0.2051636;-78.4850872;2;Cordero N24-526 Y, Avenue 12 de Octubre, Quito;OPERATIONAL;2
+74;bakery;San Honoré;-0.1898311;-78.4991828;4.5;Fray Gaspar de Carvajal N29-86, Quito;OPERATIONAL;2
+81;bakery;Tortas y Dulces;-0.1669622;-78.4928784;4.1;Del las Alcabalas 245, Quito;OPERATIONAL;2
+11;bakery;Cyrano;-0.1964339;-78.4784753;4.6;Avenida González Suárez, González Suárez N31-126, Quito;OPERATIONAL;3
+116;cafe;El Palacio Del Jugo (La Floresta);-0.2127899;-78.4842893;4.6;Avenida, Avenida de los Conquistadores OE5-424, Quito;OPERATIONAL;1
+144;cafe;Manulipe - Coffee & Bar;-0.2047811;-78.4883385;4.2;E9-68,, Lizardo García, Quito;OPERATIONAL;1
+165;cafe;Skull Donuts;-0.2074536;-78.4911849;4.7;José Tamayo N21-229, Quito;OPERATIONAL;1
+86;cafe;Anaconda;-0.2070612;-78.4916731;4.4;Jeronimo Carrion E9-41, Quito;OPERATIONAL;2
+89;cafe;Bendito Cafe Gourmet;-0.1921342;-78.4819793;4.1;Pedro Ponce Carrasco, Quito, Pichincha;OPERATIONAL;2
+90;cafe;Botánica;-0.2077223;-78.4836209;4.6;Vizcaya E13-18 y, Quito;OPERATIONAL;2
+91;cafe;Cafe Traviesa;-0.1993148;-78.4808222;4.7;Humboldt N27- 77, Quito;OPERATIONAL;2
+93;cafe;Cafetina;-0.2068414;-78.4829018;4.4;Valladolid N24-459, Quito;OPERATIONAL;2
+96;cafe;Café Omi;-0.1901391;-78.4883381;4.7;Avenida Amazonas N31-219, Quito;OPERATIONAL;2
+114;cafe;El Español;-0.1896147;-78.4877094;4.3;Avenida Amazonas, Quito;OPERATIONAL;2
+115;cafe;El Español;-0.196561;-78.4784296;4.3;Avenida González Suárez, González Suárez N31-94, Quito;OPERATIONAL;2
+119;cafe;Ethnic Coffee;-0.2047642;-78.4952901;4.4;Avenida Amazonas &, Quito;OPERATIONAL;2
+120;cafe;FanAir Cafe Comic;-0.1933172;-78.484345;4.6;Alpallana E7-123, Quito;OPERATIONAL;2
+123;cafe;Garúa Café Arte;-0.2034886;-78.49132;4.2;Joaquín Pinto, Quito;OPERATIONAL;2
+129;cafe;Juan Valdez;-0.176249;-78.4800866;4.5;CC Quicentro Shopping;OPERATIONAL;2
+130;cafe;Juan Valdez Café;-0.1797717;-78.4799398;4.4;AV. República de el Salvador y Suecia, Quito;OPERATIONAL;2
+131;cafe;Juan Valdez Café;-0.202814;-78.491038;4.4;Mariscal Foch 268 Y Joaquin Pinto Esquina Edificio, Juan Quinde, Quito;OPERATIONAL;2
+134;cafe;La Canoa;-0.201154;-78.490673;4.4;Luis Cordero E4-393, Quito;OPERATIONAL;2
+149;cafe;Panadería La Unión;-0.2010674;-78.4886717;4.4;Avenida Cristóbal Colón, Quito;OPERATIONAL;2
+152;cafe;Pin Up;-0.2085953;-78.4849833;4.3;Madrid, Quito;OPERATIONAL;2
+162;cafe;Sel Et Lumiere;-0.1839524;-78.4799343;4.8;Irlanda N34 - 266, Quito;OPERATIONAL;2
+166;cafe;Stop;-0.1910386;-78.4884527;4.4;Avenida Río Amazonas N31-117, Quito;OPERATIONAL;2
+168;cafe;Sweet & Coffee;-0.1775632;-78.4850054;4.6;Centro Comercial CCI, Calle, Avenida Río Amazonas S/N, Quito;OPERATIONAL;2
+169;cafe;Sweet & Coffee;-0.17807;-78.485062;4.3;Centro Comercial CCI , Segundo Piso, Avenida Río Amazonas N36-152, Quito;OPERATIONAL;2
+170;cafe;Sweet & Coffee;-0.179535;-78.479769;4.6;Avenida República de El Salvador N36-30 y, Quito;OPERATIONAL;2
+171;cafe;Sweet & Coffee;-0.189718;-78.487526;4.5;Avenida de la República, Quito;OPERATIONAL;2
+172;cafe;Sweet & Coffee;-0.1949992;-78.4776044;4.6;Edificio Patiño, Av Federico Gonzalez Suarez y, Jacinto Bejarano, Quito;OPERATIONAL;2
+173;cafe;Sweet & Coffee;-0.197882;-78.484412;4.4;Avenida, 6 De Diciembre, La Orellana N28-28, Quito;OPERATIONAL;2
+174;cafe;Sweet & Coffee;-0.1988086;-78.4879538;4.5;Reina Victoria N26-191 y, Quito;OPERATIONAL;2
+175;cafe;Sweet & Coffee;-0.2080092;-78.4954195;4.5;18 de Septiembre, La Mariscal E7-26, Quito;OPERATIONAL;2
+313;food;Texas Chicken;-0.2018039;-78.4866811;4.1;Avenida Cristóbal Colón E9-68, Quito;OPERATIONAL;1
+280;food;KFC - Baca Ortiz;-0.201809;-78.4865856;4.1;Avenida Cristóbal Colón, Quito;OPERATIONAL;2
+349;meal_delivery;Las gigantes de Morocho;-0.1623217;-78.4819058;4.3;Río Coca E5-50 e, Isla San Cristóbal, Quito;OPERATIONAL;1
+319;meal_delivery;Ananké Guápulo;-0.2019635;-78.4781956;4.5;Camino de Orellana 781, Quito;OPERATIONAL;2
+321;meal_delivery;Bandidos del Paramo;-0.198398;-78.481233;4.6;Whymper N29-02, Quito;OPERATIONAL;2
+337;meal_delivery;Domino's;-0.1690023;-78.4902324;4.4;Avenida Brasil 415, Quito;OPERATIONAL;2
+338;meal_delivery;Domino's;-0.17056;-78.4758628;4.4;Avenida 6 de Diciembre, Quito;OPERATIONAL;2
+339;meal_delivery;Domino's;-0.1985119;-78.482419;4.4;Avenida La Coruña 1239, Quito;OPERATIONAL;2
+340;meal_delivery;Ecuaviche Veintimilla;-0.2068968;-78.4910982;4.4;Avenida General Ignacio de Veintimilla E9-70 y, Quito;OPERATIONAL;2
+341;meal_delivery;El Hornero;-0.1950957;-78.477636;4.5;Jacinto Bejarano 1070, Quito;OPERATIONAL;2
+348;meal_delivery;Las Gaviotas Cevichería;-0.2113361;-78.4987521;4.3;Avenida Tarqui N15-245, Quito;OPERATIONAL;2
+355;meal_delivery;Pizza Hut;-0.2044781;-78.493931;4.4;Juan León Mera, Quito;OPERATIONAL;2
+356;meal_delivery;Pizza Hut El Bosque;-0.1607402;-78.4942551;4.2;Avenida Edmundo Carvajal, Quito;OPERATIONAL;2
+357;meal_delivery;Pizza Hut Jipijapa;-0.1645516;-78.4827086;4.2;Avenida Tomás de Berlanga &, Quito;OPERATIONAL;2
+358;meal_delivery;Pizza Hut República del Salvador;-0.1787518;-78.480207;4.3;Republica del Salvador N36-109, Quito;OPERATIONAL;2
+359;meal_delivery;Pizza SA Amazonas;-0.1833987;-78.487192;4.4;e EC170135, Avenida Río Amazonas, Quito;OPERATIONAL;2
+361;meal_delivery;Pizzería El Hornero;-0.2048791;-78.4831656;4.4;Isabela Católica, La Coruña, Quito;OPERATIONAL;2
+366;meal_delivery;Roy's Pizzería;-0.1755211;-78.4840928;4.4;Avenida Naciones Unidas E5-63, Quito;OPERATIONAL;2
+378;meal_delivery;Yogurt Amazonas;-0.166203;-78.4840661;4.1;Avenida Amazonas N41-191, Quito;OPERATIONAL;2
+393;meal_takeaway;Los Antojitos De La Floresta;-0.2106217;-78.4823753;4.6;Avenida La Coruña, Quito;OPERATIONAL;1
+379;meal_takeaway;Beerman;-0.1836498;-78.4785474;4.5;Quito;OPERATIONAL;2
+380;meal_takeaway;Cassolette (Brasil);-0.1654268;-78.4890336;4.5;Avenida Brasil, Quito;OPERATIONAL;2
+382;meal_takeaway;Cassolette (Portugal);-0.1816976;-78.4794677;4.5;Avenida Portugal E10-63, Quito;OPERATIONAL;2
+387;meal_takeaway;El Hornero;-0.2021563;-78.4944193;4.5;La Mariscal, Calle, Avenida General Ignacio de Veintimilla E4-66, Quito;OPERATIONAL;2
+395;meal_takeaway;Papa John's;-0.1998218;-78.4900721;4.3;Juan León Mera N235, Quito;OPERATIONAL;2
+398;meal_takeaway;Rodizio Botafogo;-0.2002308;-78.4818788;4.2;Whymper N27-41 y, Quito;OPERATIONAL;3
+402;restaurant;Alef Tendencia Culinaria;-0.1999049;-78.4830611;4.2;Avenida Francisco de Orellana, Quito;OPERATIONAL;1
+431;restaurant;Great India;-0.2018471;-78.4911026;4.3;José Calama E4-380, Quito;OPERATIONAL;1
+481;restaurant;Sandry;-0.2067579;-78.4886727;4.1;La Mariscal, Avenue 12 De Octubre, Quito;OPERATIONAL;1
+400;restaurant;A Kapela Cantobar & Lounge;-0.182116;-78.475809;4.2;Avenida Eloy Alfaro N34-473, Quito;OPERATIONAL;2
+401;restaurant;AL Forno;-0.2052174;-78.4829221;4.6;Pasaje Moeller (N24J), Quito;OPERATIONAL;2
+403;restaurant;Alitas Del Cadillac;-0.2029398;-78.4906464;4.1;La, Reina Victoria N 24-134, Quito;OPERATIONAL;2
+406;restaurant;Burger King;-0.1779321;-78.4856308;4.3;Avenida Río Amazonas Quito DC;OPERATIONAL;2
+409;restaurant;Casa China;-0.2042045;-78.4862621;4.1;Luis Cordero E9-242, Quito;OPERATIONAL;2
+410;restaurant;Cebiches de la Rumiñahui;-0.2050725;-78.4840905;4.2;Francisco Salazar E10-134, Quito;OPERATIONAL;2
+413;restaurant;Cosa Nostra;-0.184896;-78.4807571;4.5;Avenida República Del Salvador N34-234, Quito;OPERATIONAL;2
+415;restaurant;Di Serggio;-0.1813529;-78.4803718;4.6;Avenida República de El Salvador n37 - 108, Quito;OPERATIONAL;2
+417;restaurant;El Arrecife;-0.1810966;-78.4803193;4.3;Avenida República de El Salvador 734, Quito;OPERATIONAL;2
+418;restaurant;EL BRASERO;-0.1989345;-78.4936946;4.3;Avenida Cristóbal Colón E4-33 y, Quito;OPERATIONAL;2
+419;restaurant;El Burro;-0.2027212;-78.4913079;4.3;Mariscal Foch e612, Quito;OPERATIONAL;2
+424;restaurant;Freshii 12 de Octubre;-0.203256;-78.481846;4.4;Avenue 12 de Octubre N26-48, Quito;OPERATIONAL;2
+425;restaurant;Frida Tacos;-0.2057161;-78.4837789;4.4;Andalucía N24-371, Quito;OPERATIONAL;2
+426;restaurant;Frutería Monserrate;-0.1880446;-78.4961955;4.2;Avenida América, Quito;OPERATIONAL;2
+427;restaurant;Frutería Monserrate;-0.1981308;-78.4892503;4.4;Calle Juan león Mera, Y, Quito;OPERATIONAL;2
+430;restaurant;Go Green;-0.2058423;-78.4845019;4.4;Avenida Isabel la Católica E12-142, Quito;OPERATIONAL;2
+435;restaurant;KFC;-0.2018465;-78.4865025;4.1;Avenue 10 de Agosto, Quito;OPERATIONAL;2
+437;restaurant;La Casa De La Milanesa;-0.2053327;-78.4842551;4.3;Avenida Isabel la Católica 14, Quito;OPERATIONAL;2
+448;restaurant;La Tablita Del Tártaro;-0.2000273;-78.4917733;4.3;Avenida Cristóbal Colón, Quito;OPERATIONAL;2
+449;restaurant;La Venta de Sancho;-0.1825;-78.4780556;4.5;Avenida Portugal E10-264, Quito;OPERATIONAL;2
+450;restaurant;Laboratorio Diseño Gastronomía;-0.2054946;-78.4877279;4.5;Lizardo García E10-64 y, Quito;OPERATIONAL;2
+454;restaurant;Los Cebiches de la Rumiñahui;-0.198386;-78.4892675;4.1;Juan León Mera N26-164, Quito;OPERATIONAL;2
+457;restaurant;Mama Clorinda;-0.202806;-78.490596;4.2;La, Reina Victoria 24-150, Quito;OPERATIONAL;2
+458;restaurant;Manolo's Cevicheria;-0.1991129;-78.4871055;4.3;Diego de Almagro 1170, Quito;OPERATIONAL;2
+461;restaurant;McDonald's;-0.1974906;-78.4876528;4.4;Avenida Francisco de Orellana E6-15, Quito;OPERATIONAL;2
+462;restaurant;Menestras del Negro;-0.2009178;-78.4886507;4.3;Quito;OPERATIONAL;2
+464;restaurant;Miskay;-0.2030392;-78.4915043;4.5;Joaquín Pinto E6-43, Quito;OPERATIONAL;2
+468;restaurant;Parrilladas Columbus;-0.1872966;-78.4880628;4.3;Avenida de la República 1237, Quito;OPERATIONAL;2
+470;restaurant;Pekin;-0.1985081;-78.4811562;4.4;Whymper 300, Quito;OPERATIONAL;2
+473;restaurant;Pollo Campero;-0.2017325;-78.4870057;4.2;Avenida Cristóbal Colón E8-89, Quito;OPERATIONAL;2
+474;restaurant;Pollo Gus;-0.1708323;-78.4903028;4.2;Avenida América 3947, Quito;OPERATIONAL;2
+477;restaurant;Rincón Ecuatoriano Chileno;-0.198014;-78.483704;4.4;Avenida 6 de Diciembre N28- 30, Quito;OPERATIONAL;2
+478;restaurant;Rosa Mexicano;-0.1989751;-78.4878164;4.4;Reina Victoria N26-144, Quito;OPERATIONAL;2
+479;restaurant;Rui;-0.2049129;-78.4839536;4.2;Calle, Francisco Salazar E11-133, Quito;OPERATIONAL;2
+485;restaurant;Suvlaki;-0.2052549;-78.4956082;4.6;Avenida Río Amazonas &, Quito;OPERATIONAL;2
+486;restaurant;Taconazo;-0.2056494;-78.4845545;4.4;Avenida Isabel la Católica N24-515, Quito;OPERATIONAL;2
+489;restaurant;Top Ten;-0.200837;-78.4825794;4.4;Avenida La Coruña, Quito;OPERATIONAL;2
+491;restaurant;Turtle's Head;-0.197951;-78.4895536;4.3;La Pinta N4-432, Quito;OPERATIONAL;2
+493;restaurant;Verde & Carbon;-0.1989953;-78.4874134;4.5;La Niña E7-46, Quito;OPERATIONAL;2
+436;restaurant;La Casa de Bottero;-0.2041873;-78.4818854;4.5;Avenida Isabel la Católica, Quito;OPERATIONAL;3
+466;restaurant;NOE sushi bar - Mall El Jardin;-0.1889287;-78.4874358;4.6;Avenida Amazonas, Quito;OPERATIONAL;3
+467;restaurant;Osaka;-0.205368;-78.4835416;4.6;Avenida Isabel la Católica E12 17, Quito;OPERATIONAL;3
+469;restaurant;Pavarotti;-0.2057202;-78.4841576;4.3;Luis Cordero 535, Quito;OPERATIONAL;3
+471;restaurant;Pim's;-0.2199379;-78.5022015;4.5;Iquique, Quito;OPERATIONAL;3
+480;restaurant;Rumiloma;-0.1772141;-78.5239513;4.7;Obispo Díaz de la Madrid, Quito;OPERATIONAL;3
