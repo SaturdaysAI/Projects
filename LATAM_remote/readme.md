@@ -1,3 +1,3 @@
-## AI Saturdays LATAM Remote - Class of July 2020
+## AI Saturdays LATAM Remote
 
 ### Projects AI4Good
