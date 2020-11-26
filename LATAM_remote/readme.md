@@ -1,11 +1,8 @@
-## AI Saturdays LATAM Remote
-
-### Projects AI4Good 👩‍💻
-
+# AI Saturdays LATAM Remote
 <p align="center"><img width="50%" src="https://saturdaysai.github.io/saturdaysai/images/logo.png" /></p>
 
 
-# 🚀 Proyectos (DRAFT)
+## 🚀 Projects AI4Good 👩‍💻
 
 <table>
   <tr>
