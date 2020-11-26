@@ -1,6 +1,53 @@
 # Projects built during AI Saturdays Alicante
 
-### Class of July 2019 __Edición Abril a Julio 2019__
+<p align="center"><img width="50%" src="https://do3z7e6uuakno.cloudfront.net/uploads/event/logo/1094417/237bba15b9d332af12d49a484c210d39.png" /></p>
+
+## Clase Graduada Julio 2020
+
++ Datos y algoritmos en tiempos de COVID-19
+·         Carla Romero
+·         David Valero
+·         Antonio Miguel Pardo Ruiz
+·         Jose Vicente Ferrer
+·         Antonio Gil 
+
+https://github.com/CarlaRom/SATURDAYS-AI-PROJECT-COVID-19
+ 
++ Fake signatures
+·         Julio Castaño Amorós
+·         David García Agulló
+·         José Gilberto Mullor
+·         Vanessa Martínez Jiménez: si la camiseta es grande una S, sino M.
+
+https://github.com/jgmullor/fake-signatures
+
++ Mejora de la Educación
+·         Alberto Rekena
+·         Raúl Moragues
+·         Manuel Turner
+
+Enlace al código del proyecto en github: https://github.com/albertorekena/education-improvement
+
+https://albertorekena.github.io/education-improvement/
+
++ Predicción de ludopatía
+·         Rubén  Martínez Serrano.
+·         José Manuel García Rodes.
+·         Miguel Mirón Alarcón.
+·         Jorge Segura Gisbert
+
+https://github.com/Migala26/AISaturdays-Prediccion-Ludopatia
+
+
++ Desastres Naturales con NLP
+·         Javier Caballero Alvarez
+·         Javier Gombao Fernández-Calvillo
+·         Diego Silveira Madrid
+
+https://github.com/dsilveira2902/SaturdaysAI
+
+
+## Clase de Abril a Julio 2019
 
 + ***Aire-ai: predictor contaminación***
 
