@@ -1,10 +1,11 @@
 # Projects built during AI Saturdays Alicante
 
-<p align="center"><img width="50%" src="https://do3z7e6uuakno.cloudfront.net/uploads/event/logo/1094417/237bba15b9d332af12d49a484c210d39.png" /></p>
+<p align="center"><img width="50%" size="50" src="https://do3z7e6uuakno.cloudfront.net/uploads/event/logo/1094417/237bba15b9d332af12d49a484c210d39.png" /></p>
+
 
 ## Clase Graduada Julio 2020
 
-+ Datos y algoritmos en tiempos de COVID-19
++ Datos y algoritmos en tiempos de COVID-19. Realizado por:
 ·         Carla Romero
 ·         David Valero
 ·         Antonio Miguel Pardo Ruiz
@@ -13,15 +14,15 @@
 
 https://github.com/CarlaRom/SATURDAYS-AI-PROJECT-COVID-19
  
-+ Fake signatures
++ Fake signatures. Realizado por:
 ·         Julio Castaño Amorós
 ·         David García Agulló
 ·         José Gilberto Mullor
-·         Vanessa Martínez Jiménez: si la camiseta es grande una S, sino M.
+·         Vanessa Martínez Jiménez
 
 https://github.com/jgmullor/fake-signatures
 
-+ Mejora de la Educación
++ Mejora de la Educación. Realizado por:
 ·         Alberto Rekena
 ·         Raúl Moragues
 ·         Manuel Turner
@@ -30,7 +31,7 @@ Enlace al código del proyecto en github: https://github.com/albertorekena/educa
 
 https://albertorekena.github.io/education-improvement/
 
-+ Predicción de ludopatía
++ Predicción de ludopatía. Realizado por:
 ·         Rubén  Martínez Serrano.
 ·         José Manuel García Rodes.
 ·         Miguel Mirón Alarcón.
@@ -39,12 +40,13 @@ https://albertorekena.github.io/education-improvement/
 https://github.com/Migala26/AISaturdays-Prediccion-Ludopatia
 
 
-+ Desastres Naturales con NLP
++ Desastres Naturales con NLP. Realizado por:
 ·         Javier Caballero Alvarez
 ·         Javier Gombao Fernández-Calvillo
 ·         Diego Silveira Madrid
 
 https://github.com/dsilveira2902/SaturdaysAI
+
 
 
 ## Clase de Abril a Julio 2019
