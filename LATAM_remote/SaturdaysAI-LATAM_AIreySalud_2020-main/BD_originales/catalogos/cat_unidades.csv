@@ -1,0 +1,18 @@
+id_unidad,clave_unidad,nombre_unidad
+1,ppb,partes por billón
+2,µg/m³,microgramos por metro cúbico
+3,m/s,metros por segundo
+4,°,grados
+5,°C,grados Celsius
+6,%,porcentaje
+7,W/m²,watts por metro cuadrado
+8,µmol/m²/s,micromoles por metro cuadrado por segundo
+9,mmHg,milimetros de mercurio
+10,pH,potencial de hidrógeno
+11,mm,milimetros
+12,µS/cm,microsiemens por centimetro
+13,mg/L,miligramo por litro
+14,mg/m²,miligramo por metro cuadrado
+15,ppm,partes por millón
+16,MED/h,dosis eritemática mínima por hora
+17,mW/cm²,miliwatts por centímetro cuadrado

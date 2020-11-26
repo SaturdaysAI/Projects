@@ -1,0 +1,39 @@
+id_parameter,cve_param,nom_param,unidades_param
+1,O3,Ozono,1
+2,NO2,Dióxido de nitrógeno,1
+3,NO,Óxido nítrico,1
+4,NOx,Óxidos de nitrógeno,1
+5,CO,Monóxido de carbono,15
+6,SO2,Dióxido de azufre,1
+7,PM10,Partículas menores a 10 micrómetros,2
+8,PM2.5,Partículas menores a 2.5 micrómetros,2
+9,PMco,Partículas coarse,2
+10,BEN,Benceno,1
+11,TOL,Tolueno,1
+14,WSP,Velocidad del viento,3
+15,WDR,Direccion del viento,4
+16,TMP,Temperatura ambiente,5
+17,RH,Humedad relativa,6
+18,UVA,Radiación UV-A,7
+19,UVB,Radiación UV-B,16
+20,GR,Radiación global,7
+21,PAR,Radiación FA,8
+22,PA,Presión Atmosférica,9
+23,pH,Potencial de hidrógeno,10
+24,PP,Precipitacion pluvial,11
+25,CE,Conductividad eléctrica,12
+26,SO4,Sulfato,"13,14"
+27,NO3,Nitrato,"13,14"
+28,Cl,Cloruro,"13,14"
+29,CO3,Carbonato,"13,14"
+30,H,Hidrógeno,"13,14"
+31,NH4,Amonio,"13,14"
+32,Ca,Calcio,"13,14"
+33,Mg,Magnesio,"13,14"
+34,Na,Sodio,"13,14"
+35,K,Potasio,"13,14"
+36,PST,Partículas suspendidas totales,2
+37,PbPST,Plomo contenido en PST,2
+38,PbPM,Plomo contenido en PM10,2
+39,ETB,Etilbenceno,1
+40,XIL,Xilenos,1

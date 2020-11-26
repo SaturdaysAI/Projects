@@ -1,0 +1,100 @@
+,producto,descripcion,precio,fecha
+0,huevo,Huevo blanco Aires de campo orgánico 12 pzas ,68.0,24-10-2020
+1,huevo,Huevo blanco San Juan 12 pzas ,26.0,24-10-2020
+2,huevo,Huevo blanco Eel orgánico 12 pzas ,66.5,24-10-2020
+3,huevo,Huevo rojo Bachoco fresco 12 pzas ,27.55,24-10-2020
+4,huevo,Huevo blanco Bachoco fresco 18 pzas ,36.0,24-10-2020
+5,huevo,"Huevo blanco Nutri Campo fresco, de libre pastoreo 12 pzas ",52.0,24-10-2020
+6,huevo,Huevo blanco El Calvario fresco 30 pzas ,57.0,24-10-2020
+7,huevo,Huevo blanco Aurrera 30 pzas ,52.5,24-10-2020
+8,huevo,Huevo rojo Aires de campo orgánico 12 pzas ,68.0,24-10-2020
+9,huevo,Huevo blanco El Calvario 18 pzas ,35.2,24-10-2020
+10,huevo,Huevo blanco Bachoco fresco 12 pzas ,21.35,24-10-2020
+11,huevo,Huevo blanco El Calvario 12 pzas ,23.55,24-10-2020
+12,huevo,Huevo blanco Aurrera 18 pzas ,32.5,24-10-2020
+13,huevo,Huevo blanco Aurrera 12 pzas ,20.0,24-10-2020
+14,huevo,Huevo blanco Sabro Huevo grande 30 pzas ,64.0,24-10-2020
+15,huevo,Huevo blanco orgánico Campo Vivo 6 piezas ,33.2,24-10-2020
+16,huevo,Huevo blanco Guadalupe 1 paquete con 30 pzas ,61.0,24-10-2020
+17,huevo,Clara de huevo San Juan líquida 500 g ,24.0,24-10-2020
+18,huevo,Huevo blanco San Juan 30 pzas ,58.5,24-10-2020
+19,huevo,Huevo rojo Bachoco fresco 18 pzas ,39.7,24-10-2020
+20,frijol,Frijol Verde Valle peruano 900 g ,52.0,24-10-2020
+21,frijol,Frijoles bayos La Sierra refritos en bolsa 430 g ,14.0,24-10-2020
+22,frijol,Frijoles negros La Sierra refritos en bolsa 430 g ,14.0,24-10-2020
+23,frijol,Frijol pinto La Sierra 1 kg ,40.9,24-10-2020
+24,frijol,Frijol negro Verde Valle 1 kg ,39.0,24-10-2020
+25,frijol,Frijol pinto Verde Valle 1 kg ,52.0,24-10-2020
+26,frijol,Frijoles negros La Costeña refritos 580 g ,15.6,24-10-2020
+27,frijol,Frijoles Chata negros refritos 430 g ,13.9,24-10-2020
+28,frijol,Frijoles negros La Costeña enteros 560 g ,15.6,24-10-2020
+29,frijol,Frijoles Bayos La Sierra refritos en lata 580 g ,15.5,24-10-2020
+30,frijol,Frijoles bayos La Costeña refritos 580 g ,15.8,24-10-2020
+31,frijol,Frijoles bayos La Costeña enteros 560 g ,15.6,24-10-2020
+32,frijol,Frijol Querétaro Schettino Gran Cosecha premium 1 kg ,36.0,24-10-2020
+33,frijol,Frijoles bayos Isadora refritos en bolsa 430 g ,15.9,24-10-2020
+34,frijol,Frijoles negros Isadora enteros 454 g ,17.0,24-10-2020
+35,frijol,Frijoles bayos Isadora refritos bajos en grasa en bolsa 430 g ,17.0,24-10-2020
+36,frijol,Frijoles negros Isadora refritos en bolsa 430 g ,15.9,24-10-2020
+37,frijol,Frijol Great Value peruano 900 g ,44.8,24-10-2020
+38,frijol,Frijoles enteros claros Isadora bolsa 454 g ,17.0,24-10-2020
+39,frijol,Frijol Great Value negro jamapa 900 g ,35.5,24-10-2020
+40,leche,Leche Santa Clara deslactosada 6 pack de 1 l c/u ,118.0,24-10-2020
+41,leche,Leche Alpura Clásica 6 envases de 1 l c/u ,113.0,24-10-2020
+42,leche,Leche Lala 100 sin lactosa light + proteína 1 l ,27.5,24-10-2020
+43,leche,Leche Alpura deslactosada light 1 l ,21.4,24-10-2020
+44,leche,Leche Alpura Selecta 1 l ,22.7,24-10-2020
+45,leche,Leche Alpura Clásica entera 1.5 l ,30.7,24-10-2020
+46,leche,Leche Alpura deslactosada 6 envases de 1 l c/u ,113.0,24-10-2020
+47,leche,Leche Lala 100 sin lactosa reducida en grasa low carb 1 l ,26.5,24-10-2020
+48,leche,Leche Alpura deslactosada 1.5 l ,31.7,24-10-2020
+49,leche,Leche Lala 100 sin lactosa parcialmente descremada + proteína 1 l ,27.5,24-10-2020
+50,leche,Leche Santa Clara entera 6 pack de 1 l c/u ,115.0,24-10-2020
+51,leche,Leche Alpura Selecta deslactosada 1 l ,24.0,24-10-2020
+52,leche,Leche fresca Alpura Clásica entera 1.89 l ,34.0,24-10-2020
+53,leche,Leche Lala 100 sin lactosa + calcio 1 l ,26.5,24-10-2020
+54,leche,Leche Lala 100 deslactosada 1 l ,26.5,24-10-2020
+55,leche,Leche Santa Clara deslactosada light 1 l ,23.4,24-10-2020
+56,leche,Leche Santa Clara entera 1 l ,22.3,24-10-2020
+57,leche,Leche Alpura light 1 l ,21.4,24-10-2020
+58,leche,Leche Alpura deslactosada 1 l ,21.4,24-10-2020
+59,leche,Leche Alpura Clásica entera 1 l ,21.4,24-10-2020
+0,tortilla,Tortilla de maíz por kg ,12.5,24-10-2020
+1,tortilla,Tortillas de harina de trigo Tía Rosa Tortillinas reducidas en grasa 12 pzas ,17.5,24-10-2020
+2,tortilla,Tortillinas Tía Rosa 100% integrales 10 pzas ,16.9,24-10-2020
+3,tortilla,Tortillas de harina Tía Rosa para parrilla estilo norteña 10 pzas ,14.9,24-10-2020
+4,tortilla,Tortillinas Tía Rosa de harina 12 pzas ,15.5,24-10-2020
+5,tortilla,Tortillinas Tía Rosa de harina 22 pzas ,24.9,24-10-2020
+6,tortilla,Tortillas de nopal Nopalia 500 g ,29.5,24-10-2020
+7,tortilla,Tortillas de maíz Ochoa 800 g ,18.0,24-10-2020
+8,tortilla,Tortilla española Extra Special clásica con cebolla 500 g ,118.0,24-10-2020
+9,tortilla,Tortillas de amaranto Rafita sin gluten 400 g ,39.9,24-10-2020
+10,tortilla,"Tortillas de amaranto Rafita con chía, sin gluten 400 g ",39.9,24-10-2020
+11,tortilla,Tortillas de harina Mission integrales 10 pzas ,15.0,24-10-2020
+12,tortilla,Tortillas de maíz Ochoa 450 g ,10.5,24-10-2020
+13,tortilla,Sopes Ochoa 12 pzas ,35.9,24-10-2020
+14,tortilla,Tortillas Susalia maíz con nopal 500 g ,31.5,24-10-2020
+15,tortilla,Tortillas Ochoa de maíz 800 g ,19.5,24-10-2020
+16,tortilla,Germinado de soya San Francisco Cultivos Naturales cultivos naturales 250 g ,24.9,24-10-2020
+17,tortilla,Tortillas fritas Fresh Gourmet ligeramente saladas 99 g ,41.0,24-10-2020
+18,tortilla,Tortillas de harina Mission estilo casero 10 pzas ,12.5,24-10-2020
+19,tortilla,Tortillas de harina Mission sabor mantequilla 10 pzas ,11.9,24-10-2020
+20,papel higiénico,Papel higiénico Kleenex Cottonelle soft care 32 pzas ,230.0,24-10-2020
+21,papel higiénico,Papel higiénico Kleenex Cottonelle soft 18 rollos con 180 hojas dobles c/u ,120.0,24-10-2020
+22,papel higiénico,Papel higiénico Great Value premium 32 rollos con 220 hojas dobles c/u ,125.0,24-10-2020
+23,papel higiénico,Papel higiénico Regio Just 1 con 6 rollos con 115 hojas cuádruples ,76.0,24-10-2020
+24,papel higiénico,Papel higiénico Regio luxury almond touch 4 rollos con 205 hojas dobles ,22.0,24-10-2020
+25,papel higiénico,Papel higiénico Regio Luxury almond touch 18 rollos con 205 hojas dobles ,144.0,24-10-2020
+26,papel higiénico,Toallas húmedas Kleenex Cottonelle con 42 pzas ,45.0,24-10-2020
+27,papel higiénico,Papel higiénico Kleenex Cottonelle Beauty 24 rollos ,129.0,24-10-2020
+28,papel higiénico,Papel higiénico húmedo Regio Almond Touch paquete con 42 hojas ,38.0,24-10-2020
+29,papel higiénico,Papel higiénico Regio just 1 con 24 rollos de 115 hojas cuádruples ,282.0,24-10-2020
+30,papel higiénico,Papel higiénico Elite Triplex aroma vainilla y canela 18 rollos de 200 hojas triples c/u ,119.0,24-10-2020
+31,papel higiénico,Papel higiénico Kleenex Cottonelle Beauty 18 rollos con 180 hojas triples c/u ,120.0,24-10-2020
+32,papel higiénico,Papel higiénico Great Value select care 6 pzas ,38.0,24-10-2020
+33,papel higiénico,Papel higiénico Regio Just 1 con 6 rollos de 115 hojas cuádruples más 2 rollos gratis ,76.0,24-10-2020
+34,papel higiénico,Papel higiénico Kleenex Cottonelle pure 18 pzas ,120.0,24-10-2020
+35,papel higiénico,Papel higiénico Pétalo Rendimax 12 rollos con 320 hojas dobles c/u ,73.0,24-10-2020
+36,papel higiénico,Papel higiénico Pétalo rendimax 1 paquete con 16 pzas ,75.0,24-10-2020
+37,papel higiénico,Papel higiénico húmedo Regio luxury 42 toallas más 1 despachador ,43.3,24-10-2020
+38,papel higiénico,Papel higiénico Regio luxury créme de cocoa 24 rollos con 190 hojas triples ,179.0,24-10-2020
