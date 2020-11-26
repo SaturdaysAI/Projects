@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>formulario predicción precios</title>
+</head>
+<body>
+
+    <header> 
+           
+        <!-- Top header menu containing 
+             logo and Navigation bar -->
+        <div id="top-header"> 
+                   
+            <!-- Logo -->
+            <div id="logo"> 
+                <img src="logo.png" /> 
+            </div>     
+                       
+            <!-- Navigation Menu -->
+            <nav>
+                <div id="menu">
+                  <ul>
+                      <li class="active"><a href="#">Inicio</a></li>
+                      <li><a href="#">Acerca de nosotros</a></li>
+                      <li><a href="#">dashboard</a></li>
+                      <li><a href="#">Predictor</a></li>
+                      <li><a href="#">Contáctanos</a></li>
+                  </ul>
+                </div> 
+              </nav>
+          </div>   
+    </header> 
+
+
+    <section class="form-prediccion">
+        <h4>Predictor</h4>
+        <input class="controls" type="text" name="anio" id="anio" placeholder="Ingrese el año">
+        <input class="controls" type="text" name="mes" id="mes" list="meses" placeholder="Ingrese el mes">
+        <datalist id="meses"></datalist>
+        <input class="controls" type="text" name="lugar" id="lugar" list="lug" placeholder="Ingrese el lugar">
+        <datalist id="lug"></datalist>
+        <input class="controls" type="text" name="categoria" id="categoria" list="subcat" placeholder="Ingrese la categoria">
+        <datalist id="subcat"></datalist>
+        <input class="controls" type="text" name="producto" id="producto" list="prod" placeholder="Ingrese el prodcto">
+        <datalist id="prod"></datalist>
+        <input class="controls" type="text" name="cantidad" id="cantidad" placeholder="Ingrese la cantidad">
+        <input class="controls" type="text" name="unidad" id="unidad" list="uni" placeholder="Ingrese la unidad">
+        <datalist id="uni"></datalist>
+        <input class="controls" type="text" name="especificos" id="especificos" list="espe" placeholder="Agregue especificos">
+        <datalist id="espe"></datalist>
+
+        <input class="botons" type="submit" id="predecir" value="Calcular">
+        <p id="greeting">Precio predicho</p>
+    </section>
+
+    <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+    <script src="operaciones.js"></script>
+
+    
+    <script>
+        $('#predecir').click(function(event){
+            let message = {
+                anio: $("#anio").val(),
+                mes: $("#mes").val(),
+                lugar: $("#lugar").val(),
+                categoria: $("#categoria").val(),
+                producto: $("#producto").val(),
+                cantidad: $("#cantidad").val(),
+                unidad: $("#unidad").val(),
+                especificos: $("#especificos").val()
+            }
+            $.post("http://192.168.0.104:5000/hello", JSON.stringify(message), function(response){
+                $("#greeting").text("El precio calculado es "+response.greeting);
+                console.log(response);
+            });
+        });
+    </script>
+</body>
+</html>
