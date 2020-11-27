@@ -21,9 +21,9 @@ Copia "AS IS" de los proyectos en el momento del DemoDay, es probable que alguno
 
 * 7 [Predicción de accidentes viales aplicando Redes Bayesianas "Safe Driver"](https://github.com/SaturdaysAI/Projects/tree/master/LATAM_remote/equipo_rosa_saturdaysai_latam_2020-master)
 
-* 8 [Asistente turístico virtual para turistas internacionales que buscan experiencias únicas durante su estancia en México](https://github.com/SaturdaysAI/Projects/tree/master/LATAM_remote/asistente_turistico-master)
+* 8 ["SMARTOUR.AI" Asistente turístico virtual para turistas internacionales que buscan experiencias únicas durante su estancia en México](https://github.com/SaturdaysAI/Projects/tree/master/LATAM_remote/asistente_turistico-master)
 
-* 9 [Plataforma web de detección de noticias e información confiables relacionadas a la pandemia de COVID-19 ](https://github.com/SaturdaysAI/Projects/tree/master/LATAM_remote/InfoVac-main)
+* 9 ["InfoVac.ia" Detección de noticias e información confiables relacionadas a la pandemia de COVID-19](https://github.com/SaturdaysAI/Projects/tree/master/LATAM_remote/InfoVac-main)
 
 * 10 [Clasificador territorial de tweets relacionados con salud mental en tiempos de COVID-19](https://github.com/SaturdaysAI/Projects/tree/master/LATAM_remote/DataExtraction-master) 
 
