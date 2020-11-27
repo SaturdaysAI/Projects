@@ -24,7 +24,7 @@
 
 * 9 [Plataforma web de detección de noticias e información confiables relacionadas a la pandemia de COVID-19 ](https://github.com/AI6-UIO/NAMPI)
 
-* 10 [Clasificador territorial de tweets relacionados con salud mental en tiempos de COVID-19](LATAM_remote/DataExtraction-master) 
+* 10 [Clasificador territorial de tweets relacionados con salud mental en tiempos de COVID-19](/DataExtraction-master) 
 
 
 ## Contributing
