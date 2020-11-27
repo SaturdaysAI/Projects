@@ -1,5 +1,7 @@
 [![AI4Good SaturdaysAI Project](https://img.shields.io/badge/AI4Good%20Project-SaturdaysAI-orange)](https://www.saturdays.ai/projects_saturdays.html)
 
+[VideoAnuncio de los Proyectos](https://www.tiktok.com/@saturdaysai/video/6899118410030976258)
+
 # AI Saturdays LATAM Remote
 <p align="center"><img width="50%" src="https://saturdaysai.github.io/saturdaysai/images/logo.png" /></p>
 
