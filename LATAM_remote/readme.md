@@ -1,3 +1,4 @@
+https://img.shields.io/badge/AI4Good%20Project-SaturdaysAI-orange
 # AI Saturdays LATAM Remote
 <p align="center"><img width="50%" src="https://saturdaysai.github.io/saturdaysai/images/logo.png" /></p>
 
