@@ -9,7 +9,7 @@ Copia "AS IS" de los proyectos en el momento del DemoDay, es probable que alguno
 
 * 1 [Detección del nivel de violencia en los diferentes géneros musicales a través de NLP](https://github.com/SaturdaysAI/Projects/tree/master/LATAM_remote/NLP_Violencia-en-musica--master)
 
-* 2 [Recomendador de precios de productos por zona con ML](https://github.com/SaturdaysAI/Projects/tree/master/LATAM_remote/RecoprecioEquipoCoral_SaturdaysAI_Latam2020)
+* 2 ["Recoprecio.IA" Recomendador de precios de productos por zona con ML](https://github.com/SaturdaysAI/Projects/tree/master/LATAM_remote/RecoprecioEquipoCoral_SaturdaysAI_Latam2020)
 
 * 3 ["Recicla.IA" Sistema para clasificación de Residuos Sólidos Urbanos](https://github.com/SaturdaysAI/Projects/tree/master/LATAM_remote/Project_recicla_ai-main)
 
