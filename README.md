@@ -4,6 +4,7 @@
 ### Projects built during Saturdays sessions (already graduated):
 _to graduate as an #aifellow in AI Saturdays, during the _build2learn_ phase you have to build an AI project from scratch with focus on social impact and open-source it._
 
+- [Latam remote](https://github.com/SaturdaysAI/Projects/tree/master/LATAM_remote/readme.md)  
 - [Barcelona](https://github.com/SaturdaysAI/Projects/tree/master/Barcelona/readme.md)  
 - [Madrid](https://github.com/SaturdaysAI/Projects/tree/master/Madrid/readme.md)
 - [Valencia](https://github.com/SaturdaysAI/Projects/tree/master/Valencia)
