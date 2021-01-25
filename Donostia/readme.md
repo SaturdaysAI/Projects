@@ -1,7 +1,7 @@
 # Projects built during AI Saturdays Donostia
 
 
-<p align="center"><img width="50%" size="30" src="https://donostia.saturdays.ai/wp-content/uploads/2020/05/Logo-AI-Donostia_edit_2-140x204.png" /></p>
+<p align="center"><img width="50%" size="10" src="https://donostia.saturdays.ai/wp-content/uploads/2020/05/Logo-AI-Donostia_edit_2-140x204.png" /></p>
 
 
 
