@@ -16,3 +16,48 @@
 [submodule "Donostia/algorithmic_marketing"]
 	path = Donostia/algorithmic_marketing
 	url = https://github.com/dorronsoro/algorithmic_marketing.git
+[submodule "Guadalajara/November2019/saturdaysai_projectteam1"]
+	path = Guadalajara/November2019/saturdaysai_projectteam1
+	url = https://bitbucket.org/PattPatt/saturdaysai_projectteam1.git
+[submodule "Guadalajara/November2019/SaturdaysAI_Project_T2"]
+	path = Guadalajara/November2019/SaturdaysAI_Project_T2
+	url = https://github.com/marcos862/SaturdaysAI_Project_T2.git
+[submodule "Guadalajara/November2019/SAI-E3-HEART"]
+	path = Guadalajara/November2019/SAI-E3-HEART
+	url = https://github.com/RodCaba/SAI-E3-HEART.git
+[submodule "Guadalajara/November2019/ceneval"]
+	path = Guadalajara/November2019/ceneval
+	url = https://github.com/ricnef2121/ceneval.git
+[submodule "Guadalajara/November2019/saturdays.ai"]
+	path = Guadalajara/November2019/saturdays.ai
+	url = https://github.com/gustavosantoscoy/saturdays.ai.git
+[submodule "Guadalajara/November2019/EQUIPO-6-SECURITY"]
+	path = Guadalajara/November2019/EQUIPO-6-SECURITY
+	url = https://github.com/Neli-Torres/EQUIPO-6-SECURITY.git
+[submodule "Guadalajara/November2019/wageForcasterMx"]
+	path = Guadalajara/November2019/wageForcasterMx
+	url = https://github.com/E7SATAI/wageForcasterMx.git
+[submodule "Guadalajara/November2019/AvocadoCNN"]
+	path = Guadalajara/November2019/AvocadoCNN
+	url = https://github.com/ineszetter/AvocadoCNN.git
+[submodule "Guadalajara/July2020/OrganDP"]
+	path = Guadalajara/July2020/OrganDP
+	url = https://github.com/azbit0/OrganDP.git
+[submodule "Guadalajara/July2020/datasets"]
+	path = Guadalajara/July2020/datasets
+	url = https://github.com/saturdaysai-gdl2-plata/datasets.git
+[submodule "Guadalajara/July2020/AI.rbike"]
+	path = Guadalajara/July2020/AI.rbike
+	url = https://github.com/JacoboDB/AI.rbike.git
+[submodule "Guadalajara/July2020/Saturdays.ai-Equipo-Naranja"]
+	path = Guadalajara/July2020/Saturdays.ai-Equipo-Naranja
+	url = https://github.com/RebeNura/Saturdays.ai-Equipo-Naranja.git
+[submodule "Guadalajara/July2020/covid19"]
+	path = Guadalajara/July2020/covid19
+	url = https://github.com/saturdays-equipo3/covid19.git
+[submodule "Guadalajara/July2020/Hospitals-Nearb-AI-Me"]
+	path = Guadalajara/July2020/Hospitals-Nearb-AI-Me
+	url = https://github.com/luischitala/Hospitals-Nearb-AI-Me.git
+[submodule "Guadalajara/July2020/Sermone"]
+	path = Guadalajara/July2020/Sermone
+	url = https://github.com/omar-bracamontes-zavala/Sermone.git
