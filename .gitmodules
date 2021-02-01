@@ -1,0 +1,18 @@
+[submodule "Donostia/animal-shelter-AI"]
+	path = Donostia/animal-shelter-AI
+	url = https://github.com/BZaldua/animal-shelter-AI.git
+[submodule "Donostia/SaturdaysAI_vol.1"]
+	path = Donostia/SaturdaysAI_vol.1
+	url = https://github.com/Juan-glitch/SaturdaysAI_vol.1.git
+[submodule "Donostia/AISaturdays-depresion-rrss"]
+	path = Donostia/AISaturdays-depresion-rrss
+	url = https://github.com/serNAVARRO7/AISaturdays-depresion-rrss.git
+[submodule "Donostia/Facial_Expression_Saturdays"]
+	path = Donostia/Facial_Expression_Saturdays
+	url = https://github.com/Isegu/Facial_Expression_Saturdays.git
+[submodule "Donostia/AI-Learn-to-invest"]
+	path = Donostia/AI-Learn-to-invest
+	url = https://github.com/ImanolR87/AI-Learn-to-invest.git
+[submodule "Donostia/algorithmic_marketing"]
+	path = Donostia/algorithmic_marketing
+	url = https://github.com/dorronsoro/algorithmic_marketing.git

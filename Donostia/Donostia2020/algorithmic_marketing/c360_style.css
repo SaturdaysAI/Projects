@@ -1,0 +1,133 @@
+<style>
+h3 {
+    font-size: 20px;
+    font-weight: 300;
+    background-color: #00c4cc;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+h4 {
+    font-size: 20px;
+    font-weight: 300;
+    background-color: #CCE0EA;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+h1 {
+    color: black;
+    padding: 20px;
+    border-radius: 5px;
+    font-size: 28px;
+    font-weight: 500;
+    text-align: center;
+}
+
+h2 {
+    background-color: #0078d7;
+    color: black;
+    padding: 20px;
+    border-radius: 5px;
+    font-size: 20px;
+    font-weight: 300;
+    text-align: center;
+}
+
+h5 {
+    font-size: 15px;
+    font-weight: 200;
+    background-color: #00c4cc;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.subsection {
+    font-size: 15px;
+    font-weight: 200;
+    background-color: #b3d9ff;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+
+
+pre.code {
+  background-color:#efefef;
+  padding: 20px;
+  border: 1px solid #dedede;
+}
+.row {
+  display: flex;
+}
+
+.column {
+  flex: 50%;
+  padding: 5px;
+}
+.alert {
+  padding: 20px;
+  background-color: #f44336;
+  color: white;
+}
+
+.alert_info {
+  padding: 20px;
+  background-color: #ffdf00;
+  color: black;
+}
+
+.closebtn {
+  margin-left: 15px;
+  color: white;
+  font-weight: bold;
+  float: right;
+  font-size: 22px;
+  line-height: 20px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.closebtn:hover {
+  color: black;
+}
+
+.button {
+  background-color: #0078d7; 
+  border: none;
+  color: black;
+  padding: 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  font-weight: bold;
+}
+
+.button4 {border-radius: 12px;}
+.wrapper {
+    text-align: center;
+}
+
+.info {
+  padding: 20px;
+  background-color: #e7f3fe;
+  border-left: 6px solid #2196F3;
+}
+
+.graphs {
+  padding: 20px;
+  background-color: #F67BF8;
+  border-left: 6px solid #8D0A8F;
+}
+
+
+.images {
+  padding: 20px;
+  background-color: #96F99F;
+  border-left: 6px solid #147B1E;
+}
+
+</style>

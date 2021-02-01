@@ -1,0 +1,181 @@
+{
+  "profile": "tabular-data-package",
+  "resources": [
+    {
+      "name": "socialmedia_data",
+      "path": "https://raw.githubusercontent.com/serNAVARRO7/AISaturdays-depresion-rrss/main/OSF_socialmedia_data.csv",
+      "profile": "tabular-data-resource",
+      "schema": {
+        "fields": [
+          {
+            "name": "Participant",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": "Date",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": "Day",
+            "type": "string",
+            "format": "default"
+          },
+          {
+            "name": "Time",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": "Session.Name",
+            "type": "string",
+            "format": "default"
+          },
+          {
+            "name": "Notification.No",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": "LifePak.Download.No",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": "Responded",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": "Completed.Session",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": "Session.Instance",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": "Session.Instance.Response.Lapse",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": "Reminders.Delivered",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": "Instr_DQs",
+            "type": "string",
+            "format": "default"
+          },
+          {
+            "name": "Fatigue",
+            "type": "integer",
+            "format": "default",
+            "title": "Fatigue",
+            "description": "Q1 I felt tired.\n0 – 100 (0 “Not at all” 100 “Very much”)"
+          },
+          {
+            "name": "DeprMood",
+            "type": "integer",
+            "format": "default",
+            "title": "Depressive mood",
+            "description": "Q2 I felt sad.\n0 – 100 (0 “Not at all” 100 “Very much”)"
+          },
+          {
+            "name": "Loneliness",
+            "type": "integer",
+            "format": "default",
+            "title": "Loneliness",
+            "description": "Q3 I felt lonely.\n0 – 100 (0 “Not at all” 100 “Very much”)"
+          },
+          {
+            "name": "Concentrat",
+            "type": "integer",
+            "format": "default",
+            "title": "Concentration",
+            "description": "Q4 I had trouble concentrating.\n0 – 100 (0 “Not at all” 100 “Very much”)"
+          },
+          {
+            "name": "LossOfInt",
+            "type": "integer",
+            "format": "default",
+            "title": "Loss of interest",
+            "description": "Q5 I had little interest in doing anything.\n0 – 100 (0 “Not at all” 100 “Very much”)"
+          },
+          {
+            "name": "Inferior",
+            "type": "integer",
+            "format": "default",
+            "title": "Inferior",
+            "description": "Q6 I felt inferior to others.\n0 – 100 (0 “Not at all” 100 “Very much”)"
+          },
+          {
+            "name": "Hopeless",
+            "type": "integer",
+            "format": "default",
+            "title": "Hopeless",
+            "description": "Q7 I felt pessimistic about my future.\n0 – 100 (0 “Not at all” 100 “Very much”)"
+          },
+          {
+            "name": "Stress",
+            "type": "integer",
+            "format": "default",
+            "title": "Stress",
+            "description": "Q8 I felt stressed (tense, restless, nervous or anxious).\n0 – 100 (0 “Not at all” 100 “Very much”)"
+          },
+          {
+            "name": "PSMU",
+            "type": "integer",
+            "format": "default",
+            "title": "Passive social media use",
+            "description": "Q10 I engaged in passive social media use.\n0 – 100 (0 “Not at all” 100 “Very often”)"
+          },
+          {
+            "name": "AutoPSMU",
+            "type": "integer",
+            "format": "default",
+            "title": "Automatic passive social media use",
+            "description": "Q9 I started passive social media use before I realized I was doing it.\n0 – 100 (0 “Not at all” 100 “Very often”)"
+          },
+          {
+            "name": "News",
+            "type": "integer",
+            "format": "default",
+            "title": "News",
+            "description": "Q11 While on social media, I received news about politics, public events and public issues.\n0 – 100 (0 “Not at all” 100 “Very often”)"
+          },
+          {
+            "name": "Active",
+            "type": "integer",
+            "format": "default",
+            "title": "Active social media use",
+            "description": "Q12 I actively used social media by commenting, posting, sharing or chatting.\n0 – 100 (0 “Not at all” 100 “Very often”)"
+          }
+        ]
+      }
+    }
+  ],
+  "keywords": [
+    "social media",
+    "depression",
+    "loneliness",
+    "stress"
+  ],
+  "name": "socialmedia-depression",
+  "title": "Social Media and Depression Symptoms",
+  "description": "This Data Package contains the raw data for the following publication: \n\nAalbers, G., McNally, R. J., Heeren, A., De Wit, S., & Fried, E. I. (2019). Social media and depression symptoms: A network perspective. Journal of Experimental Psychology: General, 148(8), 1454. http://dx.doi.org/10.1037/xge0000528\n\nThe raw data can be found at the Open Science Framework: https://osf.io/czs6y/",
+  "homepage": "https://osf.io/czs6y/",
+  "version": "1.0.0",
+  "licenses": [
+    {
+      "name": "CC-BY-4.0",
+      "title": "Creative Commons Attribution 4.0",
+      "path": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  ]
+}
