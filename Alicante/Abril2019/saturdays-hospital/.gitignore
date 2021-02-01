@@ -1,0 +1,8 @@
+modelo.ipynb
+f.sql
+out*
+*.tmp
+.ipynb_checkpoints
+venv
+.vscode
+.idea

@@ -1,0 +1,10 @@
+PCA : ['P38SP1', 'P39', 'DB1', 'P35', 'P7', 'P22', 'DB0', 'POB1', 'P22', 'DB0', 'P31', 'P46', 'P0R1', 'P18A', 'P38SP9']
+Coinciden en los elementos: ['P0R1', 'P18A', 'P22', 'P35', 'P38SP9', 'P7']
+
+*Buscar mas bien la unión de variables en lugar de la intersección (entre PCA y Boruta).
+*Añadir datos sintéticos pero sin necesidad de que la cantidad sea la misma, ir datos sintéticos poco a poco e ir probando.
+*Añadir datos sintéticos cuando ya nos hemos quedado con las variables que nos interesan.
+*Asegurarnos que está balanceado (que hay una cantidad razonable de varaible objetivo en TRAIN y en TEST).
+*Buscar en la parte de prepocesado acerca del tema de outliers. Utilizar algoritmo 'isolation forest' para encontrar outliers.
+*Hacer el clustering con las variables seleccionadas finalmente, no con todas.
+*Utilizar herramientas de visualización como PowerBI, Tableau o similar para comprobar bien las variables, con interacciones entre gráficos.
