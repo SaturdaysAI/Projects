@@ -61,3 +61,63 @@
 [submodule "Guadalajara/July2020/Sermone"]
 	path = Guadalajara/July2020/Sermone
 	url = https://github.com/omar-bracamontes-zavala/Sermone.git
+[submodule "Hermosillo/November2019/Crime"]
+	path = Hermosillo/November2019/Crime
+	url = https://github.com/DiaDeMuertos/Crime.git
+[submodule "Hermosillo/November2019/ProyectosHMO"]
+	path = Hermosillo/November2019/ProyectosHMO
+	url = https://github.com/SaturdaysAI-HMO/ProyectosHMO.git
+[submodule "Monterrey/January2020/SaturdaysAI_agua"]
+	path = Monterrey/January2020/SaturdaysAI_agua
+	url = https://github.com/alejandragza/SaturdaysAI_agua.git
+[submodule "Monterrey/January2020/SaturdaysAI_Fem"]
+	path = Monterrey/January2020/SaturdaysAI_Fem
+	url = https://github.com/berenicehdr/SaturdaysAI_Fem.git
+[submodule "Monterrey/January2020/MtySaturdayAI2020"]
+	path = Monterrey/January2020/MtySaturdayAI2020
+	url = https://github.com/StavroK/MtySaturdayAI2020.git
+[submodule "Monterrey/January2020/SaturdaysAI"]
+	path = Monterrey/January2020/SaturdaysAI
+	url = https://github.com/rodolfobetanzos/SaturdaysAI.git
+[submodule "Monterrey/January2020/Proyecto_SaturdaysAI"]
+	path = Monterrey/January2020/Proyecto_SaturdaysAI
+	url = https://github.com/ArnoldoOliva/Proyecto_SaturdaysAI.git
+[submodule "Monterrey/January2020/saturdaysAI20"]
+	path = Monterrey/January2020/saturdaysAI20
+	url = https://github.com/jesuss83/saturdaysAI20.git
+[submodule "Monterrey/January2020/00SaturdayAI_2020_AB"]
+	path = Monterrey/January2020/00SaturdayAI_2020_AB
+	url = https://github.com/DirceoQA/00SaturdayAI_2020_AB.git
+[submodule "Santiago/Agosto2019/project-saturdays_AI"]
+	path = Santiago/Agosto2019/project-saturdays_AI
+	url = https://github.com/mirelys/project-saturdays_AI.git
+[submodule "Santiago/Agosto2019/SID"]
+	path = Santiago/Agosto2019/SID
+	url = https://github.com/soriaster/SID.git
+[submodule "Sevilla/July2019/Cancer.Bot"]
+	path = Sevilla/July2019/Cancer.Bot
+	url = https://github.com/MrManlu/Cancer.Bot.git
+[submodule "Sevilla/July2019/app_sign_language"]
+	path = Sevilla/July2019/app_sign_language
+	url = https://github.com/ai-sign-language/app_sign_language.git
+[submodule "Sevilla/July2019/EnergyDissagregation"]
+	path = Sevilla/July2019/EnergyDissagregation
+	url = https://github.com/joaqrus/EnergyDissagregation.git
+[submodule "Sevilla/July2019/SaturdaysAI"]
+	path = Sevilla/July2019/SaturdaysAI
+	url = https://github.com/MaribelLuque/SaturdaysAI.git
+[submodule "Tarragona/July2018/sat4survive"]
+	path = Tarragona/July2018/sat4survive
+	url = https://github.com/apolmig/sat4survive.git
+[submodule "Tarragona/July2018/ai4smartcities"]
+	path = Tarragona/July2018/ai4smartcities
+	url = https://github.com/sfrias/ai4smartcities.git
+[submodule "Tarragona/July2018/project_ai"]
+	path = Tarragona/July2018/project_ai
+	url = https://github.com/gerardp/project_ai.git
+[submodule "Tarragona/July2018/IcGAN"]
+	path = Tarragona/July2018/IcGAN
+	url = https://github.com/apolmig/IcGAN.git
+[submodule "Tarragona/July2018/place2plug"]
+	path = Tarragona/July2018/place2plug
+	url = https://github.com/sfrias/place2plug.git
