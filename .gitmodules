@@ -121,3 +121,90 @@
 [submodule "Tarragona/July2018/place2plug"]
 	path = Tarragona/July2018/place2plug
 	url = https://github.com/sfrias/place2plug.git
+[submodule "Madrid/May2019/alzheimer"]
+	path = Madrid/May2019/alzheimer
+	url = https://github.com/pcuenca/alzheimer.git
+[submodule "Madrid/May2019/WhereIsThePollution"]
+	path = Madrid/May2019/WhereIsThePollution
+	url = https://github.com/whereisthepollution/WhereIsThePollution.git
+[submodule "Madrid/May2019/boeanalytics"]
+	path = Madrid/May2019/boeanalytics
+	url = https://github.com/Lawlesscodelen/boeanalytics.git
+[submodule "Madrid/May2019/Proyecto_Final_Pilates"]
+	path = Madrid/May2019/Proyecto_Final_Pilates
+	url = https://github.com/estelabalboa/Proyecto_Final_Pilates.git
+[submodule "Madrid/May2019/AISaturdaysProject"]
+	path = Madrid/May2019/AISaturdaysProject
+	url = https://github.com/Deurru/AISaturdaysProject.git
+[submodule "Madrid/May2019/dcgan_cities"]
+	path = Madrid/May2019/dcgan_cities
+	url = https://github.com/illpack/dcgan_cities.git
+[submodule "Madrid/May2019/bookanimation"]
+	path = Madrid/May2019/bookanimation
+	url = https://github.com/bookanimation/bookanimation.git
+[submodule "Madrid/May2019/SaturdaysAI_NLP"]
+	path = Madrid/May2019/SaturdaysAI_NLP
+	url = https://github.com/mgonzalezalted/SaturdaysAI_NLP.git
+[submodule "Madrid/Dec2019/Dr_Cervantes_AI_Saturday_Madrid"]
+	path = Madrid/Dec2019/Dr_Cervantes_AI_Saturday_Madrid
+	url = https://github.com/poziryna84/Dr_Cervantes_AI_Saturday_Madrid.git
+[submodule "Madrid/Dec2019/exonet"]
+	path = Madrid/Dec2019/exonet
+	url = https://github.com/ebasanez/exonet.git
+[submodule "Madrid/Dec2019/AneurAI-AISaturdays-Madrid"]
+	path = Madrid/Dec2019/AneurAI-AISaturdays-Madrid
+	url = https://github.com/algadoc/AneurAI-AISaturdays-Madrid.git
+[submodule "Madrid/Dec2019/Melanoma_Recognizer"]
+	path = Madrid/Dec2019/Melanoma_Recognizer
+	url = https://github.com/ProyectoMSAI/Melanoma_Recognizer.git
+[submodule "Madrid/Dec2019/EEG_epilepsia"]
+	path = Madrid/Dec2019/EEG_epilepsia
+	url = https://github.com/Jango-ai/EEG_epilepsia.git
+[submodule "Madrid/Dec2019/somvra"]
+	path = Madrid/Dec2019/somvra
+	url = https://github.com/aicitymaps/somvra.git
+[submodule "Madrid/Dec2019/models"]
+	path = Madrid/Dec2019/models
+	url = https://github.com/brainmusic/models.git
+[submodule "Madrid/Dec2019/EMT-project"]
+	path = Madrid/Dec2019/EMT-project
+	url = https://github.com/ravyoli314/EMT-project.git
+[submodule "Madrid/May2020/brain-controlled-game"]
+	path = Madrid/May2020/brain-controlled-game
+	url = https://github.com/Jango-ai/brain-controlled-game.git
+[submodule "Madrid/May2020/democracy"]
+	path = Madrid/May2020/democracy
+	url = https://github.com/FranGarciaBis/democracy.git
+[submodule "Madrid/May2020/GestIA"]
+	path = Madrid/May2020/GestIA
+	url = https://github.com/PaburoTC/GestIA.git
+[submodule "Madrid/May2020/programas_politicos"]
+	path = Madrid/May2020/programas_politicos
+	url = https://github.com/omartinma/programas_politicos.git
+[submodule "Madrid/May2020/Chatbot"]
+	path = Madrid/May2020/Chatbot
+	url = https://github.com/marpigr/Chatbot.git
+[submodule "Madrid/May2020/Stress-Wearables"]
+	path = Madrid/May2020/Stress-Wearables
+	url = https://github.com/nicoccr/Stress-Wearables.git
+[submodule "Madrid/May2020/exodus"]
+	path = Madrid/May2020/exodus
+	url = https://github.com/patcalsi/exodus.git
+[submodule "Madrid/May2020/Renewable-EnergIA"]
+	path = Madrid/May2020/Renewable-EnergIA
+	url = https://github.com/emmaqueen/Renewable-EnergIA.git
+[submodule "Madrid/May2020/ADL"]
+	path = Madrid/May2020/ADL
+	url = https://github.com/AD-PR/ADL.git
+[submodule "Madrid/May2020/ChatbotDL"]
+	path = Madrid/May2020/ChatbotDL
+	url = https://github.com/Daammon/ChatbotDL.git
+[submodule "Madrid/May2020/SATURDAYS.AI-Trash-Segmentation"]
+	path = Madrid/May2020/SATURDAYS.AI-Trash-Segmentation
+	url = https://github.com/Pablo404/SATURDAYS.AI-Trash-Segmentation.git
+[submodule "Madrid/May2020/samur.ai"]
+	path = Madrid/May2020/samur.ai
+	url = https://github.com/ebasanez/samur.ai.git
+[submodule "Madrid/May2020/ai-saturdays-ml-project"]
+	path = Madrid/May2020/ai-saturdays-ml-project
+	url = https://github.com/jmlora/ai-saturdays-ml-project.git
