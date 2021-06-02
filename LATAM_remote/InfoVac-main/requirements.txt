@@ -109,7 +109,7 @@ traitlets==5.0.4
 typer==0.3.2
 typing-extensions==3.7.4.3
 Unidecode==1.1.1
-urllib3==1.25.10
+urllib3==1.26.5
 uvicorn==0.12.2
 w3lib==1.22.0
 wasabi==0.8.0
