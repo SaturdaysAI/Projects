@@ -3,7 +3,7 @@
 
 
 1) Health Bot — Equipo Amarillo:
-- [Repository, Presentation and Report](https://github.com/YellowTeam/Healt-bot)
+- [Repository, Presentation and Report](https://github.com/YellowTeam/Healt-bot-project)
 
 2) Bienestar.ai — Equipo Dorado:
 - [Repository, Presentation and Report](https://github.com/macavimavi/bienestar.ai)
