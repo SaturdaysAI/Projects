@@ -11,7 +11,7 @@
 3) Healthcare AI Stocks  — Equipo Verde:
 - [Repository, Presentation and Report](https://github.com/jarturoa/Aistocks.git)
 
-4) Emotions Detector - Equipo Rojo:
+4) Moody.ai Emotions Detector - Equipo Rojo:
 - [Repository, Presentation and Report](https://github.com/chacoff/EmotionsDetector)
 
 ![DemodayDay AI Saturdays Guadalajara 3rd Generation](aisaturdaysguadalajara3aedicion_demoday.jpeg)
