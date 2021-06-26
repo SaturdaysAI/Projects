@@ -2,6 +2,9 @@
 
 ### [Class of March 2021](https://github.com/SaturdaysAI/Projects/tree/master/Guadalajara/March2021/readme.md)
 
+![DemodayDay AI Saturdays Guadalajara 3rd Generation](March2021/aisaturdaysguadalajara3aedicion_demoday.jpeg)
+
+
 ---
 
 1) Health Bot — Equipo Amarillo:
