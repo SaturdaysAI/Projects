@@ -208,3 +208,15 @@
 [submodule "Madrid/May2020/ai-saturdays-ml-project"]
 	path = Madrid/May2020/ai-saturdays-ml-project
 	url = https://github.com/jmlora/ai-saturdays-ml-project.git
+[submodule "Guadalajara/March2021/Healt-bot-project"]
+	path = Guadalajara/March2021/Healt-bot-project
+	url = https://github.com/YellowTeam/Healt-bot-project.git
+[submodule "Guadalajara/March2021/bienestar.ai"]
+	path = Guadalajara/March2021/bienestar.ai
+	url = https://github.com/macavimavi/bienestar.ai.git
+[submodule "Guadalajara/March2021/Aistocks"]
+	path = Guadalajara/March2021/Aistocks
+	url = https://github.com/jarturoa/Aistocks.git
+[submodule "Guadalajara/March2021/EmotionsDetector"]
+	path = Guadalajara/March2021/EmotionsDetector
+	url = https://github.com/chacoff/EmotionsDetector.git
