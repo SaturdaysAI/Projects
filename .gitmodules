@@ -220,3 +220,33 @@
 [submodule "Guadalajara/March2021/EmotionsDetector"]
 	path = Guadalajara/March2021/EmotionsDetector
 	url = https://github.com/chacoff/EmotionsDetector.git
+[submodule "Madrid/March2021/AIstrophysics"]
+	path = Madrid/March2021/AIstrophysics
+	url = https://github.com/guillermoayllon/AIstrophysics.git
+[submodule "Madrid/March2021/hate_blockers_project"]
+	path = Madrid/March2021/hate_blockers_project
+	url = https://github.com/b-nAIce/hate_blockers_project.git
+[submodule "Madrid/March2021/KalokagathIA"]
+	path = Madrid/March2021/KalokagathIA
+	url = https://github.com/DavidLeirado/KalokagathIA.git
+[submodule "Madrid/March2021/oculAI"]
+	path = Madrid/March2021/oculAI
+	url = https://github.com/conneyml/oculAI.git
+[submodule "Madrid/March2021/PAIthology"]
+	path = Madrid/March2021/PAIthology
+	url = https://github.com/atinrov/PAIthology.git
+[submodule "Madrid/March2021/BeesAIve"]
+	path = Madrid/March2021/BeesAIve
+	url = https://github.com/tuky-g/BeesAIve.git
+[submodule "Madrid/March2021/scrapercatastro"]
+	path = Madrid/March2021/scrapercatastro
+	url = https://github.com/Smart-Cities-AI/scrapercatastro.git
+[submodule "Madrid/March2021/GANsnRoses/deploy"]
+	path = Madrid/March2021/GANsnRoses/deploy
+	url = https://github.com/GANs-N-Roses/deploy.git
+[submodule "Madrid/March2021/GANsnRoses/transformer"]
+	path = Madrid/March2021/GANsnRoses/transformer
+	url = https://github.com/GANs-N-Roses/transformer.git
+[submodule "Madrid/March2021/GANsnRoses/image"]
+	path = Madrid/March2021/GANsnRoses/image
+	url = https://github.com/GANs-N-Roses/image.git
