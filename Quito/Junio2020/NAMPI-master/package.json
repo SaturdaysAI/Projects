@@ -55,7 +55,7 @@
         "gaugeJS": "^1.3.6",
         "gmaps": "^0.4.24",
         "inputmask": "^4.0.6",
-        "jquery": "^3.3.1",
+        "jquery": "^3.5.0",
         "jquery-asColorPicker": "^0.4.4",
         "jquery-sessiontimeout": "^1.1.0",
         "jquery-sparkline": "^2.4.0",
