@@ -33,7 +33,7 @@ ipykernel==5.3.4
 ipython==7.18.1
 ipython-genutils==0.2.0
 jedi==0.17.2
-Jinja2==2.11.2
+Jinja2==2.11.3
 jmespath==0.10.0
 joblib==0.17.0
 jupyter-client==6.1.7
