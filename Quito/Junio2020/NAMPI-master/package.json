@@ -60,7 +60,7 @@
         "jquery-sessiontimeout": "^1.1.0",
         "jquery-sparkline": "^2.4.0",
         "jquery-steps": "^1.1.0",
-        "jquery-validation": "^1.17.0",
+        "jquery-validation": "^1.19.3",
         "jquery.flot.tooltip": "^0.9.0",
         "jquery.repeater": "^1.2.1",
         "jsgrid": "^1.5.3",
