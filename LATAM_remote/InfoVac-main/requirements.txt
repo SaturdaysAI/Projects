@@ -114,5 +114,5 @@ uvicorn==0.12.2
 w3lib==1.22.0
 wasabi==0.8.0
 wcwidth==0.2.5
-websockets==8.1
+websockets==9.1
 zipp==3.3.0
