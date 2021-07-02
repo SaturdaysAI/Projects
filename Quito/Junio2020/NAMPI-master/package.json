@@ -22,7 +22,7 @@
         "gulp-rename": "^1.2.2",
         "gulp-sass": "^3.1.0",
         "gulp-uglify": "^3.0.0",
-        "node-sass": "^4.13.0"
+        "node-sass": "^4.13.1"
     },
     "dependencies": {
         "@claviska/jquery-minicolors": "^2.2.6",
