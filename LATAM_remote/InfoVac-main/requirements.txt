@@ -72,7 +72,7 @@ python-dotenv==0.14.0
 pytokenizations==0.7.2
 pytz==2020.1
 PyWavelets==1.1.1
-pywin32==228
+pywin32==301
 pyzmq==19.0.2
 readability-lxml==0.8.1
 regex==2020.10.28
