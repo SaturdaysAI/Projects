@@ -4,5 +4,5 @@ matplotlib
 numpy>=1.11.0
 pandas==0.24.2
 torch==0.4.0
-tensorflow==2.4.2
+tensorflow==2.5.1
 keras
