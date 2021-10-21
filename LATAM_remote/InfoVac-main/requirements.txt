@@ -1,6 +1,6 @@
 alabaster==0.7.12
 appdirs==1.4.4
-Babel==2.8.0
+Babel==2.9.1
 backcall==0.2.0
 beautifulsoup4==4.9.3
 blis==0.4.1
