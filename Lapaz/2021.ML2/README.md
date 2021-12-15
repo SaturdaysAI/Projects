@@ -9,7 +9,7 @@
 - Sandro Moreira 🇧🇷 [Twitter](https://twitter.com/sandro_moreira) / [LinkedIn](https://www.linkedin.com/in/sandro-moreira) 
 
 ## Equipo 1: Pet adoption prediction
-[Code](https://github.com/saturdaysailp/MLV2-projects/tree/main/Equipo%201) / [Blog](https://medium.com/saturdays-ai/adopci%C3%B3n-de-mascotas-utilizando-ia-para-determinar-la-adopci%C3%B3n-55860f7de068)
+[Code](Equipo%201) / [Blog](https://medium.com/saturdays-ai/adopci%C3%B3n-de-mascotas-utilizando-ia-para-determinar-la-adopci%C3%B3n-55860f7de068)
 <br>
 <b>Descripción: </b>Aplicacion de modelos de machine learning para predecir la cual es la velocidad e adopcion de mascotas.
 <br>
@@ -22,7 +22,7 @@
 
 
 ## Equipo 2: Pharmasaf: farmacovigilancia inteligente
-[Code](https://github.com/saturdaysailp/MLV2-projects/tree/main/Equipo%202)
+[Code](Equipo%202)
 <br>
 <b>Descripción: </b>Machine Learning aplicada a la Farmacovigilancia.
 <br>
@@ -34,7 +34,7 @@
 </ul>
 
 ## Equipo 3: Detección de Fake News
-[Code](https://github.com/saturdaysailp/MLV2-projects/tree/main/Equipo%203) / [Blog](https://medium.com/saturdays-ai/detecci%C3%B3n-de-fake-news-ec8d5c91cef4)
+[Code](Equipo%203) / [Blog](https://medium.com/saturdays-ai/detecci%C3%B3n-de-fake-news-ec8d5c91cef4)
 <br>
 <b>Descripción: </b>Modelos de machine learning para detección y predicción de noticias falsas en inglés y español, para la población latinoamericana.
 <br>
@@ -47,7 +47,7 @@
 </ul>
 
 ## Equipo 4: Tómatelo a Pecho
-[Code](https://github.com/saturdaysailp/MLV2-projects/tree/main/Equipo%204) / [Blog](https://medium.com/saturdays-ai/t%C3%B3matelo-a-pecho-80e0104da2e2)
+[Code](Equipo%204) / [Blog](https://medium.com/saturdays-ai/t%C3%B3matelo-a-pecho-80e0104da2e2)
 <br>
 <b>Descripción: </b>Modelos de ML para detección de tumores malignos de cáncer de mama.
 <br>
@@ -59,7 +59,7 @@
 </ul>
 
 ## Equipo 5: Modelo de predicción de desempeño educativo para estudiantes de secundaria en base a su situación social
-[Code](https://github.com/saturdaysailp/MLV2-projects/tree/main/Equipo%205) / [Blog](https://medium.com/saturdays-ai/modelo-de-predicci%C3%B3n-de-desempe%C3%B1o-educativo-para-estudiantes-de-secundaria-en-base-a-su-situaci%C3%B3n-657fdb5a0914)
+[Code](Equipo%205) / [Blog](https://medium.com/saturdays-ai/modelo-de-predicci%C3%B3n-de-desempe%C3%B1o-educativo-para-estudiantes-de-secundaria-en-base-a-su-situaci%C3%B3n-657fdb5a0914)
 <br>
 <b>Descripción: </b>Se desarrolla varios modelos de predicción de desempeño educativo para estudiantes de secundaria en base a su situación social.
 <br>
@@ -71,7 +71,7 @@
 
 
 # Equipo 6: Predicción de casos positivos COVID-19
-[Code](https://github.com/saturdaysailp/MLV2-projects/tree/main/Equipo%206)
+[Code](Equipo%206)
 <br>
 <b>Descripción: </b>Modelo de Machine Learning que predice los casos positivos que el país y los departamentos tendrán en los meses de Febrero y Marzo, con la nueva cepa.
 <br>
@@ -81,7 +81,7 @@
 </ul>
 
 # Equipo 7: Detección de líneas de cebra
-[Code](https://github.com/saturdaysailp/MLV2-projects/tree/main/Equipo%207) / [Blog](https://medium.com/saturdays-ai/detector-de-l%C3%ADnea-de-cebras-aplicando-redes-neuronales-convolucionales-75a89ecadb1c)
+[Code](Equipo%207) / [Blog](https://medium.com/saturdays-ai/detector-de-l%C3%ADnea-de-cebras-aplicando-redes-neuronales-convolucionales-75a89ecadb1c)
 <br>
 <b>Descripción: </b>Aplicación de redes neuronales convolucionales y yolo para la detección de paso peatonal, orientado a la ayuda de personas no videntes.
 <br>
