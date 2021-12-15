@@ -7,7 +7,7 @@
 + [Repo](2021.ML2)
 
 
-## AI Saturdays La Paz Machine learning 1st Edition (2020/06) Class
+## AI Saturdays La Paz Machine learning 1st Edition (2019/11) Class
 
 **Navigate the folder to the projects.**
 
