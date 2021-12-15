@@ -1,5 +1,5 @@
 # Proyectos Machine Learning 2nd Edition
-<b>21/11/21 - 06/02/21</b>
+<b>21/11/20 - 06/02/21</b>
 <br>
 
 ## Mentores
