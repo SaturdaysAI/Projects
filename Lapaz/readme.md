@@ -1,3 +1,12 @@
+
+## AI Saturdays La Paz Deep Learning Edition (2021/11) Class
++ Repo(ml.2021)
+
+
+## AI Saturdays La Paz Machine learning 2nd Edition (2021/08) Class
++ Repo(ml.2021)
+
+
 ## AI Projects built during AI Saturdays La Paz January 2020 Class
 
 **Navigate the folder to the projects.**
