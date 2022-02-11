@@ -1,6 +1,8 @@
 [![AI4Good SaturdaysAI Projects 🚀 ](https://img.shields.io/badge/AI4Good%20Project-SaturdaysAI-orange)](https://saturdays.ai/blog-2/)
 <p align="center"><img width="50%" src="https://saturdaysai.github.io/saturdaysai/images/logo.png" /></p>
 
+## 😇 Projects AI4Good
+Copia "AS IS" de los proyectos en el momento del DemoDay, es probable que algunos proyectos sigan desarrollándose y mejorando a posteriori.
 
 # AI Saturdays LATAM Remote 2a Edicion 👩‍💻
 
@@ -26,8 +28,6 @@ Copia "AS IS" de los proyectos en el momento del DemoDay, es probable que alguno
 
 # AI Saturdays LATAM Remote 1a Edicion
 
-## 🚀 Projects AI4Good 👩‍💻
-Copia "AS IS" de los proyectos en el momento del DemoDay, es probable que algunos proyectos sigan desarrollándose y mejorando a posteriori.
 
 * 1 🎼 ["Mubel AI" Detección del nivel de violencia en los diferentes géneros musicales a través de NLP](https://github.com/SaturdaysAI/Projects/tree/master/LATAM_remote/NLP_Violencia-en-musica--master)
 
