@@ -16,6 +16,8 @@ Copia "AS IS" de los proyectos en el momento del DemoDay, es probable que alguno
 
 * 5 📝 ["Via Segura" ](https://github.com/SaturdaysAI/Projects/tree/master/LATAM_remote/viasegura) 
 
+* 6 🌎 ["Ciudad Limpia" ](https://github.com/SaturdaysAI/Projects/tree/master/LATAM_remote/ciudadlimpia) 
+
 
 ---------------------------------------------
 
