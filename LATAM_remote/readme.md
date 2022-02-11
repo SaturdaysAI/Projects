@@ -10,9 +10,11 @@ Copia "AS IS" de los proyectos en el momento del DemoDay, es probable que alguno
 
 * 2 ♻️ ["Conciencia Ecologica" ](https://github.com/SaturdaysAI/Projects/tree/master/LATAM_remote/ConcienciaEcologica)
 
-* 3 🥙 ["Pan Identification" ](https://github.com/SaturdaysAI/Projects/tree/master/LATAM_remote/Pan_Id)
+* 3 💌 ["TotemIA" Grooming Online ](https://github.com/SaturdaysAI/Projects/tree/master/LATAM_remote/TotemIA)
 
 * 4 💓 ["Angiop.AI" ](https://github.com/SaturdaysAI/Projects/tree/master/LATAM_remote/angiop.ai) 
+
+* 5 📝 ["Via Segura" ](https://github.com/SaturdaysAI/Projects/tree/master/LATAM_remote/viasegura) 
 
 
 ---------------------------------------------
