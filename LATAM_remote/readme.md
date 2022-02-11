@@ -18,6 +18,8 @@ Copia "AS IS" de los proyectos en el momento del DemoDay, es probable que alguno
 
 * 6 🌎 ["Ciudad Limpia" ](https://github.com/SaturdaysAI/Projects/tree/master/LATAM_remote/ciudadlimpia) 
 
+* 7 👩🏽‍🚒 ["GuardIAn" ](https://github.com/SaturdaysAI/Projects/tree/master/LATAM_remote/GuardIAn) 
+
 
 ---------------------------------------------
 
