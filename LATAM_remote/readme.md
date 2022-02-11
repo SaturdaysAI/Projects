@@ -1,5 +1,4 @@
 [![AI4Good SaturdaysAI Projects 🚀 ](https://img.shields.io/badge/AI4Good%20Project-SaturdaysAI-orange)](https://saturdays.ai/blog-2/)
-
 <p align="center"><img width="50%" src="https://saturdaysai.github.io/saturdaysai/images/logo.png" /></p>
 
 
@@ -13,10 +12,10 @@ Copia "AS IS" de los proyectos en el momento del DemoDay, es probable que alguno
 
 * 3 🥙 ["Pan Identification" ](https://github.com/SaturdaysAI/Projects/tree/master/LATAM_remote/Pan_Id)
 
-* 4 💓 ["Angiop.AI" P](https://github.com/SaturdaysAI/Projects/tree/master/LATAM_remote/angiop.ai) 
+* 4 💓 ["Angiop.AI" ](https://github.com/SaturdaysAI/Projects/tree/master/LATAM_remote/angiop.ai) 
 
 
-####---------------------------------------------
+---------------------------------------------
 
 
 # AI Saturdays LATAM Remote 1a Edicion
