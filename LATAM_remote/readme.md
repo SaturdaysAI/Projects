@@ -1,8 +1,25 @@
-[![AI4Good SaturdaysAI Project](https://img.shields.io/badge/AI4Good%20Project-SaturdaysAI-orange)](https://www.saturdays.ai/projects_saturdays.html)
+[![AI4Good SaturdaysAI Projects 🚀 ](https://img.shields.io/badge/AI4Good%20Project-SaturdaysAI-orange)](https://saturdays.ai/blog-2/)
 
-# AI Saturdays LATAM Remote
 <p align="center"><img width="50%" src="https://saturdaysai.github.io/saturdaysai/images/logo.png" /></p>
 
+
+# AI Saturdays LATAM Remote 2a Edicion 👩‍💻
+
+Copia "AS IS" de los proyectos en el momento del DemoDay, es probable que algunos proyectos sigan desarrollándose y mejorando a posteriori.
+
+* 1 🚴 ["CiclopeIA" ](https://github.com/SaturdaysAI/Projects/tree/master/LATAM_remote/Ciclopeia)
+
+* 2 ♻️ ["Conciencia Ecologica" ](https://github.com/SaturdaysAI/Projects/tree/master/LATAM_remote/ConcienciaEcologica)
+
+* 3 🥙 ["Pan Identification" ](https://github.com/SaturdaysAI/Projects/tree/master/LATAM_remote/Pan_Id)
+
+* 4 💓 ["Angiop.AI" P](https://github.com/SaturdaysAI/Projects/tree/master/LATAM_remote/angiop.ai) 
+
+
+####---------------------------------------------
+
+
+# AI Saturdays LATAM Remote 1a Edicion
 
 ## 🚀 Projects AI4Good 👩‍💻
 Copia "AS IS" de los proyectos en el momento del DemoDay, es probable que algunos proyectos sigan desarrollándose y mejorando a posteriori.
