@@ -1,0 +1,740 @@
+;Texto_tweet;valoracion_corpus;valoracion_calculada;Palabras_encontradas
+0;Amo a Arya Stark por encima de todas las cosas gameofthrones;1.0;0.0;
+1;Una vez más uno de los mejores jugadores de la historia Leo Messi al 75  y al 82  en Se acabó la serie ;1.0;0.0; mejor(1.0) seri(-1.0)
+2;La catedral estuvo a media hora de venirse abajo completamente  El daño en Notre Dame es irreparable  Nos adentramos en el templo tras el incendio  en;-1.0;0.0; complet(1.0) incendi(-1.0)
+3;ESTOY LLORANDO  QUE MARAVILLA  OBRA DE ARTE  ESPECTACULAR  ALUCINANTE  INCREIBLE  MAJESTUOSO CAPÍTULO DE JUEGO DE TRONOS ME CAGO EN MIS MUERTOS  NO DOY CRÉDITO A LO QUE ACABO DE VER;1.0;-1.0; llor(-1.0) maravill(1.0) alucin(1.0) tron(-1.0) muert(-1.0) no(0.0)
+4;Hay que agradecer en esta noche a  Gracias de verdad por conseguir movilizar a la izquierda ;1.0;0.0;
+5;se ha convertido en un icono del activismo ecológico a nivel planetario  Da esperanza ver a jóvenes peleando de esta manera;1.0;0.0; activ(1.0) pel(-1.0)
+6;Que la luz ilumine a toda que la paz inunde los corazones y Dios de esperanza a su pueblo ;1.0;-1.0; inund(-1.0)
+7;Lista para el capítulo de hoy;1.0;0.0;
+8;los Bomberos de París premian a José Manuel Soto por los buenísimos consejos que les ha dado desde ayer;1.0;0.0;
+9;No le deis más vueltas  La sorpresa es que no ha habido sorpresas;1.0;0.0; no(0.0) no(0.0)
+10;Quién se lleva los reflectores  A quién le damos la primera plana  A por sus 600 goles en clubes  O a por su 4to título de en 5 años  Estos dos se necesitan uno a otro  no podemos hablar de solo uno  porque el otro sale a levantar la mano Par de cracks;1.0;-1.0; necesit(-1.0) no(0.0)
+11;Después de todas las emociones por las que he pasado con este capítulo de doy gracias de no tener que trabajar hoy para echarme la siesta porque estoy agotada;1.0;-1.0; no(0.0) agot(-1.0)
+12;Ustedes de verdad están contentos con que Arya matara al rey de la noche cargándose así 7 temporadas donde nos han venido desarrollando toda una historia sobre el príncipe princesa que fue prometido a ;-1.0;1.0; content(1.0) mat(-1.0) desarroll(1.0)
+13;mi ciudad favorita del mundo  conozco la belleza gracias a ti;1.0;0.0;
+14;Buenos días  Camino del trabajo me pregunto si alguien sabe donde están escondidos los que se reían de los datos del ;-1.0;1.0; buen(1.0)
+15;FELIZ  Gracias España Los españoles hemos demostrado que somos mejores que nuestros políticos  No queremos odio  enfrentamiento ni ir hacía atrás  Lo que queremos es igualdad  avanzar y diálogo ;1.0;0.0; feliz(1.0) mejor(1.0) no(0.0) odi(-1.0) enfrent(-1.0) atras(-1.0) avanz(1.0)
+16; la  estructura  del monumento pudo ser salvada  en su totalidad   según los bomberos franceses  Los trabajos para apagar las llamas por completo continúan   ct;1.0;0.0; apag(-1.0) complet(1.0)
+17;Y llegó el 600 te amo;1.0;0.0;
+18;Está claro que sin Messi no hubiera sido lo mismo pero aun así 8 de 11 es impresionante  Enhorabuena a todos los culés Campions;1.0;-1.0; no(0.0) impresion(-1.0)
+19;Puta locura de capitulo  Lo mejor que he visto pero con diferencia;1.0;0.0; locur(-1.0) mejor(1.0)
+20;Una auténtica desgracia Ojalá todos y todas podamos volver a verla en todo su esplendor  aunque ya nunca será lo mismo;-1.0;0.0; desgraci(-1.0) esplendor(1.0)
+21;A propósito del  La de la Sorbona  la Pública de NY y otras bibliotecas  las más bonitas del mundo;1.0;0.0;
+22;Una disculpa mis estimados hermanos de  La ignorancia de algunos Mexicanos es grande Quiero a Venezuela libre;1.0;0.0; ignor(-1.0) grand(1.0)
+23;Acabo de ver el gol de Messi  TREMENDO;1.0;-1.0; tremend(-1.0)
+24;Independientemente al carácter religioso de hoy se ha dañado una de las creaciones humanas más grandes en la arquitectura y en tiempos en los que el hombre solo destruye eso si representa una pérdida notable ;-1.0;0.0; grand(1.0) destru(-1.0) perd(-1.0) notabl(1.0)
+25;Jaén sin escaños de VOX y qué bien;1.0;0.0;
+26;Impresionante Brutal Y   simplemente Que tensión continúa;1.0;-1.0; impresion(-1.0) brutal(-1.0)
+27;Las penas del fútbol se pasan con fútbol  Messi un crack;1.0;-1.0; pen(-1.0)
+28;Campeooooones campeooooones olé olé olé;1.0;0.0;
+29;Y para terminar el no puedo dejarme uno que para mí supuso un antes y un después en mi vida  Alguien me abrió los ojos de una manera bestial y siempre estaré eternamente agradecida   Educación  hándicap e inclusión  de Nacho Calderón;1.0;0.0; no(0.0)
+30;Me gusta leer  tengo muchos libros nuevos  incluso sellados  pero no me da la cabeza para concentrarme y poder avanzar;-1.0;1.0; gust(1.0) no(0.0) avanz(1.0)
+31;Que Suarez es lento  brusco  tosco y hasta bruto dicen  Pero dale una  una nada mas Ahí estaaaa;1.0;-1.0; brusc(-1.0) tosc(-1.0) brut(-1.0)
+32;Repudiamos los intentos de golpe de estado a  a y los cubanos también apoyamos la  no está sola  y triunfarán  pese a los intentos de a q estamos sometidos  y  Venceremos;1.0;-1.0; repudi(-1.0) golp(-1.0) no(0.0) triunf(1.0) pes(-1.0) venc(1.0)
+33;Ministerio del interior francés  dice que  los bomberos no podrán salvar a Notre Dame ;-1.0;0.0; no(0.0)
+34;Es genial la gente aprovechando el incendio de para postear fotos diciendo yo estuve ahí ;-1.0;0.0; aprovech(1.0) incendi(-1.0)
+35;Bella Nuestra Señora De París;1.0;0.0;
+36;ARYA ERES LA PUTA AMA;1.0;0.0;
+37;GRACIAS por unir a mi país contra el fascismo  GRACIAS DE CORAZÓN ;1.0;0.0;
+38;Sin duda este es el mejor momento del tercer capítulo de juego de tronos ;1.0;0.0; mejor(1.0) tron(-1.0)
+39;Me acuerdo también de la memoria histórica  De todos esos familiares que solo quieren saber en dónde estan sus seres queridos ;-1.0;0.0;
+40;Hoy si que si ORGULLOSA DE ESPAÑA;1.0;0.0;
+41;TERMINA EL PARTIDO BARCELONA es CAMPEÓN de para segundo año consecutivo  Derrota por la mínima al Levante y festeja un título más  Messi ;1.0;0.0; derrot(-1.0) festej(1.0)
+42;Ayer veíamos como ardía uno de los monumentos más visitados de Europa  es uno de los epicentros de cultura en el mundo y ayer quedó devastada  Desde queremos mandar todo el ánimo y el cariño posible a la familia parisina ;-1.0;0.0; devast(-1.0) anim(1.0)
+43;Mi sobrina de 18 años está muy decepcionada  Iba a votar por primera vez y no ha podido  porque constaba como que había pedido el voto por correo  Un fallo  no sé de quién  pero que no se soluciona en el propio día y deja a algunos ciudadanos sin votar ;-1.0;0.0; decepcion(-1.0) no(0.0) no(0.0) no(0.0) propi(1.0)
+44;Arya es mi salvador  nada me faltará;1.0;-1.0; falt(-1.0)
+45;Cómo un Ave Fénix renacerás de tus cenizas 2016;1.0;0.0; renac(1.0) ceniz(-1.0)
+46;Messi marcó su gol 600 de tiro libre  Una joya  30 ;1.0;0.0;
+47;Es más fácil meterle gol a Ter Stegen que llegar a tu corazón ;-1.0;1.0; facil(1.0)
+48;El Barcelona cada vez más cerca de levantar otra liga  su octava en diez años Felicidades Barcelona;1.0;0.0; cerc(-1.0) felic(1.0)
+49;Con el corazoncito lleno porque esta hermosa familia que conocí por sentirme más cerca de y que me han acogido como una más de ellos  siempre me demuestran su cariño y apoyo en las malas y en las buenas  Graciasss;1.0;0.0; llen(1.0) hermos(1.0) sent(-1.0) cerc(-1.0) mal(-1.0) buen(1.0)
+50;Lo más épico que he visto joder;1.0;0.0;
+51;Hay imágenes que no deberían verse nunca  Una vez más el fuego nos recuerda que no somos tan poderosos  Es un día triste para todos los que amamos la belleza;-1.0;0.0; no(0.0) no(0.0) poder(1.0) trist(-1.0)
+52;siempre he pensado que el rojo me sienta mejor que el azul  y punto  Na  ahora en serio  hay que ver cómo ha cambiado la historia  MENOS MAL YA ERA HORA;1.0;-1.0; mejor(1.0) seri(-1.0) cambi(1.0) men(-1.0) mal(-1.0)
+53;Que triste me siento  La catedral d q resistió las mayores desgracias  q fue un modelo d belleza y cultura  q era el sueño d todo arquitecto e ingeniero civil  Solo espero q pronto la arquitectura e ingeniería moderna logren ponerla d pie  Invaluable riqueza histórica;-1.0;1.0; trist(-1.0) desgraci(-1.0) modern(1.0) logr(1.0) riquez(1.0)
+54; Qué tristeza    se pierde una creación del espíritu y no el espíritu en sí mismo  que no cesará de enriquecer la humanidad  Trés bien dit ;-1.0;0.0; tristez(-1.0) no(0.0) no(0.0) ces(-1.0) enriquec(1.0) bien(1.0)
+55;Y entre la lluvia  la tormenta y el sol un sinfín de palabras con alas que nos llevan a los lugares más recónditos de otros o de nosotros mismos  Feliz;1.0;0.0; torment(-1.0) feliz(1.0)
+56;8 de 11  Historia de la Liga Visca el Barça;1.0;0.0;
+57;Mil gracias a los profesores  alumnos en prácticas de la  y por este día tan especial;1.0;0.0;
+58;Qué bonito lo que hizo el hoy por el  ;1.0;0.0;
+59;Me voy a dormir orgasmada perdida  Gracias por tanto y perdón por tan poco  ;1.0;0.0; orgasm(1.0) perd(-1.0)
+60;Ya he ejercido mi derecho al voto y con mucho orgullo;1.0;0.0;
+61;Hoy es lunes  pero no es un lunes malo  Buenos resultados de elecciones y capítulo de  Qué más se puede pedir ;1.0;0.0; no(0.0) mal(-1.0) buen(1.0)
+62;Ante este panorama  los jóvenes defienden su futuro  Orgullosa de ellos ;1.0;0.0;
+63;no hago spoiler  solo decir que este capítulo ha sido un capitulazo  y que te tiene en vilo todo el capítulo hasta el final  una joya vamos;1.0;-1.0; vil(-1.0)
+64;Que locos nos volvimos con este golazooooo de tiro libre del mejor jugador del mundo;1.0;0.0; loc(-1.0) mejor(1.0)
+65;Campeóne Campeóne Olé Olé Olé;1.0;0.0;
+66;Hoy hace un día precioso  Disfrutadlo por favor  dejad las penas a un lado y sonreid a la vida volverá a reconstruirse gracias a ls solidaridad de todos ;1.0;-1.0; pen(-1.0) reconstru(-1.0)
+67;A que vamos a reconstruir Notre Dame antes de mandar un solo barco de salvamento al Mediterráneo  a que sí ;-1.0;0.0; reconstru(-1.0) salvament(1.0)
+68;Barcelona campeón de el equipo más regular en la temporada 18 19 Felicitaciones al;1.0;0.0;
+69;La espera a merecido la pena  El mejor capítulo de las 8 temporadas;1.0;0.0; pen(-1.0) mejor(1.0)
+70;Sin palabras  el capítulo de hoy fue brutal  Arya la puta ama;1.0;-1.0; brutal(-1.0)
+71;Cacharon que en las gringolandias lleva varias semanas moviendo a niños y jóvenes cada viernes en manifestaciones promedio ambiente  Que bonito;1.0;0.0;
+72;SEPA La Cruz Roja distribuyó ayuda humanitaria a pacientes en Caracas este;1.0;0.0;
+73;El último capitulo de ha sido sencillamente espectacular  Vaya final  la banda sonora es también brutal  Pero que le den un al de imagen  casi me dejo los ojos tratando de vislumbrar algunas escenas ;1.0;-1.0; brutal(-1.0)
+74;En colapso emocional con esta escena;-1.0;0.0;
+75;El sigarrito de después del capitulazo que nos acabamos de tragar ostia puta;1.0;-1.0; trag(-1.0)
+76;Ante estos resultados  expectativa de avances decididos en lucha contra la pobreza infantil  protección de la infancia contra la violencia  equidad en la educación  Que la infancia encuentre en las coaliciones el lugar que necesita tener;1.0;-1.0; expect(1.0) avanc(1.0) pobrez(-1.0) violenci(-1.0) necesit(-1.0)
+77;Un gran daño a la historia de la humanidad;-1.0;0.0;
+78;Siempre serás mi atracción favorita de París;1.0;0.0;
+79;Arranca En el Wanda Metropolitano vs;1.0;0.0;
+80;Gracias Lio Messi por existir en esta época  gracias por todo el fútbol  nunca duden quién es el puto amo de esto ;1.0;0.0;
+81;GOL DE Lo hizo Lionel Messi a los 37 minutos del segundo tiempo para poner el 30 frente a  Semifinal ida ;1.0;0.0;
+82;El afecta a todo el mundo  pero quienes vivimos en Andalucía lo padecemos más y peor  Si lo sabes bien  firma esta petición y pídele a la Junta una plan urgente;-1.0;1.0; viv(1.0) padec(-1.0) bien(1.0)
+83;No puedo creer tanta crueldad contra su propio pueblo VenezuelaLibre;-1.0;0.0; no(0.0) crueld(-1.0) propi(1.0)
+84;Y después de todo resulta que en este día del libro no tengo nada de Shakespeare ni de Cervantes en mi biblioteca  así que aquí les dejo algunos de mis favoritos ;1.0;0.0; no(0.0)
+85;Antonio Rodríguez Luna  Don Quijote en el Exilio  1973  Una de las lecturas del Quijote de la Mancha que más me gusta es la del exilio del país  de la realidad  de la propia palabra ;1.0;0.0; don(-1.0) manch(-1.0) gust(1.0) propi(1.0)
+86;Esta la gente que todavía no entendió que la iglesia no es solo un edificio;-1.0;0.0; no(0.0) no(0.0)
+87;serás libre de la opresión de este gobierno  Venezuela será libre ;1.0;0.0;
+88;Antes de que se me pase  el capítulo 3 de la octava temporada de es digno para enmarcar y ponerlo en cualquier museo en bucle eterno;1.0;0.0;
+89;Campeonesss La 2 6 Liga ya es del 8 ligas de 1 1 de un equipo de leyenda La hegemonía de este equipo en la Liga es BRUTAL  de  Su 1 0 ª vía;1.0;-1.0; brutal(-1.0)
+90;Se escuchó en alguna ocasión  Mucha gente reza dentro de Nuestra Señora de París  pero cuando lo coros cantan  entonces realmente las oraciones llegan al cielo  Impacientemente esperaremos el resurgimiento de sus cantos  de su música  de su grandeza;-1.0;1.0; ciel(1.0) impacient(-1.0) grandez(1.0)
+91; La verdad sobre el Señor de la Luz y su apoyo al Rey de la Noche;1.0;0.0;
+92;Un golazo de tiro de libre de  le dio el tercero al y un pie y medio adentro de la de la copa  El 7 de mayo la vuelta en  Vía ;1.0;0.0;
+93;Desgarrador  esta es la realidad que se vive en;-1.0;1.0; viv(1.0)
+94;Resultado injusto  Un Barça mediocre se lleva una ventaja excesiva;-1.0;1.0; ventaj(1.0)
+95;Nada es para siempre  nos lo recuerda ;-1.0;0.0;
+96;El mejor puñetero capítulo de la historia de las series  INIGUALABLE  Cásate conmigo;1.0;0.0; mejor(1.0) seri(-1.0)
+97;Esta promo es un mal augurio para Brienne  estoy segura al 300 que cae esta noche;-1.0;0.0; mal(-1.0) segur(1.0)
+98;nació para SER LIBRE En toda Venezuela hoy la gente en la calle resteada con el Presidente ;1.0;-1.0; call(-1.0)
+99;Así se desplomaron  abrazadas por las llamas  las agujas en la Catedral de en;-1.0;0.0;
+100;Nosotros ya hemos jugado  ahora os toca a vosotros hacernos sentir orgullosos del voto;1.0;-1.0; sent(-1.0)
+101;La adolescente nominada al de la Paz;1.0;0.0;
+102;Ter Stegen tiene las manos de Dios;1.0;0.0;
+103;En Galicia VOX no ha entrado Más orgullosa no puedo estar;1.0;0.0; no(0.0) no(0.0)
+104;Aunque hace mucho prefiero las versiones en digital de los libros  Soy de las que disfrutan entrar a una librería revisar varios autores  leer el resumen de los libros  romper los envoltorios  hojear un libro  el olor de las hojas es increíble ;1.0;0.0; disfrut(1.0) romp(-1.0)
+105;Un abrazo a los colaboradores de en  sólidos en sus posiciones de trabajo como respuesta a quienes intentan destrozar la obra de la Revolución Bolivariana  ;1.0;-1.0; destroz(-1.0)
+106;Conmemoramos el día del idioma Representación de fragmentos de las obras la Ilíada  la Odisea y la Divina Comedia ;1.0;-1.0; odise(-1.0)
+107;Así estaba el 22 de marzo cuando le hice esta foto mientras paseábamos davidfigueras y yo  No entramos  había una cola enorme y no teníamos tiempo  Ahora me arrepiento ;-1.0;0.0; no(0.0) no(0.0)
+108;sos todo lo que está bien ;1.0;0.0; sos(-1.0) bien(1.0)
+109;Solo puedo decir que anoche vi y casi me da algo  el mejor capítulo de todas las temporadas   Jonh nieve mata al caminante ;1.0;0.0; mejor(1.0) mat(-1.0)
+110;Vaya nochecita de emociones  Y en un rato  Menos mal que ya me vi hace unos días ;1.0;-1.0; men(-1.0) mal(-1.0)
+111;Ese tiro libre de Messi es Poesía;1.0;0.0;
+112;En los momentos tristes leo  en los momentos alegres leo  todo momento en mi vida  es una excusa para tomar un libro y disfrutar de uno de los mayores placeres de la vida  leer  y aprender  El Universo entero est  a a mis pies cuando leo ;1.0;0.0; trist(-1.0) alegr(1.0) tom(-1.0) disfrut(1.0)
+113;Me sumo a los Tinchos y las Pilis con mi foto en Fuera de broma  todavía no puedo creer lo que pasó  infinita por la pérdida cultural e histórica;-1.0;0.0; brom(1.0) no(0.0) perd(-1.0)
+114;Messi le acaba de meter un gol de otro planeta al Liverpool en la INCREÍBLE ese tiro libre;1.0;0.0;
+115;La Unión Europea ha sido absolutamente inútil en ayudar a recuperar la democracia o preservar los derechos humanos en  Muchas gracias por su opinión;-1.0;1.0; recuper(1.0)
+116;Envidia de mis Hermanos catalanes y vascos  como se nota que hay culturas e idiomas diferentes  Eso define una nación;1.0;-1.0; envidi(-1.0)
+117;Anheló de vivir  la vida de Vincent Van Goh  de mis libros favoritos;-1.0;1.0; viv(1.0)
+118;Me parece mentira  que pena más grande ;-1.0;0.0; pen(-1.0) grand(1.0)
+119;Clima  Greta Thunberg interviene al Parlamento Europeo;1.0;0.0;
+120;Oficialmente concluido este fin de semana  tengo algo que decir  Gracias  gracias Hace mucho no gritaba como niño pequeño frente a una pantalla  Gracias infinitas ;1.0;-1.0; no(0.0) grit(-1.0)
+121;Barcelona CAMPEÓN de Con gol de nada más y nada menos que  consigue su OCTAVO título de las ULTIMAS once ligas;1.0;-1.0; men(-1.0)
+122;El Siglo XXI tiene un dueño en el Fútbol de  BARCELONA;1.0;0.0;
+123;Más que lista para ver Liverpool Barcelona;1.0;0.0;
+124;Gracias por la donación que seguramente efectuarà para reconstruir;1.0;0.0; segur(1.0) reconstru(-1.0)
+125;El se proclama CAMPEÓN DE LIGA;1.0;0.0;
+126;Terrible lo que está pasando en  Una plegaria sincera por mis amistades venezolanas  Que Dios les dé fuerza y entendimiento para hacer lo correcto ;-1.0;1.0; terribl(-1.0) sincer(1.0) fuerz(1.0)
+127;Força Barça Campeones de un torneo largo durante años y años;1.0;0.0;
+128;Nuevamente Messi enamorando en la y los memes están recién salidos del horno ;1.0;0.0;
+129;IMPOSIBLE DE VER  Melisandre podría estar ya en Invernalia y esta teoría lo demuestra;-1.0;0.0;
+130;Cuando digo que Arya Stark es mi favorita es por algo  ;1.0;0.0;
+131;Todos con Francia y mi pésame a sus familiares;-1.0;0.0;
+132;Lamentable lo que se está viviendo en venezuela  Dios sea con ustedes ;-1.0;0.0; lament(-1.0) viv(1.0)
+133;Messi  eres el amo y señor del fútbol mundial  Ya no hay más adjetivos para ese jugador;1.0;0.0; no(0.0)
+134;Mi momento más emotivo del día  fue ver salir al cuerpo de bomberos de la Catedral de Notre Dame y escuchar una ola de aplausos de toda la gente que estábamos cerca ;1.0;-1.0; emot(-1.0) cerc(-1.0)
+135;Llevo todo el día callada porque tenía miedo de lo que podía pasar esta noche  No es mi resultado soñado claro  pero solo puedo decir  ALIVIO ;1.0;-1.0; call(-1.0) mied(-1.0) no(0.0) alivi(1.0)
+136;Pff que tristeza ver como algo TAN BONITO y espectacular ha quedado arrasado por el fuego  la experienza de subir a esas torres fue de las mejores que he tenido nunca;-1.0;0.0; tristez(-1.0) arras(-1.0) sub(1.0) mejor(1.0)
+137;Reflexión  al final triunfó el  sólo sí es sí   Y se hizo el silencio  lo escuchan  La demostración aplastante de que la solución no está en gritar  Arriba España   Porque la bandera se lleva en los hechos  y no en la muñeca ;1.0;-1.0; triunf(1.0) silenci(-1.0) no(0.0) grit(-1.0) no(0.0)
+138;Impresionante lo de Messi es un Dios Que pena que no sea Vasco;1.0;-1.0; impresion(-1.0) pen(-1.0) no(0.0)
+139;Soy el único que de tantos nervios le va a petar un pulmón o algo  QUE EMPIEZE YAAAA;1.0;-1.0; nervi(-1.0)
+140;Cuenca  2 diputados para el PSOE  de lo que más orgullo puedo sentir en estos momentos  Gracias  de verdad ;1.0;-1.0; sent(-1.0)
+141;Es incalculable lo que se pierde con el incendio de  historia y relevancia arquitectónica  simbolismo  trascendencia y patrimonio  Para quienes pudimos conocerla  sólo esperamos que la reconstrucción sea magnífica  pero difícil recuperará su valor y majestuosidad ;-1.0;1.0; incendi(-1.0) recuper(1.0) valor(1.0)
+142;París bien vale una misa  o dos  Que pena  NotreDame;-1.0;1.0; bien(1.0) val(1.0) pen(-1.0)
+143;Hoy más que nunca  orgullosa de ser española ;1.0;0.0;
+144;Extremadamente brutal  episodio mítico  de leyenda  sin palabras  antológico  de locos  me quedo sin adjetivos para el mejor capitulo de una serie que haya visto en mi vida   INSUPERABLE  que barbaridad;1.0;-1.0; brutal(-1.0) loc(-1.0) mejor(1.0) seri(-1.0) insuper(1.0)
+145;Golazo se D10s  A llorar  merengues de mierda ;1.0;-1.0; llor(-1.0)
+146;El frío no ha podido con la emoción del en Tres Cantos  Enhorabuena a por la organización;1.0;0.0; no(0.0)
+147;Este si es un verdadero capítulazo de la última temporada  BRUTAL;1.0;-1.0; brutal(-1.0)
+148;Los daños a la Catedral de  son para la humanidad toda  Obra maestra del gótico francés  y de la arquitectura mundial  Su recuperación será fundamental  como testigo de la historia europea ;-1.0;1.0; recuper(1.0)
+149;Esto ha sido más emocionante que las votaciones en Eurovision;1.0;0.0;
+150;No hay palabras suficientes para describir lo que hizo una joya de golazo que quedará en la historia de la es magnífico poder presenciar a este fenómeno del fútbol;1.0;0.0; no(0.0)
+151;Esto representa a en este momento Enjoy;1.0;0.0;
+152;Increíble No hay palabras  Solamente EL Messi ;1.0;0.0; no(0.0)
+153;El capítulo me ha dejado un buenísimo sabor de boca y al final lo he disfrutado muchísimo  pero eso no quita que haya habido pequeños detalles que me han decepcionado un poco;1.0;0.0; sabor(1.0) disfrut(1.0) no(0.0) quit(-1.0) decepcion(-1.0)
+154;El Barcelona es campeón de la la número 26 en su palmares  Gracias a la directiva  al equipo técnico y a los jugadores  Gracias Barcelona es Campeón;1.0;0.0;
+155;PERO QUÉ GOLAZO     Tremendo Messi ;1.0;-1.0; tremend(-1.0)
+156;Gracias por lo de hoy izquierda  gracias ;1.0;0.0;
+157;Que Pena enorme   un beso grande   cuánto me acordé de vos  ;-1.0;0.0; pen(-1.0) grand(1.0)
+158;Estos resultados sí son España  este sí es mi país  Orgulloso de esta bandera;1.0;0.0;
+159;Leer quizás no te haga mas inteligente  pero te hará pensar  y el pensar te hace libre ;1.0;0.0; no(0.0)
+160;Hoy día grandioso además del también es el día de la en Alemania ;1.0;0.0;
+161;Pues me sumo a los elogios del CAPITULACO de No me esperaba ese giro final  No en este momento  Magnifico;1.0;0.0; no(0.0) no(0.0)
+162;Chicos festejar el incendio de porque ahí se quemaba gente y abusaban pibes es como festejar que se incendien las ruinas aztecas porque es donde se hacían sacrificios humanos  La Iglesia no va a dejar de encubrir la pedofilia porque se les prendió fuego una Catedral ;1.0;-1.0; festej(1.0) incendi(-1.0) festej(1.0) incendi(-1.0) ruin(-1.0) sacrifici(-1.0) no(0.0)
+163;  Pseudospoiler   Bueno vaya decepción más grande  la gente que lleve desde 2011 viéndola lo siento por haber esperado 8 años para esto;-1.0;1.0; buen(1.0) decepcion(-1.0) grand(1.0)
+164;Gooooooool de Que listo es el cabron 10;1.0;0.0;
+165;Así de emocionadas están las lectoras de después de conseguir su firma en este ;1.0;0.0;
+166;Orgullo de un país plural  gracias España;1.0;0.0;
+167;La defensa del Barcelona está más dura que los calzones de mi suegra ;1.0;-1.0; dur(-1.0)
+168;El capítulo se hace largo  pero de lo mucho que sufres Tremendo ;1.0;-1.0; sufr(-1.0) tremend(-1.0)
+169;Mi enhorabuena al PSOE  Los españoles han hablado  Ahora solo espero que el Gobierno de España no dependa de los independentistas ;1.0;0.0; no(0.0)
+170;Excelentes Piqué  Lenglet muy nervioso  Exquisito Busquets ;1.0;0.0; excelent(1.0) piqu(-1.0) nervios(-1.0) exquisit(1.0)
+171;Qué feliz me hace ver tantos colores en nuestro Congreso de los Diputados  a pesar de  Cuánto ha avanzado España en menos de diez años  ElecccionesGenerales28A;1.0;0.0; feliz(1.0) pes(-1.0) avanz(1.0) men(-1.0)
+172;Hasta trabaja en el y lo hace al ciento por ciento  Gracias por tanto carajo Qué GOOOOOOL;1.0;0.0;
+173;Ha ganado el futuro y ha perdido el pasado;1.0;0.0; gan(1.0) perd(-1.0)
+174;Y  a colación del  en nuestra pestaña de  recomendaciones  os proponemos algunos Agracedemos que nos recomendéis vosotros también algunos que merezcan la pena  para añadirlos  Si os queréis extender  mucho mejor que sea ahí en la pestaña ;1.0;0.0; pen(-1.0) mejor(1.0)
+175;Estos ojitos  iluminados con la luz del sol  quieren ver a Maduro de una vez por todas fuera de ;1.0;0.0;
+176;El Bravo pueblo de en las calles este;1.0;0.0; brav(1.0) call(-1.0)
+177;Esta es la España de la que estoy orgullosa  la que frena el fascismo y sale a votar en masa  No pasarán ;1.0;0.0; no(0.0)
+178;Si en la vas perdonando al final acabas palmando  pero bien por mucho que haya momentos que seas mejor  Tristemente se viene otro triplete;-1.0;1.0; palm(-1.0) bien(1.0) mejor(1.0)
+179;Que bonito el mapa tooo rojo;1.0;0.0;
+180;En ningún sitio aprendí tanto de mí y de los demás como en una cancha      ;1.0;-1.0; siti(-1.0)
+181;Muy orgullosa de la gente joven de este país y de la de todo el mundo;1.0;0.0;
+182;La literatura es una defensa contra las ofensas de la vida  Cesare Pavese;1.0;0.0;
+183;Tío mi lectura para los viajes es Un veterano de tres guerras de Guillermo Parvex  mire justo ahora me voy leyendo;1.0;-1.0; guerr(-1.0)
+184;Cuáles son los mejores arranques de libros  Para mí   Muchos años después  frente al pelotón de fusilamiento  el coronel Aureliano Buendía había de recordar aquella tarde remota en que su padre lo llevó a conocer el hielo  ;1.0;-1.0; mejor(1.0) fusil(-1.0) record(-1.0) remot(-1.0)
+185;Gracias al VAR esto ya no es fútbol  Es Handball cualquiera puede poner la mano y no lo pitan;-1.0;0.0; no(0.0) no(0.0)
+186;La he podido ver y disfrutar en una de las sagas de videojuegos que más me gusta  Una lástima no haberla visto en persona;-1.0;1.0; disfrut(1.0) gust(1.0) lastim(-1.0) no(0.0)
+187;Gracias feriado x caer en día de;1.0;-1.0; caer(-1.0)
+188;SATISFACCIÓN  esa é a palabra ElecccionesGenerales28A;1.0;0.0;
+189;de Dios  Impresionante su nivel mostrado  Hegemónico;1.0;-1.0; impresion(-1.0)
+190;Este país cuando sale a la calle y ejerce la democracia es la hostia y no necesita milagros  Estoy tremendamente orgulloso de vivir en España y de mis compatriotas  Hoy sí que me dan ganas de pasear mi bandera ;1.0;-1.0; call(-1.0) no(0.0) necesit(-1.0) tremend(-1.0) viv(1.0) gan(1.0)
+191;Enhorabuena al PSOE por este fantástico resultado ;1.0;0.0;
+192;Orgullosa del día de hoy;1.0;0.0;
+193;Pues el gran perdedor de la noche ha sido Pablo FraCASADO;1.0;-1.0; fracas(-1.0)
+194;Hoy he votado por primera vez en mi vida  Hoy he votado gracias a ellas;1.0;0.0;
+195;Servicio público y literario En la 45 Feria Internacional del Libro en Buenos Aires se puede encontrar esta joya a sólo 150 pesos argentinos  3  5 usd aprox  ;1.0;-1.0; buen(1.0) air(-1.0) pes(-1.0)
+196;No lo puedo creer MESSI ES EL DIOS DEL FÚTBOL  El alfa y el omega  cronos  todo;1.0;0.0; no(0.0)
+197;El Barcelona se proclama campeón de Los culés están a tan sólo SIETE ligas de empatar al Real Madrid ;1.0;0.0;
+198;Gol de FIFA JAJAJA 20 Venga un 30 ;1.0;0.0;
+199;  porque en lo más profundo de la posesión no estás en mí  no te alcanzo  no paso de tu cuerpo  de tu risa  hay horas en que me atormenta que me ames  ;-1.0;0.0; no(0.0) no(0.0) no(0.0) ris(1.0) atorment(-1.0)
+200;Necesito un meme que defina mi felicidad por el fracaso de la derecha  sobre todo de vox  y la izquierda como ganadora  Aún hay esperanza en este país;1.0;-1.0; necesit(-1.0) felic(1.0) fracas(-1.0)
+201;Bien Suárez Vaya instancia para romper el maleficiooo  ;1.0;0.0; bien(1.0) romp(-1.0)
+202;INCREÍBLE  ESPECTACULAR  ÉPICO  el capítulo de hoy  En tensión hasta el final ;1.0;0.0;
+203;Con ellos la vida se disfruta más  sin ellos  bueno  soy incapaz de concebir la sola idea ;-1.0;1.0; disfrut(1.0) buen(1.0)
+204;ha agotado todos los calificativos posibles  Ha dejado tantos momentos para la historia que no hay manera de medirla  Rotunda e irrepetible obra maestra ;1.0;-1.0; agot(-1.0) no(0.0)
+205;Hace ocho meses se veía hermosa ;-1.0;1.0; hermos(1.0)
+206;Muchos son los recuerdos y fotografías que tiene la gente de la catedral de   Se reconstruirá y volveremos  Claro que la volveremos a ver ;1.0;-1.0; reconstru(-1.0)
+207;Que bien he dormido sabiendo que España es progresista  feminista y tolerante  Adiós al discurso del odio y el enfrentamiento  Orgullosa de este país ;1.0;0.0; bien(1.0) progres(1.0) odi(-1.0) enfrent(-1.0)
+208;Otra liga más del Messi Fútbol Club;1.0;0.0;
+209;Mañana es la manifestación PorElClima y hoy han nominado a al Nobel de la Paz por su lucha lucha contra el Enhorabuena Para celebrarlo Inundemos las calles mañana;1.0;-1.0; celebr(1.0) inund(-1.0) call(-1.0)
+210;No necesitas recorrer grandes distancias para viajar  solo un buen libro;1.0;0.0; no(0.0) necesit(-1.0) grand(1.0) distanci(-1.0) buen(1.0)
+211;Esta es de la España que hay que estar orgulloso  la que se levanta a votar para parar a la ultraderecha  no la que saca la bandera para hacer daño;1.0;0.0; no(0.0)
+212;Aún así hay 2 millones de personas que han votado a la extrema derecha  Eso me da miedo  Pero no va a quitarme la felicidad que tengo ahora mismo  Hemos salido a luchar y lo hemos conseguido ;1.0;-1.0; mied(-1.0) no(0.0) quit(-1.0) felic(1.0)
+213;De mezclar y solo podía salir una genialidad ;1.0;0.0;
+214;Vaaaamos Campeones de la Liga;1.0;0.0;
+215;Hoy sí me siento muy orgullosa de ser española  La gente ha hablado  y quiere seguir construyendo no destruyendo ;1.0;-1.0; no(0.0) destru(-1.0)
+216;Si se puede España ha hablado en las urnas y mañana seguiremos estando en 2019 y no retrocediendo a 1939 ;1.0;0.0; no(0.0)
+217;Los que han votado por el voto útil para evitar que ganase van a estar la mar de contentos ElecccionesGenerales28A;-1.0;1.0; util(1.0) evit(-1.0) gan(1.0) content(1.0)
+218;EL REY DE 10 títulos para Leo Messi en 15 campeonatos españoles disputados defendiendo la camiseta del Barcelona;1.0;-1.0; disput(-1.0)
+219;Te extraño y no quiero vivir esto  Te necesito como eras antes o mejor;-1.0;1.0; no(0.0) viv(1.0) necesit(-1.0) mejor(1.0)
+220;Deja de llenar la timeline de con tus comentarios insinuando spoilers Por favor;-1.0;1.0; llen(1.0)
+221;Barça grita campeón Tras superar 10 a con gol de Messi  consigue su título número 8 en las últimas 11 ligas ;1.0;0.0; grit(-1.0) super(1.0)
+222;Confirmamos que GOT es la mejor serie de este jodido planeta ;1.0;-1.0; got(-1.0) mejor(1.0) seri(-1.0)
+223;Menuda pasada el mejor capitulo de la historia un capítulo que lleva siendo todas las temporadas que pasada a tomar por culo el rey de la noche;1.0;0.0; mejor(1.0) tom(-1.0)
+224;calentando motores pa lo q viene  ;1.0;0.0;
+225;Ya esta aquí el tráiler del próximo episodio;1.0;0.0;
+226;No puedo creer que haya gente contenta por lo de sinceramente me dan pena  No es una cuestión religiosa  es cultural ;-1.0;1.0; no(0.0) content(1.0) sincer(1.0) pen(-1.0) no(0.0)
+227;Que maravilla de capitulo ha merecido la pena esperar una semana;1.0;0.0; maravill(1.0) pen(-1.0)
+228;Preparada para una noche que vamos a recordar toda la vida ;1.0;-1.0; record(-1.0)
+229;Madre mía el tercer capítulo;1.0;0.0;
+230;Qué golazo Otra más de Messi;1.0;0.0;
+231;La catedral de notre dame se ha salvado pero POR MUY POCO  ;-1.0;0.0;
+232;Miercoles de no trabajo tarde de  Imperdible;1.0;0.0; no(0.0)
+233;Brutal el episodio 3 de;1.0;-1.0; brutal(-1.0)
+234;y son dos pueblos hermanos que nadie hará romper su amistad y el que piense hacerlo está muy equivocado;1.0;-1.0; romp(-1.0)
+235;Crear conciencia y tomar acción Gracias por la enseñanza para hacer la diferencia  Nos vemos pronto;1.0;-1.0; tom(-1.0)
+236;Que extraordinario que es el fútbol;1.0;0.0;
+237;Unos de fiesta y otros de funeral;-1.0;1.0; fiest(1.0)
+238;Golazooo de demostrando porque es el mejor Apague y vamonos ;1.0;0.0; mejor(1.0) apag(-1.0)
+239;Muchas gracias señor Dios  Muchas gracias señor Diez ;1.0;0.0;
+240;Tengo un alma profundamente naturista y adoro con ella la verdad sencilla de las cosas Teresa de la Parra;1.0;0.0;
+241;Messsi Es el Barcelona Juegan los otros  pero el resuelve ;1.0;0.0;
+242;Enorme  la niña que quiere salvar el clima;1.0;0.0;
+243;En la ha creado sus pancartas con las reivindicaciones  Un gran trabajo FridaysForFurture;1.0;0.0;
+244;Tod los que vayáis al estadio hoy tenéis que ser nuestros ojos  nuestros oídos  nuestra garganta  nuestra fuerza  nuestras palmas  nuestros gritos  nuestra alma   hacedlo por nosotros q apoyaremos desde casa;1.0;-1.0; fuerz(1.0) palm(-1.0) grit(-1.0)
+245;Muy chevere y todo pero ese no debía ser el final para el rey de la noche  merecía más  muchísimo más;-1.0;0.0; no(0.0)
+246;Muchas gracias por defender nuestro hogar e inspirarnos a todos a trabajar por el futuro y la Humanidad  Muchas gracias ;1.0;0.0;
+247;Gracias a todos los que habéis votado izquierda  Esos cabrones No Pasarán Mañana habrá que romperse la cabeza con los pactos  Hoy pienso disfrutar;1.0;0.0; no(0.0) romp(-1.0) disfrut(1.0)
+248;Gracias a los bomberos de París y a los trabajadores de los que lucharon por salvar a  a tous  Sin duda el pueblo francés la reconstruirá ;1.0;-1.0; reconstru(-1.0)
+249;Vamos Dios está con ustedes  Tienen todo nuestro apoyo hermanos;1.0;0.0;
+250;Así nos movilizamos en en nuestro compromiso desde la  Gracias desde infantil  primaria y secundaria  fridaysforfuture;1.0;0.0;
+251;Goooooolazo De Tiro libre Meeeessiiiii 30 ;1.0;0.0;
+252;Sí  sí  sí  esta noche hay capítulo de  impaciencia absoluta  Celébralo con las camisetas de  muchos modelos a elegir y a precios alucinantes  link en la;1.0;0.0; impacient(-1.0) alucin(1.0)
+253;Gracias  Gracias  Solo puedo decir eso ;1.0;0.0;
+254;Primera vez en la historia que el trofeo de es entregado directamente a Messi como capitán del Barça;1.0;0.0;
+255;Donará 100 millones de para la reconstrucción de  Haber si toma nota el y ayuda  tienen mucho dinero y oro ;1.0;-1.0; don(-1.0) tom(-1.0) diner(1.0)
+256;BRUTAL preparaos para el tercer capítulo;1.0;-1.0; brutal(-1.0)
+257;Qué gran iniciativa en el Gracias a la y al  Machado no quita la pena  la angustia o el dolor clavado en el alma pero hace todo más liviano ;1.0;-1.0; no(0.0) quit(-1.0) pen(-1.0) angusti(-1.0) dolor(-1.0)
+258;Para qué ir a la escuela si en los próximos diez años no habrá un planeta habitable  Para qué aprender un montón de datos  si los datos que importan a nadie le importa ;-1.0;1.0; no(0.0) import(1.0) import(1.0)
+259;Vale la pena esperar 10 años para ver este pedazo de capítulo de  Impresionante  una maravilla ;1.0;0.0; val(1.0) pen(-1.0) impresion(-1.0) maravill(1.0)
+260;es el puto amo del;1.0;0.0;
+261;Una magnífica estructura arquitectónica con más de 800 años de historia y uno de mis edificios preferidos del mundo ;-1.0;1.0; prefer(1.0)
+262;GRACIAS A TOD Hemos conseguido frenar al trifachito  Orgullo enorme;1.0;0.0;
+263;Muy pero que muy difícil se lo tendrán que poner los al en la vuelta de las semifinales  El trabajo de los holandeses esta campaña es impresionante ;1.0;-1.0; impresion(-1.0)
+264;Me fascina el plató  grafismo  conductores y colaboradores  Ansioso por los resultados;1.0;-1.0; ansios(-1.0)
+265;Es tan triste ver esto Me hubiera encantado poder conocer;-1.0;0.0; trist(-1.0) encant(1.0)
+266;El único Rey Orgullo Argentino  Felicitaciones por el título de;1.0;0.0;
+267;un billonario donará 100 millones de para restaurar  Qué maravilla que existan seres de luz entre tanta oscuridad;1.0;-1.0; don(-1.0) maravill(1.0) oscur(-1.0)
+268;Gracias Aznar  contigo empezó todo;1.0;0.0;
+269;Feliz Día del Libro Por qué si nos llaman gordos nos ponemos a adelgazar pero si nos llaman idiotas no nos ponemos a leer  A ponerse guapos y guapas todos;1.0;0.0; feliz(1.0) gord(-1.0) no(0.0)
+270;Abrazo a toda esa gente  jóvenes en su mayoría  que han hecho viaje express para cumplir con Gracias;1.0;0.0;
+271;1  00 ARRANCA EL PARTIDO EN EL CAMP NOU;1.0;0.0;
+272;Muy afectada como muchísima gente por lo ocurrido a  lo llevo por dentro  Me gusta saber y estar informada pero no voy a recrearme viendo imágenes y escuchando  información  que solamente da vueltas a lo mismo una y otra vez;-1.0;1.0; gust(1.0) no(0.0)
+273;QUÉ  CAPITULAZO  DE  JUEGO  DE  TRONOS  MADRE  MÍA  UFFF  ESPECTACULAR  ÉPICO  SIN  PALABRAS  GRACIAS;1.0;-1.0; tron(-1.0)
+274; La derecha iba a dar un golpe sobre la mesa   PUAJAJAJAJAJAJAJAJAJ ME MEO;1.0;-1.0; golp(-1.0)
+275;Este año seguro es del Barça No está su demonio ;1.0;0.0; segur(1.0) no(0.0) demoni(-1.0)
+276;Trágica perdida patrimonial y para los los aplausos espontáneos de ciudadanos  son la mejor manera de reconocimiento al buen trabajo realizado ;-1.0;1.0; perd(-1.0) mejor(1.0) buen(1.0)
+277;Listas las palomitas  Tablet cargada al máximo  Venga que se acerca el invierno Dale a LIKE si tú también eres FAN;1.0;0.0;
+278;Yo   no me encuentro bien  ;-1.0;1.0; no(0.0) bien(1.0)
+279;Enhorabuena al por su liga  nuevamente ;1.0;0.0;
+280;Se requieren actualmente  medidas estructurales  para poder enfrentar  los problemas ambientales ;1.0;-1.0; enfrent(-1.0)
+281;La amo  tiene 16 años y ya tiene un pensamiento que a mi me ha tocado décadas configurar  y es más consciente que millones de adultos juntos ;1.0;0.0;
+282;volviendo a ver el último capítulo otra vez  expectacular en todo para mi la mejor serie de la TV gracias por tanto ;1.0;0.0; mejor(1.0) seri(-1.0)
+283;Y después del alivio tras ver los resultados de las  toca sufrir por el 8x03 de  que se nos olvida que ahí sí va a haber drama;1.0;-1.0; alivi(1.0) sufr(-1.0) olvid(-1.0) dram(-1.0)
+284;Libros  caminos y días  dan al hombre sabiduría ;1.0;0.0;
+285;Salven la corona de espinas  por favor  ;-1.0;0.0;
+286;Gracias a los miles de españoles que nos han acompañado en los mítines más multitudinarios de esta campaña  NO les vamos a defraudar Santiago Abascal;1.0;0.0; no(0.0)
+287;No puedo evitar los pelos de punta  la piel de gallina  los escalofríos calosfríos  cuando escucho ese himno;1.0;-1.0; no(0.0) evit(-1.0) pel(-1.0) escalofri(-1.0)
+288;mientras se reconstruye nuestra hermosa lo acogeremos en nuestros corazón  Estamos triste pero renacerá como el ave fénix;-1.0;0.0; reconstru(-1.0) hermos(1.0) trist(-1.0) renac(1.0)
+289;Vaya golazo de falta de Messi;1.0;-1.0; falt(-1.0)
+290;Que respiro me ha dado que los de la sexta digan que es casi imposible que pueda gobernar la derecha;1.0;0.0;
+291;Por fin la izquierda grita Viva España  A costado;1.0;0.0; grit(-1.0) viv(1.0)
+292;Disfrutando y sufriendo con el mega espectacular tercer capítulo de a pesar de la oscuridad de los planos  Esto sí que es  avanzar en la trama   Bravo;1.0;0.0; disfrut(1.0) sufr(-1.0) pes(-1.0) oscur(-1.0) avanz(1.0) brav(1.0)
+293;Messi una vez mas Campeon de la;1.0;0.0;
+294;Estoy llorando  viva mi por haber podido ver a Messi en el Nervión;1.0;0.0; llor(-1.0) viv(1.0)
+295;Y ganaron Esperando lo que sigue con ansias lt  3;1.0;0.0; gan(1.0) ansi(-1.0)
+296;El episodio 3 de ha estado a la altura de las expectativas  Esta noche toca revisionado con todas las luces apagadas;1.0;0.0; expect(1.0) apag(-1.0)
+297;Hasta ahorita me conecto  Y solo tengo que decir  Messi lo hace ver taaaaaan fácil;1.0;0.0;
+298;Fuerza Francia en esta hora triste  Pronto volverá hermosa Nuestra Señora;-1.0;1.0; fuerz(1.0) trist(-1.0) hermos(1.0)
+299;Qué bonito homenaje en el Precioso ;1.0;0.0;
+300;He evitado durante todo el día las redes sociales para evitar spoilers de y ha merecido cada maldito segundo de espera ;1.0;-1.0; evit(-1.0) evit(-1.0) maldit(-1.0)
+301;Una novela que trasciende más allá de los límites  EL ACUARIO OSCURO DE LA MENTE de;1.0;-1.0; limit(-1.0) oscur(-1.0)
+302;el centrista apoya a con jijiji me pierdo chupito;1.0;0.0;
+303;Que te inviten a conocer su casa es bonito  que te inviten a ver su biblioteca  es incomparable;1.0;0.0;
+304;Al igual que os eche la bronca el lunes pasado  hoy os doy las gracias por no hacer spoiler  Al Cesar lo que es del Cesar  Capitulo sin palabras  y muchas emociones  JODER ;1.0;-1.0; bronc(-1.0) no(0.0) ces(-1.0) ces(-1.0)
+305;Me hubiese gustado una España teñida de morada pero no puedo ocultar mi orgullo de ver esta estampa ElecccionesGenerales28A;1.0;-1.0; gust(1.0) mor(-1.0) no(0.0) ocult(-1.0)
+306;He estado con el ojete apretado durante todo el puto capítulo  EL MEJOR CAPÍTULO DE JUEGO DE TRONOS POR DIOS ;1.0;-1.0; apret(-1.0) mejor(1.0) tron(-1.0)
+307;Esto nada más es suficiente para que desembarque el Comando Sur de USA YA ;1.0;0.0;
+308;España se va a la mierda   recemos por favor;-1.0;0.0;
+309;Hoy en llega la batalla esperada   La foto es graciosa porque lleva media hora para que salgan esas sombras;1.0;0.0; gracios(1.0) sombr(-1.0)
+310;Fer describe muy bien el conflicto de  al final  el único perdedor ha sido el pueblo ;-1.0;0.0; bien(1.0) conflict(-1.0)
+311;Se puede estar enamorado de una serie  Porque te amo Juego de Tronos ;1.0;-1.0; seri(-1.0) tron(-1.0)
+312;El grito de los jóvenes contra el cambio climático se convierte en global Sociedad EL PAÍS Orgullosa de escuchar cada día el grito de mis hijas contra el cambio climático;1.0;0.0; grit(-1.0) cambi(1.0) grit(-1.0) cambi(1.0)
+313;GRACIAS Vox por unir a España  Habéis cumplido con vuestro objetivo  ya os podéis ir ;1.0;0.0;
+314;Yo no tengo fotos en la cátedral de pero voy poner la última foto de cuando estuve en París a modo de tributo ;-1.0;0.0; no(0.0)
+315;FC Barcelona Campeón de Gracias Equipo;1.0;0.0;
+316;Os presentamos a Santa Arya Stark ;1.0;0.0;
+317;Gracias a mi madre pude conocer en un viaje de reencuentro entre padre e hijo por Europa  el corazón se me hace pequeño cuando se ratifica lo efímera que es la vida  Hoy estamos aquí y mañana no  Más de 800 años de historia ardieron pero jamas el resultado del viaje;1.0;0.0; no(0.0)
+318;lucha contra el  conoce la gran determinación de esta pequeña de 16 años ;1.0;0.0;
+319;Gracias por haber elegido jugar fútbol en este planeta ;1.0;0.0;
+320;Leyenda Messi 600 goles de Leo con la camiseta del Barcelona ;1.0;0.0;
+321;Barcelona Campeón Gracias Messi por tanto Ahora vamos por la y Triplete a la vista;1.0;0.0;
+322;BARCELONA CAMPEÓN se consagra otra vez con y ahora va por todo  El argentino saltó desde el banco en el complemento ante y le dio al equipo culé  Décima liga en quince años para el elenco catalán  Detalles;1.0;0.0;
+323;Hola he encontrado esto hoy  genial forma de difundir en el  gracias ;1.0;0.0;
+324;Oís eso  ES EL SILENCIO  el silencio de de la derecha acojonada viendo como la izquierda va acabar gobernando;1.0;-1.0; silenci(-1.0) silenci(-1.0)
+325;la gran mayoría de los españoles esperamos tu unión con y que nos des la alegría  junto con Esquerra  para conseguir la mayoría;-1.0;1.0; alegr(1.0)
+326;y la nostalgia de muchos  seguro;-1.0;0.0; nostalgi(-1.0) segur(1.0)
+327;No hay nada como la emoción de leer un libro nuevo y poder viajar entre las historias de sus páginas ;1.0;0.0; no(0.0)
+328;Hoy toca aplaudir al eterno rival  como en muchas otras ligas  El que todavía dude el genio que es Messi que se quite la venda de los ojos  y;1.0;-1.0; aplaud(1.0) rival(-1.0) quit(-1.0)
+329;Al final el odio y la mala política no ha ganado;1.0;-1.0; odi(-1.0) mal(-1.0) no(0.0) gan(1.0)
+330;Hoy he leído cosas tan bonitas en razón del ojalá así fuera Twitter todos los días ;1.0;0.0;
+331;Se trata de leer y hacer tuyos los libros  Ellos cuentan tu historia de vida y te acompañan  Gracias a ellos y con ellos  te descubres  descubres al otro  sus páginas abren tu mundo y te permiten comprender con cercanía la experiencia humana  Los libros nos humanizan;1.0;0.0;
+332; estaba en al momento del incendio EN  Así lo vivió;-1.0;0.0; incendi(-1.0) viv(1.0)
+333;Enhorabuena vi el capítulo totalmente a oscuras  Una maravilla de producción  A pesar de los vacíos argumentales en el guión  Visualmente es épico;1.0;-1.0; oscur(-1.0) maravill(1.0) pes(-1.0) vaci(-1.0)
+334;200  000 niños y niñas de nuestro país ya han participado en  una nueva iniciativa surgida a partir de las protestas de la estudiante sueca;1.0;-1.0; protest(-1.0)
+335;Entiendo que existan gustos para todo  pero después de lo que acabo de ver esta madrugada en puedo decir que es una de las series mas épicas que he visto en mi vida  Me voy a dormir   y asimilar lo que ha pasado ;1.0;0.0; gust(1.0) seri(-1.0)
+336;CON DOS COJONES SI SEÑOR;1.0;0.0;
+337;Enhorabuena al por el título de 2018 2019;1.0;0.0;
+338;El  Ya cayó  Ya cayó  Nicolás ya cayó  ;1.0;0.0;
+339;Aquellos que ayer se sentían descorazonados  hoy tienen más ánimo  No podemos desfallecer  debemos confiar en que si existe un plan  Todo ocurrirá en su debido y preciso momento  No debemos sucumbir a las pasiones  es momento que prevalezca la razón  Por una Libre;1.0;-1.0; sent(-1.0) descorazon(-1.0) anim(1.0) no(0.0) desfallec(-1.0) confi(1.0) no(0.0) sucumb(-1.0)
+340;Pero que lindo que es el fútbol pibe Que lindo es ver jugar a Messi;1.0;0.0;
+341;Qué maravilla la derrota de VOX;1.0;0.0; maravill(1.0) derrot(-1.0)
+342;Messi te amo  Qué golazo por favor ;1.0;0.0;
+343;Fue su  ahora la catedral de  Por Jesucristo redentor  párenle al mame ;-1.0;0.0;
+344;QUE FINAL TE AMO ARYA;1.0;0.0;
+345;Debido a sus esfuerzos para combatir el y salvar al  así como por inspirar a los jóvenes de todo el mundo a luchar por lo mismo  la sueca Thunberg fue nominada  a sus 16 años  como candidata al ;1.0;0.0;
+346; En La Paz  en estos momentos  concentración en apoyo al Presidente y el pueblo demócrata de  Gracias Bolivia ;1.0;0.0;
+347;Lo estoy pasando muy mal;-1.0;0.0;
+348;La izquierda arrasa y frena a la ultraderecha Hoy he recuperado la fe en la humanidad y hoy sí me siento orgulloso de ser español VIVAAA ESPAÑAAA;1.0;0.0; arras(-1.0) recuper(1.0)
+349;8 ligas en 11 años;1.0;0.0;
+350;Como mujer  LGTB y como periodista no os imagináis lo que agradezco que mi país haya respondido en las urnas contra la violencia y el odio de la extrema derecha ;1.0;-1.0; no(0.0) violenci(-1.0) odi(-1.0)
+351;Nuestro lema lo dice  MÁS QUE UN CLUB  Campeones de;1.0;0.0;
+352;Estoy mazo nervioso con este capítulo de AY Solo quiero a Sansa viva  con eso soy feliz;1.0;0.0; nervios(-1.0) ay(-1.0) viv(1.0) feliz(1.0)
+353;Amo al Real Madrid y amo a Cristiano  pero debo decir lo siguiente  MESSI ES UN MONSTRUO ;1.0;-1.0; monstru(-1.0)
+354;En iniciamos una serie de donde contaremos sobre el Hablamos de la activista más joven del planeta y que está dando mucho que hablar ;1.0;0.0; seri(-1.0) activ(1.0)
+355;un mundo triste pues jajajjaja;1.0;-1.0; trist(-1.0)
+356;El momento es ahora Vamos que si se puede;1.0;0.0;
+357;Me cago en mi puta vida  vaya CAPITULAZOOOO Sólo diré que es mejor verlo con la luz apagada y las persianas echadas  porque visualmente es muy oscuro y si no  no se ve na  Y que es el más brutal de la serie hasta ahora  Na más  A sufrirlo y a disfrutarlo;1.0;-1.0; mejor(1.0) apag(-1.0) oscur(-1.0) no(0.0) no(0.0) brutal(-1.0) seri(-1.0) sufr(-1.0) disfrut(1.0)
+358;Nominan a Greta Thunberg  de 16 años  al Nobel de la Paz tiene apenas 16 años y ya se ha convertido en la cara del movimiento estudiantil contra el;1.0;-1.0; apen(-1.0)
+359;ME CAGO EN LA PUTA MADRE JODER TE AMOOOOOO;1.0;0.0;
+360;Estan conscientes que esta noche nos toca despedirnos de algunos personajes de;-1.0;0.0;
+361;Lo único que yo veo hoy  es que no existe ningún apoyo internacional a ni a los;-1.0;0.0; no(0.0)
+362;Lo estamos viviendo aquí en EEUU  familias que dejan de hablarse  amigos que dejan de serlo  Comprendo como nadie el sentimiento  pero esto solo alimenta el rencor y el extremismo de quien nos rodea  y nos impide avanzar  Seamos mejores ;-1.0;1.0; viv(1.0) sentimient(-1.0) rencor(-1.0) avanz(1.0) mejor(1.0)
+363;Ayer estaba muy asustado  pero me equivoqué  Resulta que han perdido Casado  Abascal y Puigdemont  Hoy me gusta un poco más mi país;1.0;0.0; perd(-1.0) gust(1.0)
+364;Templo  lugar de adoración a un Dios  Klopp  en su afán de calentar la semifinal de solo consiguió motivar más  si cabe  a un equipo se marcó este objetivo desde el fracaso de Roma  se cita con esa bonita Copa en el Metropolitano de Madrid;1.0;-1.0; fracas(-1.0)
+365;Es imposible no llorar con estas imágenes  lloro de alegría  al ver a un pueblo que se levante ante la tiranía  No desistas hermano Venezolano Gracias a tu lucha desde hoy ya nada será igual en;1.0;-1.0; no(0.0) llor(-1.0) llor(-1.0) alegr(1.0) no(0.0)
+366;El capitulo de 8x03 es exageradamente bueno  Evita los;1.0;0.0; buen(1.0) evit(-1.0)
+367;Esto no va a terminar bien  Salva a Venezuela;-1.0;1.0; no(0.0) bien(1.0)
+368;Messi no anda al 100 está al 200;1.0;0.0; no(0.0)
+369;Creo que el nuevo capítulo de GoT representa muy MUY bien lo esencial que son las mujeres en los peores momentos  sin ellas  especialmente sin las pequeñas  estarían todos muy MUY jodidos ;1.0;0.0; got(-1.0) bien(1.0)
+370;Destinado al fracaso este tímido intento golpista  el pueblo tomó las calles y en una unidad Cívico militar noquearon a los vendidos  cuba  venezuela;1.0;-1.0; fracas(-1.0) tom(-1.0) call(-1.0)
+371;Que pena mas grande  que lamentable  una maravilla de la historia para el mundo que hoy sangra en Paris  solo se que Francia y su pueblo le devolveran la grandeza y la belleza que todos esperamos volver a ver   notredame;-1.0;1.0; pen(-1.0) grand(1.0) lament(-1.0) maravill(1.0) grandez(1.0)
+372;El movimiento se uné a de  unidos por el;1.0;0.0;
+373;Qué triste la vida de aquel que no puede quiere disfrutar de  3 0;-1.0;0.0; trist(-1.0) no(0.0) disfrut(1.0)
+374;No se puede creer más lo de Messi sos ENORME pulga;1.0;-1.0; no(0.0) sos(-1.0)
+375;Lo de Messi es brutal  fantástico  Casi  casi golpea el balón como yo  Disfrútenlo;1.0;-1.0; brutal(-1.0)
+376;Feliz con Kate Millet y su  Política sexual   alejada de la guerra dialéctica que se avecina ;1.0;0.0; feliz(1.0) sexual(1.0) alej(-1.0) guerr(-1.0)
+377;Que angustia desde aquí enviando toda la buena energía para que terminemos de salir de este régimen ;-1.0;0.0; angusti(-1.0) buen(1.0)
+378;8 de los últimos 11 años Enorme satisfacción Vamos;1.0;0.0;
+379;Nada como que en el se moje el libro que estás leyendo ;1.0;-1.0; moj(-1.0)
+380;Noche prácticamente redonda  En España gobierna la izquierda y desde Poniente nos llega el mejor capitulazo que jamás una serie haya dado  Ojalá no tuviese que madrugar ;1.0;0.0; mejor(1.0) seri(-1.0) no(0.0)
+381;Uno de mis días favoritos;1.0;0.0;
+382;En mi vida he tenido tantas emociones juntas viendo un capítulo  EL MEJOR CAPÍTULO DE TODAS LAS PUTAS SERIES DEL MUNDO;1.0;0.0; mejor(1.0) seri(-1.0)
+383;A por la Champions A por el Triplete;1.0;0.0;
+384;Seguimos con el día del libro;1.0;0.0;
+385;Hoy mientras el segundo mejor jugador de la historia ganaba  en perdía la final de la copa contra el  un equipo con la mitad de presupuesto que el  Ay qué malo es el dinero;-1.0;0.0; mejor(1.0) gan(1.0) perd(-1.0) ay(-1.0) mal(-1.0) diner(1.0)
+386;Ya finalizada la jornada electoral  lo primero es agradecer a los interventores y apoderados de su esfuerzo y compromiso Gracias;1.0;0.0;
+387;Todos a la calle El momento es ahoraaaaa ;1.0;-1.0; call(-1.0)
+388;Ojalá ninguno de esos votantes se tenga que quedar en el paro y salir de España como tuvimos que hacer algunos ;-1.0;0.0;
+389;Incendio en la catedral de Notre Dame  la historia arde en Toda nuestra fuerza ;-1.0;0.0; incendi(-1.0) fuerz(1.0)
+390;Puto amo por la Copa;1.0;0.0;
+391;O sea    el 8x03 de impresionante  magnífico  he gritado  he saltado  he llorado  Simplemente apoteósico ;1.0;-1.0; impresion(-1.0) grit(-1.0) llor(-1.0)
+392;Y yo aquí  anhelando que llegue;-1.0;0.0;
+393;Joder con el 8x03 de  JODER  Mira  que lo he tenido que parar dos o tres veces para respirar  Épico ;1.0;0.0;
+394;En el mi agradecimiento especial a y por descubrirme a y No hay duda  detrás de una gran serie SIEMPRE hay un escritor aún mejor THANK YOU;1.0;0.0; no(0.0) seri(-1.0) mejor(1.0)
+395;AAAARIAAAAAS en el XI inicial de para enfrentar a en Sigue el aquí ;1.0;-1.0; enfrent(-1.0)
+396;De veras tengo pena por lo de notre dame  mas que su valor religioso es su historia su arquitectura y representa una epoca que todo giraba en torno a la iglesia nos guste o no;-1.0;1.0; pen(-1.0) valor(1.0) gust(1.0) no(0.0)
+397;Qué señora con honor y dignidad Al fascismo  a los que crean odio  dicen mentiras e insultan a Catalunya  ni se les da la mano  ni se les saluda  ni nada;1.0;0.0; dignid(1.0) odi(-1.0) insult(-1.0) salud(1.0)
+398;Y los que faltan  muchos leídos más de 3 veces  me encantan;1.0;0.0; falt(-1.0) encant(1.0)
+399;Mi resumen de la serie  ARYA LA PUTA AMA ;1.0;-1.0; seri(-1.0)
+400;Hola Vene  acá tranki  amigo lamento lo que está pasando en tu País  Fuerza  yo los apoyo ;-1.0;0.0; lament(-1.0) fuerz(1.0)
+401;Barcelona Liverpool 00  máxima emoción;1.0;0.0;
+402;Premio Cervantes  Lección de humildad y erudición de Ida Vitale;1.0;0.0; humild(-1.0) vital(1.0)
+403;Gracias  Mariano  contigo empezó todo;1.0;0.0;
+404;Messi 3  Liverpool 0  sin palabras para no se puede describir lo genio que es ;1.0;0.0; no(0.0)
+405;Me encanta escuchar a mi papá y mi mamá gritar juntos los goles viendo la;1.0;0.0; encant(1.0) grit(-1.0)
+406;Desde ayer tarde paso de la risa al llanto y del llanto a la risa y otra vez de la risa al llanto  Y así sucesivamente  con el paquete de pañuelos en la mano  pi pi piiiiiiii ;1.0;-1.0; ris(1.0) llant(-1.0) llant(-1.0) ris(1.0) ris(1.0) llant(-1.0) suces(-1.0)
+407;Y hoy en el quiero felicitar a la lugar hermoso que alberga miles de títulos y fue un refugio para mí en mis días grises  Qué más títulos y humanos ansiosos de leer entren a ti;1.0;0.0; hermos(1.0) ansios(-1.0)
+408;JODER CON TREMENDO EPISODIO EL MEJOR DE LA SERIE;1.0;-1.0; tremend(-1.0) mejor(1.0) seri(-1.0)
+409;Gracias Messi por tanto fútbol queda la vuelta todavía  vamos Barça;1.0;0.0;
+410;Descubrir un libro es descubrir un tesoro  un mundo diferente cada día  con cada historia  jugar a ser otra persona  es sentir cosas que no podemos explicar  para viajar lejos no hay mejor nave que un libro  Así que no lo olvides  al mal tiempo  un buen libro;1.0;-1.0; sent(-1.0) no(0.0) no(0.0) mejor(1.0) no(0.0) olvid(-1.0) mal(-1.0) buen(1.0)
+411;Mis profesores me dicen que la teoría nos permite ver  siguiendo la alegoría de los sentidos  creo que la literatura nos permite sentir  Feliz;1.0;-1.0; sent(-1.0) sent(-1.0) feliz(1.0)
+412;Lo mismo de siempre  rutina de lo extraordinario  En 2012  misma distancia  al mismo palo o al otro  A donde ÉL quiera en realidad  Hoy en semis de  antes las dos al DESCOMUNAL;1.0;-1.0; distanci(-1.0)
+413;No hay palabras de consuelo  simplemente no las hay ;-1.0;0.0; no(0.0) no(0.0)
+414;Hola  abuela  Hoy hace exactamente un año desde que hablamos por última vez  y no sabes lo especial que resulta ;1.0;0.0; no(0.0)
+415;ARYA DE MI VIDA  ERES MAS ÉPICA QUE EL GOL DE INIESTA JODER;1.0;0.0;
+416;Que bueno es sentirse del lado correcto de la historia;1.0;0.0; buen(1.0) sent(-1.0)
+417;Una trabajadora social de MSF ayuda a los niños a seguir con su rutina escolar en nuestra clínica en  por eso Nadler  en la foto   de 12 años  puede continuar con sus ejercicios de escritura y lectura ;1.0;0.0;
+418;Un poco de humor entre tanta pérdida ;1.0;-1.0; perd(-1.0)
+419;Que bonita España cuando votas bien;1.0;0.0;
+420;Arya es la puta ama;1.0;0.0;
+421;El mejor episodio de la puta historia de Juego de Tronos ha sido el de hoy y punto ;1.0;0.0; mejor(1.0) tron(-1.0)
+422;nunca llegue a visitar tan grandiosa construcción  Solo vista en imágenes y videos  ;-1.0;0.0;
+423;dando cátedra de cómo anotar un tiro libre  Leo llega a los 600 goles com y lo hace en la con uno de altura  Su primer gol fue el 1 de mayo de 2005  14 años exactamente después el número 600 ;1.0;0.0;
+424;Ya es hora  el pais hoy se levanta con mas fuerza que nunca  todos juntos con un solo objetivo el cese de la usurpacion;1.0;0.0; fuerz(1.0) ces(-1.0)
+425;MADRE MÍA MESSI Qué bonito tiro libre;1.0;0.0;
+426;lo mejor de no tener spoilers de los capítulos es no haber visto ni uno solo de toooda la serie  así ya ni se de que hablan  ya cuando acabe pues empiezo a verla;1.0;0.0; mejor(1.0) no(0.0) no(0.0) seri(-1.0)
+427;Hoy puedo decir que sí que me siento orgullosa de España  aunque esos 24 escaños que ha sacado VOX me preocupan ;1.0;-1.0; preocup(-1.0)
+428;Adoro los dias de pero más cuando juega mi equipo;1.0;0.0;
+429;Ni pensar que ustedes alguna vez gozaron de prestigio y aceptación  Venevision  Televen y Gobovision  Que pena;-1.0;1.0; goz(1.0) prestigi(1.0) pen(-1.0)
+430;y como siempre ni un digital recibiré;-1.0;0.0;
+431;Siempre fue mi personaje favorito Muy épico todo  joder  Yo con este subidón post capítulo a ver cómo consigo dormirme;1.0;0.0;
+432;Gracias a todos los que hoy me habéis acompañado ;1.0;0.0;
+433;Qué tolerantes somos todos mientras ganen los nuestros ;-1.0;1.0; gan(1.0)
+434;CAMPEEONEESSS CAAAMPEEEONESS OLÉ OLÉ OLÉ;1.0;0.0;
+435;No sabes lo pobres que eres hasta que te das cuenta que está ardiendo la Catedral de y tu no la alcanzaste a conocer  Bueno no conoces ni la Basílica de la cdmx;-1.0;0.0; no(0.0) pobr(-1.0) no(0.0) buen(1.0) no(0.0)
+436;Liga Copa del Rey Champions Vamos a por ese triplete jodeeeerrr;1.0;0.0;
+437;Yo pondría a jugar a Raúl de Tomás;1.0;0.0;
+438;Messi hijo de puta  te amo  ven te beso tu pie izquierdo;1.0;0.0;
+439;5 libros para quienes aman viajar por el mundo;1.0;0.0;
+440;GOLAZO del Lionel la clavó al ángulo luego de un tiro libre fantástico  3 0;1.0;0.0;
+441;Aún me queda fe en la sociedad española después de estas;1.0;0.0;
+442;No termines el sin haber comprado literatura de combate Puedes consultar nuestro catálogo en nuestra página web  así como consultar precios y leer breves descripciones de los materiales  No lo dudes y compra;1.0;0.0; no(0.0) no(0.0)
+443;Qué pinches nervios Visca Barça;1.0;-1.0; nervi(-1.0)
+444;En la oficina siempre me acompañan algunos de mis libros  Son una montaña de recuerdos y vivencias ;1.0;0.0;
+445;Pensar que decian no les gustaba Vidal porque pasaba expulsado  La clase  talento  categoría y espíritu de combate que tiene  lo hacen un fuera de serie ;1.0;-1.0; no(0.0) gust(1.0) expuls(-1.0) seri(-1.0)
+446;Les da tristeza y les da felicidad Los goles de Messi en el  Llueven tweets  Somos divinos;1.0;0.0; tristez(-1.0) felic(1.0)
+447;Fue Una Linda Tarde De;1.0;0.0;
+448;básicos  Si se manifiestan son atacados por gases  balas  atropellados  Es muy triste lo que están viviendo  Mi apoyo incondicionala por una Venezuela Libre ;-1.0;0.0; trist(-1.0) viv(1.0)
+449;Muy orgulloso de mis colores Blaugranas Muy orgulloso de todo el equipo;1.0;0.0;
+450;El frenesí sonríe al Barça;1.0;0.0;
+451;10 Messi campeón de liga 2018 2019  Un nuevo título para;1.0;0.0;
+452;81  30 GOOOOOOOLAZO de que marca el tercero de tiro libre  Siga nuestro minuto a minuto acá;1.0;0.0;
+453;Nadie ha matado al rey nocturno  Team Arya;1.0;-1.0; mat(-1.0)
+454;yo si veo al barsa favorito por que hoy he visto que dios es del barsa;1.0;0.0;
+455;En 8 minutos Messi resolvió el encuentro  30;1.0;0.0;
+456;Esta imagen me resultó fantástica;1.0;0.0;
+457;No toca mas que ver la la chaaaaampions porque por su culpa no me pude ir al feriado;-1.0;0.0; no(0.0) no(0.0)
+458;y para mi magnifica combinación;1.0;0.0;
+459;Gracias Equipo Visca el Barça 26;1.0;0.0;
+460;No sé si pensáis cómo yo  pero ha sido la puta caña  pero me da a mi que para la próxima batalla  no quedarán tantos héroes ni heroínas  nos tiene preparado algo muuu gordo  y cruel ;1.0;-1.0; no(0.0) no(0.0) her(-1.0) gord(-1.0) cruel(-1.0)
+461;De acuerdo con los resultados del Módulo de Lectura  MOLEC  de 2019  hay una disminución de la población lectora de libros en México  pues ha pasado de 50  2 en 2015  a 45  9 en 2016  45  3 en 2017  45  1 en 2018 y 42  2 este año;-1.0;0.0;
+462;Gracias un nuevo título para el puto amo del fútbol mundial ;1.0;0.0;
+463;Para alcanzar lo imposible  uno debe intentar lo absurdo ;1.0;0.0;
+464;Obvio  también recomiendo libros sobre ColoColo  El mejor es Por empuje y coraje  pero no se encuentra en librerías  ;-1.0;1.0; mejor(1.0) empuj(1.0) no(0.0)
+465;CAMPEONES DE ESPAÑA Con gol de Messi  derrota 10 al para coronarse en Vía ;1.0;-1.0; derrot(-1.0)
+466;Como atacó la pelota  mérito absoluto del delantero;1.0;0.0;
+467;La mejor película de superheroes que he visto en mi puta vida  y se acaba  diría la serie que he visto con mayor hype de mi vida  y se acaba  En esta época de Abril y Mayo se me acaban los caramelos ;1.0;0.0; mejor(1.0) seri(-1.0)
+468;única excepcional quede en Shock cuando la Vi aparecer para acabar con el rey de la noche Épico sencillamente épico este 3 episodio de GOT;1.0;-1.0; shock(-1.0) got(-1.0)
+469;Messi el de los goles imposibles en Europa por que acá ya lo conocen muy bien;1.0;0.0;
+470;No he sufrido más porque no se puede  pero Arya te amo ;1.0;-1.0; no(0.0) sufr(-1.0) no(0.0)
+471;Golpe brutal del Barça buscando esa final  estupendo resultado pero aún falta la vuelta  0 confiarse  Vamos  VAMOS BARÇA;1.0;-1.0; golp(-1.0) brutal(-1.0) estupend(1.0) falt(-1.0) confi(1.0)
+472;Messi es el puto amo;1.0;0.0;
+473;A menos de 24 para el 8x03 de solo puedo decir una cosa  AHORA SÍ QUE SI ;1.0;-1.0; men(-1.0)
+474;Que Pablo Casado no quiere dar declaraciones tras el pésimo resultado en las elecciones del PP;1.0;-1.0; no(0.0) pesim(-1.0)
+475;Mi energía positiva para que sea libre y reine la Paz ;1.0;0.0;
+476;Me encanta ver Génova así Vacío  por fin se les está dando un escarmiento No más robos;1.0;-1.0; encant(1.0) vaci(-1.0) no(0.0) rob(-1.0)
+477;Orgullosa muy orgullosa  LA TUMBA DE FASCISMO;1.0;-1.0; tumb(-1.0)
+478;Lo que más me gusta del capítulo nuevo de juego de tronos es que no deja a nadie indiferente  O te encanta o lo odias  por lo que estoy viendo ;1.0;0.0; gust(1.0) tron(-1.0) no(0.0) encant(1.0) odi(-1.0)
+479;Quiero ver mil veces mas el capítulo de te;1.0;0.0;
+480;lt  3 esa sensación de leer una historia de terror  lt  3;1.0;0.0;
+481; Amigos fieles  Siempre atentos a mis estados de ánimo  Siempre pendientes de mis inquietudes  Siempre disponibles para saciar mis ansias  Siempre dispuestos a abrir sus páginas y ofrecerme su consuelo ;1.0;0.0; anim(1.0) inquietud(-1.0) saci(1.0) ansi(-1.0)
+482;En el recuerdo que tiene años que no termino un libro completo  Que triste ;-1.0;0.0; no(0.0) complet(1.0) trist(-1.0)
+483;Diría que es de los edificios más bonitos que he visitado   por tradición  historia  es una verdadera joya  El alma rota viendo lo que le pasó   ;-1.0;0.0;
+484; es el camino y va 10   Quién más que podía darle al el gol del título   El lo volvió a hacer  GRACIAS  los demás a las duchas ;1.0;0.0;
+485;Orando por el pueblo venezolano y una;-1.0;0.0;
+486;No puedo con esto  no estaba preparada;-1.0;0.0; no(0.0) no(0.0)
+487;Gol de falta de mejor jugador de la actualidad y de todos los tiempos ;1.0;0.0; falt(-1.0) mejor(1.0)
+488;Solo se puede decir INCREÍBLE E HISTÓRICA ;1.0;0.0;
+489;Emmanuel Macron   Se ha evitado lo peor  aunque la batalla no se ha ganado del todo  Gracias a  a la  valentía  de los bomberos  se han salvado las torres y la fachada  ;1.0;0.0; evit(-1.0) no(0.0) gan(1.0)
+490;Un país libre y sin miedos  Gracias España ElecccionesGenerales28A;1.0;-1.0; mied(-1.0)
+491;Te leo un pedacito de uno de mis libros favoritos  querida Yolanda ;1.0;0.0;
+492;IMPRESIONANTE ganó 30 al con doblete de Lionel y gol de  Los catalanes tienen un pie en la final de Madrid ;1.0;0.0; impresion(-1.0) gan(1.0)
+493;Hoy si me siento orgulloso de este país ;1.0;0.0;
+494;Talvez no debería iconizar a  pero es una jóven mujer tan valiente  inteligente e inspiradora  que no puedo más que decir que soy su fan  Me motiva a hacer más por nuestro planeta ;1.0;0.0; no(0.0) no(0.0)
+495;Es triste que un pais tan hernoso y Noble como tenga que pasar por esta situacion  donde cada quien lucha por sus propios intereses utilizando al pueblo como carne de cañón ;-1.0;1.0; trist(-1.0) propi(1.0) interes(1.0)
+496;Que orgullosa estoy de vosotr  compañer  Sobran las palabras ;1.0;0.0;
+497;Pues a pesar de todo está quedando una bonita noche ;1.0;-1.0; pes(-1.0)
+498;Orgullosa esta vez de mi tierra  Galicia  que deja atrás el manido y tedioso azul con el que siempre se le ha vestido  Este giro es el comienzo que nos hará resurgir y mirar al futuro ;1.0;-1.0; atras(-1.0)
+499;El gol de Tiro libre de Messi me hizo gritar  y conste no soy fan del futbol  Sin duda fue genial ;1.0;-1.0; grit(-1.0) no(0.0)
+500;VIDEO Si nos buscan en las CALLES  en la calles nos van a conseguir  Hoy ratificamos  desde Miraflores  máxima lealtad al presidente  y a la Constitución de  SEGUIMOS VENCIENDO;1.0;-1.0; call(-1.0) call(-1.0) venc(1.0)
+501;Fracasa el mensaje de odio  Fracasan los matones  A España le queda decencia y dignidad  Esperemos que al PSOE también ;1.0;-1.0; fracas(-1.0) odi(-1.0) fracas(-1.0) dignid(1.0)
+502;Mi madre  No vas a ver  Yo  Ya lo he visto No iba a perder el tiempo;1.0;-1.0; no(0.0) no(0.0) perd(-1.0)
+503;Eres la puta ama arya te amo;1.0;0.0;
+504;Este Barça está jugando como se debe  con furia y garra  Deberían caer más goles ;1.0;-1.0; caer(-1.0)
+505;Me encanta ver a los fachas rabiar;1.0;0.0; encant(1.0) rabi(-1.0)
+506;Ayer q fuimos un ratito en el yate a ver a;1.0;0.0;
+507;Los nervios merecieron la pena  parece que nos hemos concienciado y no queremos volver al siglo pasado;1.0;-1.0; nervi(-1.0) pen(-1.0) no(0.0)
+508;Café y Fútbol  vs Leg 1;1.0;0.0;
+509;Hoy quiero felicitar a uno de mis escritores favoritos  un ejemplo de tenacidad y constancia de como seguir escribiendo aunque nadie te lea mi querido;1.0;0.0;
+510;Parece que va ya a cerrar tramas a piñón  y eso me gusta  que después se queda la cosa como con Perdidos y nos dejan cara de tontos ;1.0;-1.0; cerr(-1.0) gust(1.0) perd(-1.0)
+511;Messi es el mejor de la historia porque no deja morir el futbol  No lo pienso discutir;1.0;0.0; mejor(1.0) no(0.0) mor(-1.0) no(0.0)
+512;Parece que lo hemos logrado Pero a falta de terminar el escrutinio  demasiados escaños tienen los fascistas Mañana y pasado y el otro tenemos que continuar la lucha Fuera el fascismo de nuestras instituciones porque no es democrático ElecccionesGenerales28A;1.0;0.0; logr(1.0) falt(-1.0) no(0.0)
+513;Desde siempre he visto como una obra maravillosa de la arquitectura  no como algo relacionado con un dogma de fe  Mi pesar es por lo primero  nada más ;-1.0;0.0; maravill(1.0) no(0.0) pes(-1.0)
+514;hola buenísimos días hoy juega el Barça;1.0;0.0;
+515;Si llega a ganar VOX y el rey de la noche el mismo día  este si que hubiera sido un lunes realmente negro ;-1.0;0.0; gan(1.0) negr(-1.0)
+516;2  El q lo relata y disfruta d esa manera con tremenda joya Un abrazo de GOL;1.0;0.0; disfrut(1.0) tremend(-1.0)
+517;Nervios y ansiedad a FULL YA QUE EMPIECE EL PARTIDO ;1.0;-1.0; nervi(-1.0) ansied(-1.0)
+518;Pudiste ser el mejor villano de la historia  pero los guionistas no quisieron y te desperdiciaron;-1.0;1.0; mejor(1.0) no(0.0)
+519;Se va a quedar esto hecho un solar  válgame ;-1.0;0.0;
+520;Los memes de esta noche me están dando la vidaaaaaaa;1.0;0.0;
+521;Vidal nunca pasará desaparecido  Si está de tu lado lo amas  si está del otro lo odias  deja todo  nunca se guarda nada  Figura ;1.0;-1.0; odi(-1.0)
+522;Restaurando fe en la humanidad  de España  después de las elecciones;1.0;0.0;
+523;lamentable que políticos de la izquierda española defiendan el régimen totalitario de Maduro;-1.0;0.0;
+524;GOLAZO DEL MÁS GRANDE DEL MUNDO DON LIO SOLO ÉL ;1.0;0.0; grand(1.0) don(-1.0)
+525;Riguroso análisis electoral en mi curro  han salido los tuyos o que  No  no están ni en la lista esa que daba la tele  joder  FIN;-1.0;0.0; no(0.0) no(0.0)
+526;Un estadio rendido a su zurda intelectual  Único  El mejor  Nuestro;1.0;0.0; rend(-1.0) mejor(1.0)
+527;Habeis dejado sin sueldo a Maroto  Os quiero ;1.0;0.0;
+528;Un abrazo a todos mis en este;1.0;0.0;
+529;Apurando el me gustaría recomendar todo el material de Duane Michals  En los pies de foto de sus fotografías se encuentran historias fantásticas muy humanas en las que podemos  observar sus pensamientos   Un genio ;1.0;0.0; apur(-1.0) gust(1.0)
+530;He aplaudido  he vibrado y hasta me he emocionado  Vaya épica la del episodio de  Juego de Tronos   y qué necesarios los dos anteriores capítulos para que este funcione tan bien;1.0;0.0; aplaud(1.0) tron(-1.0)
+531;España  te quiero  gracias por frenar a la derecha del odio y la división;1.0;-1.0; odi(-1.0)
+532;ME DEDICO ESTE TITULO DE A MI MISMA EN MI CUMPLEAÑOS  GRACIAS DE NUEVO;1.0;0.0;
+533;España se une y dice no al racismo  a la xenofobia  al machismo  a la homofobia  en definitiva  no al odio  al miedo y a la involución  Y yo  por primera vez en años  me siento orgullosa ;1.0;-1.0; no(0.0) no(0.0) odi(-1.0) mied(-1.0)
+534;Sé que en la serie no lo nombran  pero Arya como Azor Ahai;1.0;-1.0; seri(-1.0) no(0.0)
+535;El pueblo de y su gobierno legítimo han dado una nueva lección al mundo de que no son lo que los medios extranjeros cuentan sobre ellos ;1.0;0.0; no(0.0)
+536;El pueblo de ha sabido hacer frente a las agresiones del imperialismo y salir nuevamente victorioso ante este intento de Golpe de Estado  ese es el pueblo de Bolivar y Chavez y e Cuba siempre estará a su lado  ;1.0;0.0; victori(1.0) golp(-1.0)
+537;Increíblemente triste lo que está pasando en Espero que encuentren la paz que tanto merecen  El pueblo unido hace la fuerza para el renacer de su país  Animo desde México ;-1.0;1.0; trist(-1.0) fuerz(1.0) renac(1.0) anim(1.0)
+538;Las imágenes que llenan de tristeza al mundo  Un argentino grabó el momento exacto en que caía la aguja ;-1.0;0.0; llen(1.0) tristez(-1.0)
+539;Pues me da cosita que no vean la original mis hijos  aunque seguro que verán una espléndida reconstrucción  A ver lo que queda  Uf ;-1.0;1.0; no(0.0) segur(1.0)
+540;Hoy me siento orgulloso de mi país  así sí;1.0;0.0;
+541;Yo he votado con el corazón  con ilusión y pensando en el futuro de mis hijos;1.0;0.0;
+542;Hoy más que nunca me siento orgullosa de mi país y de su gente  Ante el odio y el miedo hemos peleado con uñas y dientes con una papeleta como única arma  Claro que se puede;1.0;-1.0; odi(-1.0) mied(-1.0) pel(-1.0)
+543;Enhorabuena Barca Que manera de sufrir los últimos minutos pero como los amo Campeones más que merecidos;1.0;-1.0; sufr(-1.0)
+544;Entre y fue un fin de semana brutal;1.0;-1.0; brut(-1.0)
+545; Amo la soledad de leer  amo zambullirme en la historia de un buen libro  amo el delicioso dolor de la última página ;1.0;0.0; soled(-1.0) buen(1.0) delici(1.0) dolor(-1.0)
+546;El mejor capítulo de la historia de la televisión  Una tensión  un ritmo y un dramatismo inalcanzables ;1.0;0.0; mejor(1.0) dramat(-1.0)
+547;q loco lindo que sos Jordi Alba;1.0;-1.0; loc(-1.0) sos(-1.0)
+548;Aisss que emoción ya el nuevo capítulo de juego de tronos  esta todo en juego en la gran batalla  Esto ha de ser una corrida;1.0;-1.0; tron(-1.0)
+549;EL REY DE 10 títulos para Leo Messi en 15 campeonatos españoles disputados defendiendo la camiseta del Barcelona;1.0;-1.0; disput(-1.0)
+550;Creo que hoy va a ser una de esas noches que este país nos va a hacer sentir orgullosos;1.0;-1.0; sent(-1.0)
+551;Gracias España por no ser fascista  GRACIAS ;1.0;0.0; no(0.0)
+552;Quieres que las circunstancias cambien  pero  qué estás haciendo para lograrlo  No se trata de quejarse  Jesús quiere que seas influencia y trabajes por Venezuela  No caigas en la desesperanza  atrévete a creer por tus sueños y por los de tu nación  Oremos por;1.0;0.0; cambi(1.0) logr(1.0) no(0.0) quej(-1.0) no(0.0) desesper(-1.0)
+553;Que bien sienta saber que Vox no va a decidir por mí  gracias a todos por evitarlo;1.0;0.0; bien(1.0) no(0.0) evit(-1.0)
+554;Solidaridad y agradecimiento para  Un venezolano que nunca ha bajado los brazos en la lucha por la;1.0;-1.0; baj(-1.0)
+555;Morata  Orgulloso de defender estos colores  espero hacerlo muchos años ;1.0;0.0;
+556;Qué opino del incendio de la Iglesia  Una iglesia menos para la corrupción y pederastía católica ;1.0;-1.0; incendi(-1.0) men(-1.0)
+557;Arya no te merecemos  perdón por tan poco;-1.0;0.0; no(0.0)
+558;Algunos de mis libros  10 años  El Llano en llamas 11 años  El Diosero 13 años  El lobo estepario 14 años  La metamorfosis 15 años  Un mundo feliz Y de ahí pa  adelante  no he parado;1.0;0.0; estepari(-1.0) feliz(1.0) no(0.0)
+559;Lo que ganamos ahora  lo perdemos después en INVERNALIA ;-1.0;0.0; gan(1.0) perd(-1.0)
+560;La santa corona de espinas es salva;1.0;0.0;
+561;Gracias a tooooodas las personas que me dijeron que viera juego de tronos  Jodidamente espectacular y aun quedan capítulos ;1.0;-1.0; tron(-1.0)
+562;Te odio pero que golazo;1.0;-1.0; odi(-1.0)
+563;Gracias a Dios Las llamas de este incendio fueron controladas Mucha fuerza Pronto volveremos a ver brillar esta hermosa estructura que peores momentos se ha enfrentado;1.0;0.0; incendi(-1.0) fuerz(1.0) hermos(1.0) enfrent(-1.0)
+564;La ciudadanía nos ha dado el apoyo porque siempre hemos intentado dar voz a todos los problemas que las y los tinerfeños nos han transmitido ;1.0;0.0;
+565;CAMPEONES  CAMPEONES  OLÉ  OLÉ  OLÉ;1.0;0.0;
+566;Llega la hora de la verdad vamos ;1.0;0.0;
+567;Lo de Messi ha sido increíble;1.0;0.0;
+568;8 títulos en 11 años Su título número 26 Enhorabuena al Barça Campeón de;1.0;0.0;
+569;Edd el penas  el lord comandante 1000  deja su guardia y descansa con sus otros hermanos juramentados de la guardia de la noche que ya no vieron la luz del día ;-1.0;0.0; pen(-1.0) descans(1.0) no(0.0)
+570;en el y lee que es unos de los placeres de la vida y es gratis jajaj;1.0;0.0;
+571;El día que la extrema derecha moviliza la izquierda durante las me hace atisbar una pizca de fe en la gente ;1.0;0.0;
+572;Messi no para de sorprender  Es tan impresiomante que genera adoración en el director técnico rival  Gol de otro mundo  como de costumbre ;1.0;-1.0; no(0.0) rival(-1.0)
+573;La sonrisa infantil de Lionel Messi  Ha sido un año de ver constantemente al argentino en una faceta más natural  En cierra así ;1.0;0.0; sonris(1.0) cierr(-1.0)
+574;Lo gracioso es que me he levantado una hora tarde  Gracias por la opción de darle marcha atrás  Sin palabras  Quien haya visto el episodio ;1.0;0.0; gracios(1.0) atras(-1.0)
+575;Cuando acabe la temporada 8 de voy a ver la serie entera  no de golpe  jajajaja   Alguien más piensa hacerlo ;1.0;-1.0; seri(-1.0) no(0.0) golp(-1.0)
+576;yo living viendo que la derecha está perdiendo;1.0;-1.0; perd(-1.0)
+577;DE AQUI SALE EL CAMPEON DE LA;1.0;0.0;
+578;Para mi siempre será un placer enorme escuchar a Don Mil gracias por buscar la manera de mantenernos informados y no dejarse amedrentar por los que quieren tenerlo en silencio  Dios lo bendiga;1.0;-1.0; plac(1.0) don(-1.0) no(0.0) silenci(-1.0)
+579;Y ahora quién se duerme    Puto subidón;1.0;0.0;
+580;Oigan  qué bonito es el fut;1.0;0.0;
+581;Hace tiempo trabajé con un venezolano  muy bueno en sistemas  Cada que le preguntábamos de la situacion en su país se ponía un poco triste y nos contaba lo difícil que era vivir allá  Que chingue a su madre Maduro y el América ;-1.0;1.0; buen(1.0) trist(-1.0) viv(1.0)
+582;Lo de Lionel Messi no solo es un gol  ES ARTE ;1.0;0.0; no(0.0)
+583;Esto SI es historia de España  GRACIAS;1.0;0.0;
+584;Ter Stegen evitó el empate;1.0;-1.0; evit(-1.0)
+585;Mi profesora acaba de soltar un spoiler de juego de tronos mientras explicaba  me meo;1.0;-1.0; tron(-1.0)
+586;GOOOOOOOOOOOL de Sufrir sufrir sufrir   y llega Messi y nos da la vida;1.0;-1.0; sufr(-1.0) sufr(-1.0) sufr(-1.0)
+587;Leer es un placer  si lo aprendes desde pequeño es difícil que se te olvide ;1.0;0.0; plac(1.0) olvid(-1.0)
+588;Gracias a Dios y a la vida por dejarnos presenciar de este ser de otro universo  Gracias a la vida por Messi  QUE GOLAZO;1.0;0.0;
+589;Hoy  saqué a pasear uno de mis favoritos Mi hermosa tercera edición de 1986;1.0;0.0; saqu(-1.0) hermos(1.0)
+590;Gracias por demostrarle al mundo que no todo está perdido ;1.0;-1.0; no(0.0) perd(-1.0)
+591;Orgullosa de ver cómo mi ciudad se ha vestido de rojo enserio  había tanto miedo porque gobernara la derecha pero tanto y aunque no haya terminado yo ya veo al país de rojo;1.0;-1.0; mied(-1.0) no(0.0)
+592;Esto si que es la auténtica Marca España  Gente de todas las edades que apuestan por el futuro y no por la vuelta al pasado ;1.0;0.0; no(0.0)
+593;MAGISTRAL  No he escuchado música que pueda explicar tan bien sin palabras lo que sucede en una escena  Pelos de punta ;1.0;0.0; no(0.0) bien(1.0) pel(-1.0)
+594;Bueno  la estructura de está a salvo  Hubieron muchos daños  pero se va a poder reconstruir en el mediano largo plazo  Esa es la mejor noticia que podíamos tener al respecto  tampoco hay que dejar que el fatalismo nos consuma ;1.0;-1.0; buen(1.0) reconstru(-1.0) mejor(1.0) fatal(-1.0) consum(-1.0)
+595;Extrañando mi rinconcito lleno de libros de diseño  y otras menudencias  ;-1.0;1.0; llen(1.0)
+596;Campeones Con solitario gol de el vence al para junto a su gente cantar el alirón y coronarse reyes de;1.0;0.0; solitari(-1.0) venc(1.0)
+597;vuelve a ser azulgrana El Barça conquista su título número 26  Brutal;1.0;0.0; conquist(1.0) brut(-1.0)
+598;La mejor puta serie de la historia mi heroina te amo dios porque solo quedan 3 capítulos;1.0;0.0; mejor(1.0) seri(-1.0)
+599;CAMPIONES Y en su case Barça;1.0;0.0;
+600;Y CON USTEDES  UNA OBRA DE ARTE  14 años después de su primer gol oficial y en el mismo día   en una semifinal de y de tiro libre hizo su gol 600  UNA JOYA;1.0;0.0;
+601;Hace varios años  un símbolo de la Arquitectura y Cultura  q pena más grande;-1.0;0.0; pen(-1.0) grand(1.0)
+602;Gracias por tus palabras y apoyo chimibebe;1.0;0.0;
+603;Llovía a mares  pero me miento y cuento que brillaba el sol  ;1.0;0.0;
+604;26 títulos de  10 en los últimos 15 años  8 en los últimos 11 años  El Barça  campeón de 2018 19;1.0;0.0;
+605;Pero que grande que sos Lio Por eso es que te amo;1.0;0.0; grand(1.0) sos(-1.0)
+606;Estoy consternado  No creo poder superarlo jamás  Adiós ;-1.0;0.0; constern(-1.0) no(0.0) super(1.0)
+607;Y se ríe el cabrón  JAJAJAJAJA ME MEO;1.0;0.0;
+608;Con cosas como la de hoy me siento bastante orgulloso de poder decir que soy español;1.0;0.0;
+609;Gracias a Leo Messi  Barcelona se quedo con el título del fútbol español  Llegó a su título número 26  Mira el gol del argentino;1.0;0.0;
+610;Hoy vamos por el título de;1.0;0.0;
+611;Empieza el 2do tiempo  el árbitro no trajo las tarjetas  cuidado con Liverpool y la velocidad que tienen;-1.0;0.0; no(0.0)
+612;Este equipo  y algunas que faltan  se ha echado una campaña muy dura a las espaldas  Enhorabuena campeonas;1.0;-1.0; falt(-1.0) dur(-1.0)
+613;Independientemente de lo cada uno haya votado  estoy orgullosa del nivel de movilización que ha habido en estas elecciones ;1.0;0.0;
+614;CAMPEONES Ha tocado sufrir  pero ha merecido la pena  Nuestra octava en los últimos once años  Los más grandes Continuamos GRANDE BARÇA VAMOS;1.0;0.0; sufr(-1.0) pen(-1.0) grand(1.0) grand(1.0)
+615;MESSI  SIEMPRE MESSI es campeón de al derrotar 10 a Levante  gol de campeonato de ya sabes quien  7 liga en la última década 26 liga  a 7 del  34 título de  10 liga ;1.0;-1.0; derrot(-1.0)
+616;Eran padres y abuelos con actitud de arrepentimiento prometiendo a una niña que a partir de ahora se portarán bien  GretaThunberg;-1.0;0.0; arrepent(-1.0) bien(1.0)
+617;Extraterrestre Messi  estaba defendiendo y en 2 segundos atacando adelante;1.0;0.0;
+618;El juega muy bien y no quiero desmerecer su triunfo de ayer ante los por la pero le hace mucha falta Harry igualmente el demostró un gran juego y es justo ganador  Todo puede pasar;-1.0;1.0; bien(1.0) no(0.0) triunf(1.0) falt(-1.0)
+619;Que delantero es Suarez  lucha todas y pelea con todos ;1.0;-1.0; pele(-1.0)
+620;Capitulazo  pasarán los años y no creo que volvamos a ver nada parecido a Juego de Tronos  sublime ;1.0;0.0; no(0.0) tron(-1.0) sublim(1.0)
+621;Os dais cuenta de que el capítulo apenas ha tenido diálogo y todos estamos hablando de uno de los mejores episodios de la serie  Eso es maestría;1.0;-1.0; apen(-1.0) mejor(1.0) seri(-1.0)
+622;Un muy enredado   fácil rival para;1.0;0.0; facil(1.0) rival(-1.0)
+623;Hoy si voy a sacar la bandera de España  Orgullosa de este país;1.0;0.0;
+624;Agradecemos al público que asistió a la primera charla sobre literatura fantástica y la proyección de la película  Las Crónicas de Narnia  el León  la Bruja y el Armario  y;1.0;-1.0; bruj(-1.0)
+625;Señoras y señores  lo conseguimos  Hoy hemos parado a la España más rancia y casposa  gracias a todos ;1.0;0.0;
+626;Y despues me preguntan por que lo amo tanto ;1.0;0.0;
+627;Una pena ver cómo ardía Les hubiera venido bien la lluvia que caía ayer en;-1.0;0.0; pen(-1.0) bien(1.0)
+628;Estoy fascinada  no sé si quiere seguidores  si es que es masoquista o que se dio un golpe de pequeña  me haría gracia si no fuera tan triste  me recuerda a lo de Froilán cuando se pegó un tiro en el pie Os acordáis ;1.0;-1.0; no(0.0) golp(-1.0) no(0.0) trist(-1.0)
+629;Feliz al recordar a Rubén Darío hoy;1.0;0.0; feliz(1.0) record(-1.0)
+630;Mi grito con lo que hizo Melissandre se oyó en la China  Que emoción;1.0;-1.0; grit(-1.0)
+631;Quién dijo que todo está perdido  Yo vengo a ofrecer mi corazón Tanta sangre que se llevó el rí o  Yo vengo a ofrecer mi corazón No será tan fácil  ya sé qué pasa  No será tan simple como pensaba  Como abrir el pecho y sacar el alma  Una cuchillada del amor;1.0;0.0; perd(-1.0) no(0.0) facil(1.0) no(0.0) cuchill(-1.0) amor(1.0)
+632;Es la puta mejor serie;1.0;0.0; mejor(1.0) seri(-1.0)
+633;Que bueno que conocí antes del incendio ;1.0;0.0; buen(1.0) incendi(-1.0)
+634;a leer dragones y aventuras sin fin;1.0;0.0;
+635; getrepost  Los libros son mentes que hablan para quienes escuchan y entiendan la eternidad a través de ellos ;1.0;0.0;
+636;Arya hija de puta TE AMOOOOOO ;1.0;0.0;
+637;Javier Sardá ACERTÓ en su quiniela de las y hoy estará en para comentar el panorama político actual tras los resultados Y  por supuesto  viene a a  HABLAR DE SU LIBRO  No os lo podéis perder;1.0;-1.0; no(0.0) perd(-1.0)
+638;Llevo ayer y hoy necesitando a Cernuda  así que será mi lectura para esta noche  Al cierre del día  feliz ;1.0;-1.0; necesit(-1.0) cierr(-1.0) feliz(1.0)
+639;Gracias Vox por conseguir movilizar a la izquierda;1.0;0.0;
+640;Para cojones gordos los de los vascos  OLÉ POR ELLOS ElecccionesGenerales28A;1.0;-1.0; gord(-1.0)
+641;GRACIAS  Por las visitas  Por el apoyo y cariño  Por los detalles recibidos  Por llevaros un trocito de Kabuky a vuestras casas  Bienvenidos a los nuevos ;1.0;0.0;
+642;el puto amo 3 0;1.0;0.0;
+643;GRACIAS A ABSOLUTAMENTE TODOS LOS QUE HAN IDO A VOTAR  GRACIAS X NO PERMITIR QUE VOLVAMOS A 1822  GRACIAS ;1.0;0.0; no(0.0)
+644;Con la llegada de la y las buenas temperaturas  apetece salir a la calle a leer  devorar una página tras otra en terrazas o parques bajo el sol  La hace una selección con motivo del;1.0;-1.0; buen(1.0) call(-1.0) baj(-1.0)
+645;Un gol feo para la instancia del torneo y la jerarquía de Messi   pero podría valer una clasificación;-1.0;0.0; feo(-1.0) val(1.0)
+646;Klopp diciendo que el mejor era Pelé  Toma Pelé;1.0;-1.0; mejor(1.0) pel(-1.0) tom(-1.0) pel(-1.0)
+647;Me voy a preparar unos mates  porque falta poco para un pequeño evento llamado  la prueba del hilo dental   ah no  es la semifinal de la Sí  eso es ;1.0;-1.0; mat(-1.0) falt(-1.0) no(0.0)
+648;Daenerys con espada  MI FANTASÍA hecha realidad;1.0;0.0;
+649;Allá voy Dispuesta a ver Helado en mano ;1.0;0.0;
+650;Lo he conversado con mi señor padre y le he dicho lo mismo  Si es necesario ahí me tendrá  Dejo esta foto y lloro por;-1.0;0.0; dich(1.0) llor(-1.0)
+651;Verle a libre y liderando con el Presidente Interino el levantamiento esta mañana  fue lo más emocionante de los últimos tiempos  Parece una película de Hollywood  Ojalá Maburro NO salga ileso ;1.0;0.0; no(0.0)
+652;Valverde   La temporada es un éxito y ya podemos hablar de conseguir un doblete   Messi es el centro de todo esto  su época en el Barcelona es la que marca ;1.0;0.0;
+653;Hoy a cerrar y a celebrarlo  La Octava en once años   La caverna sufre en silencio  ;1.0;-1.0; cerr(-1.0) celebr(1.0) cavern(-1.0) sufr(-1.0) silenci(-1.0)
+654;No me quisiera imaginar al sin Messi  sin el enano son un equipo muy inferior ;-1.0;0.0; no(0.0)
+655;Tío la peña es muy ingeniosa con lo de las me estoy estallando JAJA;1.0;0.0;
+656;Nuevamente mi Barça de Oro se perfila para campeón de la y los memes ya están más que listos ;1.0;0.0;
+657;Felicitar a los culés por el título d liga  ENHORABUENA;1.0;0.0;
+658;Somos un país maravilloso  Hemos hecho que pase  pero sobre todo hemos hecho que no pasen  Y sí  aún queda mucho camino por recorrer  pero menudo golpe en la mesa  Qué orgullo y qué emoción ;1.0;0.0; maravill(1.0) no(0.0) golp(-1.0)
+659;orgulloso de haber sido en el pasado  19942000  periodista de Gracias por la postura informativa asumida el día de hoy  Esperamos que pronto vuelvan a tomar el espacio informativo;1.0;-1.0; tom(-1.0)
+660;No tengo palabras  Impresionante  Te quiero;1.0;-1.0; no(0.0) impresion(-1.0)
+661;Buenísimo el último capítulo de  ya está la segunda Temporada ;1.0;0.0;
+662;La llamada de mi padre desde sevilla  emocionado y dándome la enhorabuena  el que luchó por sus derechos  y los míos  es el regalo de esta noche  Por él  por ellas  por tantas personas  no estoy llorando ni na;1.0;0.0; regal(1.0) no(0.0) llor(-1.0)
+663;Para que podáis disfrutar de en todo su esplendor  Podéis desplazaros con el dedo en la pantalla  Me da mucha pena pensar que se ha perdido esta maravilla ;-1.0;1.0; disfrut(1.0) esplendor(1.0) pen(-1.0) perd(-1.0) maravill(1.0)
+664;Habrá alguna Alma generosa que me invite a ver la final de la;1.0;0.0;
+665;Me siento orgulloso de todos aquellos que hemos sabido resistirnos a volver al siglo pasado ;1.0;0.0;
+666;Más libres siempre   en Valencia;1.0;0.0;
+667;No sé cómo serán los demás capítulos  Pero dudo que puedan superar a este  Vaya capítulo  Vaya serie y vaya todo  Emociones a flor de piel ;1.0;0.0; no(0.0) super(1.0) seri(-1.0)
+668;Pienso que el jugador clave de esta eliminatoria será Brahim  Si aparece el próximo balón de oro nadie podrá pararlo;1.0;0.0;
+669;El puto amo Leo Messi 600 goles;1.0;0.0;
+670;Lo bien q queda eso de ponte en el lugar de la otra persona y lo difícil q es hacerlo ;-1.0;1.0; bien(1.0)
+671;Listos mis cuentos y enviados;1.0;0.0;
+672;Y en este día vamos retomando la agradable rutina de enajenarnos frente a las letras con un gran autor;1.0;0.0; agrad(1.0) enajen(-1.0)
+673;Orgullosa de mi país que ha frenado a la extrema derecha en las urnas ElecccionesGenerales28A;1.0;0.0;
+674;No tengo una foto en la catedral de pero tengo esta secuencia hermosa ;-1.0;1.0; no(0.0) hermos(1.0)
+675;Mi homenaje al libro es tener una relación amor odio con una caótica biblioteca personal  modesta pero indomable ;1.0;0.0; amor(1.0) odi(-1.0)
+676;No puedo gestionar mis emociones en este momento  Bye ;-1.0;0.0; no(0.0)
+677;otra escalación de violencia  ejercito contra seguidores de  Es suficiente el apoyo de las Fuerzas Armadas contra Maduro    Sin fragmentar los poderes fácticos y sobre todo el poder de los militares  no se puede dar una paso hacia la democracia;-1.0;1.0; escal(1.0) violenci(-1.0) fuerz(1.0) poder(1.0) no(0.0)
+678;Mucha fuerza a mis amigos venezolanos  a sus familiares y a todo el pueblo de  Es un día histórico  se ha desatado una tormenta tras la que vendrá después la calma  Estamos con ustedes ;1.0;0.0; fuerz(1.0) torment(-1.0)
+679;Leopoldo lópez nunca estuvo liderando la manifestación hacia  Una vez más Lo hizo El llamado irresponsable de estos golpistas A esta hora  sabemos que desde tempranas horas  huyó a la embajada de en;1.0;-1.0; irrespons(-1.0)
+680;Así celebra el SAIME el Sería un chiste muy cómico si la realidad no fuera tan dolorosa ;-1.0;1.0; celebr(1.0) chist(1.0) comic(1.0) no(0.0) dolor(-1.0)
+681;Que bobo es creer eso  es patrimonio cultural no solo de Francia sino del mundo ;-1.0;0.0; no(0.0)
+682;Estoy muy proud de lo que se ha conseguido hoy ElecccionesGenerales28A;1.0;0.0;
+683;con estos asientos no me extraña que prefiera chupar banquillo  Para la temporada que viene bancos de madera;-1.0;0.0; no(0.0)
+684;Lo que ha hecho Messi es una locura si  Pero lo realmente extraordinario es que esto lo hace una y otra vez  No te retires nunca leo ;1.0;-1.0; locur(-1.0) no(0.0) retir(-1.0)
+685;Buena día para ver Juegos de Tronos ;1.0;0.0; buen(1.0) tron(-1.0)
+686;El mejor episodio de toda la serie  Brutal  Sublime ;1.0;0.0; mejor(1.0) seri(-1.0) brutal(-1.0) sublim(1.0)
+687;Gracias a todas esas personas que transmiten su magia a través de palabras;1.0;0.0;
+688;Orgullosa de que la izquierda se haya unido en este país para contrarrestar al fascismo que viene resurgiendo en todo el mundo ;1.0;0.0;
+689;Este recordé este material que trabajé bajo la guía de mi muy querida en 2015  es sobre la biblioteca histórica de la BUAP  no la arrobo porque me tiene bloqueado   Si se hace zoom  se alcanza a leer la maravillosa historia de esta biblioteca ;1.0;-1.0; record(-1.0) baj(-1.0) no(0.0) arrob(1.0) bloqu(-1.0) maravill(1.0)
+690;Que pena lo que está pasando en un presidente que viola su propia constitución y una oposición que envío al pueblo a luchar con piedras como armas;-1.0;0.0; pen(-1.0) propi(1.0)
+691;con mucha frustración  y con tan poca esperanza  Merecía más Liverpool;-1.0;0.0;
+692;Mrd alucinante capítulo de hoy  de principio a fin Espectacular y triste 910 puntos;1.0;0.0; alucin(1.0) trist(-1.0)
+693;La lectura nunca va vacia  siempre nos deja algún conocimiento  gracias a los Libros por librarnos de la ignorancia;1.0;-1.0; vaci(-1.0) ignor(-1.0)
+694;Oigo llorar a Casado desde mi sofá;1.0;-1.0; llor(-1.0)
+695;Tremendo Tiro libre  tremenda definición de y lo que se acaba de comer el;1.0;-1.0; tremend(-1.0) tremend(-1.0)
+696;Con tantas y tanto se me ha pasado que el sábado me reí como hacía tiempo con en Alpedrete  Que crack;1.0;0.0;
+697;HOY es el Y gracias a y millones de jóvenes el planeta tiene futuro ;1.0;0.0;
+698;Sus tweets de que es bien triste lo de;-1.0;0.0; bien(1.0) trist(-1.0)
+699;No es por nada  pero sentirme orgulloso de mi hermano es poco cuando le ves en los créditos del último capitulo de y ya van dos veces en GOT;1.0;-1.0; no(0.0) sent(-1.0) got(-1.0)
+700;Memorable capítulo de  Y aún nos quedan tres más ;1.0;0.0;
+701;Totalmente de acuerdo Esperemos volver a verla así;1.0;0.0;
+702;Apreté los puños y aguanté la respiración por 80 minutos Que combate y final de episodio;1.0;-1.0; apret(-1.0) aguant(-1.0)
+703; Claro  los niños siempre se quieren parecer a sus súper héroes   El mejor de todos  ;1.0;0.0; her(-1.0) mejor(1.0)
+704;Fuimos hace tres años y me pareció impresionante  su historia y todo su interior  Entramos varias veces pq siempre se;1.0;-1.0; impresion(-1.0)
+705;Mi agradecimiento a todas las personas civilizadas que fueron hoy a votar  Gracias por salvar el país ;1.0;0.0;
+706;No me cansaré    Messi Valorar lo que estamos viendo  nunca veremos otro igual ;1.0;0.0; no(0.0) cans(-1.0) valor(1.0)
+707;Qué crack es Salah  pero le falta equipo;1.0;-1.0; falt(-1.0)
+708;La disfruté por primera vez hace más de 30 años  deseando admirarla mucho tiempo más;-1.0;1.0; disfrut(1.0) admir(1.0)
+709;Yo voy a ver otra vez el capitulo  A ver si lo disfruto mas sabiendo lo q pasa  sin sufrir tanto xD;1.0;0.0; disfrut(1.0) sufr(-1.0)
+710;siempre fuiste tú la que llevo en la mente  la que encuentro en cada párrafo  El teléfono inteligente solo me dice chismes ;1.0;0.0;
+711;Yo no soy adivina  pero me da que Pablo Casado ya tiene un pie fuera del PP;1.0;0.0; no(0.0)
+712;Qué tal vuestro  Recomendadme alguno para cuando me termine este;1.0;0.0;
+713;Goooooooool del inigualable el mago mi  Messi ;1.0;0.0;
+714;Mis respetos por aquellos que están dando la batalla que algunos no podemos dar  La libre jamás los olvidará  Gracias;1.0;-1.0; no(0.0) olvid(-1.0)
+715;Feliz lunes  ahora con Mas motivo que ayer  a trabajar duro  y sacar este país adelante que falta nos hará  Y ser más optimistas con la que nos viene ;1.0;0.0; feliz(1.0) dur(-1.0) falt(-1.0) optim(1.0)
+716;SOLUCIONADO pacto y mayoría absoluta sin los independentistas;1.0;0.0;
+717;Increíblemente brutal este plano general de la batalla de ;1.0;-1.0; brutal(-1.0)
+718;Capítulo hermoso de desde la puesta en escena  lo técnico y narrativo  Por momentos un poco caótico pero  no debe ser así la guerra ;1.0;0.0; hermos(1.0) no(0.0) guerr(-1.0)
+719;Ayer  mi hijo me preguntó  Entre salvar un hombre aleatorio y u otro monumento equivalente  qué elegirías  Todavía se me encoge el alma por el segundo que tardé en contestar  Pero creo que merece la pena arriesgar la vida por salvar algunas Cosas   Con mayúsculas  ;1.0;-1.0; encog(-1.0) pen(-1.0)
+720;Solo el hace estas cosas  GOL DE 3 0;1.0;0.0;
+721;BRUTAL  Gracias Miguel Sapochnik  Has hecho historia en la televisión  INSUPERABLE;1.0;0.0; brutal(-1.0) insuper(1.0)
+722;No me gustó como le quitaron protagonismo a los lobos por los dragones  que a la final ni sirvieron;-1.0;0.0; no(0.0) gust(1.0) quit(-1.0)
+723;Hoy se puede consumar un nuevo año de dominio del rey del fútbol español con la consecución de en el A sus pies magestad ;1.0;0.0; consum(-1.0) domini(1.0)
+724;Esta sensación de que haya desaparecido un lugar hermoso en el que nunca estuviste  creo que resuena con esa sensación tan humana de lamentar vidas que ya no es posible vivir;-1.0;1.0; hermos(1.0) lament(-1.0) no(0.0) viv(1.0)
+725;Irreal  Único  Messi  600 goles  A 14 años del primero que hizo con la primera del  Que vengan de a uno a los críticos ;1.0;0.0;
+726;Ahora mismo ME SIENTO ORGULLOSO DE SER ESPAÑOL JODER ;1.0;0.0;
+727;Esta obra fue redactada gracias a la memoria colectiva  a varias manos No se encuentra ya en librerías  está agotado  Una manera de acercarse a él es con los propios habitantes  intentando rastrearlo  Feliz  vecinos Y que todos los días sean días de libros ;1.0;0.0; no(0.0) agot(-1.0) propi(1.0) rastr(-1.0) feliz(1.0)
+728;La ciudadanía española entendió perfectamente que las elecciones de ayer eran una emergencia nacional  como reclamaba  Por eso se movilizó masivamente  para encargar el gobierno al y poner al trío de Colón en su sitio ;1.0;0.0; perfect(1.0) siti(-1.0)
+729;Que linda que es la lpm;1.0;0.0;
+730;Todo listo  Esta noche sed buenos y no hagáis spoilers;1.0;0.0; sed(-1.0) buen(1.0) no(0.0)
+731;Alucinante Impresionante Indescriptible Esperanzador Sorprendente Emocionante Energico Brillante Lo mejor que he visto en tiempo de esta gran serie  Flipando estoy;1.0;0.0; alucin(1.0) impresion(-1.0) mejor(1.0) seri(-1.0)
+732;El 8x03 de Juego de Tronos es sencillamente espectacular;1.0;-1.0; tron(-1.0)
+733;Tenemos una gran sorpresa para ti Visita nuestro Facebook;1.0;0.0;
+734;Messi  maldito animal Que golazo;1.0;-1.0; maldit(-1.0)
+735;Cuando pregunten quien es el mejor jugador en la  HISTORIA  Todos griten LIONEL MESSI;1.0;0.0; mejor(1.0) grit(-1.0)
+736;Soy totalmente Mis mejores compras van dentro de una bolsa amarilla con morado Libros;1.0;0.0; mejor(1.0) mor(-1.0)
+737;La fachada de la catedral de Notre Dame fue salvada y se podrá restaurar  pero el techo y algunas obras como vitrales sufrieron grandes afectaciones Checa toda la info;-1.0;0.0; sufr(-1.0) grand(1.0)
+738;Estaba sufriendo el Barsa pero si tienes a Messi    2 a 0;1.0;-1.0; sufr(-1.0)

@@ -1,0 +1,12 @@
+# conda create --name saturdays_env python=3.8.3
+# conda activate saturdays_env
+jupyter==1.0.0 # pip install jupyter
+ipykernel==6.8.0 # pip install ipykernel 
+# python -m ipykernel install --user --name saturdays_env --display-name "Python (saturdays_env)"
+pandas==1.4.0 # pip install pandas
+tika=1.24 # pip install tika
+wordcloud==1.8.1 # pip install wordcloud
+streamlit==1.5.1 # pip install streamlit
+pydeck==0.7.1 # pip install pydeck
+geopy==2.2.0 # pip install geopy
+openpyxl==3.0.9 # pip install openpyxl

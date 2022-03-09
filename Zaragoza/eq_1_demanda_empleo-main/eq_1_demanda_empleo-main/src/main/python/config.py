@@ -1,0 +1,7 @@
+PATTERN_JOB = r'([A-ZÑÁÉÍÓÚ\/\(\)\s\,\.\-]+)+'
+PATTERN_LOCATION = r'(([A-ZÑÁÉÍÓÚ]{1,}[a-zñáéíóú]+(\s?|\-?)|[a-zñáéíóú]+\s)*(\(\s[A-ZÑÁÉÍÓÚ]+\s\)){1})'
+PATTERN_JOB_LOCATION = r'([A-ZÑÁÉÍÓÚ\/\(\)\s\,\.\-]+)(([A-ZÑÁÉÍÓÚ]{1,}[a-zñáéíóú]+(\s?|\-?)|[a-zñáéíóú]+\s)*(\(\s[A-ZÑÁÉÍÓÚ]+\s\)){1})'
+PATTERN_ID_JOB = r'(Oferta:\s{1}\d+)'
+PATTERN_DATE = r'(\d+/\d+/\d+)'
+PATTERN_OFFICE = r'(Oficina:\s[A-ZÑÁÉÍÓÚ]+\-?([A-ZÑÁÉÍÓÚ]+\s?)*)' # r'(Oficina:\s[A-ZÑÁÉÍÓÚ\-]+)'
+PATTERN_FOOTNOTE = r'Ofertas en difusión a fecha\s\d+/\d+/\d+\sPágina\s\d\sde\s\d{1,3}'
