@@ -1,3 +1,9 @@
+[![AI4Good SaturdaysAI Projects 🚀 ](https://img.shields.io/badge/AI4Good%20Project-SaturdaysAI-orange)](https://saturdays.ai/blog-2/)
+<p align="center"><img width="50%" src="https://saturdaysai.github.io/saturdaysai/images/logo.png" /></p>
+
+## 😇 Projects AI4Good
+Copia "AS IS" de los proyectos en el momento del DemoDay, es probable que algunos proyectos sigan desarrollándose y mejorando a posteriori.
+
 # Projects built during AI Saturdays Zaragoza
 
 ### Graduated on February 2022 - First Edition
