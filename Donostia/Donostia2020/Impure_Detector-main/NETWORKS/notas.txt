@@ -1,0 +1,2 @@
+Recordemos que tenemos que usar NGrok para poder acceder a la Raspberry sin problemas:
+https://ngrok.com/
