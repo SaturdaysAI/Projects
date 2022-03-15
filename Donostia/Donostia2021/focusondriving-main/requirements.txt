@@ -1,0 +1,9 @@
+keras
+tensorflow
+imutils
+opencv-python
+numpy
+pandas
+matplotlib
+livelossplot
+imageio
