@@ -13,3 +13,8 @@
 - [FER (Facial Expression Recogniser)](https://github.com/SaturdaysAI/Projects/tree/master/Donostia/Donostia2020/Facial_Expression_Saturdays)
 - [AI Learn to Invest](https://github.com/ImanolR87/AI-Learn-to-invest)
 - [Algorithmic Marketing](https://github.com/dorronsoro/algorithmic_marketing )
+
+
+### Class of February 2021
+
+- [FocusOnDriving](https://github.com/BZaldua/animal-shelter-AI/)
