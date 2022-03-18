@@ -12,6 +12,6 @@
 - [Repository, Presentation and Report](https://github.com/jarturoa/Aistocks.git)
 
 4) Moody.ai Emotions Detector - Equipo Rojo:
-- [Repository, Presentation and Report](https://github.com/chacoff/EmotionsDetector)
+- [Repository, Presentation and Report](https://github.com/SaturdaysAI/Projects/tree/master/Guadalajara/March2021/EmotionsDetector-main)
 
 ![DemodayDay AI Saturdays Guadalajara 3rd Generation](aisaturdaysguadalajara3aedicion_demoday.jpeg)
