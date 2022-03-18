@@ -1,0 +1,19 @@
+<data>
+    <items>
+		<item name="theme" id="0">Reddit</item> 
+		<item name="halo" id="1">0.9</item> 
+        <item name="CAM" id="2">NO</item> 
+		<item name="VID" id="3">0</item> 
+		<item name="REC" id="4">NO</item> 
+		<item name="REC_file" id="5">jup09_3cl.avi</item> 
+		<item name="FACTOR" id="6">1.2</item> 
+		
+		<item name="modelsPath" id="7">models</item> 
+		<item name="protopath" id="8">deploy.prototxt</item> 
+		<item name="modelpath" id="9">res10_300x300_ssd_iter_140000.caffemodel</item> 
+		<item name="threshold" id="10">0.45</item> 
+		
+		<item name="emotionsPath" id="11">jup09\</item> 
+		<item name="fps_xml" id="12">12</item> 
+    </items>
+</data>
