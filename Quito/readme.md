@@ -14,7 +14,7 @@
 
 * 5 [COVID-19 y Twitter](https://github.com/AI6-UIO/COVID-19-Twitter)
 
-* 6 [Identificador de Emociones con Inteligencia Artificial](identificador-emociones-AI) 
+* 6 [Identificador de Emociones con Inteligencia Artificial](https://github.com/SaturdaysAI/Projects/tree/master/Quito/Junio2020/identificador-emociones-AI) 
 
 * 7 [3D-COVID-19 (Drone Distance Detector COVID-19)](https://github.com/AI6-UIO/3D-COVID19)
 
