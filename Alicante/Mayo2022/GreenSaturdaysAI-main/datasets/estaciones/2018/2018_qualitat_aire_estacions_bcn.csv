@@ -1,0 +1,8 @@
+nom_cabina,codi_dtes,zqa,codi_eoi,longitud,latitud,Ubicacio,Codi_Districte,Nom_Districte,Codi_Barri,Nom_Barri,Ocupacio_sol,Emissions_Properes,Contaminant_1,Contaminant_2,Contaminant_3
+Barcelona - Ciutadella,IL,1,8019050,2.1874,41.3864,Parc de la Ciutadella,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",Urbana,Fons,NO2,O3,
+Barcelona - Eixample,IH,1,8019043,2.1538,41.3853,Av. Roma - c/ Comte Urgell,5,Eixample,9,la Nova Esquerra de l'Eixample,Urbana,Trànsit,NO2,O3,PM10
+Barcelona - Gràcia,IJ,1,8019044,2.1534,41.3987,Plaça Gal·la Placídia (Via Augusta - Travessera de Gràcia),6,Gracia,31,la Vila de Gracia,Urbana,Trànsit,NO2,O3,PM10
+Barcelona - Palau Reial,IZ,1,8019057,2.1151,41.3875,c/ John Maynard Keynes - c/ de Jordi Girona,4,Les Corts,21,Pedralbes,Urbana,Fons,NO2,O3,PM10
+Barcelona - Poblenou,I2,1,8019004,2.2045,41.4039,Plaça Josep Trueta (Pujades - Lope de Vega),10,Sant Marti,68,el Poblenou,Urbana,Fons,NO2,,PM10
+Barcelona - Sants,ID,1,8019042,2.1331,41.3788,Jardins de Can Mantega (Joan Güell - Violant d’Hongria),3,Sants-Montjuic,18,Sants,Urbana,Fons,NO2,,
+Barcelona - Vall Hebron,IN,1,8019054,2.1480,41.4261,Parc de la Vall d’Hebron - c/ Martí Codolar - c/ Granja Vella,7,Horta-Guinardo,41,la Vall d'Hebron,Urbana,Fons,NO2,O3,PM10

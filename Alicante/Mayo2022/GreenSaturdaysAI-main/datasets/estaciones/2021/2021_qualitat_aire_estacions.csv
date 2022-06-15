@@ -1,0 +1,51 @@
+"Estacio","nom_cabina","codi_dtes","zqa","codi_eoi","Longitud","Latitud","ubicacio","Codi_districte","Nom_districte","Codi_barri","Nom_barri","Clas_1","Clas_2","Codi_Contaminant"
+50,"Barcelona - Ciutadella","IL",1,8019050,"2.1874","41.3864","Parc de la Ciutadella",1,"Ciutat Vella",4,"Sant Pere, Santa Caterina i la Ribera","Urbana","Fons",8
+50,"Barcelona - Ciutadella","IL",1,8019050,"2.1874","41.3864","Parc de la Ciutadella",1,"Ciutat Vella",4,"Sant Pere, Santa Caterina i la Ribera","Urbana","Fons",14
+50,"Barcelona - Ciutadella","IL",1,8019050,"2.1874","41.3864","Parc de la Ciutadella",1,"Ciutat Vella",4,"Sant Pere, Santa Caterina i la Ribera","Urbana","Fons",7
+50,"Barcelona - Ciutadella","IL",1,8019050,"2.1874","41.3864","Parc de la Ciutadella",1,"Ciutat Vella",4,"Sant Pere, Santa Caterina i la Ribera","Urbana","Fons",12
+43,"Barcelona - Eixample","IH",1,8019043,"2.1538","41.3853","Av. Roma - c/ Comte Urgell",5,"Eixample",9,"la Nova Esquerra de l'Eixample","Urbana","Trànsit",8
+43,"Barcelona - Eixample","IH",1,8019043,"2.1538","41.3853","Av. Roma - c/ Comte Urgell",5,"Eixample",9,"la Nova Esquerra de l'Eixample","Urbana","Trànsit",14
+43,"Barcelona - Eixample","IH",1,8019043,"2.1538","41.3853","Av. Roma - c/ Comte Urgell",5,"Eixample",9,"la Nova Esquerra de l'Eixample","Urbana","Trànsit",10
+43,"Barcelona - Eixample","IH",1,8019043,"2.1538","41.3853","Av. Roma - c/ Comte Urgell",5,"Eixample",9,"la Nova Esquerra de l'Eixample","Urbana","Trànsit",1
+43,"Barcelona - Eixample","IH",1,8019043,"2.1538","41.3853","Av. Roma - c/ Comte Urgell",5,"Eixample",9,"la Nova Esquerra de l'Eixample","Urbana","Trànsit",6
+43,"Barcelona - Eixample","IH",1,8019043,"2.1538","41.3853","Av. Roma - c/ Comte Urgell",5,"Eixample",9,"la Nova Esquerra de l'Eixample","Urbana","Trànsit",7
+43,"Barcelona - Eixample","IH",1,8019043,"2.1538","41.3853","Av. Roma - c/ Comte Urgell",5,"Eixample",9,"la Nova Esquerra de l'Eixample","Urbana","Trànsit",12
+43,"Barcelona - Eixample","IH",1,8019043,"2.1538","41.3853","Av. Roma - c/ Comte Urgell",5,"Eixample",9,"la Nova Esquerra de l'Eixample","Urbana","Trànsit",22
+43,"Barcelona - Eixample","IH",1,8019043,"2.1538","41.3853","Av. Roma - c/ Comte Urgell",5,"Eixample",9,"la Nova Esquerra de l'Eixample","Urbana","Trànsit",99
+43,"Barcelona - Eixample","IH",1,8019043,"2.1538","41.3853","Av. Roma - c/ Comte Urgell",5,"Eixample",9,"la Nova Esquerra de l'Eixample","Urbana","Trànsit",996
+43,"Barcelona - Eixample","IH",1,8019043,"2.1538","41.3853","Av. Roma - c/ Comte Urgell",5,"Eixample",9,"la Nova Esquerra de l'Eixample","Urbana","Trànsit",997
+43,"Barcelona - Eixample","IH",1,8019043,"2.1538","41.3853","Av. Roma - c/ Comte Urgell",5,"Eixample",9,"la Nova Esquerra de l'Eixample","Urbana","Trànsit",998
+44,"Barcelona - Gràcia","IJ",1,8019044,"2.1534","41.3987","Plaça Gal·la Placídia (Via Augusta - Travessera de Gràcia)",6,"Gracia",31,"la Vila de Gracia","Urbana","Trànsit",8
+44,"Barcelona - Gràcia","IJ",1,8019044,"2.1534","41.3987","Plaça Gal·la Placídia (Via Augusta - Travessera de Gràcia)",6,"Gracia",31,"la Vila de Gracia","Urbana","Trànsit",14
+44,"Barcelona - Gràcia","IJ",1,8019044,"2.1534","41.3987","Plaça Gal·la Placídia (Via Augusta - Travessera de Gràcia)",6,"Gracia",31,"la Vila de Gracia","Urbana","Trànsit",10
+44,"Barcelona - Gràcia","IJ",1,8019044,"2.1534","41.3987","Plaça Gal·la Placídia (Via Augusta - Travessera de Gràcia)",6,"Gracia",31,"la Vila de Gracia","Urbana","Trànsit",1
+44,"Barcelona - Gràcia","IJ",1,8019044,"2.1534","41.3987","Plaça Gal·la Placídia (Via Augusta - Travessera de Gràcia)",6,"Gracia",31,"la Vila de Gracia","Urbana","Trànsit",6
+44,"Barcelona - Gràcia","IJ",1,8019044,"2.1534","41.3987","Plaça Gal·la Placídia (Via Augusta - Travessera de Gràcia)",6,"Gracia",31,"la Vila de Gracia","Urbana","Trànsit",7
+44,"Barcelona - Gràcia","IJ",1,8019044,"2.1534","41.3987","Plaça Gal·la Placídia (Via Augusta - Travessera de Gràcia)",6,"Gracia",31,"la Vila de Gracia","Urbana","Trànsit",12
+57,"Barcelona - Palau Reial","IZ",1,8019057,"2.1151","41.3875","c/ John Maynard Keynes - c/ de Jordi Girona",4,"Les Corts",21,"Pedralbes","Urbana","Fons",8
+57,"Barcelona - Palau Reial","IZ",1,8019057,"2.1151","41.3875","c/ John Maynard Keynes - c/ de Jordi Girona",4,"Les Corts",21,"Pedralbes","Urbana","Fons",14
+57,"Barcelona - Palau Reial","IZ",1,8019057,"2.1151","41.3875","c/ John Maynard Keynes - c/ de Jordi Girona",4,"Les Corts",21,"Pedralbes","Urbana","Fons",10
+57,"Barcelona - Palau Reial","IZ",1,8019057,"2.1151","41.3875","c/ John Maynard Keynes - c/ de Jordi Girona",4,"Les Corts",21,"Pedralbes","Urbana","Fons",1
+57,"Barcelona - Palau Reial","IZ",1,8019057,"2.1151","41.3875","c/ John Maynard Keynes - c/ de Jordi Girona",4,"Les Corts",21,"Pedralbes","Urbana","Fons",6
+57,"Barcelona - Palau Reial","IZ",1,8019057,"2.1151","41.3875","c/ John Maynard Keynes - c/ de Jordi Girona",4,"Les Corts",21,"Pedralbes","Urbana","Fons",7
+57,"Barcelona - Palau Reial","IZ",1,8019057,"2.1151","41.3875","c/ John Maynard Keynes - c/ de Jordi Girona",4,"Les Corts",21,"Pedralbes","Urbana","Fons",9
+57,"Barcelona - Palau Reial","IZ",1,8019057,"2.1151","41.3875","c/ John Maynard Keynes - c/ de Jordi Girona",4,"Les Corts",21,"Pedralbes","Urbana","Fons",12
+4,"Barcelona - Poblenou","I2",1,8019004,"2.2045","41.4039","Plaça Josep Trueta (Pujades - Lope de Vega)",10,"Sant Marti",68,"el Poblenou","Urbana","Fons",8
+4,"Barcelona - Poblenou","I2",1,8019004,"2.2045","41.4039","Plaça Josep Trueta (Pujades - Lope de Vega)",10,"Sant Marti",68,"el Poblenou","Urbana","Fons",10
+4,"Barcelona - Poblenou","I2",1,8019004,"2.2045","41.4039","Plaça Josep Trueta (Pujades - Lope de Vega)",10,"Sant Marti",68,"el Poblenou","Urbana","Fons",7
+4,"Barcelona - Poblenou","I2",1,8019004,"2.2045","41.4039","Plaça Josep Trueta (Pujades - Lope de Vega)",10,"Sant Marti",68,"el Poblenou","Urbana","Fons",12
+42,"Barcelona - Sants","ID",1,8019042,"2.1331","41.3788","Jardins de Can Mantega (Joan Güell - Violant d’Hongria)",3,"Sants-Montjuic",18,"Sants","Urbana","Fons",8
+42,"Barcelona - Sants","ID",1,8019042,"2.1331","41.3788","Jardins de Can Mantega (Joan Güell - Violant d’Hongria)",3,"Sants-Montjuic",18,"Sants","Urbana","Fons",7
+42,"Barcelona - Sants","ID",1,8019042,"2.1331","41.3788","Jardins de Can Mantega (Joan Güell - Violant d’Hongria)",3,"Sants-Montjuic",18,"Sants","Urbana","Fons",12
+54,"Barcelona - Vall Hebron","IN",1,8019054,"2.1480","41.4261","Parc de la Vall d’Hebron. c/ Martí Codolar - c/ Granja Vella",7,"Horta-Guinardo",41,"la Vall d'Hebron","Urbana","Fons",8
+54,"Barcelona - Vall Hebron","IN",1,8019054,"2.1480","41.4261","Parc de la Vall d’Hebron. c/ Martí Codolar - c/ Granja Vella",7,"Horta-Guinardo",41,"la Vall d'Hebron","Urbana","Fons",14
+54,"Barcelona - Vall Hebron","IN",1,8019054,"2.1480","41.4261","Parc de la Vall d’Hebron. c/ Martí Codolar - c/ Granja Vella",7,"Horta-Guinardo",41,"la Vall d'Hebron","Urbana","Fons",10
+54,"Barcelona - Vall Hebron","IN",1,8019054,"2.1480","41.4261","Parc de la Vall d’Hebron. c/ Martí Codolar - c/ Granja Vella",7,"Horta-Guinardo",41,"la Vall d'Hebron","Urbana","Fons",1
+54,"Barcelona - Vall Hebron","IN",1,8019054,"2.1480","41.4261","Parc de la Vall d’Hebron. c/ Martí Codolar - c/ Granja Vella",7,"Horta-Guinardo",41,"la Vall d'Hebron","Urbana","Fons",6
+54,"Barcelona - Vall Hebron","IN",1,8019054,"2.1480","41.4261","Parc de la Vall d’Hebron. c/ Martí Codolar - c/ Granja Vella",7,"Horta-Guinardo",41,"la Vall d'Hebron","Urbana","Fons",12
+54,"Barcelona - Vall Hebron","IN",1,8019054,"2.1480","41.4261","Parc de la Vall d’Hebron. c/ Martí Codolar - c/ Granja Vella",7,"Horta-Guinardo",41,"la Vall d'Hebron","Urbana","Fons",7
+54,"Barcelona - Vall Hebron","IN",1,8019054,"2.1480","41.4261","Parc de la Vall d’Hebron. c/ Martí Codolar - c/ Granja Vella",7,"Horta-Guinardo",41,"la Vall d'Hebron","Urbana","Fons",22
+54,"Barcelona - Vall Hebron","IN",1,8019054,"2.1480","41.4261","Parc de la Vall d’Hebron. c/ Martí Codolar - c/ Granja Vella",7,"Horta-Guinardo",41,"la Vall d'Hebron","Urbana","Fons",996
+54,"Barcelona - Vall Hebron","IN",1,8019054,"2.1480","41.4261","Parc de la Vall d’Hebron. c/ Martí Codolar - c/ Granja Vella",7,"Horta-Guinardo",41,"la Vall d'Hebron","Urbana","Fons",997
+54,"Barcelona - Vall Hebron","IN",1,8019054,"2.1480","41.4261","Parc de la Vall d’Hebron. c/ Martí Codolar - c/ Granja Vella",7,"Horta-Guinardo",41,"la Vall d'Hebron","Urbana","Fons",998
+54,"Barcelona - Vall Hebron","IN",1,8019054,"2.1480","41.4261","Parc de la Vall d’Hebron. c/ Martí Codolar - c/ Granja Vella",7,"Horta-Guinardo",41,"la Vall d'Hebron","Urbana","Fons",999
