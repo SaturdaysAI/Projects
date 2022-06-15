@@ -1,0 +1,14 @@
+"Codi_Contaminant","Desc_Contaminant","Unitats"
+1,"SO2","µg/m³"
+7,"NO","µg/m³"
+8,"NO2","µg/m³"
+9,"PM2.5","µg/m³"
+12,"NOx","µg/m³"
+14,"O3","µg/m³"
+6,"CO","mg/m³"
+10,"PM10","µg/m³"
+22,"Black Carbon","µg/m³"
+999,"Biomassa Black Carbon","%"
+998,"Flow C (Mesura interna equip) "," "
+997,"Flow 1 (Mesura interna equip)",
+996,"Flow 2 (Mesura interna equip)",
