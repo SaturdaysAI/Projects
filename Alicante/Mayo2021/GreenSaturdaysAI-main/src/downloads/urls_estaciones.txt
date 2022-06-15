@@ -1,3 +1,0 @@
-https://opendata-ajuntament.barcelona.cat/data/dataset/4dff88b1-151b-48db-91c2-45007cd5d07a/resource/3b2c1f22-2a64-40a7-9154-3d0258d847ed/download/2021_qualitat_aire_estacions.csv
-https://opendata-ajuntament.barcelona.cat/data/dataset/4dff88b1-151b-48db-91c2-45007cd5d07a/resource/d66f3e5d-8358-4704-8f52-00cb3d413938/download
-https://opendata-ajuntament.barcelona.cat/data/dataset/4dff88b1-151b-48db-91c2-45007cd5d07a/resource/6c33f60b-2f52-4954-a5e6-cf879890551c/download/qualitat_aire_estacions_bcn.csv
