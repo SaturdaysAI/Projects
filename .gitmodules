@@ -250,3 +250,24 @@
 [submodule "Madrid/March2021/GANsnRoses/image"]
 	path = Madrid/March2021/GANsnRoses/image
 	url = https://github.com/GANs-N-Roses/image.git
+[submodule "Madrid/June2022/ProffesorX"]
+	path = Madrid/June2022/ProffesorX
+	url = https://github.com/albarc3/ProfessorX-Project.git
+[submodule "Madrid/June2022/CyclingMadrid"]
+	path = Madrid/June2022/CyclingMadrid
+	url = https://github.com/tuky-g/SatAi_BicycleFriendlyPath.git
+[submodule "Madrid/June2022/AImagining-tales"]
+	path = Madrid/June2022/AImagining-tales
+	url = https://github.com/pablorl94/AImagining-tales.git
+[submodule "Madrid/June2022/Deepfake-detection"]
+	path = Madrid/June2022/Deepfake-detection
+	url = https://github.com/aaronespasa/deepfake-detection.git
+[submodule "Madrid/June2022/New-Earths"]
+	path = Madrid/June2022/New-Earths
+	url = https://github.com/munibaso/Detecting-exoplanets.git
+[submodule "Madrid/June2022/Smurf-busters"]
+	path = Madrid/June2022/Smurf-busters
+	url = https://github.com/svillahermosa/ml-lol.git
+[submodule "Madrid/June2022/Mental-HeAIlth"]
+	path = Madrid/June2022/Mental-HeAIlth
+	url = https://github.com/Egokitek/Deteccion_Depresion_RRSS_SaturdaysAI.git
