@@ -1,0 +1,7 @@
+numpy
+pandas
+mne
+matplotlib
+jupyter
+seaborn
+pytictoc
