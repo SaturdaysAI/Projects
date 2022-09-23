@@ -1,0 +1,6 @@
+kepid = tid
+kepoi_name = toi
+koi_time0bk = pl_tranmid
+koi_period = pl_orbper
+koi_duration = pl_trandurh
+koi_disposition = koi_is_planet = tfopwg_disp
