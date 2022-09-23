@@ -1,0 +1,6 @@
+flask
+pyparrot
+untangle
+zeroconf
+urllib3
+chardet

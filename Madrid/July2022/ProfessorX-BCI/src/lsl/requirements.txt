@@ -1,0 +1,11 @@
+numpy
+pandas
+mne
+pylsl
+pyqt5
+pyqtgraph
+scipy
+mne-realtime
+plotly
+scikit-learn
+requests
