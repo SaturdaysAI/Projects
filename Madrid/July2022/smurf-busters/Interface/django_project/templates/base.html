@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+  	<style>
+		body {
+		  background-image: url('static/images/fondo.jpg');
+		}
+</style>
+    <title>Smurf Busters</title>
+
+    <link href="static/css/bootstrap.css" rel="stylesheet">
+    <link href="static/css/style.css" rel="stylesheet">
+	<link rel="shortcut icon" type="image/png" href="static/images/Smurf_Busters.png"/>
+	<link href='https://fonts.googleapis.com/css?family=Montserrat' rel='stylesheet' type='text/css'>
+
+  </head>
+  <body>
+
+    <div class="container-fluid" style="margin-top: 10%; margin-left: 5%; margin-right: 5%;">
+	<div class="row">
+		<div class="col-sm-5">
+			<h3 align="center">
+				Team 1
+			</h3>
+			<table class="table" id="table1">
+				{% include "tables/team1.html" %}
+			</table>
+		</div>
+		<div class="col-sm-2">
+		</div>
+		<div class="col-sm-5">
+			<h3 align="center">
+				Team 2
+			</h3>
+			<table class="table" id="table2">
+				<thead>
+					<tr class="table-success">
+						<th>
+							Summoner Name
+						</th>
+						<th>
+							Smurf Percentage
+						</th>
+					</tr>
+				</thead>
+			</table>
+		</div>
+	</div>
+		<button id="calculate" style="color:white; background-color:rgba(0,0,0,0.35)">Calculate</button>
+</div>
+
+    <script src="static/js/jquery.min.js"></script>
+    <script src="static/js/bootstrap.min.js"></script>
+    <script src="static/js/scripts.js"></script>
+  </body>
+</div>
+
+</html>
+{% block js %}
+    <script>
+    	function getCookie(name) {
+            let cookieValue = null;
+            if (document.cookie && document.cookie !== '') {
+                const cookies = document.cookie.split(';');
+                for (let i = 0; i < cookies.length; i++) {
+                    const cookie = cookies[i].trim();
+                    // Does this cookie string begin with the name we want?
+                    if (cookie.substring(0, name.length + 1) === (name + '=')) {
+                        cookieValue = decodeURIComponent(cookie.substring(name.length + 1));
+                        break;
+                    }
+                }
+            }
+            return cookieValue;
+        };
+
+		$('#calculate').click(function(){
+           $.ajax({
+                     type: "POST",
+                     url: "/smurf/ajax/calculate_table",
+                     dataType: 'html',
+                     data: 'table1',
+                     headers: {
+                                    'X-CSRFToken': getCookie('csrftoken'),
+    								'X-Requested-With': 'XMLHttpRequest'
+                                },
+                     processData: false,
+                     success: function(result)
+                    {
+                        $('#table1').empty();
+                        $('#table1').html(result);
+                    },
+                    complete: function(){
+                    	$.ajax({
+                             type: "POST",
+							 url: "/smurf/ajax/calculate_table",
+							 dataType: 'html',
+							 data: 'table2',
+							 headers: {
+											'X-CSRFToken': getCookie('csrftoken'),
+											'X-Requested-With': 'XMLHttpRequest'
+										},
+							 processData: false,
+							 success: function(result)
+							{
+								$('#table2').empty();
+								$('#table2').html(result);
+							},
+                            complete: function(){
+                      }
+                      });
+                    }
+                });
+                   });
+    </script>
+{% endblock %}
