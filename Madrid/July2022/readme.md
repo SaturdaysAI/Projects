@@ -2,7 +2,7 @@
 
 :) Hi! We are still updating some of the projects... also, bear in mind these repos are an open-source snapshot in the moment of the Demoday, meaning that some of these may continue independently.
 
-+ ***ProfessorX - BCI***
+### + ***ProfessorX - BCI***
 
 ++ Move a drone with your brain waves
 
@@ -12,7 +12,7 @@
 ++ [Repositorio](https://github.com/SaturdaysAI/Projects/tree/master/Madrid/July2022/ProfessorX-BCI)
 
 
-+ ***Deep Fake Detection***
+### + ***Deep Fake Detection***
 
 ++TorchFakes: DeepFake Detection
 
@@ -24,7 +24,7 @@
 [Repositorio](https://github.com/SaturdaysAI/Projects/tree/master/Madrid/July2022/deepfake-detection-main)
 
 
-+ ***Detección Depresión en Redes Sociales***
+### + ***Detección Depresión en Redes Sociales***
 
 
 ![descarga (2)](https://user-images.githubusercontent.com/15841147/192114762-9dc50bbf-7c34-4b33-ad44-5dd4c453c73c.png)
@@ -33,7 +33,7 @@
 
 
 
-+ ***AI Imagining Tales***
+### + ***AI Imagining Tales***
 
 La finalidad de este proyecto es ser capaces de ilustrar cuentos.
 
@@ -43,13 +43,13 @@ La finalidad de este proyecto es ser capaces de ilustrar cuentos.
 ++[Repositorio](https://github.com/SaturdaysAI/Projects/tree/master/Madrid/July2022/AImagining-tales)
 
 
-+ ***SatAI Bicycle Friendly path***
+### + ***SatAI Bicycle Friendly path***
 
 WIP
 
 ++[Repositorio](https://github.com/SaturdaysAI/Projects/tree/master/Madrid/July2022/SatAi_Bicycle)
 
-+ ***Detecting Exoplanets***
+### + ***Detecting Exoplanets***
 
 ++ Usando inteligencia artíficial para encontrar exoplanetas.
 
