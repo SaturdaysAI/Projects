@@ -4,48 +4,56 @@
 
 + ***ProfessorX - BCI***
 
-Move a drone with your brain waves
+++ Move a drone with your brain waves
+
 ![image](https://user-images.githubusercontent.com/15841147/192111776-83500e50-6ec9-48ca-9ce4-bd9316410ea7.png)
 
 
-[Repositorio](https://github.com/SaturdaysAI/Projects/tree/master/Madrid/July2022/ProfessorX-BCI)
+++ [Repositorio](https://github.com/SaturdaysAI/Projects/tree/master/Madrid/July2022/ProfessorX-BCI)
+
 
 + ***Deep Fake Detection***
 
-TorchFakes: DeepFake Detection
+++TorchFakes: DeepFake Detection
 
 ![image](https://user-images.githubusercontent.com/15841147/192111671-673227a6-607f-4d50-b9b0-56d72adff47e.png)
 
-Play with the [Demo](https://huggingface.co/spaces/aaronespasa/deepfake-detection), just enter a picture and see the results!
+++Play with the [Demo](https://huggingface.co/spaces/aaronespasa/deepfake-detection), just enter a picture and see the results!
+
 
 [Repositorio](https://github.com/SaturdaysAI/Projects/tree/master/Madrid/July2022/deepfake-detection-main)
+
 
 + ***Detección Depresión en Redes Sociales***
 
 
+![descarga (2)](https://user-images.githubusercontent.com/15841147/192114762-9dc50bbf-7c34-4b33-ad44-5dd4c453c73c.png)
 
-[Repositorio](https://github.com/SaturdaysAI/Projects/tree/master/Madrid/July2022/Deteccion_Depresion_RRSS_SaturdaysAI-master)
+++[Repositorio](https://github.com/SaturdaysAI/Projects/tree/master/Madrid/July2022/Deteccion_Depresion_RRSS_SaturdaysAI-master)
+
+
 
 + ***AI Imagining Tales***
 
 La finalidad de este proyecto es ser capaces de ilustrar cuentos.
 
-![image](https://user-images.githubusercontent.com/15841147/192111573-9a0220ba-19d4-46a1-8d1e-4d1aa07f73a8.png)
+![image](https://user-images.githubusercontent.com/15841147/192114782-69fc4918-5c3a-4f9b-b5fc-4b0356bd96b9.png)
 
 
-[Repositorio](https://github.com/SaturdaysAI/Projects/tree/master/Madrid/July2022/AImagining-tales)
+++[Repositorio](https://github.com/SaturdaysAI/Projects/tree/master/Madrid/July2022/AImagining-tales)
+
 
 + ***SatAI Bicycle Friendly path***
 
-xxxx
+WIP
 
-[Repositorio](https://github.com/SaturdaysAI/Projects/tree/master/Madrid/July2022/SatAi_Bicycle)
+++[Repositorio](https://github.com/SaturdaysAI/Projects/tree/master/Madrid/July2022/SatAi_Bicycle)
 
 + ***Detecting Exoplanets***
 
-Usando inteligencia artíficial para encontrar exoplanetas.
+++ Usando inteligencia artíficial para encontrar exoplanetas.
 
 ![image](https://user-images.githubusercontent.com/15841147/192111612-707a3bbb-24c9-447a-aed6-5fbc91ec892f.png)
 
 
-[Repositorio](https://github.com/SaturdaysAI/Projects/tree/master/Madrid/July2022/Detecting-exoplanets)
+++ [Repositorio](https://github.com/SaturdaysAI/Projects/tree/master/Madrid/July2022/Detecting-exoplanets)
