@@ -57,3 +57,13 @@ WIP
 
 
 ++ [Repositorio](https://github.com/SaturdaysAI/Projects/tree/master/Madrid/July2022/Detecting-exoplanets)
+
+### +  *** Smurf Busters***
+
++++ Detección de cuentas smurf en el League of Legends
+
+![image](https://user-images.githubusercontent.com/15841147/192114946-fb7b34ec-7b0d-4e0b-a9a7-f255c045f036.png)
+
+++ [Repositorio](https://github.com/SaturdaysAI/Projects/tree/master/Madrid/July2022/smurf-busters)
+
+
