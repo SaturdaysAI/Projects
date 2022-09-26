@@ -2,9 +2,10 @@
 
 <p align="center"><img width="50%" size="50" src="https://do3z7e6uuakno.cloudfront.net/uploads/event/logo/1094417/237bba15b9d332af12d49a484c210d39.png" /></p>
 
-# Clase Graduada Mayo 2022
+## Clase Graduada Mayo 2022
 
-+ [Repositorio](/Mayo2022)
++ [Repositorio](/Mayo2022/readme.md)
+
 
 ## Clase Graduada Julio 2020
 
