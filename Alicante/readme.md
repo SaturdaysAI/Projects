@@ -4,7 +4,7 @@
 
 ## Clase Graduada Mayo 2022
 
-+ [Repositorio](/Mayo2022/readme.md)
++ [Repositorio](https://github.com/SaturdaysAI/Projects/tree/master/Alicante/Mayo2022)
 
 
 ## Clase Graduada Julio 2020
