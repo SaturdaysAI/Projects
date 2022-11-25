@@ -1,0 +1,1 @@
+web: gunicorn --chdir infraccionesgdl/src app:server
