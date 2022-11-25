@@ -19,7 +19,7 @@
 5) Estilos de Aprendizaje - Equipo Verde:
 - [Repository, Presentation and Report](https://github.com/SaturdaysAI/Projects/tree/master/Guadalajara/August2022/estilosdeaprendizaje)
 
-![DemodayDay AI Saturdays Guadalajara 4th Generation](https://user-images.githubusercontent.com/15841147/203998159-4b77d5cd-0528-4519-8208-ec8174c296f9.png)
+![DemodayDay AI Saturdays Guadalajara 4th Generation](https://user-images.githubusercontent.com/15841147/204033447-e9d7eef5-e439-43fb-bb98-f80e6e3ca9f8.png)
 
 
 ---
@@ -27,7 +27,6 @@
 ### [Class of March 2021]([https://github.com/SaturdaysAI/Projects/tree/master/Guadalajara/March2021/readme.md])
 ---
 
-![image](https://user-images.githubusercontent.com/15841147/204033447-e9d7eef5-e439-43fb-bb98-f80e6e3ca9f8.png)
 
 1) Health Bot — Equipo Amarillo:
 - [Repository, Presentation and Report](https://github.com/YellowTeam/Healt-bot-project)
