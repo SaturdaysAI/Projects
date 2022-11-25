@@ -1,0 +1,19 @@
+{% extends 'base.html' %}
+{% load static %}
+
+{% block title %}
+    socialis
+{% endblock title %}
+
+{% block body %}
+    <span><h1>soc</h1><h6>IA</h6><h1>lis</h1></span>
+    <main>
+        {% include 'nav.html' %}
+        
+        <section class="map">
+            {% include 'map.html' %}
+            <img class="rangeBar" src="{% static 'svg/range.svg' %}">
+        </section>
+    </main>
+    <nav><nav>
+{% endblock body %}
