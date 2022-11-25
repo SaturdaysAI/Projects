@@ -1,6 +1,25 @@
 # Projects built during AI Saturdays Guadalajara
 
-### [Class of March 2021](https://github.com/SaturdaysAI/Projects/tree/master/Guadalajara/March2021/readme.md)
+
+### [Class of September 2022](https://github.com/SaturdaysAI/Projects/tree/master/Guadalajara/March2021/readme.md)
+---
+
+1) Health Bot — Equipo Amarillo:
+- [Repository, Presentation and Report](https://github.com/YellowTeam/Healt-bot-project)
+
+2) Bienestar.ai — Equipo Dorado:
+- [Repository, Presentation and Report](https://github.com/macavimavi/bienestar.ai)
+
+3) Healthcare AI Stocks  — Equipo Verde:
+- [Repository, Presentation and Report](https://github.com/jarturoa/Aistocks.git)
+
+4) Emotions Detector - Equipo Rojo:
+- [Repository, Presentation and Report](https://github.com/chacoff/EmotionsDetector)
+
+![DemodayDay AI Saturdays Guadalajara 3rd Generation](March2021/aisaturdaysguadalajara3aedicion_demoday.jpeg)
+
+
+### [Class of March 2021]([https://github.com/SaturdaysAI/Projects/tree/master/Guadalajara/March2021/readme.md](https://media-exp1.licdn.com/dms/image/C5622AQFgw4svt7lFxw/feedshare-shrink_2048_1536/0/1669297478376?e=1672272000&v=beta&t=dthyzcLpfZHsfJLIer95DFcspZg9h_UPeSmWDr6FelU))
 ---
 
 1) Health Bot — Equipo Amarillo:
