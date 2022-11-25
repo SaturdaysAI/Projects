@@ -3,7 +3,7 @@
 ---
 
 1) SocIAlis — Equipo Rosa:
-- [Repository, Presentation and Report](https://github.com/SaturdaysAI/Projects/blob/master/Guadalajara/August2022/socIAlis)
+- [Repository, Presentation and Report](https://github.com/SaturdaysAI/Projects/blob/master/Guadalajara/August2022/SmartSecurity)
 
 2) Infracciones GDL — Equipo Morado:
 - [Repository, Presentation and Report](https://github.com/SaturdaysAI/Projects/tree/master/Guadalajara/August2022/InfraccionesGDL)
