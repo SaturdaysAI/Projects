@@ -16,7 +16,9 @@
 4) Emotions Detector - Equipo Rojo:
 - [Repository, Presentation and Report](https://github.com/chacoff/EmotionsDetector)
 
-![DemodayDay AI Saturdays Guadalajara 4th Generation](![image](https://user-images.githubusercontent.com/15841147/203998159-4b77d5cd-0528-4519-8208-ec8174c296f9.png))
+
+![DemodayDay AI Saturdays Guadalajara 4th Generation]((https://user-images.githubusercontent.com/15841147/203998159-4b77d5cd-0528-4519-8208-ec8174c296f9.png)
+
 
 
 ### [Class of March 2021]([https://github.com/SaturdaysAI/Projects/tree/master/Guadalajara/March2021/readme.md])
