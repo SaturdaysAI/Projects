@@ -13,7 +13,7 @@
 3) Urbalud  — Equipo Azul:
 - [Repository, Presentation and Report](https://github.com/SaturdaysAI/Projects/tree/master/Guadalajara/August2022/Urbalud)
 
-4) Diabetes - Equipo Rojo:
+4) SysvIA - Equipo Rojo:
 - [Repository, Presentation and Report](https://github.com/SaturdaysAI/Projects/tree/master/Guadalajara/August2022/SysvIA)
 
 5) Estilos de Aprendizaje - Equipo Verde:
