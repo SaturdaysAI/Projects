@@ -1,4 +1,0 @@
-# This files specify to the cloud which version of python should run
-
-python-3.10.4
-
