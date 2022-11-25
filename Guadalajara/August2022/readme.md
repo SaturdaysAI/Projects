@@ -12,7 +12,7 @@
 - [Repository, Presentation and Report](https://github.com/SaturdaysAI/Projects/tree/master/Guadalajara/August2022/Urbalud)
 
 4) Diabetes - Equipo Rojo:
-- [Repository, Presentation and Report](https://github.com/SaturdaysAI/Projects/tree/master/Guadalajara/August2022/diabetes)
+- [Repository, Presentation and Report](https://github.com/SaturdaysAI/Projects/tree/master/Guadalajara/August2022/SysvIA)
 
 5) Estilos de Aprendizaje - Equipo Verde:
 - [Repository, Presentation and Report](https://github.com/SaturdaysAI/Projects/tree/master/Guadalajara/August2022/estilosdeaprendizaje)
