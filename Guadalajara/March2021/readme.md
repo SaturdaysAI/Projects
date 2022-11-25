@@ -1,6 +1,6 @@
 ## Class of March 2021 AI Saturdays Guadalajara
 
-
+![image](https://user-images.githubusercontent.com/15841147/204033447-e9d7eef5-e439-43fb-bb98-f80e6e3ca9f8.png)
 
 1) Health Bot — Equipo Amarillo:
 - [Repository, Presentation and Report](https://github.com/YellowTeam/Healt-bot-project)
