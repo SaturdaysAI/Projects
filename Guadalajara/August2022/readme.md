@@ -1,4 +1,4 @@
-## [Class of August 2022]
+## Class of August 2022
 ![DemodayDay AI Saturdays Guadalajara 4th Generation](https://user-images.githubusercontent.com/15841147/203998159-4b77d5cd-0528-4519-8208-ec8174c296f9.png)
 ---
 
