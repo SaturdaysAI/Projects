@@ -27,6 +27,8 @@
 ### [Class of March 2021]([https://github.com/SaturdaysAI/Projects/tree/master/Guadalajara/March2021/readme.md])
 ---
 
+![image](https://user-images.githubusercontent.com/15841147/204033447-e9d7eef5-e439-43fb-bb98-f80e6e3ca9f8.png)
+
 1) Health Bot — Equipo Amarillo:
 - [Repository, Presentation and Report](https://github.com/YellowTeam/Healt-bot-project)
 
@@ -42,7 +44,7 @@
 ![DemodayDay AI Saturdays Guadalajara 3rd Generation](March2021/aisaturdaysguadalajara3aedicion_demoday.jpeg)
 
 
-
+---
 ### [Class of July 2020](https://github.com/SaturdaysAI/Projects/tree/master/Guadalajara/readme.md)
 
 ---
