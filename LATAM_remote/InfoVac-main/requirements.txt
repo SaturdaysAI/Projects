@@ -8,7 +8,7 @@ boto3==1.16.14
 botocore==1.19.14
 bs4==0.0.1
 catalogue==2.0.1
-certifi==2020.6.20
+certifi==2022.12.7
 chardet==3.0.4
 click==7.1.2
 colorama==0.4.3
