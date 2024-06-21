@@ -1,0 +1,16 @@
+#works by low_value, high_value, step, extra_param
+# if extra_param is log, step is skipped
+# still not best iterations but honestly getting harder to parse each time
+
+patience_validation: 0, 3, 1
+patience_plateau: 0. 3, 1
+delta_min: 0, 0.1, 1, log
+batch_size: 10, 50, 10
+split_size: 0.7, 0.8 , 0.05
+max_loss_reset: 1, 9, 2
+learning_rate: 0.00001, 0.001, 1, log
+weight_decay: 0.01, 0.1, 1, log
+first_conv_outchann: 6, 12, 2 
+second_conv_outchann: 16, 24, 4
+fclayer1: 120, 210, 30
+fclayer2: 0, 150, 30
