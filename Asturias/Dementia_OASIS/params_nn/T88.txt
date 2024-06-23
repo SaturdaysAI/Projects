@@ -1,0 +1,21 @@
+#this is a comment
+image_type:T88_111 #Type of MRI measurement  (FSL_SEG, T88_111,RAW, etc.) 
+image_number:1 #number of measurement (1 for everything except RAW), RAW 1-3
+patience_validation:0 #how long does it wait if validation los doesn't decrease
+patience_plateau:1 #how many times it runs the NN to get out of local minima (uses patience validation)
+delta_min:0.1 #minimal validation loss change
+batch_size:30 #number of ids to train simultaneously (don't increase or decrease too much) parameters ara minimized each batch
+split_size:0.8 # 80% of data to train, 3/4 of left to test, 1/4 of left to validation
+#
+#
+max_loss_reset:1 #if NN running loss doesn't decrease past this level, it resets all weights of layers and runs it again
+learning_rate:0.001 #learning rate of the NN, should be around 1E-4 - 1E-5
+weight_decay:0.013 #decreases weigths of previous training runs, (forgets the previous batches, good for getting out of local minima)
+first_conv_outchann:12 # number of channels outputting from the first convolutional layer (transformations)
+second_conv_outchann:20 # number of channels outputting from the secondconvolutional layer (transformations)
+fclayer1:180 #number of neurons in the first linear fully connected layer (the basic NN)
+fclayer2:30 # If not None applies an extra relu function to increase nonlinearity
+criterion_type:BCElogitsloss # BCElogitsloss is the probability outputting criterion, CrossEntropyLoss is the categories (0 or 1) outputting criterion
+#Changes some neural network architecture and also might give different results. CrossEntropy kept for backwards compatibility
+optimizer:Adam #The optimizer to use, does nothing right now
+verbosity:1 #verbosity level. = 0 only prints basic info in NN, 1 prints losses related info, 2 prints shapes of tensors and most info 
