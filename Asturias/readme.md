@@ -22,4 +22,4 @@ Projects built during AI Saturdays Asturias
 
 <b>5) Grupo 5</b> 
 - <b>Tema:</b> Natural Language Processing (NLP) para detectar estrés y emociones asociadas en un tweet.
-- <b>[Repositorio](https://github.com/SaturdaysAI/Projects/tree/master/Asturias/Aplicaciones_del_ML_al_estudio_de_la_met%C3%A1stasis_cerebral)</b>
+- <b>[Repositorio](https://github.com/SaturdaysAI/Projects/tree/master/Asturias/Natural_Language_Processing_(NLP)_para_detectar_estr%C3%A9s_y_emociones_asociadas_en_un_tweet)</b>
