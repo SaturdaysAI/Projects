@@ -1,0 +1,130 @@
+---
+title: "MDS and Linear Regression Sentiment Analysis"
+author: "Alejandro Morís Lara"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+# Librerías
+
+```{r}
+paquetes <- c("ggfortify", "ggplot2", "lmtest", "magrittr", "readxl", "tseries","GGally","corrplot")
+
+#install.packages(paquetes)
+if (!require("pacman")) install.packages("pacman")
+library(ggfortify)
+library(ggplot2)
+library(lmtest)
+library(magrittr)
+library(readxl)
+library(tseries)
+library(janitor)
+library(GGally)
+library(corrplot)
+library(car)
+library(readr)
+pacman::p_load(tidyverse,skimr,readxl,mice, visdat,
+               outliers, janitor)
+```
+
+# Ficheros
+
+```{r message=FALSE, warning=FALSE, paged.print=FALSE}
+biasdf_regression_1_ <- read_csv("C:/Users/Alejandro Morís Lara/Desktop/SATURDAYS AI DL/Linear Regression/biasdf_regression (1).csv")
+X_regression <- read_csv("C:/Users/Alejandro Morís Lara/Desktop/SATURDAYS AI DL/Linear Regression/X_regression.csv")
+y_regression <- read_csv("C:/Users/Alejandro Morís Lara/Desktop/SATURDAYS AI DL/Linear Regression/y_regression.csv")
+```
+
+# Modelo lineal 
+
+```{r}
+df = cbind(X_regression,y_regression)
+ggpairs(df)
+```
+
+```{r}
+df = cbind(X_regression,y_regression)
+fit <- lm(AverageSourceCategory ~.-1 , data = df)
+summary(fit)
+```
+
+```{r}
+autoplot(fit)
+jarque.bera.test(fit$residuals)
+dwtest(fit, alternative = "two.sided")
+bptest(fit, studentize=FALSE)
+mean(fit$residuals)
+```
+
+# Multidimensional Scaling(MDS)
+
+## Transformaciones
+
+```{r}
+bias = as.data.frame(na.fill(biasdf_regression_1_,0.0001))
+bias[, -1] <- lapply(bias[, -1], as.numeric)
+trans <- as.data.frame(t(bias))
+colnames(trans) <- bias$category
+trans <- trans[-1, ]  # Eliminar la fila 1 de trans si es necesario
+```
+
+## Correlación de Spearman entre el sesgo de Periódicos
+
+```{r}
+SpD<-cor(bias[,-1],method = 'spearman',use='complete.obs') 
+DD<-1-SpD 
+pheatmap(DD) 
+```
+
+## MDS no métrico
+
+```{r}
+mds2 <- trans %>%
+  dist() %>%
+  isoMDS() %>%
+  .$points %>%
+  as_tibble()
+
+colnames(mds2) <- c("dim_1", "dim_2")
+# Plot MDS
+ggscatter(mds2, x = "dim_1", y = "dim_2", 
+          label = rownames(trans),
+          size = 1,
+          repel = TRUE)
+```
+
+### Bondad de ajuste
+
+```{r}
+mdsnometrico <- trans %>%
+  dist() %>%
+  isoMDS()
+mdsC_nmp = as.tibble(mdsnometrico$points)
+mdsnometrico$stress
+
+max(abs(dist(trans)- dist(mdsC_nmp))) 
+```
+
+## MDS métrico
+
+```{r}
+mdsMetrico = cmdscale(trans %>%
+  dist() ,eig=TRUE)
+mds1 <- trans %>%
+  dist() %>%
+  cmdscale() %>%
+  as_tibble()
+colnames(mds1) <- c("dim_1", "dim_2")
+ggscatter(mds1, x = "dim_1", y = "dim_2", 
+          label = rownames(trans),
+          size = 1,
+          repel = TRUE)
+```
+
+### Bondad de Ajuste
+
+```{r}
+X_eigen <- mdsMetrico$eig # autovalores
+cumsum(abs(X_eigen)) / sum(abs(X_eigen)) # Criterio 1 (bueno si >0.8)
+cumsum(X_eigen^2) / sum(X_eigen^2) # Criterio 2 (bueno si >0.8)
+```
