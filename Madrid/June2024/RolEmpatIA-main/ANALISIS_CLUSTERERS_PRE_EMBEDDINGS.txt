@@ -1,0 +1,70 @@
+Cluster 0 - Palabras más comunes: [('bosque', 18), ('consejo', 13), ('bien', 11), ('negro', 11), ('ahora', 8), ('tiempo', 8), ('aqui', 8), ('dice', 8), ('siempre', 7), ('guerra', 7)]
+Cluster 0 - Sentimiento promedio: -0.052556818181818184
+Temas identificados: {'estrategia': 1, 'familia': 1, 'hogar': 1, ' 'disciplina': 1}
+El que habla, se comunica, da consejos, es más privado con sigo mismo, que se oculta en lo oscuro o negro, que necesita tener el tiempo muy presente. Estratega, disciplinado que tiene muy presente la guerra.  
+PERFIL DISC: Muy Sereno, y algo Cumplidor y Dominante. 
+
+
+Cluster 1 - Palabras más comunes: [('bien', 10), ('gente', 8), ('camino', 7), ('lugar', 7), ('alli', 7), ('ahora', 6), ('aqui', 6), ('momento', 5), ('ser', 5), ('sino', 5)]
+Cluster 1 - Sentimiento promedio: -0.024242424242424242
+Temas identificados: {'estrategia': 1, 'familia': 1, 'hogar': 2}
+Explorador, viajero, aventurero que el camino lo vive en el ahora. Valora mucho el ahora, el ser, el destino, el bien y la gente. Alto sentimiento de hogar. 
+DISC: Muy sereno y algo complidor.
+"En la penumbra del bosque, el estratega silencioso teje consejos entre sombras, guiando con discreción hacia la victoria en la guerra."
+
+Cluster 2 - Palabras más comunes: [('consejo', 11), ('parece', 8), ('solo', 7), ('seguro', 6), ('parte', 6), ('bien', 6), ('aqui', 6), ('pequeno', 6), ('resto', 5), ('vida', 5)]
+Cluster 2 - Sentimiento promedio: -0.0025974025974025983
+Temas identificados: {'combate': 2,  'disciplina': 1}
+Es alguien que da consejos y que busca seguridad y tranquilidad. Parece ser una persona que valora la vida y la seguridad.
+DISC: Muy dominante y algo cumplidor.
+"En el camino de la vida, el viajero del ahora encuentra en cada paso una nueva aventura, valorando el presente y la compañía de aquellos que encuentra en su trayecto."
+
+Cluster 3 - Palabras más comunes: [('lugar', 9), ('enanos', 8), ('bien', 7), ('hueste', 7), ('guerra', 6), ('despues', 6), ('justa', 6), ('principe', 6), ('mejor', 6), ('parece', 6)]
+Cluster 3 - Sentimiento promedio: 0.0
+Temas identificados: {'aventura': 1, 'familia': 1, 'disciplina': 1, 'responsabilidad': 1}
+Está relacionado con batallas o conflictos, con un enfoque en la justicia y la mejora. Es neutral en cuanto a sentimiento. Diplomático
+DISC:Equilibrado entre Sereno y cumplidor.
+"En la seguridad de su consejo, el protector solitario ofrece palabras de sabiduría, buscando la calma en medio del caos y valorando cada pequeño momento de vida."
+
+Cluster 4 - Palabras más comunes: [('bosque', 7), ('hueste', 6), ('enanos', 5), ('justa', 5), ('intento', 5), ('solo', 5), ('tiempo', 4), ('parece', 4), ('templo', 4), ('buena', 4)]
+Cluster 4 - Sentimiento promedio: 0.026442307692307692
+Temas identificados: { 'hogar': 1, 'disciplina': 1}
+Alguien relacionado con la defensa o la protección, con un enfoque en la acción y la mejora. Tiene un ligero sesgo positivo en el sentimiento.
+DISC: Equilibrado entre Sereno y Cumplidor.
+"Entre los árboles del bosque, el guardián valiente protege con firmeza la justicia y el honor, defendiendo con valentía su hogar y su familia."
+
+Cluster 5 - Palabras más comunes: [('gnoma', 7), ('enano', 7), ('egipto', 7), ('bien', 6), ('tiempo', 6), ('puede', 5), ('verdad', 5), ('caso', 5), ('mejor', 5), ('santa', 4)]
+Cluster 5 - Sentimiento promedio: -0.05135135135135135
+Temas identificados: {'familia': 1 }
+Está relacionado con la exploración o la investigación, con un enfoque en la verdad y la mejora. Tiene un sesgo negativo en el sentimiento.
+DISC: Únicamente sereno
+"En la búsqueda de la verdad, el investigador incansable explora los misterios del tiempo y la historia, desafiando los obstáculos con determinación y curiosidad."
+
+Cluster 6 - Palabras más comunes: [('tiempo', 5), ('arriba', 5), ('igual', 4), ('lugar', 4), ('companeros', 4), ('despues', 4), ('seria', 4), ('elfo', 4), ('abajo', 4), ('enano', 3)]
+Cluster 6 - Sentimiento promedio: 0.026000000000000002
+Temas identificados: {'estrategia': 1, 'familia': 1}
+Es alguien que valora la igualdad y la cooperación, con un enfoque en la acción y la mejora. Tiene un ligero sesgo positivo en el sentimiento. 
+DISC:Equilibrado entre Dominante y Cumplidor.
+"En la igualdad de la comunidad, el colaborador comprometido trabaja codo a codo con sus compañeros, construyendo un futuro mejor con paciencia y solidaridad."
+
+Cluster 7 - Palabras más comunes: [('bosque', 7), ('bien', 6), ('palabras', 6), ('gran', 5), ('ahora', 5), ('hacer', 5), ('pueda', 5), ('consejo', 4), ('seguro', 4), ('gracias', 4)]
+Cluster 7 - Sentimiento promedio: -0.0296875
+Temas identificados: {'estrategia': 2, 'influencia': 1, 'hogar': 1}
+Es alguien que habla mucho y valora la acción y la gratitud. Tiene un ligero sesgo negativo en el sentimiento.
+DISC: Muy Dominante, algo Influyente y Sereno.
+"En la charla constante, el comunicador elocuente comparte palabras de gratitud y acción, inspirando con su energía y generosidad."
+
+Cluster 8 - Palabras más comunes: [('solo', 11), ('puede', 9), ('consejo', 9), ('principe', 7), ('cierta', 7), ('rey', 7), ('guerra', 6), ('hablar', 6), ('sabueso', 6), ('bosque', 6)]
+Cluster 8 - Sentimiento promedio: -0.010606060606060608
+Temas identificados: {'estrategia': 2, 'competencia': 1, 'influencia': 3, 'aventura': 1,  'hogar': 1}
+Es alguien que se enfrenta a desafíos o conflictos, con un enfoque en la acción y la mejora. Tiene un ligero sesgo negativo en el sentimiento.
+DISC:Muy Influyente, bastante dominante, y algo sereno.
+"En la competencia eterna, el líder audaz enfrenta desafíos con valentía y visión, buscando la victoria con astucia y determinación."
+ 
+Cluster 9 - Palabras más comunes: [('bosque', 9), ('arbol', 8), ('principe', 7), ('bien', 7), ('gnoma', 6), ('lugar', 6), ('miro', 5), ('quiza', 5), ('mirada', 5), ('parece', 5)]
+Cluster 9 - Sentimiento promedio: -0.044444444444444446
+Temas identificados: {'combate': 1, 'estrategia': 2, 'aventura': 2,  'hogar': 2, 'disciplina': 2}
+Es alguien que observa mucho y valora la exploración y la posibilidad. Tiene un sesgo negativo en el sentimiento.
+DISC:Bastante Sereno, cumplidor y dominante. 
+"En la mirada al futuro, el soñador sereno contempla posibilidades infinitas, explorando nuevos horizontes con tranquilidad y perspicacia."
+
