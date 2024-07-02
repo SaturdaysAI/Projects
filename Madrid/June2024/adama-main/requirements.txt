@@ -1,0 +1,7 @@
+streamlit
+pandas
+scikit-learn==1.2.1
+altair
+seaborn
+xgboost==2.0.3
+xlrd

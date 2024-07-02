@@ -1,0 +1,23 @@
+Datos meteorológicos: se han utilizado datos horarios recogidos desde el año 2019 hasta 2024 procedente del portal de datos abiertos de Madrid (1).  
+- Velocidad del viento
+- Dirección del viento
+- Temperatura
+- Humedad relativa
+- Presión Barométrica
+- Precipitación
+
+Polución del aire: (2): los datos de contaminación atmosférica han sido medidos automáticamente en las estaciones de medición de diferentes puntos de la Comunidad de Madrid. La calidad del aire se encuentre influenciada por la presencia en el aire de los siguientes materiales contaminantes: 
+- CO: El monóxido de carbono es un gas inodoro, incoloro y tóxico que se genera como producto de los dispositivos de combustión. En consecuencia, se encuentra en niveles elevados en lugares y horas del día con alto tráfico. Respirar niveles altos de CO puede causar daños permanentes del corazón y el cerebro. 
+- NO: el monóxido de carbono es un compuesto químico originado por la combustión incompleta de carburantes fósiles y de biocombustibles. 
+- NO2: El dióxido de nitrógeno es una sustancia química emitida en los motores de combustión, especialmente de diésel. Su exposición se encuentra asociada con enfermedades respiratorias crónicas y al envejecimiento prematuro de los pulmones. 
+- NOX:  Los óxidos de nitrógeno (NOx) son una mezcla de gases compuestos por monóxido de nitrógeno (NO) y dióxido de nitrógeno (NO2). Estos gases son producidos principalmente por la combustión de combustibles fósiles en vehículos y plantas industriales.
+- Partículas por millón 2.5 (PM2,5): las partículas en suspensión son una mezcla de sustancias químicas orgánicas, polvo, hollín y metales. Estas partículas, como su nombre lo indica, tienen un diámetro de 2,5 micras, por lo que resultan más finas que un cabello humano, lo que implica que pueden pasar al torrente sanguíneo a través de la respiración pudiendo provocar enfermedades respiratorias y cardiovasculares. 
+- Partículas por millón 10: son partículas en suspensión con un diámetro menor de 10 micras. Al igual que las PM2.5, las PM10 son una mezcla de polvo, hollín, metales y sustancias químicas orgánicas. Estas partículas pueden ser inhaladas profundamente en los pulmones y están asociadas con enfermedades respiratorias y cardiovasculares, aunque no penetran tan profundamente en el sistema respiratorio como las PM2.5.
+
+Intensidad de tráfico:(3)
+- Intensidad de tráfico:se han tomado datos referentes a la intensidad de tráfico medida en vehículos/hora en diferentes puntos de Madrid. Estos datos también han sido extraídos sobre el repositorio abierto de información que pone a disposición el Ayuntamiento de Madrid.
+
+Festividades comunidad de Madrid:(4)
+- Días festivos comunidad de Madrid: se ha extraído un calendario de festividades de la Comunidad de Madrid desde el año 2019 a la actualidad. 
+
+La extracción de los datos se ha realizado de forma manual directamente desde la página del Ayuntamiento de Madrid para el caso de los datos de polución y festividades. Para el caso de los datos de polución e intensidad de tráfico fue necesario aplicar técnicas de Web Scrapping dado que los datos venían de forma mensual y por lo tanto la extracción manual se volvía costosa.
