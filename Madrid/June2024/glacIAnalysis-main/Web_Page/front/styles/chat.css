@@ -1,0 +1,21 @@
+#chat-input, #response {
+          padding: 10px;
+          display: flex;
+          align-items: center;
+          margin: 0 auto;
+          max-width: 405px;
+          border-radius: 10px;
+}
+
+.microphone-button {
+          margin-left: 10px;
+          cursor: pointer;
+}
+
+#response {
+          text-align: left;
+}
+
+#microphoneButton {
+          margin-left: 0px;
+}

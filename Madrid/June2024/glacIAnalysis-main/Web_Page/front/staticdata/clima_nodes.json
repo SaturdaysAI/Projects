@@ -1,0 +1,22 @@
+[
+    {
+        "valor": "CO2 emitido",
+        "importancia": 46.7,
+        "color": "#152750"
+    }, 
+    {
+        "valor": "Temperatura global",
+        "importancia": 50.2,
+        "color": "#28496e"
+    },
+    {
+          "valor": "CO2 concentración",
+          "importancia": 51.2,
+          "color": "#00909e"
+    },
+    {
+          "valor": "Desastres relacionados con el clima",
+          "importancia": 50.2,
+          "color": "#dae1e7"
+      }
+]

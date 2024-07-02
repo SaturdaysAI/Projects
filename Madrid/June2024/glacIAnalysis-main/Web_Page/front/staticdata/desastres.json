@@ -1,0 +1,69 @@
+﻿[
+          {
+              "key_as_string": "2008",
+              "key": 1199145600000,
+              "doc_count": 1,
+              "value": 222
+          },
+          {
+              "key_as_string": "2009",
+              "key": 1230768000000,
+              "doc_count": 1,
+              "value": 262
+          },
+          {
+              "key_as_string": "2010",
+              "key": 1262304000000,
+              "doc_count": 1,
+              "value": 355
+          },
+          {
+              "key_as_string": "2011",
+              "key": 1293840000000,
+              "doc_count": 1,
+              "value": 295
+          },
+          {
+              "key_as_string": "2012",
+              "key": 1325376000000,
+              "doc_count": 1,
+              "value": 212
+          },
+          {
+              "key_as_string": "2013",
+              "key": 1356998400000,
+              "doc_count": 1,
+              "value": 644
+          },
+          {
+              "key_as_string": "2014",
+              "key": 1388534400000,
+              "doc_count": 1,
+              "value": 696
+          },
+          {
+              "key_as_string": "2015",
+              "key": 1420070400000,
+              "doc_count": 1,
+              "value": 600
+          },
+          {
+              "key_as_string": "2016",
+              "key": 1451606400000,
+              "doc_count": 1,
+              "value": 594
+          },
+          {
+              "key_as_string": "2017",
+              "key": 1483228800000,
+              "doc_count": 1,
+              "value": 941
+          },
+          {
+              "key_as_string": "2018",
+              "key": 1514764800000,
+              "doc_count": 1,
+              "value": 1615
+          }
+      ]
+      

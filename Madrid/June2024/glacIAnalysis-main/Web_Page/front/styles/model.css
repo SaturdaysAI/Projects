@@ -1,0 +1,21 @@
+.model_viewer {
+          /* Ancho de tu div */
+          /* Alto de tu div */
+          width: 100%;
+          /* Color de fondo (puedes cambiarlo) */
+          text-align: center;
+          /* Centra el contenido horizontalmente */
+          line-height: 200px;
+          /* Centra el contenido verticalmente */
+          background-color: #10496a;
+}
+.glaciar {
+          overflow: hidden;
+}
+#modelViewerBig {
+          height: 500px;
+          max-width: 1000px;
+          margin: 0 auto;
+          border: 1px solid rgb(255, 255, 255);
+          border-radius: 30px;
+}

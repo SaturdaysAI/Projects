@@ -1,0 +1,39 @@
+[
+  {
+    "source": "CO2 emitido",
+    "target": "Temperatura global"
+  }, {
+    "source": "CO2 emitido",
+    "target": "Desastres relacionados con el clima"
+  }, {
+    "source": "CO2 emitido",
+    "target": "CO2 concentración"
+  }, {
+    "source": "CO2 concentración",
+    "target": "Temperatura global"
+  }, {
+    "source": "CO2 concentración",
+    "target": "Desastres relacionados con el clima"
+  }, {
+    "source": "CO2 concentración",
+    "target": "CO2 emitido"
+  }, {
+    "source": "Temperatura global",
+    "target": "CO2 emitido"
+  }, {
+    "source": "Temperatura global",
+    "target": "Desastres relacionados con el clima"
+  }, {
+    "source": "Temperatura global",
+    "target": "CO2 concentración"
+  }, {
+    "source": "Desastres relacionados con el clima",
+    "target": "CO2 emitido"
+  }, {
+    "source": "Desastres relacionados con el clima",
+    "target": "Temperatura global"
+  }, {
+    "source": "Desastres relacionados con el clima",
+    "target": "CO2 concentración"
+  }
+]

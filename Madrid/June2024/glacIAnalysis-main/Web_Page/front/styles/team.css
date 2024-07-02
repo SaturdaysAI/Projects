@@ -1,0 +1,14 @@
+.column {
+          flex: 1 0 20%; /* Cada columna ocupa el 20% del contenedor */
+          padding: 10px;
+}
+a {
+          color: white!important;
+}
+
+@media screen and (max-width: 768px){
+          .column {
+                    flex: 1 0 100%; /* Cada columna ocupa el 100% del contenedor */
+          }
+          
+}

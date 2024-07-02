@@ -1,0 +1,537 @@
+﻿{
+    "Url": "www.epdata.es/evolucion-emisiones-co2-mundo/8a003cc7-fe0b-4740-82e7-5aba738b8c09",
+    "Respuesta": {
+        "Id": "8a003cc7-fe0b-4740-82e7-5aba738b8c09",
+        "Url": "www.epdata.es/evolucion-emisiones-co2-mundo/8a003cc7-fe0b-4740-82e7-5aba738b8c09",
+        "Titulo": "Evolución de las emisiones de CO2 en el mundo",
+        "Subtitulo": "",
+        "Datos": {
+            "Metricas": [
+                {
+                    "Id": 0,
+                    "Nombre": "CO2",
+                    "SonDatosNumericos": true,
+                    "Fuente": "Global Carbon Project",
+                    "Clasificacion": null,
+                    "Unidad": "Toneladas de CO2",
+                    "Escala": "Miles de millones",
+                    "EscalaFactorPotencia10": 9,
+                    "Datos": [
+                        {
+                            "Agno": 1959,
+                            "Periodo": "Año",
+                            "Parametro": "1959",
+                            "Valor": 15.9,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 1960,
+                            "Periodo": "Año",
+                            "Parametro": "1960",
+                            "Valor": 15.9,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 1961,
+                            "Periodo": "Año",
+                            "Parametro": "1961",
+                            "Valor": 15.5,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 1962,
+                            "Periodo": "Año",
+                            "Parametro": "1962",
+                            "Valor": 15.6,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 1963,
+                            "Periodo": "Año",
+                            "Parametro": "1963",
+                            "Valor": 15.9,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 1964,
+                            "Periodo": "Año",
+                            "Parametro": "1964",
+                            "Valor": 16.2,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 1965,
+                            "Periodo": "Año",
+                            "Parametro": "1965",
+                            "Valor": 16.3,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 1966,
+                            "Periodo": "Año",
+                            "Parametro": "1966",
+                            "Valor": 16.6,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 1967,
+                            "Periodo": "Año",
+                            "Parametro": "1967",
+                            "Valor": 17.1,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 1968,
+                            "Periodo": "Año",
+                            "Parametro": "1968",
+                            "Valor": 17.8,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 1969,
+                            "Periodo": "Año",
+                            "Parametro": "1969",
+                            "Valor": 18.3,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 1970,
+                            "Periodo": "Año",
+                            "Parametro": "1970",
+                            "Valor": 19.4,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 1971,
+                            "Periodo": "Año",
+                            "Parametro": "1971",
+                            "Valor": 20,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 1972,
+                            "Periodo": "Año",
+                            "Parametro": "1972",
+                            "Valor": 20.7,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 1973,
+                            "Periodo": "Año",
+                            "Parametro": "1973",
+                            "Valor": 21.4,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 1974,
+                            "Periodo": "Año",
+                            "Parametro": "1974",
+                            "Valor": 21.2,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 1975,
+                            "Periodo": "Año",
+                            "Parametro": "1975",
+                            "Valor": 21.3,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 1976,
+                            "Periodo": "Año",
+                            "Parametro": "1976",
+                            "Valor": 22.2,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 1977,
+                            "Periodo": "Año",
+                            "Parametro": "1977",
+                            "Valor": 22.8,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 1978,
+                            "Periodo": "Año",
+                            "Parametro": "1978",
+                            "Valor": 23.1,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 1979,
+                            "Periodo": "Año",
+                            "Parametro": "1979",
+                            "Valor": 23.5,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 1980,
+                            "Periodo": "Año",
+                            "Parametro": "1980",
+                            "Valor": 23.4,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 1981,
+                            "Periodo": "Año",
+                            "Parametro": "1981",
+                            "Valor": 23.3,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 1982,
+                            "Periodo": "Año",
+                            "Parametro": "1982",
+                            "Valor": 23.1,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 1983,
+                            "Periodo": "Año",
+                            "Parametro": "1983",
+                            "Valor": 23.6,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 1984,
+                            "Periodo": "Año",
+                            "Parametro": "1984",
+                            "Valor": 24.8,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 1985,
+                            "Periodo": "Año",
+                            "Parametro": "1985",
+                            "Valor": 25.2,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 1986,
+                            "Periodo": "Año",
+                            "Parametro": "1986",
+                            "Valor": 25.6,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 1987,
+                            "Periodo": "Año",
+                            "Parametro": "1987",
+                            "Valor": 26.2,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 1988,
+                            "Periodo": "Año",
+                            "Parametro": "1988",
+                            "Valor": 27,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 1989,
+                            "Periodo": "Año",
+                            "Parametro": "1989",
+                            "Valor": 27.1,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 1990,
+                            "Periodo": "Año",
+                            "Parametro": "1990",
+                            "Valor": 27.4,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 1991,
+                            "Periodo": "Año",
+                            "Parametro": "1991",
+                            "Valor": 27.8,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 1992,
+                            "Periodo": "Año",
+                            "Parametro": "1992",
+                            "Valor": 27.2,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 1993,
+                            "Periodo": "Año",
+                            "Parametro": "1993",
+                            "Valor": 27.4,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 1994,
+                            "Periodo": "Año",
+                            "Parametro": "1994",
+                            "Valor": 28,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 1995,
+                            "Periodo": "Año",
+                            "Parametro": "1995",
+                            "Valor": 28.5,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 1996,
+                            "Periodo": "Año",
+                            "Parametro": "1996",
+                            "Valor": 29.2,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 1997,
+                            "Periodo": "Año",
+                            "Parametro": "1997",
+                            "Valor": 31.1,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 1998,
+                            "Periodo": "Año",
+                            "Parametro": "1998",
+                            "Valor": 29.4,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 1999,
+                            "Periodo": "Año",
+                            "Parametro": "1999",
+                            "Valor": 29.9,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2000,
+                            "Periodo": "Año",
+                            "Parametro": "2000",
+                            "Valor": 30.3,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2001,
+                            "Periodo": "Año",
+                            "Parametro": "2001",
+                            "Valor": 30.1,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2002,
+                            "Periodo": "Año",
+                            "Parametro": "2002",
+                            "Valor": 31.1,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2003,
+                            "Periodo": "Año",
+                            "Parametro": "2003",
+                            "Valor": 32.9,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2004,
+                            "Periodo": "Año",
+                            "Parametro": "2004",
+                            "Valor": 33.6,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2005,
+                            "Periodo": "Año",
+                            "Parametro": "2005",
+                            "Valor": 33.9,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2006,
+                            "Periodo": "Año",
+                            "Parametro": "2006",
+                            "Valor": 35.2,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2007,
+                            "Periodo": "Año",
+                            "Parametro": "2007",
+                            "Valor": 35.4,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2008,
+                            "Periodo": "Año",
+                            "Parametro": "2008",
+                            "Valor": 36.2,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2009,
+                            "Periodo": "Año",
+                            "Parametro": "2009",
+                            "Valor": 36.1,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2010,
+                            "Periodo": "Año",
+                            "Parametro": "2010",
+                            "Valor": 37.6,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2011,
+                            "Periodo": "Año",
+                            "Parametro": "2011",
+                            "Valor": 38.8,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2012,
+                            "Periodo": "Año",
+                            "Parametro": "2012",
+                            "Valor": 39.2,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2013,
+                            "Periodo": "Año",
+                            "Parametro": "2013",
+                            "Valor": 39.3,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2014,
+                            "Periodo": "Año",
+                            "Parametro": "2014",
+                            "Valor": 39.8,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2015,
+                            "Periodo": "Año",
+                            "Parametro": "2015",
+                            "Valor": 40.2,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2016,
+                            "Periodo": "Año",
+                            "Parametro": "2016",
+                            "Valor": 39.3,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2017,
+                            "Periodo": "Año",
+                            "Parametro": "2017",
+                            "Valor": 39.7,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2018,
+                            "Periodo": "Año",
+                            "Parametro": "2018",
+                            "Valor": 40.2,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2019,
+                            "Periodo": "Año",
+                            "Parametro": "2019",
+                            "Valor": 40.9,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2020,
+                            "Periodo": "Año",
+                            "Parametro": "2020",
+                            "Valor": 38.5,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2021,
+                            "Periodo": "Año",
+                            "Parametro": "2021",
+                            "Valor": 40.2,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2022,
+                            "Periodo": "Año",
+                            "Parametro": "2022",
+                            "Valor": 40.5,
+                            "Estado": null,
+                            "Notas": null
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

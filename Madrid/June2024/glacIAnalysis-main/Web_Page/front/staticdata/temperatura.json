@@ -1,0 +1,507 @@
+﻿[
+          {
+              "key_as_string": "1940",
+              "key": -946771200000,
+              "doc_count": 1,
+              "value": 0.19
+          },
+          {
+              "key_as_string": "1941",
+              "key": -915148800000,
+              "doc_count": 1,
+              "value": 0.24
+          },
+          {
+              "key_as_string": "1942",
+              "key": -883612800000,
+              "doc_count": 1,
+              "value": 0.15
+          },
+          {
+              "key_as_string": "1943",
+              "key": -852076800000,
+              "doc_count": 1,
+              "value": 0.15
+          },
+          {
+              "key_as_string": "1944",
+              "key": -820540800000,
+              "doc_count": 1,
+              "value": 0.35
+          },
+          {
+              "key_as_string": "1945",
+              "key": -788918400000,
+              "doc_count": 1,
+              "value": 0.21
+          },
+          {
+              "key_as_string": "1946",
+              "key": -757382400000,
+              "doc_count": 1,
+              "value": 0.21
+          },
+          {
+              "key_as_string": "1947",
+              "key": -725846400000,
+              "doc_count": 1,
+              "value": 0.25
+          },
+          {
+              "key_as_string": "1948",
+              "key": -694310400000,
+              "doc_count": 1,
+              "value": 0.19
+          },
+          {
+              "key_as_string": "1949",
+              "key": -662688000000,
+              "doc_count": 1,
+              "value": 0.23
+          },
+          {
+              "key_as_string": "1950",
+              "key": -631152000000,
+              "doc_count": 1,
+              "value": 0.11
+          },
+          {
+              "key_as_string": "1951",
+              "key": -599616000000,
+              "doc_count": 1,
+              "value": 0.25
+          },
+          {
+              "key_as_string": "1952",
+              "key": -568080000000,
+              "doc_count": 1,
+              "value": 0.23
+          },
+          {
+              "key_as_string": "1953",
+              "key": -536457600000,
+              "doc_count": 1,
+              "value": 0.31
+          },
+          {
+              "key_as_string": "1954",
+              "key": -504921600000,
+              "doc_count": 1,
+              "value": 0.11
+          },
+          {
+              "key_as_string": "1955",
+              "key": -473385600000,
+              "doc_count": 1,
+              "value": 0.09
+          },
+          {
+              "key_as_string": "1956",
+              "key": -441849600000,
+              "doc_count": 1,
+              "value": 0.03
+          },
+          {
+              "key_as_string": "1957",
+              "key": -410227200000,
+              "doc_count": 1,
+              "value": 0.28
+          },
+          {
+              "key_as_string": "1958",
+              "key": -378691200000,
+              "doc_count": 1,
+              "value": 0.35
+          },
+          {
+              "key_as_string": "1959",
+              "key": -347155200000,
+              "doc_count": 1,
+              "value": 0.31
+          },
+          {
+              "key_as_string": "1960",
+              "key": -315619200000,
+              "doc_count": 1,
+              "value": 0.27
+          },
+          {
+              "key_as_string": "1961",
+              "key": -283996800000,
+              "doc_count": 1,
+              "value": 0.34
+          },
+          {
+              "key_as_string": "1962",
+              "key": -252460800000,
+              "doc_count": 1,
+              "value": 0.28
+          },
+          {
+              "key_as_string": "1963",
+              "key": -220924800000,
+              "doc_count": 1,
+              "value": 0.32
+          },
+          {
+              "key_as_string": "1964",
+              "key": -189388800000,
+              "doc_count": 1,
+              "value": 0.11
+          },
+          {
+              "key_as_string": "1965",
+              "key": -157766400000,
+              "doc_count": 1,
+              "value": 0.17
+          },
+          {
+              "key_as_string": "1966",
+              "key": -126230400000,
+              "doc_count": 1,
+              "value": 0.25
+          },
+          {
+              "key_as_string": "1967",
+              "key": -94694400000,
+              "doc_count": 1,
+              "value": 0.26
+          },
+          {
+              "key_as_string": "1968",
+              "key": -63158400000,
+              "doc_count": 1,
+              "value": 0.20
+          },
+          {
+              "key_as_string": "1969",
+              "key": -31536000000,
+              "doc_count": 1,
+              "value": 0.33
+          },
+          {
+              "key_as_string": "1970",
+              "key": 0,
+              "doc_count": 1,
+              "value": 0.30
+          },
+          {
+              "key_as_string": "1971",
+              "key": 31536000000,
+              "doc_count": 1,
+              "value": 0.15
+          },
+          {
+              "key_as_string": "1972",
+              "key": 63072000000,
+              "doc_count": 1,
+              "value": 0.29
+          },
+          {
+              "key_as_string": "1973",
+              "key": 94694400000,
+              "doc_count": 1,
+              "value": 0.39
+          },
+          {
+              "key_as_string": "1974",
+              "key": 126230400000,
+              "doc_count": 1,
+              "value": 0.11
+          },
+          {
+              "key_as_string": "1975",
+              "key": 157766400000,
+              "doc_count": 1,
+              "value": 0.14
+          },
+          {
+              "key_as_string": "1976",
+              "key": 189302400000,
+              "doc_count": 1,
+              "value": 0.07
+          },
+          {
+              "key_as_string": "1977",
+              "key": 220924800000,
+              "doc_count": 1,
+              "value": 0.35
+          },
+          {
+              "key_as_string": "1978",
+              "key": 252460800000,
+              "doc_count": 1,
+              "value": 0.30
+          },
+          {
+              "key_as_string": "1979",
+              "key": 283996800000,
+              "doc_count": 1,
+              "value": 0.45
+          },
+          {
+              "key_as_string": "1980",
+              "key": 315532800000,
+              "doc_count": 1,
+              "value": 0.58
+          },
+          {
+              "key_as_string": "1981",
+              "key": 347155200000,
+              "doc_count": 1,
+              "value": 0.62
+          },
+          {
+              "key_as_string": "1982",
+              "key": 378691200000,
+              "doc_count": 1,
+              "value": 0.42
+          },
+          {
+              "key_as_string": "1983",
+              "key": 410227200000,
+              "doc_count": 1,
+              "value": 0.61
+          },
+          {
+              "key_as_string": "1984",
+              "key": 441763200000,
+              "doc_count": 1,
+              "value": 0.40
+          },
+          {
+              "key_as_string": "1985",
+              "key": 473385600000,
+              "doc_count": 1,
+              "value": 0.36
+          },
+          {
+              "key_as_string": "1986",
+              "key": 504921600000,
+              "doc_count": 1,
+              "value": 0.45
+          },
+          {
+              "key_as_string": "1987",
+              "key": 536457600000,
+              "doc_count": 1,
+              "value": 0.60
+          },
+          {
+              "key_as_string": "1988",
+              "key": 567993600000,
+              "doc_count": 1,
+              "value": 0.64
+          },
+          {
+              "key_as_string": "1989",
+              "key": 599529600000,
+              "doc_count": 1,
+              "value": 0.52
+          },
+          {
+              "key_as_string": "1990",
+              "key": 631152000000,
+              "doc_count": 1,
+              "value": 0.75
+          },
+          {
+              "key_as_string": "1991",
+              "key": 662688000000,
+              "doc_count": 1,
+              "value": 0.69
+          },
+          {
+              "key_as_string": "1992",
+              "key": 694224000000,
+              "doc_count": 1,
+              "value": 0.46
+          },
+          {
+              "key_as_string": "1993",
+              "key": 725760000000,
+              "doc_count": 1,
+              "value": 0.51
+          },
+          {
+              "key_as_string": "1994",
+              "key": 757296000000,
+              "doc_count": 1,
+              "value": 0.54
+          },
+          {
+              "key_as_string": "1995",
+              "key": 788832000000,
+              "doc_count": 1,
+              "value": 0.72
+          },
+          {
+              "key_as_string": "1996",
+              "key": 820454400000,
+              "doc_count": 1,
+              "value": 0.59
+          },
+          {
+              "key_as_string": "1997",
+              "key": 852076800000,
+              "doc_count": 1,
+              "value": 0.71
+          },
+          {
+              "key_as_string": "1998",
+              "key": 883612800000,
+              "doc_count": 1,
+              "value": 0.90
+          },
+          {
+              "key_as_string": "1999",
+              "key": 915148800000,
+              "doc_count": 1,
+              "value": 0.63
+          },
+          {
+              "key_as_string": "2000",
+              "key": 946684800000,
+              "doc_count": 1,
+              "value": 0.63
+          },
+          {
+              "key_as_string": "2001",
+              "key": 978307200000,
+              "doc_count": 1,
+              "value": 0.80
+          },
+          {
+              "key_as_string": "2002",
+              "key": 1009843200000,
+              "doc_count": 1,
+              "value": 0.89
+          },
+          {
+              "key_as_string": "2003",
+              "key": 1041379200000,
+              "doc_count": 1,
+              "value": 0.87
+          },
+          {
+              "key_as_string": "2004",
+              "key": 1072915200000,
+              "doc_count": 1,
+              "value": 0.81
+          },
+          {
+              "key_as_string": "2005",
+              "key": 1104537600000,
+              "doc_count": 1,
+              "value": 0.97
+          },
+          {
+              "key_as_string": "2006",
+              "key": 1136073600000,
+              "doc_count": 1,
+              "value": 0.92
+          },
+          {
+              "key_as_string": "2007",
+              "key": 1167609600000,
+              "doc_count": 1,
+              "value": 0.92
+          },
+          {
+              "key_as_string": "2008",
+              "key": 1199145600000,
+              "doc_count": 1,
+              "value": 0.79
+          },
+          {
+              "key_as_string": "2009",
+              "key": 1230768000000,
+              "doc_count": 1,
+              "value": 0.92
+          },
+          {
+              "key_as_string": "2010",
+              "key": 1262304000000,
+              "doc_count": 1,
+              "value": 1.01
+          },
+          {
+              "key_as_string": "2011",
+              "key": 1293840000000,
+              "doc_count": 1,
+              "value": 0.87
+          },
+          {
+              "key_as_string": "2012",
+              "key": 1325376000000,
+              "doc_count": 1,
+              "value": 0.92
+          },
+          {
+              "key_as_string": "2013",
+              "key": 1356998400000,
+              "doc_count": 1,
+              "value": 0.95
+          },
+          {
+              "key_as_string": "2014",
+              "key": 1388534400000,
+              "doc_count": 1,
+              "value": 0.99
+          },
+          {
+              "key_as_string": "2015",
+              "key": 1420070400000,
+              "doc_count": 1,
+              "value": 1.14
+          },
+          {
+              "key_as_string": "2016",
+              "key": 1451606400000,
+              "doc_count": 1,
+              "value": 1.32
+          },
+          {
+              "key_as_string": "2017",
+              "key": 1483228800000,
+              "doc_count": 1,
+              "value": 1.22
+          },
+          {
+              "key_as_string": "2018",
+              "key": 1514764800000,
+              "doc_count": 1,
+              "value": 1.14
+          },
+          {
+              "key_as_string": "2019",
+              "key": 1546300800000,
+              "doc_count": 1,
+              "value": 1.28
+          },
+          {
+              "key_as_string": "2020",
+              "key": 1577836800000,
+              "doc_count": 1,
+              "value": 1.31
+          },
+          {
+              "key_as_string": "2021",
+              "key": 1609459200000,
+              "doc_count": 1,
+              "value": 1.16
+          },
+          {
+              "key_as_string": "2022",
+              "key": 1640995200000,
+              "doc_count": 1,
+              "value": 1.18
+          },
+          {
+              "key_as_string": "2023",
+              "key": 1672531200000,
+              "doc_count": 1,
+              "value": 1.48
+          }
+      ]
+      

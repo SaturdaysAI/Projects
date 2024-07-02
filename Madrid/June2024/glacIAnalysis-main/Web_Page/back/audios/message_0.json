@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "soundFile": "/Users/Jorge/Documents/Experimentos/IA/glacIAnalysis/back/audios/message_0.wav",
+    "duration": 4.12
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.03, "value": "X" },
+    { "start": 0.03, "end": 0.23, "value": "C" },
+    { "start": 0.23, "end": 0.37, "value": "B" },
+    { "start": 0.37, "end": 0.58, "value": "C" },
+    { "start": 0.58, "end": 0.65, "value": "B" },
+    { "start": 0.65, "end": 0.72, "value": "E" },
+    { "start": 0.72, "end": 0.86, "value": "F" },
+    { "start": 0.86, "end": 1.28, "value": "X" },
+    { "start": 1.28, "end": 1.33, "value": "B" },
+    { "start": 1.33, "end": 1.59, "value": "F" },
+    { "start": 1.59, "end": 1.66, "value": "C" },
+    { "start": 1.66, "end": 1.78, "value": "A" },
+    { "start": 1.78, "end": 1.82, "value": "F" },
+    { "start": 1.82, "end": 1.90, "value": "A" },
+    { "start": 1.90, "end": 1.97, "value": "C" },
+    { "start": 1.97, "end": 2.04, "value": "B" },
+    { "start": 2.04, "end": 2.12, "value": "A" },
+    { "start": 2.12, "end": 2.25, "value": "B" },
+    { "start": 2.25, "end": 2.46, "value": "C" },
+    { "start": 2.46, "end": 2.53, "value": "B" },
+    { "start": 2.53, "end": 2.74, "value": "C" },
+    { "start": 2.74, "end": 2.82, "value": "A" },
+    { "start": 2.82, "end": 3.02, "value": "B" },
+    { "start": 3.02, "end": 3.16, "value": "C" },
+    { "start": 3.16, "end": 3.24, "value": "A" },
+    { "start": 3.24, "end": 3.30, "value": "B" },
+    { "start": 3.30, "end": 3.50, "value": "C" },
+    { "start": 3.50, "end": 3.64, "value": "B" },
+    { "start": 3.64, "end": 3.71, "value": "E" },
+    { "start": 3.71, "end": 3.78, "value": "B" },
+    { "start": 3.78, "end": 3.85, "value": "G" },
+    { "start": 3.85, "end": 4.12, "value": "X" }
+  ]
+}

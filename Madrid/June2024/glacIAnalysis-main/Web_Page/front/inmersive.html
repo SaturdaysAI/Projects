@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+          <meta charset="UTF-8">
+          <meta name="viewport" content="width=device-width, initial-scale=1.0">
+          <title>GlacIAres</title>
+          <script src="https://aframe.io/releases/1.4.0/aframe.min.js"></script>
+          <script src="https://cdn.jsdelivr.net/gh/c-frame/aframe-extras@7.4.0/dist/aframe-extras.min.js"></script>
+          <!--script src="./scripts/shader.js"></script-->
+          <script src="./scripts/ocean.js"></script>
+          <script src="./scripts/aframe-babia-components.js"></script>
+          <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+
+          <style>
+                    body {
+                              margin: 0;
+                              padding: 0;
+                    }
+                    .a-enter-vr, .a-enter-ar {
+                              display: none
+                    }
+                    nav {
+                              position: fixed;
+                              z-index: 10;
+                              bottom: 65px;
+                              margin-bottom: 10px;
+                              width: 100%;
+                              text-align: center;
+                    }
+          </style>
+</head>
+
+<body>
+          <nav>
+                    <button type="button" id='init' class="btn btn-primary" onclick="init()">Comenzar</button>
+                    <button type="button" id='more' class="btn btn-primary" onclick="more()" style="display:none">Quiero saber más</button>
+                    <button type="button" id='deep' class="btn btn-primary" onclick="deep()" style="display:none">Quiero profundizar</button>
+          </nav>
+          <a-scene cursor="rayOrigin: mouse">
+                    <a-light type="ambient" color="#FFF" intensity="0.5"></a-light>
+                    <a-light type="directional" color="#FFF" intensity="0.5" position="3 3 3"></a-light>
+                    <a-assets>
+                              <!--a-asset-item id="background" src="./assets/fondo.glb" /-->
+                              <a-asset-item id="bear" src="./assets/oso-walk.glb" />
+                              <a-asset-item id="bear" src="./assets/polar_bear.glb"/>
+                              <a-asset-item id="iceberg2" src="./assets/Icicle.glb" />
+                              <audio id="introaudio" src="./assets/audio/intro.mp3"></audio>
+                              <audio id="moreaudio" src="./assets/audio/more.mp3"></audio>
+                              <audio id="deepaudio" src="./assets/audio/deep.mp3"></audio>
+                    </a-assets>
+
+                    <a-entity position="0 0 2" rotation="0 0 0" id="rig" movement-controls="controls: gamepad,keyboard,nipple; constrainToNavMesh: true">
+                              <a-entity camera position="0 1.5 -1.2" look-controls="pointerLockEnabled: false;"></a-entity>
+                    </a-entity>
+
+                    <!--a-entity gltf-model="#background" scale="1 1 1" position="0 0 0" rotation="0 220 0"> </a-entity-->
+                    <a-entity gltf-model="./assets/navmesh.gltf" position=".85 0 5.5" scale=".35 .01 .9" visible="false" nav-mesh></a-entity>
+
+                    <a-entity gltf-model="#bear" scale="0.8 0.8 0.8" walk position="0 -0.01 -3" rotation="-2 -9 0"></a-entity>
+                    <!--a-entity gltf-model="#bear" scale="0.004 0.004 0.004" walk position="0 -0.01 -3" rotation="0 0 0"></a-entity-->
+                    <a-entity shadow="enabled: true" gltf-model="#iceberg" scale="2 2 2" position="-5 0 -5" ></a-entity>
+                    <a-entity shadow="enabled: true" gltf-model="#iceberg2" scale="2.5 2.5 2.5" position="-0.1.8 -1.838 -3.3" rotation="0 -80 0"> </a-entity>
+                              
+                    <a-ocean width="50" depth="50" density="20" position="0 0 -4" oceanfixed rotation="-90 0 0">
+                    </a-ocean>
+
+                    <a-entity id="networknodes" babia-queryjson="url: ./staticdata/clima_nodes.json;"></a-entity>
+                    <a-entity id="networklinks" babia-queryjson="url: ./staticdata/clima_links.json;"></a-entity>
+
+                    <a-entity position="0 2 -7" lounge-plinth="width: 6; depth: 6" lounge-staydown>
+                              <a-entity id="network" visible="false" babia-network='nodesFrom: networknodes; linksFrom: networklinks;
+                                                                      nodeId: valor; nodeLabel: valor; nodeAutoColorBy: color;  
+                                                                      nodeResolution: 20; nodeVal: importancia; nodeRelSize: 1; 
+                                                                      linkWidth: 0.1; nodeLegend: false;'
+
+                                        scale="0.1 0.1 0.1" rotation="0 0 -90">
+                              </a-entity>
+                    </a-entity>
+
+                    <a-entity id="co2emitido" visible="false" scale="2 2 2">
+                              <a-entity text="value: CO2 emitido; color: white" position="0.4 1.5 0" scale="3 3 3"></a-entity>
+                              <a-entity  
+                                        babia-queryjson="url: ./staticdata/co2Emision.json"
+                                        babia-bars='
+                                                  legend_scale: 5; 
+                                                  height: value; 
+                                                  chartHeight: 45; 
+                                                  animation: true; 
+                                                  palette: blues;
+                                                  axis_name: true; 
+                                                  legend:true; 
+                                                  x_axis: key_as_string; 
+                                                  z_axis: key_as_string;
+                                                  legend_lookat: [laser-controls];
+                                                  animation: true; 
+                                                  '
+                                        position="-1 0 0.2" 
+                                        rotation="0 -0.2 0"
+                                        scale="0.025 0.025 0.025">
+                              </a-entity>
+                    </a-entity>
+
+                    <a-entity id="temperatura" visible="false" scale="2 2 2">
+                              <a-entity text="value:Incremento de la temperatura global; color: white" position="0.4 1.5 0" scale="3 3 3"></a-entity>
+                              <a-entity  
+                                        babia-queryjson="url: ./staticdata/temperatura.json"
+                                        babia-bars='
+                                                  legend_scale: 5; 
+                                                  height: value; 
+                                                  chartHeight: 45; 
+                                                  animation: true; 
+                                                  palette: blues;
+                                                  axis_name: true; 
+                                                  legend:true; 
+                                                  x_axis: key_as_string; 
+                                                  z_axis: key_as_string;
+                                                  legend_lookat: [laser-controls];
+                                                  animation: true; 
+                                                  '
+                                        position="-1 0 0.2" 
+                                        rotation="0 -0.2 0"
+                                        scale="0.025 0.025 0.025">
+                              </a-entity>
+                    </a-entity>
+
+                    <a-entity id="co2concentracion" visible="false" scale="2 2 2">
+                              <a-entity text="value:CO2 concentration; color: white" position="0.4 1.5 0" scale="3 3 3"></a-entity>
+                              <a-entity  
+                                        babia-queryjson="url: ./staticdata/co2Concentracion.json"
+                                        babia-bars='
+                                                  legend_scale: 5; 
+                                                  height: value; 
+                                                  chartHeight: 45; 
+                                                  animation: true; 
+                                                  palette: blues;
+                                                  axis_name: true; 
+                                                  legend:true; 
+                                                  x_axis: key_as_string; 
+                                                  z_axis: key_as_string;
+                                                  legend_lookat: [laser-controls];
+                                                  animation: true; 
+                                                  '
+                                        position="-1 0 0.2" 
+                                        rotation="0 -0.2 0"
+                                        scale="0.025 0.025 0.025">
+                              </a-entity>
+                    </a-entity>
+
+                    <a-entity id="desastres" visible="false" scale="2 2 2">
+                              <a-entity text="value:Desastres relacionados con el clima; color: white" position="0.4 1.5 0" scale="3 3 3"></a-entity>
+                              <a-entity  
+                                        babia-queryjson="url: ./staticdata/desastres.json"
+                                        babia-bars='
+                                                  legend_scale: 5; 
+                                                  height: value; 
+                                                  chartHeight: 45; 
+                                                  animation: true; 
+                                                  palette: blues;
+                                                  axis_name: true; 
+                                                  legend:true; 
+                                                  x_axis: key_as_string; 
+                                                  z_axis: key_as_string;
+                                                  legend_lookat: [laser-controls];
+                                                  animation: true; 
+                                                  '
+                                        position="-1 0 0.2" 
+                                        rotation="0 -0.2 0"
+                                        scale="0.025 0.025 0.025">
+                              </a-entity>
+                    </a-entity>
+
+          </a-scene>
+          </div>
+          <script src="./scripts/control.js"></script>
+</body>
+</html>
