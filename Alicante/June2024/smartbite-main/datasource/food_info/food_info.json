@@ -1,0 +1,3393 @@
+{
+    "waffles": {
+        "name": "Waffles",
+        "kcal": 250,
+        "ingredients": [
+            {
+                "name": "harina",
+                "proportion": 0.4
+            },
+            {
+                "name": "huevos",
+                "proportion": 0.2
+            },
+            {
+                "name": "leche",
+                "proportion": 0.25
+            },
+            {
+                "name": "az\u00facar",
+                "proportion": 0.1
+            },
+            {
+                "name": "mantequilla",
+                "proportion": 0.05
+            }
+        ],
+        "sugars": 14,
+        "fiber": 2,
+        "fat": 13,
+        "protein": 7,
+        "carbohydrates": 35,
+        "allergies": [
+            "gluten",
+            "huevos",
+            "l\u00e1cteos"
+        ],
+        "portion": 100
+    },
+    "croque_madame": {
+        "name": "Croque Madame",
+        "kcal": 350,
+        "ingredients": [
+            {
+                "name": "pan",
+                "proportion": 0.35
+            },
+            {
+                "name": "jam\u00f3n",
+                "proportion": 0.25
+            },
+            {
+                "name": "queso",
+                "proportion": 0.2
+            },
+            {
+                "name": "huevo",
+                "proportion": 0.1
+            },
+            {
+                "name": "bechamel",
+                "proportion": 0.1
+            }
+        ],
+        "sugars": 8,
+        "fiber": 4,
+        "fat": 31,
+        "protein": 29,
+        "carbohydrates": 47,
+        "allergies": [
+            "gluten",
+            "huevos",
+            "l\u00e1cteos"
+        ],
+        "portion": 150
+    },
+    "caesar_salad": {
+        "name": "Ensalada C\u00e9sar",
+        "kcal": 180,
+        "ingredients": [
+            {
+                "name": "lechuga",
+                "proportion": 0.4
+            },
+            {
+                "name": "pollo",
+                "proportion": 0.25
+            },
+            {
+                "name": "queso parmesano",
+                "proportion": 0.1
+            },
+            {
+                "name": "croutons",
+                "proportion": 0.15
+            },
+            {
+                "name": "salsa c\u00e9sar",
+                "proportion": 0.1
+            }
+        ],
+        "sugars": 4,
+        "fiber": 7,
+        "fat": 16,
+        "protein": 19,
+        "carbohydrates": 25,
+        "allergies": [
+            "gluten",
+            "l\u00e1cteos"
+        ],
+        "portion": 150
+    },
+    "macaroni_and_cheese": {
+        "name": "Macarrones con Queso",
+        "kcal": 400,
+        "ingredients": [
+            {
+                "name": "macarrones",
+                "proportion": 0.5
+            },
+            {
+                "name": "queso cheddar",
+                "proportion": 0.3
+            },
+            {
+                "name": "leche",
+                "proportion": 0.15
+            },
+            {
+                "name": "mantequilla",
+                "proportion": 0.05
+            }
+        ],
+        "sugars": 18,
+        "fiber": 9,
+        "fat": 52,
+        "protein": 37,
+        "carbohydrates": 112,
+        "allergies": [
+            "gluten",
+            "l\u00e1cteos"
+        ],
+        "portion": 200
+    },
+    "takoyaki": {
+        "name": "Takoyaki",
+        "kcal": 280,
+        "ingredients": [
+            {
+                "name": "harina",
+                "proportion": 0.4
+            },
+            {
+                "name": "pulpo",
+                "proportion": 0.3
+            },
+            {
+                "name": "huevo",
+                "proportion": 0.15
+            },
+            {
+                "name": "cebolla verde",
+                "proportion": 0.1
+            },
+            {
+                "name": "salsa takoyaki",
+                "proportion": 0.05
+            }
+        ],
+        "sugars": 8,
+        "fiber": 4,
+        "fat": 16,
+        "protein": 15,
+        "carbohydrates": 54,
+        "allergies": [
+            "gluten",
+            "huevos",
+            "mariscos"
+        ],
+        "portion": 150
+    },
+    "chocolate_mousse": {
+        "name": "Mousse de Chocolate",
+        "kcal": 300,
+        "ingredients": [
+            {
+                "name": "chocolate",
+                "proportion": 0.5
+            },
+            {
+                "name": "nata",
+                "proportion": 0.3
+            },
+            {
+                "name": "az\u00facar",
+                "proportion": 0.1
+            },
+            {
+                "name": "huevos",
+                "proportion": 0.1
+            }
+        ],
+        "sugars": 26,
+        "fiber": 3,
+        "fat": 18,
+        "protein": 5,
+        "carbohydrates": 34,
+        "allergies": [
+            "huevos",
+            "l\u00e1cteos"
+        ],
+        "portion": 100
+    },
+    "clam_chowder": {
+        "name": "Sopa de Almejas",
+        "kcal": 200,
+        "ingredients": [
+            {
+                "name": "almejas",
+                "proportion": 0.3
+            },
+            {
+                "name": "patatas",
+                "proportion": 0.25
+            },
+            {
+                "name": "cebolla",
+                "proportion": 0.15
+            },
+            {
+                "name": "apio",
+                "proportion": 0.1
+            },
+            {
+                "name": "nata",
+                "proportion": 0.2
+            }
+        ],
+        "sugars": 18,
+        "fiber": 8,
+        "fat": 48,
+        "protein": 37,
+        "carbohydrates": 100,
+        "allergies": [
+            "mariscos",
+            "l\u00e1cteos"
+        ],
+        "portion": 250
+    },
+    "ice_cream": {
+        "name": "Helado",
+        "kcal": 210,
+        "ingredients": [
+            {
+                "name": "leche",
+                "proportion": 0.4
+            },
+            {
+                "name": "nata",
+                "proportion": 0.4
+            },
+            {
+                "name": "az\u00facar",
+                "proportion": 0.15
+            },
+            {
+                "name": "saborizante",
+                "proportion": 0.05
+            }
+        ],
+        "sugars": 18,
+        "fiber": 1,
+        "fat": 11,
+        "protein": 4,
+        "carbohydrates": 24,
+        "allergies": [
+            "l\u00e1cteos"
+        ],
+        "portion": 100
+    },
+    "omelette": {
+        "name": "Omelette",
+        "kcal": 150,
+        "ingredients": [
+            {
+                "name": "huevos",
+                "proportion": 0.6
+            },
+            {
+                "name": "leche",
+                "proportion": 0.2
+            },
+            {
+                "name": "mantequilla",
+                "proportion": 0.15
+            },
+            {
+                "name": "sal",
+                "proportion": 0.05
+            }
+        ],
+        "sugars": 7,
+        "fiber": 1,
+        "fat": 16,
+        "protein": 9,
+        "carbohydrates": 11,
+        "allergies": [
+            "huevos",
+            "l\u00e1cteos"
+        ],
+        "portion": 100
+    },
+    "foie_gras": {
+        "name": "Foie Gras",
+        "kcal": 450,
+        "ingredients": [
+            {
+                "name": "h\u00edgado de pato",
+                "proportion": 0.8
+            },
+            {
+                "name": "especias",
+                "proportion": 0.15
+            },
+            {
+                "name": "licor",
+                "proportion": 0.05
+            }
+        ],
+        "sugars": 1,
+        "fiber": 0,
+        "fat": 12,
+        "protein": 3,
+        "carbohydrates": 2,
+        "allergies": [],
+        "portion": 50
+    },
+    "pad_thai": {
+        "name": "Pad Thai",
+        "kcal": 400,
+        "ingredients": [
+            {
+                "name": "fideos de arroz",
+                "proportion": 0.4
+            },
+            {
+                "name": "gambas",
+                "proportion": 0.25
+            },
+            {
+                "name": "huevos",
+                "proportion": 0.15
+            },
+            {
+                "name": "tofu",
+                "proportion": 0.1
+            },
+            {
+                "name": "brotes de soja",
+                "proportion": 0.05
+            },
+            {
+                "name": "cacahuetes",
+                "proportion": 0.05
+            }
+        ],
+        "sugars": 22,
+        "fiber": 13,
+        "fat": 42,
+        "protein": 56,
+        "carbohydrates": 179,
+        "allergies": [
+            "mariscos",
+            "huevos",
+            "cacahuetes"
+        ],
+        "portion": 250
+    },
+    "tacos": {
+        "name": "Tacos",
+        "kcal": 200,
+        "ingredients": [
+            {
+                "name": "tortilla de ma\u00edz",
+                "proportion": 0.3
+            },
+            {
+                "name": "carne",
+                "proportion": 0.4
+            },
+            {
+                "name": "queso",
+                "proportion": 0.1
+            },
+            {
+                "name": "salsa",
+                "proportion": 0.1
+            },
+            {
+                "name": "vegetales",
+                "proportion": 0.1
+            }
+        ],
+        "sugars": 5,
+        "fiber": 4,
+        "fat": 17,
+        "protein": 19,
+        "carbohydrates": 39,
+        "allergies": [
+            "gluten",
+            "l\u00e1cteos"
+        ],
+        "portion": 150
+    },
+    "sushi": {
+        "name": "Sushi",
+        "kcal": 250,
+        "ingredients": [
+            {
+                "name": "arroz",
+                "proportion": 0.6
+            },
+            {
+                "name": "pescado",
+                "proportion": 0.25
+            },
+            {
+                "name": "alga nori",
+                "proportion": 0.1
+            },
+            {
+                "name": "vinagre de arroz",
+                "proportion": 0.05
+            }
+        ],
+        "sugars": 11,
+        "fiber": 4,
+        "fat": 9,
+        "protein": 19,
+        "carbohydrates": 70,
+        "allergies": [
+            "pescado"
+        ],
+        "portion": 150
+    },
+    "lobster_roll_sandwich": {
+        "name": "Sandwich de Langosta",
+        "kcal": 350,
+        "ingredients": [
+            {
+                "name": "pan",
+                "proportion": 0.3
+            },
+            {
+                "name": "langosta",
+                "proportion": 0.4
+            },
+            {
+                "name": "mayonesa",
+                "proportion": 0.2
+            },
+            {
+                "name": "apio",
+                "proportion": 0.05
+            },
+            {
+                "name": "lim\u00f3n",
+                "proportion": 0.05
+            }
+        ],
+        "sugars": 11,
+        "fiber": 4,
+        "fat": 47,
+        "protein": 33,
+        "carbohydrates": 58,
+        "allergies": [
+            "gluten",
+            "mariscos"
+        ],
+        "portion": 200
+    },
+    "fried_rice": {
+        "name": "Arroz Frito",
+        "kcal": 300,
+        "ingredients": [
+            {
+                "name": "arroz",
+                "proportion": 0.5
+            },
+            {
+                "name": "huevos",
+                "proportion": 0.2
+            },
+            {
+                "name": "vegetales",
+                "proportion": 0.2
+            },
+            {
+                "name": "salsa de soja",
+                "proportion": 0.1
+            }
+        ],
+        "sugars": 21,
+        "fiber": 8,
+        "fat": 25,
+        "protein": 23,
+        "carbohydrates": 127,
+        "allergies": [
+            "gluten",
+            "huevos",
+            "soja"
+        ],
+        "portion": 200
+    },
+    "chicken_curry": {
+        "name": "Curry de Pollo",
+        "kcal": 450,
+        "ingredients": [
+            {
+                "name": "pollo",
+                "proportion": 0.3
+            },
+            {
+                "name": "leche de coco",
+                "proportion": 0.3
+            },
+            {
+                "name": "curry en polvo",
+                "proportion": 0.1
+            },
+            {
+                "name": "arroz",
+                "proportion": 0.2
+            },
+            {
+                "name": "vegetales",
+                "proportion": 0.1
+            }
+        ],
+        "sugars": 25,
+        "fiber": 14,
+        "fat": 63,
+        "protein": 62,
+        "carbohydrates": 139,
+        "allergies": [],
+        "portion": 300
+    },
+    "sashimi": {
+        "name": "Sashimi",
+        "kcal": 200,
+        "ingredients": [
+            {
+                "name": "pescado crudo",
+                "proportion": 0.7
+            },
+            {
+                "name": "salsa de soja",
+                "proportion": 0.2
+            },
+            {
+                "name": "wasabi",
+                "proportion": 0.1
+            }
+        ],
+        "sugars": 1,
+        "fiber": 0,
+        "fat": 5,
+        "protein": 14,
+        "carbohydrates": 3,
+        "allergies": [
+            "pescado",
+            "soja"
+        ],
+        "portion": 100
+    },
+    "macarons": {
+        "name": "Macarons",
+        "kcal": 150,
+        "ingredients": [
+            {
+                "name": "almendra",
+                "proportion": 0.4
+            },
+            {
+                "name": "az\u00facar",
+                "proportion": 0.3
+            },
+            {
+                "name": "clara de huevo",
+                "proportion": 0.2
+            },
+            {
+                "name": "colorante",
+                "proportion": 0.1
+            }
+        ],
+        "sugars": 7,
+        "fiber": 1,
+        "fat": 3,
+        "protein": 2,
+        "carbohydrates": 10,
+        "allergies": [
+            "huevos",
+            "frutos secos"
+        ],
+        "portion": 50
+    },
+    "risotto": {
+        "name": "Risotto",
+        "kcal": 350,
+        "ingredients": [
+            {
+                "name": "arroz Arborio",
+                "proportion": 0.4
+            },
+            {
+                "name": "caldo",
+                "proportion": 0.3
+            },
+            {
+                "name": "queso parmesano",
+                "proportion": 0.1
+            },
+            {
+                "name": "vino blanco",
+                "proportion": 0.1
+            },
+            {
+                "name": "cebolla",
+                "proportion": 0.05
+            },
+            {
+                "name": "mantequilla",
+                "proportion": 0.05
+            }
+        ],
+        "sugars": 7,
+        "fiber": 4,
+        "fat": 29,
+        "protein": 22,
+        "carbohydrates": 122,
+        "allergies": [
+            "l\u00e1cteos"
+        ],
+        "portion": 200
+    },
+    "spaghetti_carbonara": {
+        "name": "Spaghetti Carbonara",
+        "kcal": 400,
+        "ingredients": [
+            {
+                "name": "spaghetti",
+                "proportion": 0.5
+            },
+            {
+                "name": "huevos",
+                "proportion": 0.2
+            },
+            {
+                "name": "queso parmesano",
+                "proportion": 0.15
+            },
+            {
+                "name": "panceta",
+                "proportion": 0.1
+            },
+            {
+                "name": "pimienta negra",
+                "proportion": 0.05
+            }
+        ],
+        "sugars": 17,
+        "fiber": 10,
+        "fat": 54,
+        "protein": 48,
+        "carbohydrates": 149,
+        "allergies": [
+            "gluten",
+            "huevos",
+            "l\u00e1cteos"
+        ],
+        "portion": 250
+    },
+    "pizza": {
+        "name": "Pizza",
+        "kcal": 300,
+        "ingredients": [
+            {
+                "name": "harina",
+                "proportion": 0.5
+            },
+            {
+                "name": "tomate",
+                "proportion": 0.2
+            },
+            {
+                "name": "queso",
+                "proportion": 0.2
+            },
+            {
+                "name": "levadura",
+                "proportion": 0.05
+            },
+            {
+                "name": "aceite de oliva",
+                "proportion": 0.05
+            }
+        ],
+        "sugars": 10,
+        "fiber": 6,
+        "fat": 22,
+        "protein": 20,
+        "carbohydrates": 69,
+        "allergies": [
+            "gluten",
+            "l\u00e1cteos"
+        ],
+        "portion": 150
+    },
+    "hot_and_sour_soup": {
+        "name": "Sopa Agridulce",
+        "kcal": 100,
+        "ingredients": [
+            {
+                "name": "caldo",
+                "proportion": 0.4
+            },
+            {
+                "name": "tofu",
+                "proportion": 0.2
+            },
+            {
+                "name": "setas",
+                "proportion": 0.15
+            },
+            {
+                "name": "vinagre",
+                "proportion": 0.1
+            },
+            {
+                "name": "salsa de soja",
+                "proportion": 0.1
+            },
+            {
+                "name": "huevo",
+                "proportion": 0.05
+            }
+        ],
+        "sugars": 16,
+        "fiber": 7,
+        "fat": 26,
+        "protein": 29,
+        "carbohydrates": 46,
+        "allergies": [
+            "soja",
+            "huevos"
+        ],
+        "portion": 250
+    },
+    "hamburger": {
+        "name": "Hamburguesa",
+        "kcal": 400,
+        "ingredients": [
+            {
+                "name": "pan",
+                "proportion": 0.25
+            },
+            {
+                "name": "carne de res",
+                "proportion": 0.5
+            },
+            {
+                "name": "queso",
+                "proportion": 0.1
+            },
+            {
+                "name": "lechuga",
+                "proportion": 0.05
+            },
+            {
+                "name": "tomate",
+                "proportion": 0.05
+            },
+            {
+                "name": "salsa",
+                "proportion": 0.05
+            }
+        ],
+        "sugars": 15,
+        "fiber": 9,
+        "fat": 45,
+        "protein": 46,
+        "carbohydrates": 74,
+        "allergies": [
+            "gluten",
+            "l\u00e1cteos"
+        ],
+        "portion": 200
+    },
+    "french_fries": {
+        "name": "Papas Fritas",
+        "kcal": 300,
+        "ingredients": [
+            {
+                "name": "patatas",
+                "proportion": 0.8
+            },
+            {
+                "name": "aceite",
+                "proportion": 0.15
+            },
+            {
+                "name": "sal",
+                "proportion": 0.05
+            }
+        ],
+        "sugars": 3,
+        "fiber": 7,
+        "fat": 46,
+        "protein": 10,
+        "carbohydrates": 77,
+        "allergies": [],
+        "portion": 150
+    },
+    "pork_chop": {
+        "name": "Chuleta de Cerdo",
+        "kcal": 250,
+        "ingredients": [
+            {
+                "name": "chuleta de cerdo",
+                "proportion": 0.8
+            },
+            {
+                "name": "especias",
+                "proportion": 0.1
+            },
+            {
+                "name": "aceite",
+                "proportion": 0.1
+            }
+        ],
+        "sugars": 1,
+        "fiber": 1,
+        "fat": 19,
+        "protein": 20,
+        "carbohydrates": 4,
+        "allergies": [],
+        "portion": 150
+    },
+    "edamame": {
+        "name": "Edamame",
+        "kcal": 120,
+        "ingredients": [
+            {
+                "name": "vainas de soja",
+                "proportion": 0.9
+            },
+            {
+                "name": "sal",
+                "proportion": 0.1
+            }
+        ],
+        "sugars": 2,
+        "fiber": 5,
+        "fat": 5,
+        "protein": 11,
+        "carbohydrates": 10,
+        "allergies": [
+            "soja"
+        ],
+        "portion": 100
+    },
+    "beef_carpaccio": {
+        "name": "Carpaccio de Ternera",
+        "kcal": 200,
+        "ingredients": [
+            {
+                "name": "ternera",
+                "proportion": 0.6
+            },
+            {
+                "name": "aceite de oliva",
+                "proportion": 0.1
+            },
+            {
+                "name": "parmesano",
+                "proportion": 0.1
+            },
+            {
+                "name": "r\u00facula",
+                "proportion": 0.1
+            },
+            {
+                "name": "lim\u00f3n",
+                "proportion": 0.1
+            }
+        ],
+        "sugars": 1,
+        "fiber": 1,
+        "fat": 12,
+        "protein": 18,
+        "carbohydrates": 5,
+        "allergies": [
+            "l\u00e1cteos"
+        ],
+        "portion": 100
+    },
+    "shrimp_and_grits": {
+        "name": "Camarones y Grits",
+        "kcal": 400,
+        "ingredients": [
+            {
+                "name": "camarones",
+                "proportion": 0.3
+            },
+            {
+                "name": "harina de ma\u00edz",
+                "proportion": 0.3
+            },
+            {
+                "name": "queso",
+                "proportion": 0.2
+            },
+            {
+                "name": "mantequilla",
+                "proportion": 0.1
+            },
+            {
+                "name": "especias",
+                "proportion": 0.1
+            }
+        ],
+        "sugars": 16,
+        "fiber": 10,
+        "fat": 76,
+        "protein": 63,
+        "carbohydrates": 151,
+        "allergies": [
+            "mariscos",
+            "l\u00e1cteos"
+        ],
+        "portion": 250
+    },
+    "baklava": {
+        "name": "Baklava",
+        "kcal": 350,
+        "ingredients": [
+            {
+                "name": "pasta filo",
+                "proportion": 0.3
+            },
+            {
+                "name": "nueces",
+                "proportion": 0.3
+            },
+            {
+                "name": "miel",
+                "proportion": 0.2
+            },
+            {
+                "name": "mantequilla",
+                "proportion": 0.2
+            }
+        ],
+        "sugars": 23,
+        "fiber": 3,
+        "fat": 20,
+        "protein": 5,
+        "carbohydrates": 40,
+        "allergies": [
+            "gluten",
+            "frutos secos"
+        ],
+        "portion": 100
+    },
+    "frozen_yogurt": {
+        "name": "Yogur Helado",
+        "kcal": 150,
+        "ingredients": [
+            {
+                "name": "yogur",
+                "proportion": 0.6
+            },
+            {
+                "name": "az\u00facar",
+                "proportion": 0.3
+            },
+            {
+                "name": "saborizante",
+                "proportion": 0.1
+            }
+        ],
+        "sugars": 17,
+        "fiber": 1,
+        "fat": 4,
+        "protein": 4,
+        "carbohydrates": 24,
+        "allergies": [
+            "l\u00e1cteos"
+        ],
+        "portion": 100
+    },
+    "oysters": {
+        "name": "Ostras",
+        "kcal": 70,
+        "ingredients": [
+            {
+                "name": "ostras",
+                "proportion": 0.9
+            },
+            {
+                "name": "lim\u00f3n",
+                "proportion": 0.1
+            }
+        ],
+        "sugars": 1,
+        "fiber": 0,
+        "fat": 1,
+        "protein": 4,
+        "carbohydrates": 3,
+        "allergies": [
+            "mariscos"
+        ],
+        "portion": 100
+    },
+    "lobster_bisque": {
+        "name": "Bisque de Langosta",
+        "kcal": 250,
+        "ingredients": [
+            {
+                "name": "langosta",
+                "proportion": 0.3
+            },
+            {
+                "name": "nata",
+                "proportion": 0.3
+            },
+            {
+                "name": "mantequilla",
+                "proportion": 0.15
+            },
+            {
+                "name": "caldo",
+                "proportion": 0.15
+            },
+            {
+                "name": "vino",
+                "proportion": 0.1
+            }
+        ],
+        "sugars": 11,
+        "fiber": 3,
+        "fat": 40,
+        "protein": 16,
+        "carbohydrates": 36,
+        "allergies": [
+            "mariscos",
+            "l\u00e1cteos"
+        ],
+        "portion": 200
+    },
+    "crab_cakes": {
+        "name": "Pasteles de Cangrejo",
+        "kcal": 200,
+        "ingredients": [
+            {
+                "name": "cangrejo",
+                "proportion": 0.5
+            },
+            {
+                "name": "pan rallado",
+                "proportion": 0.2
+            },
+            {
+                "name": "huevo",
+                "proportion": 0.1
+            },
+            {
+                "name": "mayonesa",
+                "proportion": 0.1
+            },
+            {
+                "name": "especias",
+                "proportion": 0.1
+            }
+        ],
+        "sugars": 2,
+        "fiber": 1,
+        "fat": 11,
+        "protein": 12,
+        "carbohydrates": 18,
+        "allergies": [
+            "mariscos",
+            "huevos",
+            "gluten"
+        ],
+        "portion": 100
+    },
+    "garlic_bread": {
+        "name": "Pan de Ajo",
+        "kcal": 150,
+        "ingredients": [
+            {
+                "name": "pan",
+                "proportion": 0.5
+            },
+            {
+                "name": "ajo",
+                "proportion": 0.2
+            },
+            {
+                "name": "mantequilla",
+                "proportion": 0.2
+            },
+            {
+                "name": "perejil",
+                "proportion": 0.1
+            }
+        ],
+        "sugars": 1,
+        "fiber": 1,
+        "fat": 4,
+        "protein": 2,
+        "carbohydrates": 9,
+        "allergies": [
+            "gluten",
+            "l\u00e1cteos"
+        ],
+        "portion": 50
+    },
+    "tiramisu": {
+        "name": "Tiramis\u00fa",
+        "kcal": 300,
+        "ingredients": [
+            {
+                "name": "bizcochos",
+                "proportion": 0.3
+            },
+            {
+                "name": "queso mascarpone",
+                "proportion": 0.3
+            },
+            {
+                "name": "caf\u00e9",
+                "proportion": 0.15
+            },
+            {
+                "name": "cacao",
+                "proportion": 0.1
+            },
+            {
+                "name": "az\u00facar",
+                "proportion": 0.1
+            },
+            {
+                "name": "huevos",
+                "proportion": 0.05
+            }
+        ],
+        "sugars": 43,
+        "fiber": 5,
+        "fat": 32,
+        "protein": 12,
+        "carbohydrates": 81,
+        "allergies": [
+            "gluten",
+            "l\u00e1cteos",
+            "huevos"
+        ],
+        "portion": 150
+    },
+    "red_velvet_cake": {
+        "name": "Pastel de Terciopelo Rojo",
+        "kcal": 350,
+        "ingredients": [
+            {
+                "name": "harina",
+                "proportion": 0.3
+            },
+            {
+                "name": "az\u00facar",
+                "proportion": 0.3
+            },
+            {
+                "name": "huevos",
+                "proportion": 0.2
+            },
+            {
+                "name": "cacao",
+                "proportion": 0.1
+            },
+            {
+                "name": "queso crema",
+                "proportion": 0.05
+            },
+            {
+                "name": "colorante rojo",
+                "proportion": 0.05
+            }
+        ],
+        "sugars": 22,
+        "fiber": 3,
+        "fat": 15,
+        "protein": 6,
+        "carbohydrates": 41,
+        "allergies": [
+            "gluten",
+            "huevos",
+            "l\u00e1cteos"
+        ],
+        "portion": 100
+    },
+    "deviled_eggs": {
+        "name": "Huevos Rellenos",
+        "kcal": 200,
+        "ingredients": [
+            {
+                "name": "huevos",
+                "proportion": 0.5
+            },
+            {
+                "name": "mayonesa",
+                "proportion": 0.2
+            },
+            {
+                "name": "mostaza",
+                "proportion": 0.2
+            },
+            {
+                "name": "piment\u00f3n",
+                "proportion": 0.1
+            }
+        ],
+        "sugars": 5,
+        "fiber": 1,
+        "fat": 20,
+        "protein": 7,
+        "carbohydrates": 9,
+        "allergies": [
+            "huevos"
+        ],
+        "portion": 100
+    },
+    "poutine": {
+        "name": "Poutine",
+        "kcal": 400,
+        "ingredients": [
+            {
+                "name": "papas fritas",
+                "proportion": 0.5
+            },
+            {
+                "name": "queso en grano",
+                "proportion": 0.3
+            },
+            {
+                "name": "salsa de carne",
+                "proportion": 0.2
+            }
+        ],
+        "sugars": 3,
+        "fiber": 8,
+        "fat": 48,
+        "protein": 18,
+        "carbohydrates": 95,
+        "allergies": [
+            "l\u00e1cteos"
+        ],
+        "portion": 200
+    },
+    "cheese_plate": {
+        "name": "Tabla de Quesos",
+        "kcal": 300,
+        "ingredients": [
+            {
+                "name": "queso cheddar",
+                "proportion": 0.2
+            },
+            {
+                "name": "queso brie",
+                "proportion": 0.2
+            },
+            {
+                "name": "queso azul",
+                "proportion": 0.2
+            },
+            {
+                "name": "frutas",
+                "proportion": 0.2
+            },
+            {
+                "name": "frutos secos",
+                "proportion": 0.2
+            }
+        ],
+        "sugars": 12,
+        "fiber": 5,
+        "fat": 44,
+        "protein": 27,
+        "carbohydrates": 28,
+        "allergies": [
+            "l\u00e1cteos",
+            "frutos secos"
+        ],
+        "portion": 150
+    },
+    "pho": {
+        "name": "Pho",
+        "kcal": 350,
+        "ingredients": [
+            {
+                "name": "caldo de carne",
+                "proportion": 0.4
+            },
+            {
+                "name": "fideos de arroz",
+                "proportion": 0.3
+            },
+            {
+                "name": "carne de res",
+                "proportion": 0.15
+            },
+            {
+                "name": "brotes de soja",
+                "proportion": 0.1
+            },
+            {
+                "name": "hierbas",
+                "proportion": 0.05
+            }
+        ],
+        "sugars": 26,
+        "fiber": 39,
+        "fat": 73,
+        "protein": 306,
+        "carbohydrates": 520,
+        "allergies": [],
+        "portion": 500
+    },
+    "cannoli": {
+        "name": "Cannoli",
+        "kcal": 250,
+        "ingredients": [
+            {
+                "name": "ricotta",
+                "proportion": 0.3
+            },
+            {
+                "name": "az\u00facar",
+                "proportion": 0.3
+            },
+            {
+                "name": "harina",
+                "proportion": 0.2
+            },
+            {
+                "name": "chocolate",
+                "proportion": 0.1
+            },
+            {
+                "name": "vainilla",
+                "proportion": 0.1
+            }
+        ],
+        "sugars": 17,
+        "fiber": 2,
+        "fat": 12,
+        "protein": 6,
+        "carbohydrates": 35,
+        "allergies": [
+            "gluten",
+            "l\u00e1cteos"
+        ],
+        "portion": 100
+    },
+    "lasagna": {
+        "name": "Lasa\u00f1a",
+        "kcal": 400,
+        "ingredients": [
+            {
+                "name": "pasta",
+                "proportion": 0.3
+            },
+            {
+                "name": "carne molida",
+                "proportion": 0.3
+            },
+            {
+                "name": "queso ricotta",
+                "proportion": 0.15
+            },
+            {
+                "name": "salsa de tomate",
+                "proportion": 0.15
+            },
+            {
+                "name": "queso mozzarella",
+                "proportion": 0.1
+            }
+        ],
+        "sugars": 19,
+        "fiber": 9,
+        "fat": 59,
+        "protein": 65,
+        "carbohydrates": 100,
+        "allergies": [
+            "gluten",
+            "l\u00e1cteos"
+        ],
+        "portion": 250
+    },
+    "gyoza": {
+        "name": "Gyoza",
+        "kcal": 200,
+        "ingredients": [
+            {
+                "name": "harina",
+                "proportion": 0.3
+            },
+            {
+                "name": "carne de cerdo",
+                "proportion": 0.3
+            },
+            {
+                "name": "col",
+                "proportion": 0.2
+            },
+            {
+                "name": "ajo",
+                "proportion": 0.1
+            },
+            {
+                "name": "jengibre",
+                "proportion": 0.1
+            }
+        ],
+        "sugars": 7,
+        "fiber": 2,
+        "fat": 12,
+        "protein": 9,
+        "carbohydrates": 27,
+        "allergies": [
+            "gluten"
+        ],
+        "portion": 100
+    },
+    "eggs_benedict": {
+        "name": "Huevos Benedictinos",
+        "kcal": 450,
+        "ingredients": [
+            {
+                "name": "huevos",
+                "proportion": 0.3
+            },
+            {
+                "name": "pan",
+                "proportion": 0.3
+            },
+            {
+                "name": "jam\u00f3n",
+                "proportion": 0.2
+            },
+            {
+                "name": "salsa holandesa",
+                "proportion": 0.1
+            },
+            {
+                "name": "mantequilla",
+                "proportion": 0.1
+            }
+        ],
+        "sugars": 17,
+        "fiber": 5,
+        "fat": 68,
+        "protein": 38,
+        "carbohydrates": 60,
+        "allergies": [
+            "gluten",
+            "huevos",
+            "l\u00e1cteos"
+        ],
+        "portion": 200
+    },
+    "beignets": {
+        "name": "Beignets",
+        "kcal": 300,
+        "ingredients": [
+            {
+                "name": "harina",
+                "proportion": 0.4
+            },
+            {
+                "name": "az\u00facar",
+                "proportion": 0.2
+            },
+            {
+                "name": "levadura",
+                "proportion": 0.15
+            },
+            {
+                "name": "leche",
+                "proportion": 0.15
+            },
+            {
+                "name": "mantequilla",
+                "proportion": 0.1
+            }
+        ],
+        "sugars": 16,
+        "fiber": 4,
+        "fat": 13,
+        "protein": 8,
+        "carbohydrates": 41,
+        "allergies": [
+            "gluten",
+            "l\u00e1cteos"
+        ],
+        "portion": 100
+    },
+    "filet_mignon": {
+        "name": "Filet Mignon",
+        "kcal": 250,
+        "ingredients": [
+            {
+                "name": "filete de res",
+                "proportion": 0.8
+            },
+            {
+                "name": "especias",
+                "proportion": 0.1
+            },
+            {
+                "name": "mantequilla",
+                "proportion": 0.1
+            }
+        ],
+        "sugars": 1,
+        "fiber": 1,
+        "fat": 21,
+        "protein": 20,
+        "carbohydrates": 6,
+        "allergies": [],
+        "portion": 150
+    },
+    "prime_rib": {
+        "name": "Costillar de Res",
+        "kcal": 400,
+        "ingredients": [
+            {
+                "name": "costillar de res",
+                "proportion": 0.9
+            },
+            {
+                "name": "especias",
+                "proportion": 0.1
+            }
+        ],
+        "sugars": 1,
+        "fiber": 1,
+        "fat": 34,
+        "protein": 36,
+        "carbohydrates": 5,
+        "allergies": [],
+        "portion": 200
+    },
+    "caprese_salad": {
+        "name": "Ensalada Caprese",
+        "kcal": 200,
+        "ingredients": [
+            {
+                "name": "tomates",
+                "proportion": 0.4
+            },
+            {
+                "name": "mozzarella",
+                "proportion": 0.3
+            },
+            {
+                "name": "albahaca",
+                "proportion": 0.1
+            },
+            {
+                "name": "aceite de oliva",
+                "proportion": 0.1
+            },
+            {
+                "name": "vinagre bals\u00e1mico",
+                "proportion": 0.1
+            }
+        ],
+        "sugars": 10,
+        "fiber": 4,
+        "fat": 26,
+        "protein": 16,
+        "carbohydrates": 27,
+        "allergies": [
+            "l\u00e1cteos"
+        ],
+        "portion": 150
+    },
+    "nachos": {
+        "name": "Nachos",
+        "kcal": 350,
+        "ingredients": [
+            {
+                "name": "tortilla chips",
+                "proportion": 0.3
+            },
+            {
+                "name": "queso",
+                "proportion": 0.3
+            },
+            {
+                "name": "jalape\u00f1os",
+                "proportion": 0.1
+            },
+            {
+                "name": "carne",
+                "proportion": 0.2
+            },
+            {
+                "name": "frijoles",
+                "proportion": 0.1
+            },
+            {
+                "name": "salsa",
+                "proportion": 0.1
+            }
+        ],
+        "sugars": 10,
+        "fiber": 10,
+        "fat": 56,
+        "protein": 35,
+        "carbohydrates": 93,
+        "allergies": [
+            "l\u00e1cteos"
+        ],
+        "portion": 200
+    },
+    "carrot_cake": {
+        "name": "Pastel de Zanahoria",
+        "kcal": 400,
+        "ingredients": [
+            {
+                "name": "zanahorias",
+                "proportion": 0.3
+            },
+            {
+                "name": "harina",
+                "proportion": 0.3
+            },
+            {
+                "name": "az\u00facar",
+                "proportion": 0.2
+            },
+            {
+                "name": "huevos",
+                "proportion": 0.1
+            },
+            {
+                "name": "queso crema",
+                "proportion": 0.05
+            },
+            {
+                "name": "nueces",
+                "proportion": 0.05
+            }
+        ],
+        "sugars": 33,
+        "fiber": 6,
+        "fat": 24,
+        "protein": 11,
+        "carbohydrates": 73,
+        "allergies": [
+            "gluten",
+            "huevos",
+            "l\u00e1cteos",
+            "frutos secos"
+        ],
+        "portion": 150
+    },
+    "guacamole": {
+        "name": "Guacamole",
+        "kcal": 150,
+        "ingredients": [
+            {
+                "name": "aguacate",
+                "proportion": 0.5
+            },
+            {
+                "name": "cebolla",
+                "proportion": 0.2
+            },
+            {
+                "name": "tomate",
+                "proportion": 0.2
+            },
+            {
+                "name": "cilantro",
+                "proportion": 0.05
+            },
+            {
+                "name": "lim\u00f3n",
+                "proportion": 0.05
+            }
+        ],
+        "sugars": 3,
+        "fiber": 5,
+        "fat": 16,
+        "protein": 3,
+        "carbohydrates": 10,
+        "allergies": [],
+        "portion": 100
+    },
+    "samosa": {
+        "name": "Samosa",
+        "kcal": 300,
+        "ingredients": [
+            {
+                "name": "harina",
+                "proportion": 0.3
+            },
+            {
+                "name": "patata",
+                "proportion": 0.3
+            },
+            {
+                "name": "guisantes",
+                "proportion": 0.2
+            },
+            {
+                "name": "especias",
+                "proportion": 0.1
+            },
+            {
+                "name": "aceite",
+                "proportion": 0.1
+            }
+        ],
+        "sugars": 7,
+        "fiber": 8,
+        "fat": 31,
+        "protein": 13,
+        "carbohydrates": 70,
+        "allergies": [
+            "gluten"
+        ],
+        "portion": 150
+    },
+    "apple_pie": {
+        "name": "Pastel de Manzana",
+        "kcal": 350,
+        "ingredients": [
+            {
+                "name": "manzanas",
+                "proportion": 0.3
+            },
+            {
+                "name": "harina",
+                "proportion": 0.3
+            },
+            {
+                "name": "az\u00facar",
+                "proportion": 0.2
+            },
+            {
+                "name": "mantequilla",
+                "proportion": 0.1
+            },
+            {
+                "name": "canela",
+                "proportion": 0.1
+            }
+        ],
+        "sugars": 34,
+        "fiber": 8,
+        "fat": 25,
+        "protein": 9,
+        "carbohydrates": 85,
+        "allergies": [
+            "gluten",
+            "l\u00e1cteos"
+        ],
+        "portion": 150
+    },
+    "fried_calamari": {
+        "name": "Calamares Fritos",
+        "kcal": 250,
+        "ingredients": [
+            {
+                "name": "calamares",
+                "proportion": 0.5
+            },
+            {
+                "name": "harina",
+                "proportion": 0.3
+            },
+            {
+                "name": "aceite",
+                "proportion": 0.1
+            },
+            {
+                "name": "especias",
+                "proportion": 0.1
+            }
+        ],
+        "sugars": 2,
+        "fiber": 2,
+        "fat": 16,
+        "protein": 12,
+        "carbohydrates": 22,
+        "allergies": [
+            "mariscos",
+            "gluten"
+        ],
+        "portion": 100
+    },
+    "miso_soup": {
+        "name": "Sopa de Miso",
+        "kcal": 50,
+        "ingredients": [
+            {
+                "name": "miso",
+                "proportion": 0.4
+            },
+            {
+                "name": "tofu",
+                "proportion": 0.2
+            },
+            {
+                "name": "alga wakame",
+                "proportion": 0.2
+            },
+            {
+                "name": "cebolla verde",
+                "proportion": 0.2
+            }
+        ],
+        "sugars": 8,
+        "fiber": 11,
+        "fat": 9,
+        "protein": 19,
+        "carbohydrates": 24,
+        "allergies": [
+            "soja"
+        ],
+        "portion": 200
+    },
+    "panna_cotta": {
+        "name": "Panna Cotta",
+        "kcal": 250,
+        "ingredients": [
+            {
+                "name": "nata",
+                "proportion": 0.4
+            },
+            {
+                "name": "az\u00facar",
+                "proportion": 0.3
+            },
+            {
+                "name": "vainilla",
+                "proportion": 0.2
+            },
+            {
+                "name": "gelatina",
+                "proportion": 0.1
+            }
+        ],
+        "sugars": 32,
+        "fiber": 2,
+        "fat": 22,
+        "protein": 9,
+        "carbohydrates": 45,
+        "allergies": [
+            "l\u00e1cteos"
+        ],
+        "portion": 150
+    },
+    "steak": {
+        "name": "Bistec",
+        "kcal": 250,
+        "ingredients": [
+            {
+                "name": "carne de res",
+                "proportion": 0.9
+            },
+            {
+                "name": "especias",
+                "proportion": 0.1
+            }
+        ],
+        "sugars": 3,
+        "fiber": 3,
+        "fat": 27,
+        "protein": 31,
+        "carbohydrates": 25,
+        "allergies": [],
+        "portion": 150
+    },
+    "beef_tartare": {
+        "name": "Tartar de Ternera",
+        "kcal": 200,
+        "ingredients": [
+            {
+                "name": "carne de res",
+                "proportion": 0.6
+            },
+            {
+                "name": "alcaparras",
+                "proportion": 0.1
+            },
+            {
+                "name": "cebolla",
+                "proportion": 0.1
+            },
+            {
+                "name": "yema de huevo",
+                "proportion": 0.1
+            },
+            {
+                "name": "especias",
+                "proportion": 0.1
+            }
+        ],
+        "sugars": 4,
+        "fiber": 3,
+        "fat": 22,
+        "protein": 25,
+        "carbohydrates": 23,
+        "allergies": [
+            "huevos"
+        ],
+        "portion": 150
+    },
+    "chicken_quesadilla": {
+        "name": "Quesadilla de Pollo",
+        "kcal": 350,
+        "ingredients": [
+            {
+                "name": "tortilla de trigo",
+                "proportion": 0.3
+            },
+            {
+                "name": "pollo",
+                "proportion": 0.3
+            },
+            {
+                "name": "queso",
+                "proportion": 0.2
+            },
+            {
+                "name": "pimientos",
+                "proportion": 0.1
+            },
+            {
+                "name": "cebolla",
+                "proportion": 0.1
+            }
+        ],
+        "sugars": 9,
+        "fiber": 12,
+        "fat": 38,
+        "protein": 40,
+        "carbohydrates": 77,
+        "allergies": [
+            "gluten",
+            "l\u00e1cteos"
+        ],
+        "portion": 200
+    },
+    "cup_cakes": {
+        "name": "Cupcakes",
+        "kcal": 300,
+        "ingredients": [
+            {
+                "name": "harina",
+                "proportion": 0.3
+            },
+            {
+                "name": "az\u00facar",
+                "proportion": 0.3
+            },
+            {
+                "name": "huevos",
+                "proportion": 0.2
+            },
+            {
+                "name": "mantequilla",
+                "proportion": 0.1
+            },
+            {
+                "name": "vainilla",
+                "proportion": 0.1
+            }
+        ],
+        "sugars": 19,
+        "fiber": 2,
+        "fat": 14,
+        "protein": 5,
+        "carbohydrates": 40,
+        "allergies": [
+            "gluten",
+            "huevos",
+            "l\u00e1cteos"
+        ],
+        "portion": 100
+    },
+    "bruschetta": {
+        "name": "Bruschetta",
+        "kcal": 150,
+        "ingredients": [
+            {
+                "name": "pan",
+                "proportion": 0.3
+            },
+            {
+                "name": "tomate",
+                "proportion": 0.3
+            },
+            {
+                "name": "albahaca",
+                "proportion": 0.2
+            },
+            {
+                "name": "ajo",
+                "proportion": 0.1
+            },
+            {
+                "name": "aceite de oliva",
+                "proportion": 0.1
+            }
+        ],
+        "sugars": 3,
+        "fiber": 2,
+        "fat": 7,
+        "protein": 4,
+        "carbohydrates": 15,
+        "allergies": [
+            "gluten"
+        ],
+        "portion": 80
+    },
+    "club_sandwich": {
+        "name": "Club S\u00e1ndwich",
+        "kcal": 400,
+        "ingredients": [
+            {
+                "name": "pan",
+                "proportion": 0.25
+            },
+            {
+                "name": "pollo",
+                "proportion": 0.25
+            },
+            {
+                "name": "tocino",
+                "proportion": 0.2
+            },
+            {
+                "name": "lechuga",
+                "proportion": 0.1
+            },
+            {
+                "name": "tomate",
+                "proportion": 0.1
+            },
+            {
+                "name": "mayonesa",
+                "proportion": 0.1
+            }
+        ],
+        "sugars": 20,
+        "fiber": 13,
+        "fat": 73,
+        "protein": 63,
+        "carbohydrates": 95,
+        "allergies": [
+            "gluten",
+            "huevos"
+        ],
+        "portion": 250
+    },
+    "churros": {
+        "name": "Churros",
+        "kcal": 250,
+        "ingredients": [
+            {
+                "name": "harina",
+                "proportion": 0.4
+            },
+            {
+                "name": "agua",
+                "proportion": 0.3
+            },
+            {
+                "name": "az\u00facar",
+                "proportion": 0.2
+            },
+            {
+                "name": "aceite",
+                "proportion": 0.1
+            }
+        ],
+        "sugars": 9,
+        "fiber": 2,
+        "fat": 10,
+        "protein": 5,
+        "carbohydrates": 34,
+        "allergies": [
+            "gluten"
+        ],
+        "portion": 100
+    },
+    "tuna_tartare": {
+        "name": "Tartar de At\u00fan",
+        "kcal": 200,
+        "ingredients": [
+            {
+                "name": "at\u00fan",
+                "proportion": 0.5
+            },
+            {
+                "name": "soja",
+                "proportion": 0.2
+            },
+            {
+                "name": "aguacate",
+                "proportion": 0.2
+            },
+            {
+                "name": "s\u00e9samo",
+                "proportion": 0.05
+            },
+            {
+                "name": "aceite de s\u00e9samo",
+                "proportion": 0.05
+            }
+        ],
+        "sugars": 3,
+        "fiber": 4,
+        "fat": 25,
+        "protein": 29,
+        "carbohydrates": 11,
+        "allergies": [
+            "pescado",
+            "soja",
+            "s\u00e9samo"
+        ],
+        "portion": 150
+    },
+    "donuts": {
+        "name": "Donuts",
+        "kcal": 300,
+        "ingredients": [
+            {
+                "name": "harina",
+                "proportion": 0.3
+            },
+            {
+                "name": "az\u00facar",
+                "proportion": 0.3
+            },
+            {
+                "name": "huevos",
+                "proportion": 0.2
+            },
+            {
+                "name": "leche",
+                "proportion": 0.1
+            },
+            {
+                "name": "mantequilla",
+                "proportion": 0.1
+            }
+        ],
+        "sugars": 12,
+        "fiber": 1,
+        "fat": 11,
+        "protein": 4,
+        "carbohydrates": 28,
+        "allergies": [
+            "gluten",
+            "huevos",
+            "l\u00e1cteos"
+        ],
+        "portion": 80
+    },
+    "beet_salad": {
+        "name": "Ensalada de Remolacha",
+        "kcal": 150,
+        "ingredients": [
+            {
+                "name": "remolacha",
+                "proportion": 0.4
+            },
+            {
+                "name": "queso de cabra",
+                "proportion": 0.3
+            },
+            {
+                "name": "nueces",
+                "proportion": 0.15
+            },
+            {
+                "name": "r\u00facula",
+                "proportion": 0.1
+            },
+            {
+                "name": "vinagreta",
+                "proportion": 0.05
+            }
+        ],
+        "sugars": 20,
+        "fiber": 10,
+        "fat": 38,
+        "protein": 21,
+        "carbohydrates": 40,
+        "allergies": [
+            "l\u00e1cteos",
+            "frutos secos"
+        ],
+        "portion": 200
+    },
+    "seaweed_salad": {
+        "name": "Ensalada de Algas",
+        "kcal": 100,
+        "ingredients": [
+            {
+                "name": "algas",
+                "proportion": 0.6
+            },
+            {
+                "name": "s\u00e9samo",
+                "proportion": 0.15
+            },
+            {
+                "name": "vinagre de arroz",
+                "proportion": 0.15
+            },
+            {
+                "name": "soja",
+                "proportion": 0.1
+            }
+        ],
+        "sugars": 8,
+        "fiber": 18,
+        "fat": 14,
+        "protein": 14,
+        "carbohydrates": 28,
+        "allergies": [
+            "soja",
+            "s\u00e9samo"
+        ],
+        "portion": 150
+    },
+    "ceviche": {
+        "name": "Ceviche",
+        "kcal": 150,
+        "ingredients": [
+            {
+                "name": "pescado",
+                "proportion": 0.4
+            },
+            {
+                "name": "lim\u00f3n",
+                "proportion": 0.3
+            },
+            {
+                "name": "cebolla",
+                "proportion": 0.15
+            },
+            {
+                "name": "cilantro",
+                "proportion": 0.1
+            },
+            {
+                "name": "aji",
+                "proportion": 0.05
+            }
+        ],
+        "sugars": 8,
+        "fiber": 4,
+        "fat": 13,
+        "protein": 22,
+        "carbohydrates": 26,
+        "allergies": [
+            "pescado"
+        ],
+        "portion": 150
+    },
+    "chicken_wings": {
+        "name": "Alitas de pollo",
+        "kcal": 290,
+        "ingredients": [
+            {
+                "name": "pollo",
+                "proportion": 0.7
+            },
+            {
+                "name": "aceite",
+                "proportion": 0.2
+            },
+            {
+                "name": "especias",
+                "proportion": 0.1
+            }
+        ],
+        "sugars": 2,
+        "fiber": 1,
+        "fat": 18,
+        "protein": 18,
+        "carbohydrates": 7,
+        "allergies": [
+            "pollo"
+        ],
+        "portion": 100
+    },
+    "fish_and_chips": {
+        "name": "Pescado y papas fritas",
+        "kcal": 600,
+        "ingredients": [
+            {
+                "name": "pescado",
+                "proportion": 0.4
+            },
+            {
+                "name": "papas",
+                "proportion": 0.4
+            },
+            {
+                "name": "harina",
+                "proportion": 0.1
+            },
+            {
+                "name": "aceite",
+                "proportion": 0.1
+            }
+        ],
+        "sugars": 7,
+        "fiber": 10,
+        "fat": 65,
+        "protein": 41,
+        "carbohydrates": 125,
+        "allergies": [
+            "pescado",
+            "gluten"
+        ],
+        "portion": 200
+    },
+    "hummus": {
+        "name": "Hummus",
+        "kcal": 166,
+        "ingredients": [
+            {
+                "name": "garbanzos",
+                "proportion": 0.5
+            },
+            {
+                "name": "aceite de oliva",
+                "proportion": 0.2
+            },
+            {
+                "name": "s\u00e9samo",
+                "proportion": 0.1
+            },
+            {
+                "name": "ajo",
+                "proportion": 0.1
+            },
+            {
+                "name": "lim\u00f3n",
+                "proportion": 0.1
+            }
+        ],
+        "sugars": 2,
+        "fiber": 5,
+        "fat": 14,
+        "protein": 8,
+        "carbohydrates": 17,
+        "allergies": [
+            "s\u00e9samo"
+        ],
+        "portion": 100
+    },
+    "chocolate_cake": {
+        "name": "Pastel de chocolate",
+        "kcal": 350,
+        "ingredients": [
+            {
+                "name": "harina",
+                "proportion": 0.3
+            },
+            {
+                "name": "az\u00facar",
+                "proportion": 0.3
+            },
+            {
+                "name": "cacao",
+                "proportion": 0.2
+            },
+            {
+                "name": "huevos",
+                "proportion": 0.1
+            },
+            {
+                "name": "mantequilla",
+                "proportion": 0.1
+            }
+        ],
+        "sugars": 23,
+        "fiber": 3,
+        "fat": 15,
+        "protein": 6,
+        "carbohydrates": 46,
+        "allergies": [
+            "gluten",
+            "huevos",
+            "l\u00e1cteos"
+        ],
+        "portion": 100
+    },
+    "peking_duck": {
+        "name": "Pato pekin\u00e9s",
+        "kcal": 337,
+        "ingredients": [
+            {
+                "name": "pato",
+                "proportion": 0.6
+            },
+            {
+                "name": "especias",
+                "proportion": 0.1
+            },
+            {
+                "name": "salsa hoisin",
+                "proportion": 0.2
+            },
+            {
+                "name": "tortillas de arroz",
+                "proportion": 0.1
+            }
+        ],
+        "sugars": 2,
+        "fiber": 1,
+        "fat": 24,
+        "protein": 10,
+        "carbohydrates": 9,
+        "allergies": [
+            "soja",
+            "gluten"
+        ],
+        "portion": 100
+    },
+    "onion_rings": {
+        "name": "Aros de cebolla",
+        "kcal": 411,
+        "ingredients": [
+            {
+                "name": "cebolla",
+                "proportion": 0.4
+            },
+            {
+                "name": "harina",
+                "proportion": 0.3
+            },
+            {
+                "name": "aceite",
+                "proportion": 0.2
+            },
+            {
+                "name": "huevos",
+                "proportion": 0.1
+            }
+        ],
+        "sugars": 7,
+        "fiber": 3,
+        "fat": 19,
+        "protein": 7,
+        "carbohydrates": 38,
+        "allergies": [
+            "gluten",
+            "huevos"
+        ],
+        "portion": 100
+    },
+    "breakfast_burrito": {
+        "name": "Burrito de desayuno",
+        "kcal": 305,
+        "ingredients": [
+            {
+                "name": "tortilla",
+                "proportion": 0.3
+            },
+            {
+                "name": "huevos",
+                "proportion": 0.3
+            },
+            {
+                "name": "tocino",
+                "proportion": 0.2
+            },
+            {
+                "name": "queso",
+                "proportion": 0.1
+            },
+            {
+                "name": "papas",
+                "proportion": 0.1
+            }
+        ],
+        "sugars": 8,
+        "fiber": 5,
+        "fat": 34,
+        "protein": 21,
+        "carbohydrates": 50,
+        "allergies": [
+            "gluten",
+            "huevos",
+            "l\u00e1cteos"
+        ],
+        "portion": 150
+    },
+    "ravioli": {
+        "name": "Raviolis",
+        "kcal": 290,
+        "ingredients": [
+            {
+                "name": "harina",
+                "proportion": 0.3
+            },
+            {
+                "name": "queso ricotta",
+                "proportion": 0.3
+            },
+            {
+                "name": "espinacas",
+                "proportion": 0.2
+            },
+            {
+                "name": "salsa de tomate",
+                "proportion": 0.2
+            }
+        ],
+        "sugars": 9,
+        "fiber": 5,
+        "fat": 16,
+        "protein": 16,
+        "carbohydrates": 54,
+        "allergies": [
+            "gluten",
+            "l\u00e1cteos"
+        ],
+        "portion": 150
+    },
+    "strawberry_shortcake": {
+        "name": "Pastel de fresa",
+        "kcal": 260,
+        "ingredients": [
+            {
+                "name": "harina",
+                "proportion": 0.3
+            },
+            {
+                "name": "fresas",
+                "proportion": 0.3
+            },
+            {
+                "name": "az\u00facar",
+                "proportion": 0.2
+            },
+            {
+                "name": "nata",
+                "proportion": 0.2
+            }
+        ],
+        "sugars": 23,
+        "fiber": 3,
+        "fat": 11,
+        "protein": 6,
+        "carbohydrates": 45,
+        "allergies": [
+            "gluten",
+            "l\u00e1cteos"
+        ],
+        "portion": 120
+    },
+    "escargots": {
+        "name": "Caracoles",
+        "kcal": 200,
+        "ingredients": [
+            {
+                "name": "caracoles",
+                "proportion": 0.4
+            },
+            {
+                "name": "mantequilla",
+                "proportion": 0.3
+            },
+            {
+                "name": "ajo",
+                "proportion": 0.2
+            },
+            {
+                "name": "perejil",
+                "proportion": 0.1
+            }
+        ],
+        "sugars": 2,
+        "fiber": 1,
+        "fat": 18,
+        "protein": 12,
+        "carbohydrates": 10,
+        "allergies": [
+            "mariscos",
+            "l\u00e1cteos"
+        ],
+        "portion": 100
+    },
+    "scallops": {
+        "name": "Vieiras",
+        "kcal": 110,
+        "ingredients": [
+            {
+                "name": "vieiras",
+                "proportion": 0.5
+            },
+            {
+                "name": "mantequilla",
+                "proportion": 0.3
+            },
+            {
+                "name": "ajo",
+                "proportion": 0.1
+            },
+            {
+                "name": "perejil",
+                "proportion": 0.1
+            }
+        ],
+        "sugars": 2,
+        "fiber": 1,
+        "fat": 11,
+        "protein": 9,
+        "carbohydrates": 8,
+        "allergies": [
+            "mariscos",
+            "l\u00e1cteos"
+        ],
+        "portion": 100
+    },
+    "gnocchi": {
+        "name": "Gnocchi",
+        "kcal": 200,
+        "ingredients": [
+            {
+                "name": "patatas",
+                "proportion": 0.4
+            },
+            {
+                "name": "harina",
+                "proportion": 0.3
+            },
+            {
+                "name": "huevos",
+                "proportion": 0.2
+            },
+            {
+                "name": "queso parmesano",
+                "proportion": 0.1
+            }
+        ],
+        "sugars": 8,
+        "fiber": 5,
+        "fat": 27,
+        "protein": 14,
+        "carbohydrates": 68,
+        "allergies": [
+            "gluten",
+            "huevos",
+            "l\u00e1cteos"
+        ],
+        "portion": 150
+    },
+    "spring_rolls": {
+        "name": "Rollitos de primavera",
+        "kcal": 100,
+        "ingredients": [
+            {
+                "name": "masa de rollito",
+                "proportion": 0.4
+            },
+            {
+                "name": "verduras",
+                "proportion": 0.4
+            },
+            {
+                "name": "salsa de soja",
+                "proportion": 0.2
+            }
+        ],
+        "sugars": 1,
+        "fiber": 0,
+        "fat": 1,
+        "protein": 1,
+        "carbohydrates": 4,
+        "allergies": [
+            "gluten",
+            "soja"
+        ],
+        "portion": 50
+    },
+    "greek_salad": {
+        "name": "Ensalada griega",
+        "kcal": 150,
+        "ingredients": [
+            {
+                "name": "pepino",
+                "proportion": 0.25
+            },
+            {
+                "name": "tomate",
+                "proportion": 0.25
+            },
+            {
+                "name": "queso feta",
+                "proportion": 0.2
+            },
+            {
+                "name": "aceitunas",
+                "proportion": 0.2
+            },
+            {
+                "name": "aceite de oliva",
+                "proportion": 0.1
+            }
+        ],
+        "sugars": 11,
+        "fiber": 6,
+        "fat": 42,
+        "protein": 16,
+        "carbohydrates": 27,
+        "allergies": [
+            "l\u00e1cteos"
+        ],
+        "portion": 200
+    },
+    "grilled_salmon": {
+        "name": "Salm\u00f3n a la parrilla",
+        "kcal": 250,
+        "ingredients": [
+            {
+                "name": "salm\u00f3n",
+                "proportion": 0.6
+            },
+            {
+                "name": "aceite de oliva",
+                "proportion": 0.2
+            },
+            {
+                "name": "lim\u00f3n",
+                "proportion": 0.1
+            },
+            {
+                "name": "especias",
+                "proportion": 0.1
+            }
+        ],
+        "sugars": 8,
+        "fiber": 1,
+        "fat": 29,
+        "protein": 34,
+        "carbohydrates": 14,
+        "allergies": [
+            "pescado"
+        ],
+        "portion": 150
+    },
+    "pancakes": {
+        "name": "Panqueques",
+        "kcal": 220,
+        "ingredients": [
+            {
+                "name": "harina",
+                "proportion": 0.3
+            },
+            {
+                "name": "leche",
+                "proportion": 0.3
+            },
+            {
+                "name": "huevos",
+                "proportion": 0.2
+            },
+            {
+                "name": "mantequilla",
+                "proportion": 0.1
+            },
+            {
+                "name": "az\u00facar",
+                "proportion": 0.1
+            }
+        ],
+        "sugars": 12,
+        "fiber": 2,
+        "fat": 13,
+        "protein": 7,
+        "carbohydrates": 32,
+        "allergies": [
+            "gluten",
+            "l\u00e1cteos",
+            "huevos"
+        ],
+        "portion": 100
+    },
+    "french_onion_soup": {
+        "name": "Sopa de cebolla francesa",
+        "kcal": 150,
+        "ingredients": [
+            {
+                "name": "cebolla",
+                "proportion": 0.4
+            },
+            {
+                "name": "caldo de res",
+                "proportion": 0.3
+            },
+            {
+                "name": "queso",
+                "proportion": 0.2
+            },
+            {
+                "name": "pan",
+                "proportion": 0.1
+            }
+        ],
+        "sugars": 20,
+        "fiber": 8,
+        "fat": 36,
+        "protein": 25,
+        "carbohydrates": 71,
+        "allergies": [
+            "gluten",
+            "l\u00e1cteos"
+        ],
+        "portion": 250
+    },
+    "french_toast": {
+        "name": "Tostadas francesas",
+        "kcal": 180,
+        "ingredients": [
+            {
+                "name": "pan",
+                "proportion": 0.3
+            },
+            {
+                "name": "huevos",
+                "proportion": 0.3
+            },
+            {
+                "name": "leche",
+                "proportion": 0.2
+            },
+            {
+                "name": "canela",
+                "proportion": 0.1
+            },
+            {
+                "name": "az\u00facar",
+                "proportion": 0.1
+            }
+        ],
+        "sugars": 14,
+        "fiber": 2,
+        "fat": 11,
+        "protein": 7,
+        "carbohydrates": 26,
+        "allergies": [
+            "gluten",
+            "huevos",
+            "l\u00e1cteos"
+        ],
+        "portion": 100
+    },
+    "bibimbap": {
+        "name": "Bibimbap",
+        "kcal": 560,
+        "ingredients": [
+            {
+                "name": "arroz",
+                "proportion": 0.3
+            },
+            {
+                "name": "huevos",
+                "proportion": 0.2
+            },
+            {
+                "name": "carne de res",
+                "proportion": 0.2
+            },
+            {
+                "name": "vegetales",
+                "proportion": 0.2
+            },
+            {
+                "name": "salsa gochujang",
+                "proportion": 0.1
+            }
+        ],
+        "sugars": 31,
+        "fiber": 13,
+        "fat": 49,
+        "protein": 55,
+        "carbohydrates": 193,
+        "allergies": [
+            "gluten",
+            "huevos",
+            "soja"
+        ],
+        "portion": 250
+    },
+    "grilled_cheese_sandwich": {
+        "name": "S\u00e1ndwich de queso a la parrilla",
+        "kcal": 400,
+        "ingredients": [
+            {
+                "name": "pan",
+                "proportion": 0.4
+            },
+            {
+                "name": "queso",
+                "proportion": 0.4
+            },
+            {
+                "name": "mantequilla",
+                "proportion": 0.2
+            }
+        ],
+        "sugars": 10,
+        "fiber": 4,
+        "fat": 45,
+        "protein": 21,
+        "carbohydrates": 50,
+        "allergies": [
+            "gluten",
+            "l\u00e1cteos"
+        ],
+        "portion": 150
+    },
+    "mussels": {
+        "name": "Mejillones",
+        "kcal": 150,
+        "ingredients": [
+            {
+                "name": "mejillones",
+                "proportion": 0.5
+            },
+            {
+                "name": "ajo",
+                "proportion": 0.2
+            },
+            {
+                "name": "vino blanco",
+                "proportion": 0.2
+            },
+            {
+                "name": "perejil",
+                "proportion": 0.1
+            }
+        ],
+        "sugars": 8,
+        "fiber": 2,
+        "fat": 25,
+        "protein": 40,
+        "carbohydrates": 24,
+        "allergies": [
+            "mariscos"
+        ],
+        "portion": 200
+    },
+    "falafel": {
+        "name": "Falafel",
+        "kcal": 333,
+        "ingredients": [
+            {
+                "name": "garbanzos",
+                "proportion": 0.4
+            },
+            {
+                "name": "cebolla",
+                "proportion": 0.2
+            },
+            {
+                "name": "ajo",
+                "proportion": 0.2
+            },
+            {
+                "name": "perejil",
+                "proportion": 0.1
+            },
+            {
+                "name": "especias",
+                "proportion": 0.1
+            }
+        ],
+        "sugars": 7,
+        "fiber": 11,
+        "fat": 25,
+        "protein": 17,
+        "carbohydrates": 48,
+        "allergies": [
+            "legumbres"
+        ],
+        "portion": 150
+    },
+    "bread_pudding": {
+        "name": "Bud\u00edn de pan",
+        "kcal": 290,
+        "ingredients": [
+            {
+                "name": "pan",
+                "proportion": 0.3
+            },
+            {
+                "name": "leche",
+                "proportion": 0.3
+            },
+            {
+                "name": "az\u00facar",
+                "proportion": 0.2
+            },
+            {
+                "name": "huevos",
+                "proportion": 0.1
+            },
+            {
+                "name": "pasas",
+                "proportion": 0.1
+            }
+        ],
+        "sugars": 38,
+        "fiber": 4,
+        "fat": 22,
+        "protein": 14,
+        "carbohydrates": 66,
+        "allergies": [
+            "gluten",
+            "huevos",
+            "l\u00e1cteos"
+        ],
+        "portion": 150
+    },
+    "paella": {
+        "name": "Paella",
+        "kcal": 350,
+        "ingredients": [
+            {
+                "name": "arroz",
+                "proportion": 0.3
+            },
+            {
+                "name": "pollo",
+                "proportion": 0.2
+            },
+            {
+                "name": "mariscos",
+                "proportion": 0.2
+            },
+            {
+                "name": "pimiento",
+                "proportion": 0.1
+            },
+            {
+                "name": "guisantes",
+                "proportion": 0.1
+            },
+            {
+                "name": "azafr\u00e1n",
+                "proportion": 0.1
+            }
+        ],
+        "sugars": 18,
+        "fiber": 14,
+        "fat": 27,
+        "protein": 51,
+        "carbohydrates": 135,
+        "allergies": [
+            "mariscos"
+        ],
+        "portion": 250
+    },
+    "hot_dog": {
+        "name": "Hot dog",
+        "kcal": 290,
+        "ingredients": [
+            {
+                "name": "pan de hot dog",
+                "proportion": 0.4
+            },
+            {
+                "name": "salchicha",
+                "proportion": 0.4
+            },
+            {
+                "name": "mostaza",
+                "proportion": 0.1
+            },
+            {
+                "name": "ketchup",
+                "proportion": 0.1
+            }
+        ],
+        "sugars": 4,
+        "fiber": 1,
+        "fat": 12,
+        "protein": 8,
+        "carbohydrates": 13,
+        "allergies": [
+            "gluten"
+        ],
+        "portion": 100
+    },
+    "creme_brulee": {
+        "name": "Cr\u00e8me br\u00fbl\u00e9e",
+        "kcal": 220,
+        "ingredients": [
+            {
+                "name": "nata",
+                "proportion": 0.4
+            },
+            {
+                "name": "huevos",
+                "proportion": 0.3
+            },
+            {
+                "name": "az\u00facar",
+                "proportion": 0.2
+            },
+            {
+                "name": "vainilla",
+                "proportion": 0.1
+            }
+        ],
+        "sugars": 18,
+        "fiber": 1,
+        "fat": 11,
+        "protein": 5,
+        "carbohydrates": 23,
+        "allergies": [
+            "huevos",
+            "l\u00e1cteos"
+        ],
+        "portion": 100
+    },
+    "baby_back_ribs": {
+        "name": "Costillas de cerdo",
+        "kcal": 320,
+        "ingredients": [
+            {
+                "name": "costillas de cerdo",
+                "proportion": 0.6
+            },
+            {
+                "name": "salsa barbacoa",
+                "proportion": 0.2
+            },
+            {
+                "name": "especias",
+                "proportion": 0.2
+            }
+        ],
+        "sugars": 12,
+        "fiber": 1,
+        "fat": 21,
+        "protein": 21,
+        "carbohydrates": 19,
+        "allergies": [],
+        "portion": 150
+    },
+    "pulled_pork_sandwich": {
+        "name": "S\u00e1ndwich de cerdo desmenuzado",
+        "kcal": 450,
+        "ingredients": [
+            {
+                "name": "pan de hamburguesa",
+                "proportion": 0.3
+            },
+            {
+                "name": "cerdo desmenuzado",
+                "proportion": 0.4
+            },
+            {
+                "name": "salsa barbacoa",
+                "proportion": 0.2
+            },
+            {
+                "name": "ensalada de col",
+                "proportion": 0.1
+            }
+        ],
+        "sugars": 22,
+        "fiber": 5,
+        "fat": 38,
+        "protein": 37,
+        "carbohydrates": 86,
+        "allergies": [
+            "gluten"
+        ],
+        "portion": 200
+    },
+    "dumplings": {
+        "name": "Dumplings",
+        "kcal": 150,
+        "ingredients": [
+            {
+                "name": "masa de dumpling",
+                "proportion": 0.3
+            },
+            {
+                "name": "carne de cerdo",
+                "proportion": 0.3
+            },
+            {
+                "name": "repollo",
+                "proportion": 0.2
+            },
+            {
+                "name": "cebolla",
+                "proportion": 0.1
+            },
+            {
+                "name": "jengibre",
+                "proportion": 0.1
+            }
+        ],
+        "sugars": 2,
+        "fiber": 1,
+        "fat": 7,
+        "protein": 7,
+        "carbohydrates": 12,
+        "allergies": [
+            "gluten"
+        ],
+        "portion": 100
+    },
+    "ramen": {
+        "name": "Ramen",
+        "kcal": 450,
+        "ingredients": [
+            {
+                "name": "fideos de ramen",
+                "proportion": 0.3
+            },
+            {
+                "name": "caldo",
+                "proportion": 0.3
+            },
+            {
+                "name": "cerdo",
+                "proportion": 0.2
+            },
+            {
+                "name": "huevo",
+                "proportion": 0.1
+            },
+            {
+                "name": "cebolla",
+                "proportion": 0.05
+            },
+            {
+                "name": "algas",
+                "proportion": 0.05
+            }
+        ],
+        "sugars": 26,
+        "fiber": 20,
+        "fat": 95,
+        "protein": 103,
+        "carbohydrates": 174,
+        "allergies": [
+            "gluten",
+            "huevos"
+        ],
+        "portion": 400
+    },
+    "cheesecake": {
+        "name": "Tarta de queso",
+        "kcal": 320,
+        "ingredients": [
+            {
+                "name": "queso crema",
+                "proportion": 0.4
+            },
+            {
+                "name": "az\u00facar",
+                "proportion": 0.3
+            },
+            {
+                "name": "huevos",
+                "proportion": 0.2
+            },
+            {
+                "name": "galletas",
+                "proportion": 0.1
+            }
+        ],
+        "sugars": 24,
+        "fiber": 2,
+        "fat": 26,
+        "protein": 9,
+        "carbohydrates": 37,
+        "allergies": [
+            "gluten",
+            "huevos",
+            "l\u00e1cteos"
+        ],
+        "portion": 125
+    },
+    "spaghetti_bolognese": {
+        "name": "Espaguetis a la bolo\u00f1esa",
+        "kcal": 350,
+        "ingredients": [
+            {
+                "name": "espaguetis",
+                "proportion": 0.3
+            },
+            {
+                "name": "carne de res",
+                "proportion": 0.3
+            },
+            {
+                "name": "tomate",
+                "proportion": 0.2
+            },
+            {
+                "name": "cebolla",
+                "proportion": 0.1
+            },
+            {
+                "name": "ajo",
+                "proportion": 0.05
+            },
+            {
+                "name": "zanahoria",
+                "proportion": 0.05
+            }
+        ],
+        "sugars": 25,
+        "fiber": 15,
+        "fat": 38,
+        "protein": 51,
+        "carbohydrates": 163,
+        "allergies": [
+            "gluten"
+        ],
+        "portion": 250
+    },
+    "huevos_rancheros": {
+        "name": "Huevos rancheros",
+        "kcal": 300,
+        "ingredients": [
+            {
+                "name": "huevos",
+                "proportion": 0.3
+            },
+            {
+                "name": "tortillas",
+                "proportion": 0.3
+            },
+            {
+                "name": "tomate",
+                "proportion": 0.2
+            },
+            {
+                "name": "cebolla",
+                "proportion": 0.1
+            },
+            {
+                "name": "frijoles",
+                "proportion": 0.1
+            }
+        ],
+        "sugars": 17,
+        "fiber": 11,
+        "fat": 37,
+        "protein": 29,
+        "carbohydrates": 82,
+        "allergies": [
+            "huevos",
+            "gluten"
+        ],
+        "portion": 200
+    }
+}

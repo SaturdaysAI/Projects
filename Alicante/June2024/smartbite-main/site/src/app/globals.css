@@ -1,0 +1,110 @@
+:root {
+  --accent: 191, 255, 0;
+  --accent-light: 223, 255, 127;
+  --accent-dark: 49, 10, 101;
+  --accent-gradient: linear-gradient(
+    45deg,
+    rgb(var(--accent)),
+    rgb(var(--accent-light)) 30%,
+    white 60%
+  );
+
+  --primary-50: #f0fff4;
+  --primary-100: #ccf7e8;
+  --primary-200: #99ebd1;
+  --primary-300: #5ce6a7;
+  --primary-400: #2dbe82;
+  --primary-500: #00a96f;
+  --primary-600: #008e5e;
+  --primary-700: #007352;
+  --primary-800: #005c49;
+  --primary-900: #004c3f;
+  --primary-950: #003f37;
+  --secondary-50: #faf5ff;
+  --secondary-100: #e9d8ff;
+  --secondary-200: #d5a9ff;
+  --secondary-300: #c472ff;
+  --secondary-400: #ad47ff;
+  --secondary-500: #932dff;
+  --secondary-600: #7b16d6;
+  --secondary-700: #6910b5;
+  --secondary-800: #580d94;
+  --secondary-900: #4a0b7b;
+  --secondary-950: #3d0a63;
+
+  --neutral-50: #f9fafb;
+  --neutral-100: #f3f4f6;
+  --neutral-200: #e5e7eb;
+  --neutral-300: #d1d5db;
+  --neutral-400: #9ca3af;
+  --neutral-500: #6b7280;
+  --neutral-600: #4b5563;
+  --neutral-700: #374151;
+  --neutral-800: #1f2937;
+  --neutral-900: #111827;
+  --neutral-950: #0b0f19;
+  --spacing-xxs: 1px;
+  --spacing-xs: 2px;
+  --spacing-sm: 4px;
+  --spacing-md: 6px;
+  --spacing-lg: 8px;
+  --spacing-xl: 10px;
+  --spacing-xxl: 16px;
+  --radius-xxs: 1px;
+  --radius-xs: 2px;
+  --radius-sm: 4px;
+  --radius-md: 6px;
+  --radius-lg: 8px;
+  --radius-xl: 12px;
+  --radius-xxl: 22px;
+  --text-xxs: 9px;
+  --text-xs: 10px;
+  --text-sm: 12px;
+  --text-md: 14px;
+  --text-lg: 16px;
+  --text-xl: 22px;
+  --text-xxl: 26px;
+  --font: 'Source Sans Pro', 'ui-sans-serif', 'system-ui', sans-serif;
+  --font-mono: 'IBM Plex Mono', 'ui-monospace', 'Consolas', monospace;
+  --button-border-width: var(--input-border-width);
+  --button-cancel-background-fill: linear-gradient(to bottom right, #fee2e2, #fecaca);
+  --button-cancel-background-fill-hover: linear-gradient(to bottom right, #fee2e2, #fee2e2);
+  --button-cancel-border-color: #fecaca;
+  --button-cancel-border-color-hover: var(--button-cancel-border-color);
+  --button-cancel-text-color: #dc2626;
+  --button-cancel-text-color-hover: var(--button-cancel-text-color);
+  --button-large-padding: var(--spacing-lg) calc(2 * var(--spacing-lg));
+  --button-large-radius: var(--radius-lg);
+  --button-large-text-size: var(--text-lg);
+  --button-large-text-weight: 600;
+  --button-primary-background-fill: linear-gradient(to bottom right, var(--primary-100), var(--primary-300));
+  --button-primary-background-fill-hover: linear-gradient(to bottom right, var(--primary-100), var(--primary-200));
+  --button-primary-border-color: var(--primary-200);
+  --button-primary-border-color-hover: var(--button-primary-border-color);
+  --button-primary-text-color: var(--primary-600);
+  --button-primary-text-color-hover: var(--button-primary-text-color);
+  --button-secondary-background-fill: linear-gradient(to bottom right, var(--neutral-100), var(--neutral-200));
+  --button-secondary-background-fill-hover: linear-gradient(to bottom right, var(--neutral-100), var(--neutral-100));
+  --button-secondary-border-color: var(--neutral-200);
+  --button-secondary-border-color-hover: var(--button-secondary-border-color);
+  --button-secondary-text-color: var(--neutral-700);
+  --button-secondary-text-color-hover: var(--button-secondary-text-color);
+}
+
+html {
+  font-family: system-ui, sans-serif;
+  background: #13151a;
+  background-size: 224px;
+}
+
+code {
+  font-family:
+    Menlo,
+    Monaco,
+    Lucida Console,
+    Liberation Mono,
+    DejaVu Sans Mono,
+    Bitstream Vera Sans Mono,
+    Courier New,
+    monospace;
+}
