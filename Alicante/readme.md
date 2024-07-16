@@ -2,6 +2,11 @@
 
 <p align="center"><img width="50%" size="50" src="https://do3z7e6uuakno.cloudfront.net/uploads/event/logo/1094417/237bba15b9d332af12d49a484c210d39.png" /></p>
 
+## Clase Graduada Junio 2024
+
++ [Repositorio](https://github.com/SaturdaysAI/Projects/tree/master/Alicante/June2024)
+
+
 ## Clase Graduada Mayo 2022
 
 + [Repositorio](https://github.com/SaturdaysAI/Projects/tree/master/Alicante/Mayo2022)
