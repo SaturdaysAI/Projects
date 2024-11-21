@@ -1,4 +1,4 @@
-notebook==6.1.5
+notebook==6.4.12
 jupyter
 matplotlib
 numpy>=1.11.0
