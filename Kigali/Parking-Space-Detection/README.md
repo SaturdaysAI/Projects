@@ -75,6 +75,22 @@ IntelligentSystemforParkingSpaceDetection is an intelligent parking space detect
    - The app uses OpenCV to draw angled corner boxes around detected parking spaces.
    - Text overlays provide information about empty and filled space counts.
 
+## Known Issues
+
+### Missing Modules for Full Functionality
+
+While deploying the application, you may encounter errors due to missing modules or dependencies. These issues occur because certain modules referenced in the code are not included in the current project setup. These modules are non-essential for the core functionality of the application but can prevent it from running as expected.
+
+### Temporary Solution
+
+To temporarily resolve this issue and deploy the application, you can remove or comment out the calls to the missing modules in the code. These modules are not critical for features such as parking space detection and analysis.
+
+#### Steps to Apply the Temporary Fix:
+
+1. Open the project files in your code editor.
+2. Locate the lines where the missing modules are imported or called.
+3. Comment out or delete these lines.
+
 ## Contributing
 
 Contributions to IntelligentSystemforParkingSpaceDetection are welcome! Please feel free to submit pull requests, create issues or spread the word.
