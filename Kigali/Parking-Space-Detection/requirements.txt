@@ -1,0 +1,54 @@
+# Core Web Framework
+streamlit
+fastapi
+uvicorn
+
+# Machine Learning & Computer Vision
+ultralytics
+torch
+torchvision
+opencv-python-headless
+numpy
+Pillow
+
+# Vector Database & Embeddings
+qdrant-client
+sentence-transformers
+langchain
+langchain-community
+langchain-core
+langchain-huggingface
+langchain-qdrant
+langchain-ollama
+
+# Data Processing & Analytics
+pandas
+plotly
+scikit-learn
+scipy
+streamlit-js-eval
+opencv-python
+requests
+
+# Database
+sqlalchemy
+aiosqlite
+python-multipart
+
+# Security
+python-jose[cryptography]
+passlib[bcrypt]
+python-dotenv
+
+# Monitoring & Logging
+prometheus-client
+python-logging-loki
+
+# Development & Testing
+onnx
+pytest
+black
+flake8
+mypy
+
+unstructured[pdf]

@@ -1,0 +1,27 @@
+consumes:
+  - multipart/form-data
+parameters:
+  - name: file
+    in: formData
+    type: file
+    required: true
+    description: The audio file to upload
+responses:
+  200:
+    description: The sentiment prediction result
+    schema:
+      id: SentimentPrediction
+      properties:
+        message:
+          type: string
+          description: Success message
+        filename:
+          type: string
+          description: Name of the uploaded file
+        sentiment:
+          type: string
+          description: Predicted sentiment (negative, neutral, positive)
+  400:
+    description: Bad request (e.g., missing file, invalid format)
+  500:
+    description: Internal server error (e.g., prediction error)

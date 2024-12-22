@@ -1,0 +1,142 @@
+/* Common Styles */
+body {
+    height: 100vh;
+    width: 100vw;
+    margin: 0;
+    padding: 0;
+    font-family: 'Baloo Chettan 2', cursive;
+    transition: background 0.3s ease;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.main {
+    height: 90vh;
+    background: #FFFFFF;
+    border-radius: 5px;
+    box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+}
+
+.video {
+    height: 50vh;
+    background: #30257F;
+    border-bottom: 15px solid #171558;
+    border-radius: 5px 5px 0 0;
+    display: flex;
+    justify-content: center;
+}
+
+.text {
+    display: flex;
+    padding: 50px 20px;
+    font-size: 36px;
+}
+
+.text > * > .title {
+    font-size: 20px;
+    opacity: 0.7;
+}
+
+.text > .left {
+    width: 40%;
+}
+
+.text > .left > .content {
+    font-size: 25px;
+}
+
+.text > .right > .content {
+    font-size: 35px;
+}
+
+img {
+    height: 50vh;
+    margin: auto;
+    border-radius: 5px 5px 0 0;
+}
+
+@media only screen and (max-width: 500px) {
+    .text {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .video {
+        height: 30vh;
+    }
+
+    img {
+        width: 100vw;
+        max-height: 30vh;
+        border-radius: 0;
+    }
+
+    .main {
+        min-height: 100vh;
+        width: 100vw;
+        border-radius: 0;
+    }
+
+    .text > * > .title {
+        padding: 10px;
+        font-size: 20px;
+        opacity: 0.7;
+        padding: 0;
+        margin: 0;
+    }
+
+    .text > .left > .content {
+        font-size: 20px;
+    }
+
+    .text > .right > .content {
+        font-size: 25px;
+    }
+}
+
+/* Dark Mode Styles */
+body.dark-mode {
+    background: linear-gradient(99deg, rgba(2,0,36,1) 3%, rgba(11,11,13,1) 73%, rgba(33,27,23,1) 98%);
+    color: white;
+}
+
+.dark-mode .main {
+    background: #333333;
+    color: white;
+}
+
+.dark-mode .video {
+    background: #171558;
+}
+
+/* Light Mode Styles */
+body.light-mode {
+    background: linear-gradient(99deg, rgba(255,255,255,1) 3%, rgba(245,245,245,1) 73%, rgba(230,230,230,1) 98%);
+    color: black;
+}
+
+.light-mode .main {
+    background: #FFFFFF;
+    color: black;
+}
+
+.light-mode .video {
+    background: #DDDDDD;
+}
+
+.theme-toggle-btn {
+    position: fixed;
+    top: 10px;
+    right: 10px;
+    padding: 10px 20px;
+    cursor: pointer;
+    background-color: #3a4550;
+    color: white;
+    border: none;
+    border-radius: 5px;
+}

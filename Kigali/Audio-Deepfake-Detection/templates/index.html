@@ -1,0 +1,236 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Deep Fake Audio Detection</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+
+</head>
+<body>
+    <h1>Deep Fake Audio Detection</h1>
+
+    <div>
+        <h2>File Upload</h2>
+        <form method="POST" enctype="multipart/form-data" action="/">
+            <input type="file" name="file" accept="audio/*" required>
+            <button type="submit">Upload and Predict</button>
+        </form>
+
+        <div id="predictionContainer" class="prediction {% if pred is none %}default{% elif pred == 'Real Voice' %}real-voice{% else %}fake-voice{% endif %}">
+            <span id="predictionText">Prediction: {% if pred is none %}None{% else %}{{ pred }}{% endif %}</span>
+        </div>
+    </div>
+
+    <div>
+        <h2>Real-Time Prediction</h2>
+        <input type="file" id="audioFileInput" accept="audio/*">
+        <audio id="audioPlayer" controls></audio>
+        <button id="analyzeButton" disabled>Start Call</button>
+        <div id="playbackAnalysisResult"></div>
+    </div>
+
+    <script>
+        let mediaRecorder;
+        let audioChunks = [];
+        let recordingStartTime;
+        const CHUNK_DURATION = 5000; // 5 seconds in milliseconds
+
+        document.addEventListener('DOMContentLoaded', function() {
+            const predictionContainer = document.getElementById('predictionContainer');
+            const predictionText = document.getElementById('predictionText');
+            const form = document.querySelector('form');
+
+            form.addEventListener('submit', function(e) {
+                e.preventDefault();
+                predictionText.textContent = 'Predicting...';
+
+                const formData = new FormData(this);
+                fetch('/', {
+                    method: 'POST',
+                    body: formData
+                })
+                .then(response => response.text())
+                .then(html => {
+                    const parser = new DOMParser();
+                    const doc = parser.parseFromString(html, 'text/html');
+                    const newPredictionContainer = doc.querySelector('#predictionContainer');
+                    if (newPredictionContainer) {
+                        predictionContainer.className = newPredictionContainer.className;
+                        predictionText.textContent = newPredictionContainer.querySelector('#predictionText').textContent;
+                    } else {
+                        predictionContainer.className = 'prediction default';
+                        predictionText.textContent = 'Prediction: None';
+                    }
+                })
+                .catch(error => {
+                    console.error('Error:', error);
+                    predictionContainer.className = 'prediction default';
+                    predictionText.textContent = 'Prediction: None';
+                });
+            });
+
+            const fileInput = document.querySelector('input[type="file"]');
+            fileInput.addEventListener('change', function() {
+                predictionContainer.className = 'prediction default';
+                predictionText.textContent = 'Prediction: None';
+            });
+        });
+
+        async function sendAudioChunk() {
+            const audioBlob = new Blob(audioChunks, { type: 'audio/webm' });
+            const formData = new FormData();
+            formData.append('file', audioBlob, 'chunk.webm');
+
+            try {
+                const response = await fetch('/predict_chunk', {
+                    method: 'POST',
+                    body: formData
+                });
+
+                const result = await response.json();
+                const predText = result.prediction >= 0.5 ? "Real Voice" : "Fake Voice";
+                document.getElementById('realTimePrediction').innerHTML = `Prediction: ${predText}`;
+            } catch (error) {
+                console.error('Error:', error);
+                document.getElementById('realTimePrediction').textContent = 'Error processing audio';
+            }
+
+            audioChunks = [];
+            recordingStartTime = Date.now();
+        }
+
+        const audioFileInput = document.getElementById('audioFileInput');
+        const audioPlayer = document.getElementById('audioPlayer');
+        const analyzeButton = document.getElementById('analyzeButton');
+        const playbackAnalysisResult = document.getElementById('playbackAnalysisResult');
+
+        audioFileInput.addEventListener('change', function(event) {
+            const file = event.target.files[0];
+            audioPlayer.src = URL.createObjectURL(file);
+            analyzeButton.disabled = false;
+        });
+
+        analyzeButton.addEventListener('click', function() {
+            const file = audioFileInput.files[0];
+            if (file) {
+                analyzeAudioFile(file);
+            }
+        });
+
+        async function analyzeAudioFile(file) {
+            playbackAnalysisResult.innerHTML = 'Analyzing...';
+            const arrayBuffer = await file.arrayBuffer();
+            const audioContext = new (window.AudioContext || window.webkitAudioContext)();
+            const audioBuffer = await audioContext.decodeAudioData(arrayBuffer);
+            
+            const sampleRate = 22050;
+            const offlineContext = new OfflineAudioContext(
+                audioBuffer.numberOfChannels,
+                audioBuffer.duration * sampleRate,
+                sampleRate
+            );
+            
+            const source = offlineContext.createBufferSource();
+            source.buffer = audioBuffer;
+            source.connect(offlineContext.destination);
+            source.start();
+            
+            const resampled = await offlineContext.startRendering();
+            
+            const length = resampled.length;
+            const chunkSize = 5 * sampleRate;
+            const channels = [...Array(resampled.numberOfChannels)].map((_, i) => resampled.getChannelData(i));
+            
+            playbackAnalysisResult.innerHTML = '';
+            let voteCount = 0;
+            let realVotes = 0;
+            
+            audioPlayer.currentTime = 0;
+            audioPlayer.play();
+
+            const startTime = audioContext.currentTime;
+
+            for (let i = 0; i < length; i += chunkSize) {
+                const chunkEnd = Math.min(i + chunkSize, length);
+                const chunk = channels.map(channel => channel.slice(i, chunkEnd));
+                const prediction = await sendAudioChunkForAnalysis(chunk, sampleRate);
+                voteCount++;
+                if (prediction >= 0.5) realVotes++;
+                const currentVote = prediction >= 0.5 ? "Real Voice" : "Fake Voice";
+                const voteColor = prediction >= 0.5 ? "#2ecc71" : "#e74c3c"; // Green for Real, Red for Fake
+                playbackAnalysisResult.innerHTML += `<p style="color: ${voteColor};"> Prediction ${voteCount}: ${currentVote}</p>`;
+                
+                const chunkDuration = (chunkEnd - i) / sampleRate;
+                const nextChunkStart = startTime + (i / sampleRate) + chunkDuration;
+                const currentTime = audioContext.currentTime;
+                if (nextChunkStart > currentTime) {
+                    await new Promise(resolve => setTimeout(resolve, (nextChunkStart - currentTime) * 1000));
+                }
+            }
+            
+            const finalPrediction = realVotes / voteCount > 0.5 ? "Real Voice" : "Fake Voice";
+            const finalColor = realVotes / voteCount > 0.5 ? "#2ecc71" : "#e74c3c";
+            playbackAnalysisResult.innerHTML += `<p style="color: ${finalColor};"><strong>Final Prediction: ${finalPrediction}</strong></p>`;
+        }
+
+        async function sendAudioChunkForAnalysis(chunk, sampleRate) {
+            const wavBuffer = encodeWAV(chunk, sampleRate);
+            const blob = new Blob([wavBuffer], { type: 'audio/wav' });
+            const formData = new FormData();
+            formData.append('file', blob, 'chunk.wav');
+
+            try {
+                const response = await fetch('/predict_chunk', {
+                    method: 'POST',
+                    body: formData
+                });
+
+                const result = await response.json();
+                return result.prediction;
+            } catch (error) {
+                console.error('Error processing audio chunk:', error);
+                playbackAnalysisResult.innerHTML += '<p>Error processing audio chunk</p>';
+                return 0;
+            }
+        }
+
+        function encodeWAV(samples, sampleRate) {
+            const buffer = new ArrayBuffer(44 + samples[0].length * 2);
+            const view = new DataView(buffer);
+
+            writeString(view, 0, 'RIFF');
+            view.setUint32(4, 36 + samples[0].length * 2, true);
+            writeString(view, 8, 'WAVE');
+            writeString(view, 12, 'fmt ');
+            view.setUint32(16, 16, true);
+            view.setUint16(20, 1, true);
+            view.setUint16(22, samples.length, true);
+            view.setUint32(24, sampleRate, true);
+            view.setUint32(28, sampleRate * 2, true);
+            view.setUint16(32, samples.length * 2, true);
+            view.setUint16(34, 16, true);
+            writeString(view, 36, 'data');
+            view.setUint32(40, samples[0].length * 2, true);
+
+            const length = samples[0].length;
+            let offset = 44;
+            for (let i = 0; i < length; i++) {
+                for (let channel = 0; channel < samples.length; channel++) {
+                    const s = Math.max(-1, Math.min(1, samples[channel][i]));
+                    view.setInt16(offset, s < 0 ? s * 0x8000 : s * 0x7FFF, true);
+                    offset += 2;
+                }
+            }
+
+            return buffer;
+        }
+
+        function writeString(view, offset, string) {
+            for (let i = 0; i < string.length; i++) {
+                view.setUint8(offset + i, string.charCodeAt(i));
+            }
+        }
+    </script>
+</body>
+</html>

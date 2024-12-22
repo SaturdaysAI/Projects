@@ -1,0 +1,45 @@
+# Python
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+*.pdb
+
+# Environment variables
+.env
+*.env
+
+# Flask
+instance/
+*.sqlite3
+*.db
+*.log
+*.pid
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# JavaScript
+node_modules/
+npm-debug.log
+yarn-error.log
+yarn-debug.log
+*.min.js
+*.map
+
+# HTML/CSS/JavaScript Build Files
+dist/
+build/
+*.css.map
+*.js.map
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# macOS
+*.DS_Store
+
+# Windows
+*.vscode/

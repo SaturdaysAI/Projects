@@ -1,0 +1,35 @@
+name: Flask App Health Check (Docker)
+
+on: [push]
+
+jobs:
+  health_check:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out the code
+        uses: actions/checkout@v3
+
+      - name: Build Docker image
+        run: |
+          docker build -t flask-app .
+
+      - name: Run Flask app in Docker container
+        run: |
+          docker run -d -p 5000:5000 --name flask_container flask-app
+          sleep 5  # Give the app time to start
+
+      - name: Check if Flask app is running
+        run: |
+          RESPONSE=$(curl -s -o /dev/null -w "%{http_code}" http://127.0.0.1:5000/)
+          if [ "$RESPONSE" -eq 200 ]; then
+            echo "Flask app is running successfully."
+          else
+            echo "Flask app is not running or returned an error. Status code: $RESPONSE"
+            exit 1
+          fi
+
+      - name: Stop and remove Docker container
+        run: |
+          docker stop flask_container
+          docker rm flask_container

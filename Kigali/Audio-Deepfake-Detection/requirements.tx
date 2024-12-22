@@ -1,0 +1,14 @@
+audioread==3.0.1
+Flask==3.0.3
+Flask-SocketIO==5.4.1
+h11==0.14.0
+librosa==0.10.2.post1
+numpy==1.24.4
+python-socketio==5.11.4
+requests==2.32.3
+simple-websocket==1.1.0
+soundfile==0.12.1
+torch==1.9.0
+urllib3==2.2.3
+Werkzeug==3.0.4
+
