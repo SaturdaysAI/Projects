@@ -1,11 +1,26 @@
-# Diabetes-Prediction-using-Machine-learning
+# Diabetes Prediction Using Machine Learning
 
+Diabetes prediction using machine learning involves leveraging data and algorithms to predict whether an individual is likely to have diabetes. This project focuses on binary classification, aiming to determine if a person belongs to the "diabetic" or "non-diabetic" category based on input features.
 
-Diabetes prediction using machine learning involves using data and machine learning algorithms to predict whether an individual is likely to have diabetes or not. It is a task of binary classification, where the goal is to determine if a person belongs to the "diabetic" or "non-diabetic" class based on a set of input features.
+## Installation
 
+### Prerequisites
 
+- **Python 3.9+**
+- numpy
+- pandas
+- matplotlib
+- seaborn
 
-## Let's Build a model with graphical user interface to make it easier to user.
+### Setup
 
+1. **Clone the Repository**:
+    ```bash
+    git clone <REPOSITORY_URL>
+    cd <PROJECT_NAME>
+    ```
 
-we'll use different algorithms and metric of accuracy which will determine for us which is the best model that we should use.
+2. **Install Dependencies**
+
+3. **Run the Notebook**:
+   Open the Jupyter Notebook file `Diabetes_Prediction_using_Machine_Learning.ipynb` and run all cells to execute the project.
