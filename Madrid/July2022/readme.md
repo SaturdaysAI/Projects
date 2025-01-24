@@ -1,3 +1,5 @@
+<p align="center"><img width="50%" src="https://saturdaysai.github.io/saturdaysai/images/logo.png" /></p>
+
 ## Projects AI Saturdays Madrid 5th Edition - graduated on july 2022
 
 :) Hi! We are still updating some of the projects... also, bear in mind these repos are an open-source snapshot in the moment of the Demoday, meaning that some of these may continue independently.
@@ -67,3 +69,17 @@ WIP
 ++ [Repositorio](https://github.com/SaturdaysAI/Projects/tree/master/Madrid/July2022/smurf-busters)
 
 
+## 💾Download repository
+
+To explore these projects, you can clone this repository:
+```
+git clone https://github.com/SaturdaysAI/Projects/tree/master/Madrid/July2022.git
+```
+Alternatively, you can download each project individually by navigating to their respective folders and following the instructions provided within each project’s README file.
+Each project has its specific requirements and setup details explained in its documentation.
+
+## 🌐Learn More about SaturdaysAI
+
+If you’d like to learn more about SaturdaysAI and our mission to make artificial intelligence education accessible to everyone, visit our official website:
+
+[SaturdaysAI Website](https://saturdays.ai/)
