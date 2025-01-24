@@ -1,5 +1,4 @@
 # Projects built during AI Saturdays Alicante
-
 <p align="center"><img width="50%" size="50" src="https://do3z7e6uuakno.cloudfront.net/uploads/event/logo/1094417/237bba15b9d332af12d49a484c210d39.png" /></p>
 
 ## Clase Graduada Junio 2024
@@ -116,3 +115,17 @@ Code: https://github.com/JuanManC/SaturdayAIProject
 Presentation: https://drive.google.com/file/d/1ZvrVuPJ-eG891tdn81mufcbvELQ46Wx4/view?usp=sharing
 
 
+## 💾Descargar el repositorio
+
+Para explorar estos proyectos, puedes clonar este repositorio:
+```
+git clone https://github.com/SaturdaysAI/Projects/tree/master/Alicante.git
+```
+Alternativamente, puedes descargar cada proyecto individualmente navegando a sus carpetas correspondientes y siguiendo las instrucciones proporcionadas en el archivo README de cada proyecto.
+Cada proyecto tiene requisitos específicos y detalles de configuración explicados en su documentación.
+
+## 🌐Aprende más sobre SaturdaysAI
+
+Si deseas conocer más sobre SaturdaysAI y nuestra misión de hacer la educación en inteligencia artificial accesible para todos, visita nuestro sitio web oficial:
+
+[Sitio Web de SaturdaysAI](https://saturdays.ai/)
