@@ -1,5 +1,7 @@
+<p align="center"><img width="50%" src="https://saturdaysai.github.io/saturdaysai/images/logo.png" /></p>
+
 # Student Experience and Results AI
-### A project from SaturdaysAI
+
 ## Authors:
 - [Iñaki Fernández López-zuazo](https://github.com/InakiFLZ)
 - [Rubén García Pedrejón](https://github.com/rubengp39)
@@ -93,3 +95,16 @@ You can see some more insights in the [NLP document](https://github.com/rubengp3
 # Conclusion
 
 We have learned a lot both about Artificial Intelligence and Customer/Student Satisfaction and we want to give a shout out to all the group of SaturdaysAI Bilbao who have worked really hard and have shared their experience with us.
+
+# 💾Download repository
+
+To explore this project, you can clone this repository:
+```
+git clone https://github.com/SaturdaysAI/Projects/tree/master/StudentExperience-ResultsAI-main.git
+```
+
+# 🌐Learn More about SaturdaysAI
+
+If you’d like to learn more about SaturdaysAI and our mission to make artificial intelligence education accessible to everyone, visit our official website:
+
+[![AI4Good SaturdaysAI](https://img.shields.io/badge/AI4Good-SaturdaysAI-orange)](https://saturdays.ai/)
