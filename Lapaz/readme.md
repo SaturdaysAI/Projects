@@ -16,10 +16,20 @@ Welcome! This repository contains the projects developed by the students of Satu
 6) [Proyecto 6 Maltrato y abandono animal (pendiente).](Proyecto_6)
 
 ### AI Saturdays La Paz Machine learning 2nd Edition (2021/02) Class
-+ [Repo](2021.ML2)
+
+1) [Equipo 1](2021.ML2/Equipo%201)
+2) [Equipo 2](2021.ML2/Equipo%202)
+3) [Equipo 3](2021.ML2/Equipo%203)
+4) [Equipo 4](2021.ML2/Equipo%204)
+5) [Equipo 5](2021.ML2/Equipo%205)
+6) [Equipo 6](2021.ML2/Equipo%206)
+7) [Equipo 7](2021.ML2/Equipo%207)
 
 ### AI Saturdays La Paz Deep Learning Edition (2021/11) Class
-+ [Repo](2021.DL)
+
+1) [BreastCancerDetection_CNN](2021.DL/BreastCancerDetection_CNN-master/BreastCancerDetection_CNN-master)
+2) [Coloracion-de-videos](2021.DL/Coloracion-de-videos-main)
+3) [Deteccion-facturas-manuales](2021.DL/Deteccion-facturas-manuales-main)
 
 ## 💾Download repository
 
