@@ -1,8 +1,8 @@
 <p align="center"><img width="50%" src="https://saturdaysai.github.io/saturdaysai/images/logo.png" /></p>
 
-# SaturdaysAI Projects - Alicante - Abril 2019
+# SaturdaysAI Projects - Alicante - April 2019
 
-Welcome! This repository contains the projects developed by the students of SaturdaysAI in Alicante during Abril 2019. Each project showcases the application of artificial intelligence to solve diverse challenges, demonstrating the creativity and skills of the participants.
+Welcome! This repository contains the projects developed by the students of SaturdaysAI in Alicante during April 2019. Each project showcases the application of artificial intelligence to solve diverse challenges, demonstrating the creativity and skills of the participants.
 
 ## 🔍Table of Contents
 
