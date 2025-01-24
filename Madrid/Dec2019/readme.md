@@ -1,3 +1,5 @@
+<p align="center"><img width="50%" src="https://saturdaysai.github.io/saturdaysai/images/logo.png" /></p>
+
 ## Projects built during AI Saturdays Madrid 2ª Edición Septiembre a Diciembre 2019
 
 ***Proyectos 2ª edición Saturdays.AI Madrid***
@@ -63,3 +65,18 @@ Este grupo usó datos de la EMT, empresa de servicios de transporte público, y 
 Usaron un algoritmo de machine learning para predecir la estación de destino de un usuario de bicimad.
 https://github.com/ravyoli314/EMT-project
 
+
+## 💾Descargar el repositorio
+
+Para explorar estos proyectos, puedes clonar este repositorio:
+```
+git clone https://github.com/SaturdaysAI/Projects/tree/master/Madrid/Dec2019.git
+```
+Alternativamente, puedes descargar cada proyecto individualmente navegando a sus carpetas correspondientes y siguiendo las instrucciones proporcionadas en el archivo README de cada proyecto.
+Cada proyecto tiene requisitos específicos y detalles de configuración explicados en su documentación.
+
+## 🌐Aprende más sobre SaturdaysAI
+
+Si deseas conocer más sobre SaturdaysAI y nuestra misión de hacer la educación en inteligencia artificial accesible para todos, visita nuestro sitio web oficial:
+
+[Sitio Web de SaturdaysAI](https://saturdays.ai/)
