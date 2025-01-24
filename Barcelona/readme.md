@@ -25,4 +25,4 @@ Each project has its specific requirements and setup details explained in its do
 
 If you’d like to learn more about SaturdaysAI and our mission to make artificial intelligence education accessible to everyone, visit our official website:
 
-[SaturdaysAI Website](https://saturdays.ai/)
+[![AI4Good SaturdaysAI](https://img.shields.io/badge/AI4Good-SaturdaysAI-orange)](https://saturdays.ai/)
