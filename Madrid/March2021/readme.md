@@ -54,7 +54,7 @@ sAItelite permite predecir la temperatura y metalicidad de las estrellas a parti
 
 Para explorar estos proyectos, puedes clonar este repositorio:
 ```
-git clone https://github.com/SaturdaysAI/Projects/tree/master/[City]/[Edition].git
+git clone https://github.com/SaturdaysAI/Projects/tree/master/Madrid/March2021.git
 ```
 Alternativamente, puedes descargar cada proyecto individualmente navegando a sus carpetas correspondientes y siguiendo las instrucciones proporcionadas en el archivo README de cada proyecto.
 Cada proyecto tiene requisitos específicos y detalles de configuración explicados en su documentación.
