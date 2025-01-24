@@ -1,8 +1,10 @@
-Projects built during AI Saturdays Asturias
+<p align="center"><img width="50%" src="https://saturdaysai.github.io/saturdaysai/images/logo.png" /></p>
 
-### Clase Graduada Junio 2024:
+# Proyectos SaturdaysAI - Asturias - Junio 2024
 
----
+¡Bienvenido! Este repositorio contiene los proyectos desarrollados por los estudiantes de SaturdaysAI en Asturias durante Junio 2024. Cada proyecto muestra la aplicación de la inteligencia artificial para resolver diversos desafíos, demostrando la creatividad y las habilidades de los participantes.
+
+## 🔍Tabla de contenidos
 
 <b>1) Grupo 1</b> 
 - <b>Tema:</b> Dementector: Sistema para detectar Demencia a partir de imágenes de Resonancia Magnética Nuclear (MRI) por medio de redes neuronales.
@@ -23,3 +25,18 @@ Projects built during AI Saturdays Asturias
 <b>5) Grupo 5</b> 
 - <b>Tema:</b> Natural Language Processing (NLP) para detectar estrés y emociones asociadas en un tweet.
 - <b>[Repositorio](https://github.com/SaturdaysAI/Projects/tree/master/Asturias/Natural_Language_Processing_(NLP)_para_detectar_estr%C3%A9s_y_emociones_asociadas_en_un_tweet)</b>
+
+## 💾Descargar el repositorio
+
+Para explorar estos proyectos, puedes clonar este repositorio:
+```
+git clone https://github.com/SaturdaysAI/Projects/tree/master/Asturias.git
+```
+Alternativamente, puedes descargar cada proyecto individualmente navegando a sus carpetas correspondientes y siguiendo las instrucciones proporcionadas en el archivo README de cada proyecto.
+Cada proyecto tiene requisitos específicos y detalles de configuración explicados en su documentación.
+
+## 🌐Aprende más sobre SaturdaysAI
+
+Si deseas conocer más sobre SaturdaysAI y nuestra misión de hacer la educación en inteligencia artificial accesible para todos, visita nuestro sitio web oficial:
+
+[Sitio Web de SaturdaysAI](https://saturdays.ai/)
