@@ -1,3 +1,5 @@
+<p align="center"><img width="50%" src="https://saturdaysai.github.io/saturdaysai/images/logo.png" /></p>
+
 ## Projects built during AI Saturdays Madrid 3ª Edición Enero a Mayo 2020
 
 + ***T-Rex EEG***
@@ -83,3 +85,17 @@ Construir un clasificador que prediga si un huracán va a llegar a la costa o no
 https://github.com/jmlora/ai-saturdays-ml-project
 
 
+## 💾Descargar el repositorio
+
+Para explorar estos proyectos, puedes clonar este repositorio:
+```
+git clone https://github.com/SaturdaysAI/Projects/tree/master/Madrid/May2020.git
+```
+Alternativamente, puedes descargar cada proyecto individualmente navegando a sus carpetas correspondientes y siguiendo las instrucciones proporcionadas en el archivo README de cada proyecto.
+Cada proyecto tiene requisitos específicos y detalles de configuración explicados en su documentación.
+
+## 🌐Aprende más sobre SaturdaysAI
+
+Si deseas conocer más sobre SaturdaysAI y nuestra misión de hacer la educación en inteligencia artificial accesible para todos, visita nuestro sitio web oficial:
+
+[Sitio Web de SaturdaysAI](https://saturdays.ai/)
