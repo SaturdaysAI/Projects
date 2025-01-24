@@ -98,4 +98,4 @@ Cada proyecto tiene requisitos específicos y detalles de configuración explica
 
 Si deseas conocer más sobre SaturdaysAI y nuestra misión de hacer la educación en inteligencia artificial accesible para todos, visita nuestro sitio web oficial:
 
-[Sitio Web de SaturdaysAI](https://saturdays.ai/)
+[![AI4Good SaturdaysAI](https://img.shields.io/badge/AI4Good-SaturdaysAI-orange)](https://saturdays.ai/)
