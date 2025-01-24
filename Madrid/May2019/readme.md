@@ -1,3 +1,5 @@
+<p align="center"><img width="50%" src="https://saturdaysai.github.io/saturdaysai/images/logo.png" /></p>
+
 ## Projects built during AI Saturdays Madrid 1ª Edición Enero a Mayo 2019
 
 + ***Early Alzheimer Detection***
@@ -56,3 +58,18 @@ https://www.bookanimation.com/
 Un proyecto de corte mas academico, Nvlr pretende estudiar la concordancia entre dos imagenes y una frase que describe alguna cualidad presente en alguna de ellas. Es un proyecto muy interesante que combina NLP con Redes neuronales convolucionales y que ha requerido la creacion de un conjunto especifico de instrucciones para su desarrollo.
 
 https://github.com/mgonzalezalted/SaturdaysAI_NLP
+
+## 💾Descargar el repositorio
+
+Para explorar estos proyectos, puedes clonar este repositorio:
+```
+git clone https://github.com/SaturdaysAI/Projects/tree/master/Madrid/May2019.git
+```
+Alternativamente, puedes descargar cada proyecto individualmente navegando a sus carpetas correspondientes y siguiendo las instrucciones proporcionadas en el archivo README de cada proyecto.
+Cada proyecto tiene requisitos específicos y detalles de configuración explicados en su documentación.
+
+## 🌐Aprende más sobre SaturdaysAI
+
+Si deseas conocer más sobre SaturdaysAI y nuestra misión de hacer la educación en inteligencia artificial accesible para todos, visita nuestro sitio web oficial:
+
+[Sitio Web de SaturdaysAI](https://saturdays.ai/)
