@@ -6,12 +6,12 @@ Welcome! This repository contains the projects developed by the students of Satu
 
 ## 🔍Table of Contents
 
-1) [AdoptAIme](https://github.com/BZaldua/animal-shelter-AI/)
+1) [AdoptAIme](https://github.com/SaturdaysAI/Projects/tree/master/Donostia/Donostia2020/animal-shelter-AI/)
 2) [Impure Detector](https://github.com/SaturdaysAI/Projects/tree/master/Donostia/Donostia2020/Impure_Detector-main)
-3) [FaceMood](https://github.com/serNAVARRO7/AISaturdays-depresion-rrss)
+3) [FaceMood](https://github.com/SaturdaysAI/Projects/tree/master/Donostia/Donostia2020/AISaturdays-depresion-rrss)
 4) [FER (Facial Expression Recogniser)](https://github.com/SaturdaysAI/Projects/tree/master/Donostia/Donostia2020/Facial_Expression_Saturdays)
-5) [AI Learn to Invest](https://github.com/ImanolR87/AI-Learn-to-invest)
-6) [Algorithmic Marketing](https://github.com/dorronsoro/algorithmic_marketing )
+5) [AI Learn to Invest](https://github.com/SaturdaysAI/Projects/tree/master/Donostia/Donostia2020/AI-Learn-to-invest)
+6) [Algorithmic Marketing](https://github.com/SaturdaysAI/Projects/tree/master/Donostia/Donostia2020/algorithmic_marketing)
 
 ## 💾Download repository
 
