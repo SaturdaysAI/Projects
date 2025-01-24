@@ -1,3 +1,5 @@
+<p align="center"><img width="50%" src="https://saturdaysai.github.io/saturdaysai/images/logo.png" /></p>
+
 ## Projects built during AI Saturdays Madrid 4ª Edición Enero a Junio 2021
 
 + ***Smart Cities***
@@ -47,3 +49,18 @@ B-nAIce es una herramienta que permite la detección automática de mensajes de 
 sAItelite permite predecir la temperatura y metalicidad de las estrellas a partir de sus espectros electromagnéticos. Detecta la intensidad lumínica que recibimos de cada estrella según la longitud de onda (el “color”) de la luz recibida
 
 [Repositorio](https://github.com/guillermoayllon/AIstrophysics)
+
+## 💾Descargar el repositorio
+
+Para explorar estos proyectos, puedes clonar este repositorio:
+```
+git clone https://github.com/SaturdaysAI/Projects/tree/master/[City]/[Edition].git
+```
+Alternativamente, puedes descargar cada proyecto individualmente navegando a sus carpetas correspondientes y siguiendo las instrucciones proporcionadas en el archivo README de cada proyecto.
+Cada proyecto tiene requisitos específicos y detalles de configuración explicados en su documentación.
+
+## 🌐Aprende más sobre SaturdaysAI
+
+Si deseas conocer más sobre SaturdaysAI y nuestra misión de hacer la educación en inteligencia artificial accesible para todos, visita nuestro sitio web oficial:
+
+[Sitio Web de SaturdaysAI](https://saturdays.ai/)
