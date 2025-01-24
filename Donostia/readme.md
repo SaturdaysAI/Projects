@@ -8,19 +8,19 @@ Welcome! This repository contains the projects developed by the students of Satu
 
 ### Class of September 2020
 
-- [AdoptAIme](https://github.com/BZaldua/animal-shelter-AI/)
-- [Impure Detector](https://github.com/SaturdaysAI/Projects/tree/master/Donostia/Donostia2020/Impure_Detector-main)
-- [FaceMood](https://github.com/serNAVARRO7/AISaturdays-depresion-rrss)
-- [FER (Facial Expression Recogniser)](https://github.com/SaturdaysAI/Projects/tree/master/Donostia/Donostia2020/Facial_Expression_Saturdays)
-- [AI Learn to Invest](https://github.com/ImanolR87/AI-Learn-to-invest)
-- [Algorithmic Marketing](https://github.com/dorronsoro/algorithmic_marketing )
+1) [AdoptAIme](https://github.com/SaturdaysAI/Projects/tree/master/Donostia/Donostia2020/animal-shelter-AI/)
+2) [Impure Detector](https://github.com/SaturdaysAI/Projects/tree/master/Donostia/Donostia2020/Impure_Detector-main)
+3) [FaceMood](https://github.com/SaturdaysAI/Projects/tree/master/Donostia/Donostia2020/AISaturdays-depresion-rrss)
+4) [FER (Facial Expression Recogniser)](https://github.com/SaturdaysAI/Projects/tree/master/Donostia/Donostia2020/Facial_Expression_Saturdays)
+5) [AI Learn to Invest](https://github.com/SaturdaysAI/Projects/tree/master/Donostia/Donostia2020/AI-Learn-to-invest)
+6) [Algorithmic Marketing](https://github.com/SaturdaysAI/Projects/tree/master/Donostia/Donostia2020/algorithmic_marketing)
 
 
 ### Class of February 2021
 
-- [FocusOnDriving](https://github.com/SaturdaysAI/Projects/tree/master/Donostia/Donostia2021/focusondriving-main)
-- [Humands](https://github.com/SaturdaysAI/Projects/tree/master/Donostia/Donostia2021/HUMANDS-master)
-- [Student Experience](https://github.com/SaturdaysAI/Projects/tree/master/Donostia/Donostia2021/StudentExperience-ResultsAI-main)
+1) [FocusOnDriving](https://github.com/SaturdaysAI/Projects/tree/master/Donostia/Donostia2021/focusondriving-main)
+2) [Humands](https://github.com/SaturdaysAI/Projects/tree/master/Donostia/Donostia2021/HUMANDS-master)
+3) [Student Experience](https://github.com/SaturdaysAI/Projects/tree/master/Donostia/Donostia2021/StudentExperience-ResultsAI-main)
 
 ## 💾Download repository
 
