@@ -2,7 +2,7 @@
 
 # Proyectos SaturdaysAI - Copenhage - Junio 2022
 
-¡Bienvenido! Este repositorio contiene los proyectos desarrollados por los estudiantes de SaturdaysAI en [Ciudad] durante [Edición]. Cada proyecto muestra la aplicación de la inteligencia artificial para resolver diversos desafíos, demostrando la creatividad y las habilidades de los participantes.
+¡Bienvenido! Este repositorio contiene los proyectos desarrollados por los estudiantes de SaturdaysAI en Copenhage durante Junio 2022. Cada proyecto muestra la aplicación de la inteligencia artificial para resolver diversos desafíos, demostrando la creatividad y las habilidades de los participantes.
 
 ## 🔍Tabla de contenidos
 
