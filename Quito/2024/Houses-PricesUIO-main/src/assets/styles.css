@@ -1,0 +1,204 @@
+/* src/assets/styles.css */
+
+/* Paleta de colores */
+:root {
+  --primary-purple: #8C81CA;
+  --dark-purple: #534482;
+  --accent-yellow: #eed21b;
+  --background-black: #1c1c1c;
+  --background-blackLigth: #363636;
+  --background-blackLigth2: #4d4d4d;
+  --backgroud-purpleligt: #382d58;
+  --text-white: #ffffff;
+  --text-black: #0d0d0d;
+}
+
+/* Franja morada */
+.purple-bar {
+  background-color: var(--background-black); /* Usa el mismo tono de morado */
+  height: 20px; /* Altura de la franja */
+  width: 100%; /* Ocupa todo el ancho */
+}
+
+/* Contenedor principal */
+.page-container {
+  font-family: 'Arial', sans-serif;
+  background-color: var(--background-black); /* Fondo negro */
+  color: var(--text-white);
+  padding: 20px;
+  text-align: center;
+}
+
+/* Encabezado */
+.banner {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 40px;
+  background-color: var(--text-white); /* Cambiar a blanco */
+  padding: 5px;
+  border-radius: 10px 10px 10px 10px; /* Bordes inferiores redondeados */
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2); /* Sombra ligera */
+}
+
+.banner-image {
+  width: 400px; /* Aumentar el tamaño del logo */
+  height: auto;
+  margin-bottom: 10px;
+}
+
+.banner-title {
+  font-size: 25px; /* Incrementar tamaño del texto */
+  font-weight: bold;
+  color: var(--primary-purple); /* Usar morado principal */
+  margin-top: 5px;
+}
+
+/* Chatbox */
+.chatbox {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  width: 100%;
+  max-width: 800px;
+  height: auto;
+  background-color: var(--background-black);
+  border-radius: 10px;
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.5);
+  margin: 20px auto;
+}
+
+.messages-container {
+  flex: 1;
+  padding: 15px;
+  overflow-y: auto;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  max-height: 500px; /* Define la altura máxima del área de mensajes */
+}
+
+.message {
+  padding: 10px;
+  border-radius: 10px;
+  max-width: 80%;
+  word-wrap: break-word;
+}
+
+.user-message {
+  background-color: var(--backgroud-purpleligt);
+  color: var(--text-white);
+  align-self: flex-end;
+}
+
+.bot-message {
+  background-color: var(--background-blackLigth);
+  color: var(--text-white);
+  align-self: flex-start;
+  text-align: left;
+  padding: 15px;
+  border-radius: 10px;
+  line-height: 1,25; /* Espaciado entre líneas */
+}
+
+.bot-message ul {
+  list-style-type: disc; /* Cambiar a viñetas clásicas */
+  margin-left: 20px; /* Indentación de las listas */
+  padding-left: 10px;
+}
+
+.bot-message li {
+  margin-bottom: 1px; /* Espaciado entre elementos de la lista */
+}
+
+/* Entrada del usuario */
+.chat-input-container {
+  display: flex;
+  align-items: center;
+  padding: 10px;
+  background-color: var(--background-black);
+  border-top: 1px solid var(--dark-purple);
+}
+
+.chat-input {
+  flex: 1;
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  background-color: var(--backgroud-purpleligt);
+  color: var(--text-white);
+  font-size: 16px;
+  margin-right: 10px;
+}
+
+.chat-send-button {
+  padding: 10px 20px;
+  background-color: var(--accent-yellow);
+  color: var(--background-black);
+  font-size: 16px;
+  font-weight: bold;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.chat-send-button:hover {
+  background-color: var(--backgroud-purpleligt);
+  color: var(--text-white);
+}
+
+/* Autores */
+.authors-section {
+  margin-top: 50px;
+  padding: 20px;
+  background-color: var(--background-black); /* Fondo negro para combinar */
+  border-top: 3px solid var(--dark-purple); /* Línea decorativa superior */
+}
+
+.authors-title {
+  font-size: 26px;
+  margin-bottom: 30px;
+  color: var(--primary-purple); /* Color morado para el título */
+}
+
+.authors-container {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+.author-card {
+  background-color: var(--text-white); /* Fondo morado oscuro */
+  border: 2px solid var(--primary-purple);
+  border-radius: 10px;
+  padding: 20px;
+  width: 200px;
+  text-align: center;
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.5);
+  transition: transform 0.3s;
+}
+
+.author-card:hover {
+  transform: scale(1.1);
+}
+
+.author-photo {
+  width: 120px;
+  height: 115px;
+  border-radius: 70%;
+  margin-bottom: 10px;
+  border: 2px solid var(--primary-purple);
+}
+
+.author-name {
+  font-size: 18px;
+  font-weight: bold;
+  margin-bottom: 5px;
+  color: var(--background-black);
+}
+
+.author-description {
+  font-size: 14px;
+  color: var(--background-black);
+}

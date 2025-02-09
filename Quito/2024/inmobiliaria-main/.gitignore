@@ -1,0 +1,13 @@
+/venv
+/venv
+\venv
+
+
+__pycache__/
+
+
+conexionDb.py
+conexionDb.py/
+
+/.streamlit
+
