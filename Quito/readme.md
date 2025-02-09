@@ -42,6 +42,13 @@ Welcome! This repository contains the projects developed by the students of Satu
 1) [Face-emotion-recognition-with-colab](https://github.com/SaturdaysAI/Projects/tree/master/Quito/2021/Face-emotion-recognition-with-colab-main)
 2) [Deteccion temprana de incendios](https://github.com/SaturdaysAI/Projects/tree/master/Quito/2021/deteccion-temprana-de-incendios_main)
 
+### Class of 2024
+
+1) [Houses & Prices](https://github.com/SaturdaysAI/Projects/tree/master/Quito/2024/Houses-PricesUIO-main)
+2) [InmobiliarIA](https://github.com/SaturdaysAI/Projects/tree/master/Quito/2024/inmobiliaria-main)
+3) [Metro de Quito + IA](https://github.com/SaturdaysAI/Projects/tree/master/Quito/2024/metroQuitoPY-main)
+4) [Predicción tarifa](https://github.com/SaturdaysAI/Projects/tree/master/Quito/2024/saturdays-autos-main)
+
 ## 💾Download repository
 
 To explore these projects, you can clone this repository:
