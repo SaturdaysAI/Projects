@@ -3,7 +3,7 @@ fpdf==1.7.2
 numpy==1.22.3
 pandas==1.4.2
 requests==2.27.1
-Scrapy==2.6.1
+Scrapy==2.6.2
 tensorflow==2.9.1
 tqdm==4.64.0
 transformers==4.19.2
