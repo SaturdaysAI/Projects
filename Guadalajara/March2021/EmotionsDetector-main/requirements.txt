@@ -99,7 +99,7 @@ scipy==1.6.3
 seaborn==0.11.1
 seaborn-image==0.4.3
 Send2Trash==1.5.0
-setuptools==52.0.0.post20210125
+setuptools==65.5.1
 six==1.15.0
 tensorboard==2.5.0
 tensorboard-data-server==0.6.1
