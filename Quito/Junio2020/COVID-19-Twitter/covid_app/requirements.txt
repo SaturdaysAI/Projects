@@ -6,5 +6,5 @@ itsdangerous==1.1.0
 Jinja2==2.11.3
 MarkupSafe==1.1.1
 pymongo==3.10.1
-Werkzeug==1.0.1
+Werkzeug==2.2.3
 WTForms==2.3.1
